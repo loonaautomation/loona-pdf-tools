@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://loonaautomation.github.io/loona-pdf-tools/</loc><lastmod>2026-11-03</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://loonaautomation.github.io/loona-pdf-tools/merge-pdf/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://loonaautomation.github.io/loona-pdf-tools/split-pdf/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://loonaautomation.github.io/loona-pdf-tools/compress-pdf/</loc><lastmod>2026-11-03</lastmod></url>
@@ -25,4 +25,19 @@
 <url><loc>https://loonaautomation.github.io/loona-pdf-tools/privacy.html</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://loonaautomation.github.io/loona-pdf-tools/terms.html</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://loonaautomation.github.io/loona-pdf-tools/contact.html</loc><lastmod>2026-11-03</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/signature-generator/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/redact-pdf/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/create-pdf-form/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/flatten-pdf/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/pdf-to-grayscale/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/add-header-footer-to-pdf/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/repair-pdf/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/crop-pdf/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/resize-pdf-pages/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/reverse-pdf-pages/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/remove-pdf-annotations/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/pdf-page-sizes/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/add-bookmarks-to-pdf/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/extract-images-from-pdf/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://loonaautomation.github.io/loona-pdf-tools/add-blank-page-to-pdf/</loc><lastmod>2026-11-08</lastmod></url>
 </urlset>
