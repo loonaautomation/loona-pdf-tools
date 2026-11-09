@@ -1,0 +1,29 @@
+{
+  "name": "Loona Controllo formato pagina PDF online gratuito",
+  "short_name": "Controllo formato pagina PDF onl",
+  "description": "Controlla gratuitamente online i formati pagina di un PDF: le dimensioni di ogni pagina in punti, millimetri e pollici, il formato standard più vicino (A4, Letter...), la rotazione, oltre a titolo, autore e versione PDF. Senza caricare nulla.",
+  "id": "/loona-pdf-tools/it/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

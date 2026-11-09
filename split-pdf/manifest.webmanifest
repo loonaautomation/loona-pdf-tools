@@ -1,0 +1,29 @@
+{
+  "name": "Loona Split PDF Online Free",
+  "short_name": "Split PDF Online Free",
+  "description": "Split a PDF into separate files free online. Extract every page as its own PDF or split by page ranges. No sign-up, and your file never leaves your browser.",
+  "id": "/loona-pdf-tools/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

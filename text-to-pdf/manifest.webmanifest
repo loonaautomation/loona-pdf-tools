@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text to PDF Online Free",
+  "short_name": "Text to PDF Online Free",
+  "description": "Convert text to a PDF free online. Paste your text, choose font size and A4 or Letter pages, and download a clean PDF. No sign-up - made privately in-browser.",
+  "id": "/loona-pdf-tools/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

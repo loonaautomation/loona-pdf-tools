@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de Markdown a PDF",
+  "short_name": "Convertidor de Markdown a PDF",
+  "description": "Convierte Markdown en un PDF con estilo en línea, gratis en tu navegador. Encabezados, listas, código y enlaces renderizados con vista previa en vivo. Sin subida.",
+  "id": "/loona-pdf-tools/es/markdown-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

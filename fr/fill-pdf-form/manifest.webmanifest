@@ -1,0 +1,29 @@
+{
+  "name": "Loona Remplir un formulaire PDF en ligne gratuitement",
+  "short_name": "Remplir un formulaire PDF en lig",
+  "description": "Remplissez un formulaire PDF remplissable gratuitement en ligne. Envoyez un PDF qui a des champs de formulaire, tapez dans ses zones de texte, cases à cocher, listes déroulantes et boutons radio, puis téléchargez le PDF complété. Sans inscription ; tout fonctionne en privé dans v",
+  "id": "/loona-pdf-tools/fr/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

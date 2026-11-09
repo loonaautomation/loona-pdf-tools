@@ -1,0 +1,29 @@
+{
+  "name": "Loona Recortar PDF Online Grátis",
+  "short_name": "Recortar PDF Online Grátis",
+  "description": "Recortar páginas PDF online grátis: apare margens brancas ou corte bordas por pontos ou percentagem em cada página ou num intervalo. A caixa de recorte da página é definida com precisão no seu navegador - sem carregar nada.",
+  "id": "/loona-pdf-tools/pt/crop-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

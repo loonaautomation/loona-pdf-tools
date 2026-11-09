@@ -1,0 +1,29 @@
+{
+  "name": "Loona N-up PDF en ligne gratuitement",
+  "short_name": "N-up PDF en ligne gratuitement",
+  "description": "Mettez plusieurs pages PDF sur une feuille gratuitement en ligne : dispositions 2, 4, 6 ou 9 par feuille sur A4 ou Letter, dans l'ordre de lecture. Économise du papier pour les documents à distribuer et les brouillons. Dans le navigateur, rien n'est envoyé.",
+  "id": "/loona-pdf-tools/fr/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

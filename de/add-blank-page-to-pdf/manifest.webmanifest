@@ -1,0 +1,29 @@
+{
+  "name": "Loona Leere Seite in PDF einfügen Online kostenlos",
+  "short_name": "Leere Seite in PDF einfügen Onli",
+  "description": "Leere Seiten kostenlos online in ein PDF einfügen: am Anfang, am Ende oder nach jeder Seite, passend zur Seitengröße des Dokuments, A4 oder Letter. Sofort, in Ihrem Browser, nichts hochgeladen.",
+  "id": "/loona-pdf-tools/de/add-blank-page-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de GIF para PDF",
+  "short_name": "Conversor de GIF para PDF",
+  "description": "Converter imagens GIF num PDF online, grátis, no seu navegador. Uma imagem por página, páginas ajustadas à imagem ou A4/Letter. Sem carregamentos, sem registo.",
+  "id": "/loona-pdf-tools/pt/gif-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

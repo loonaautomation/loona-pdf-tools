@@ -1,0 +1,29 @@
+{
+  "name": "Loona Extraer páginas de PDF en línea gratis",
+  "short_name": "Extraer páginas de PDF en línea ",
+  "description": "Extrae páginas seleccionadas de un PDF gratis en línea. Introduce páginas como 3, 5-8 y descárgalas como un PDF nuevo y más pequeño. Sin registro; la extracción se ejecuta en tu navegador.",
+  "id": "/loona-pdf-tools/es/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

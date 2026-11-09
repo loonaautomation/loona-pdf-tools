@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF reparieren Online kostenlos",
+  "short_name": "PDF reparieren Online kostenlos",
+  "description": "Ein beschädigtes PDF kostenlos online reparieren: Baut defekte Querverweistabellen neu auf und speichert eine saubere Kopie erneut, mit einem Seitenbild-Neuaufbau als letztem Ausweg. Ehrliche Grenzen genannt. Zu 100 % in Ihrem Browser.",
+  "id": "/loona-pdf-tools/de/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

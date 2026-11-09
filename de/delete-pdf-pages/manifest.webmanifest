@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-Seiten löschen Online kostenlos",
+  "short_name": "PDF-Seiten löschen Online kosten",
+  "description": "Seiten kostenlos online aus einem PDF löschen. Tippen Sie die zu entfernenden Seitenzahlen - wie 2, 4-6 - und laden Sie die bereinigte Datei herunter. Ohne Anmeldung; alles bleibt in Ihrem Browser.",
+  "id": "/loona-pdf-tools/de/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

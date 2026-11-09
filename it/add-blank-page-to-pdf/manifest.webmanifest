@@ -1,0 +1,29 @@
+{
+  "name": "Loona Aggiungere pagina vuota al PDF online gratuito",
+  "short_name": "Aggiungere pagina vuota al PDF o",
+  "description": "Inserisci gratuitamente online pagine vuote in un PDF: all'inizio, alla fine o dopo qualsiasi pagina, in corrispondenza del formato pagina del documento, A4 o Letter. Istantaneo, nel tuo browser, senza caricare nulla.",
+  "id": "/loona-pdf-tools/it/add-blank-page-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

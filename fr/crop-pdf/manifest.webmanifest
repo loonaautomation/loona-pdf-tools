@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rogner un PDF en ligne gratuitement",
+  "short_name": "Rogner un PDF en ligne gratuitem",
+  "description": "Rognez des pages PDF gratuitement en ligne : rogne les marges blanches ou coupez les bords en points ou en pourcentage sur chaque page ou une plage. La zone de rognage de la page est définie précisément dans votre navigateur - rien n'est envoyé.",
+  "id": "/loona-pdf-tools/fr/crop-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

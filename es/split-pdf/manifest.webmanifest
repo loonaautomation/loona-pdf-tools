@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dividir PDF en línea gratis",
+  "short_name": "Dividir PDF en línea gratis",
+  "description": "Divide un PDF en archivos separados gratis en línea. Extrae cada página como su propio PDF o divide por intervalos de páginas. Sin registro, y tu archivo nunca sale de tu navegador.",
+  "id": "/loona-pdf-tools/es/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

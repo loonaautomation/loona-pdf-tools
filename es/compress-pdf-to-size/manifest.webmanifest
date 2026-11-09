@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimir PDF a un tamaño específico",
+  "short_name": "Comprimir PDF a un tamaño especí",
+  "description": "Comprime un PDF a un objetivo exacto: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — más preajustes de correo electrónico (10 MB) y WhatsApp (16 MB). Gratis, en tu navegador.",
+  "id": "/loona-pdf-tools/es/compress-pdf-to-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

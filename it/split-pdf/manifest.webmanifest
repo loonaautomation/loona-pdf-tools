@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dividere PDF online gratuito",
+  "short_name": "Dividere PDF online gratuito",
+  "description": "Dividi gratuitamente online un PDF in file separati. Estrai ogni pagina come suo PDF o dividi per intervalli di pagine. Senza registrazione, e il tuo file non lascia mai il tuo browser.",
+  "id": "/loona-pdf-tools/it/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compilare modulo PDF online gratuito",
+  "short_name": "Compilare modulo PDF online grat",
+  "description": "Compila gratuitamente online un modulo PDF compilabile. Carica un PDF che ha campi modulo, digita nelle sue caselle di testo, caselle di controllo, menu a discesa e pulsanti di opzione, poi scarica il PDF completato. Senza registrazione; tutto funziona in privato nel tuo browser.",
+  "id": "/loona-pdf-tools/it/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

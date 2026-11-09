@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF in PNG umwandeln Online kostenlos",
+  "short_name": "PDF in PNG umwandeln Online kost",
+  "description": "PDF-Seiten kostenlos online in PNG-Bilder mit bis zu 3x Auflösung konvertieren, mit erhaltener Transparenz. Jede Seite einzeln herunterladen. Privat, in Ihrem Browser.",
+  "id": "/loona-pdf-tools/de/pdf-to-png/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

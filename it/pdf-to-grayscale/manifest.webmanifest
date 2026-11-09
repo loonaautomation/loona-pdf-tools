@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF in scala di grigi online gratuito",
+  "short_name": "PDF in scala di grigi online gra",
+  "description": "Converti gratuitamente online un PDF in scala di grigi: ogni pagina viene ricostruita in sfumature di grigio - ideale per stampe più economiche e un aspetto monocromatico pulito. Funziona al 100% nel tuo browser; non viene caricato nulla.",
+  "id": "/loona-pdf-tools/it/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

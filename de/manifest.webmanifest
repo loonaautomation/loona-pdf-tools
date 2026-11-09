@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Tools",
+  "short_name": "Loona PDF Tools",
+  "description": "Kostenlose Online-PDF-Tools - PDFs zusammenführen, teilen, komprimieren, konvertieren, drehen, unterschreiben und bearbeiten. Zu 100 % kostenlos, ohne Anmeldung, und Ihre Dateien verlassen Ihr Gerät nie.",
+  "id": "/loona-pdf-tools/de/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rimuovere annotazioni PDF online gratuito",
+  "short_name": "Rimuovere annotazioni PDF online",
+  "description": "Rimuovi gratuitamente online le annotazioni da un PDF: commenti, evidenziazioni, note adesive, timbri e marcature vengono eliminati mentre il contenuto della pagina resta intatto. Nel browser, senza caricare nulla.",
+  "id": "/loona-pdf-tools/it/remove-pdf-annotations/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF auf 20 KB komprimieren Online",
+  "short_name": "PDF auf 20 KB komprimieren Onlin",
+  "description": "Ein PDF kostenlos in Ihrem Browser auf 20 KB oder weniger komprimieren. Das Tool versucht zuerst ein verlustfreies erneutes Speichern, dann senkt es die Renderqualität schrittweise, bis Ihre Datei passt — und meldet das exakte Ergebnis.",
+  "id": "/loona-pdf-tools/de/compress-pdf-to-20kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

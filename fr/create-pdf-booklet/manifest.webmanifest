@@ -1,0 +1,29 @@
+{
+  "name": "Loona Créer un livret PDF en ligne gratuitement",
+  "short_name": "Créer un livret PDF en ligne gra",
+  "description": "Créez un livret PDF imprimable gratuitement en ligne : les pages sont imposées dans le vrai ordre de livret sur des feuilles en paysage - imprimez recto verso, pliez, agrafez. Des pages vierges complètent automatiquement jusqu'à un multiple de quatre.",
+  "id": "/loona-pdf-tools/fr/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

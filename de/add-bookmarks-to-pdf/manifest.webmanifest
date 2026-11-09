@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lesezeichen zu PDF hinzufügen Online kostenlos",
+  "short_name": "Lesezeichen zu PDF hinzufügen On",
+  "description": "Lesezeichen (eine anklickbare Gliederung) kostenlos online zu einem PDF hinzufügen: Kapiteltitel mit ihren Seitenzahlen auflisten und ein PDF mit echter Navigationsgliederung herunterladen. Im Browser, nichts hochgeladen.",
+  "id": "/loona-pdf-tools/de/add-bookmarks-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

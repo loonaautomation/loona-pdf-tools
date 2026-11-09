@@ -1,0 +1,29 @@
+{
+  "name": "Loona Add Page Numbers to PDF Online Free",
+  "short_name": "Add Page Numbers to PDF Online F",
+  "description": "Add page numbers to a PDF free online. Choose style (1, Page 1, 1 of 10), position and starting number. No sign-up; numbering is done privately in your browser.",
+  "id": "/loona-pdf-tools/add-page-numbers-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

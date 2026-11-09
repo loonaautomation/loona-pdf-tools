@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF in WebP umwandeln Online kostenlos",
+  "short_name": "PDF in WebP umwandeln Online kos",
+  "description": "PDF-Seiten kostenlos online in WebP-Bilder konvertieren: kleiner als JPG und PNG für Websites, in Ihrer gewählten Auflösung in Ihrem Browser gerendert. Nichts hochgeladen, ohne Anmeldung.",
+  "id": "/loona-pdf-tools/de/pdf-to-webp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

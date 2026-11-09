@@ -1,0 +1,29 @@
+{
+  "name": "Loona Da JPG a PDF online gratuito",
+  "short_name": "Da JPG a PDF online gratuito",
+  "description": "Converti gratuitamente online immagini JPG in un PDF. Combina foto in un unico PDF con pagine A4, Letter o adatte, nel tuo ordine. Senza registrazione - funziona in privato nel browser.",
+  "id": "/loona-pdf-tools/it/jpg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF a texto en línea gratis",
+  "short_name": "PDF a texto en línea gratis",
+  "description": "Extrae texto de un PDF gratis en línea. Obtén el texto completo de cada página para copiarlo o descargarlo como un archivo TXT. Sin registro, y tu PDF nunca sale de tu navegador.",
+  "id": "/loona-pdf-tools/es/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

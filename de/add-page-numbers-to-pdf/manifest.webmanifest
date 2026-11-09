@@ -1,0 +1,29 @@
+{
+  "name": "Loona Seitenzahlen zu PDF hinzufügen Online kostenlos",
+  "short_name": "Seitenzahlen zu PDF hinzufügen O",
+  "description": "Seitenzahlen kostenlos online zu einem PDF hinzufügen. Stil wählen (1, Seite 1, 1 von 10), Position und Startnummer. Ohne Anmeldung; die Nummerierung erfolgt privat in Ihrem Browser.",
+  "id": "/loona-pdf-tools/de/add-page-numbers-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

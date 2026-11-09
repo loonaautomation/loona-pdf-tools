@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-Seitenreihenfolge umkehren Online kostenlos",
+  "short_name": "PDF-Seitenreihenfolge umkehren O",
+  "description": "Die Seitenreihenfolge eines PDF kostenlos online umkehren - die letzte Seite wird zur ersten. Perfekt zum Korrigieren von Scans in umgekehrter Reihenfolge. Sofort, in Ihrem Browser, nichts hochgeladen.",
+  "id": "/loona-pdf-tools/de/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

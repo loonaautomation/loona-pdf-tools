@@ -1,0 +1,29 @@
+{
+  "name": "Loona Faire pivoter un PDF en ligne gratuitement",
+  "short_name": "Faire pivoter un PDF en ligne gr",
+  "description": "Faites pivoter des pages PDF gratuitement en ligne de 90, 180 ou 270 degrés - toutes les pages ou une plage choisie - et enregistrez le fichier corrigé. Sans inscription ; cela se passe dans votre navigateur.",
+  "id": "/loona-pdf-tools/fr/rotate-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

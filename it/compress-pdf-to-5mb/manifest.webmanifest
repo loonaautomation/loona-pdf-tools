@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimere PDF a 5 MB online",
+  "short_name": "Comprimere PDF a 5 MB online",
+  "description": "Comprimi un PDF a 5 MB o meno, gratuitamente nel tuo browser. Lo strumento prova prima un salvataggio senza perdita, poi riduce gradualmente la qualità di rendering finché il file non rientra — e segnala il risultato esatto.",
+  "id": "/loona-pdf-tools/it/compress-pdf-to-5mb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

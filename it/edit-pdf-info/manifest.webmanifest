@@ -1,0 +1,29 @@
+{
+  "name": "Loona Modificare info PDF online gratuito",
+  "short_name": "Modificare info PDF online gratu",
+  "description": "Visualizza e modifica gratuitamente online i metadati PDF - titolo, autore, oggetto e parole chiave - e vedi conteggio pagine e dimensione del file. Senza registrazione; la modifica dei metadati avviene nel browser.",
+  "id": "/loona-pdf-tools/it/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

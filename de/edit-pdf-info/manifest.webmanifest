@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-Infos bearbeiten Online kostenlos",
+  "short_name": "PDF-Infos bearbeiten Online kost",
+  "description": "PDF-Metadaten kostenlos online ansehen und bearbeiten - Titel, Autor, Betreff und Schlüsselwörter - und Seitenzahl und Dateigröße sehen. Ohne Anmeldung; die Metadatenbearbeitung läuft im Browser.",
+  "id": "/loona-pdf-tools/de/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF zuschneiden Online kostenlos",
+  "short_name": "PDF zuschneiden Online kostenlos",
+  "description": "PDF-Seiten kostenlos online zuschneiden: Weiße Ränder beschneiden oder Kanten in Punkt oder Prozent auf jeder Seite oder einem Bereich schneiden. Die Zuschneidebox der Seite wird präzise in Ihrem Browser gesetzt - nichts hochgeladen.",
+  "id": "/loona-pdf-tools/de/crop-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

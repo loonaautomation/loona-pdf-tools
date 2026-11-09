@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore da JSON a PDF",
+  "short_name": "Convertitore da JSON a PDF",
+  "description": "Converti JSON in un PDF leggibile e impaginato online, gratuitamente nel tuo browser. Prima validato e formattato in modo leggibile. Nessun caricamento.",
+  "id": "/loona-pdf-tools/it/json-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

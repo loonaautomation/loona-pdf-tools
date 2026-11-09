@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF komprimieren Online kostenlos",
+  "short_name": "PDF komprimieren Online kostenlo",
+  "description": "PDF-Dateien kostenlos online komprimieren und für E-Mail oder Uploads verkleinern. Verlustfreie Stream-Komprimierung oder starke Bildkomprimierung wählen. Privat, in Ihrem Browser.",
+  "id": "/loona-pdf-tools/de/compress-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

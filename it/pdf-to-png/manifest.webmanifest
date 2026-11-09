@@ -1,0 +1,29 @@
+{
+  "name": "Loona Da PDF a PNG online gratuito",
+  "short_name": "Da PDF a PNG online gratuito",
+  "description": "Converti gratuitamente online pagine PDF in immagini PNG fino a 3x di risoluzione, con trasparenza conservata. Scarica ogni pagina separatamente. Privato, nel tuo browser.",
+  "id": "/loona-pdf-tools/it/pdf-to-png/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-Broschüre erstellen Online kostenlos",
+  "short_name": "PDF-Broschüre erstellen Online k",
+  "description": "Ein druckbares Broschüren-PDF kostenlos online erstellen: Seiten werden in echter Broschürenreihenfolge auf Querformat-Blättern angeordnet - doppelseitig drucken, falten, heften. Leere Seiten füllen automatisch auf ein Vielfaches von vier auf.",
+  "id": "/loona-pdf-tools/de/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

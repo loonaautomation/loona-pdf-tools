@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertisseur Excel en PDF",
+  "short_name": "Convertisseur Excel en PDF",
+  "description": "Convertissez des feuilles de calcul Excel (.xlsx, .xls) et des fichiers CSV en un tableau PDF propre et paginé en ligne, gratuitement dans votre navigateur. Chaque feuille devient un tableau avec une ligne d'en-tête répétée. Sans envoi.",
+  "id": "/loona-pdf-tools/fr/excel-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

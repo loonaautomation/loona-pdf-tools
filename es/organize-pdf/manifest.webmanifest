@@ -1,0 +1,29 @@
+{
+  "name": "Loona Organizar PDF en línea gratis",
+  "short_name": "Organizar PDF en línea gratis",
+  "description": "Organiza páginas PDF gratis en línea: arrastra miniaturas para reordenar páginas, rota páginas de lado y elimina páginas que no necesites. Sin registro. Los archivos se procesan de forma privada en tu navegador.",
+  "id": "/loona-pdf-tools/es/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

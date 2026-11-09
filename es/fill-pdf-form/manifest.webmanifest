@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rellenar formulario PDF en línea gratis",
+  "short_name": "Rellenar formulario PDF en línea",
+  "description": "Rellena un formulario PDF rellenable gratis en línea. Sube un PDF que tenga campos de formulario, escribe en sus cuadros de texto, casillas, menús desplegables y botones de opción, y luego descarga el PDF completado. Sin registro; todo se ejecuta de forma privada en tu navegador.",
+  "id": "/loona-pdf-tools/es/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

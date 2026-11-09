@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF a escala de grises en línea gratis",
+  "short_name": "PDF a escala de grises en línea ",
+  "description": "Convierte un PDF a escala de grises gratis en línea: cada página se reconstruye en tonos de gris, ideal para una impresión más barata y un aspecto monocromo limpio. Funciona al 100% en tu navegador; no se sube nada.",
+  "id": "/loona-pdf-tools/es/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

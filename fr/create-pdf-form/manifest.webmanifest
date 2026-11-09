@@ -1,0 +1,29 @@
+{
+  "name": "Loona Créer un formulaire PDF en ligne gratuitement",
+  "short_name": "Créer un formulaire PDF en ligne",
+  "description": "Transformez n'importe quel PDF en formulaire remplissable gratuitement en ligne : ajoutez de vrais champs texte et cases à cocher exactement où vous les faites glisser, nommez les champs, et téléchargez un vrai PDF AcroForm que tout le monde peut remplir. Sans envoi, sans inscrip",
+  "id": "/loona-pdf-tools/fr/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

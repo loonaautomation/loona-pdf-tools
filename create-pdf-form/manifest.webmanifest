@@ -1,0 +1,29 @@
+{
+  "name": "Loona Create PDF Form Online Free",
+  "short_name": "Create PDF Form Online Free",
+  "description": "Turn any PDF into a fillable form free online: add real text fields and checkboxes exactly where you drag them, name the fields, and download a true AcroForm PDF anyone can fill. No upload, no sign-up.",
+  "id": "/loona-pdf-tools/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

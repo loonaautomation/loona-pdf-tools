@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ritagliare PDF online gratuito",
+  "short_name": "Ritagliare PDF online gratuito",
+  "description": "Ritaglia gratuitamente online le pagine PDF: taglia i margini bianchi o taglia i bordi in punti o percentuale su ogni pagina o su un intervallo. Il riquadro di ritaglio della pagina viene impostato con precisione nel tuo browser - senza caricare nulla.",
+  "id": "/loona-pdf-tools/it/crop-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comparer des fichiers PDF en ligne gratuitement",
+  "short_name": "Comparer des fichiers PDF en lig",
+  "description": "Comparez deux fichiers PDF gratuitement en ligne et voyez exactement quel texte a changé, page par page. Les lignes supprimées et ajoutées sont mises en évidence côte à côte. Sans inscription ; la comparaison se fait en privé dans votre navigateur.",
+  "id": "/loona-pdf-tools/fr/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

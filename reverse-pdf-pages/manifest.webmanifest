@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reverse PDF Page Order Online Free",
+  "short_name": "Reverse PDF Page Order Online Fr",
+  "description": "Reverse the page order of a PDF free online - last page becomes first. Perfect for fixing back-to-front scans. Instant, in your browser, nothing uploaded.",
+  "id": "/loona-pdf-tools/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

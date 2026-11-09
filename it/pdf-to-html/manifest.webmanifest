@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore da PDF a HTML",
+  "short_name": "Convertitore da PDF a HTML",
+  "description": "Converti un PDF in HTML online, gratuitamente nel tuo browser. Il testo viene estratto con la struttura delle intestazioni rilevata dalle dimensioni dei caratteri. Nessun caricamento, nessuna registrazione.",
+  "id": "/loona-pdf-tools/it/pdf-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

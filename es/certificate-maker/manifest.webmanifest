@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creador de certificados gratuito en línea",
+  "short_name": "Creador de certificados gratuito",
+  "description": "Creador de certificados gratuito: diseña un certificado imprimible en una vista previa en vivo, luego descarga un PDF A4 listo para imprimir o un PNG. Haz un certificado o cientos en lote desde una lista de nombres. Sin registro, sin marca de agua, y todo se ejecuta de forma priv",
+  "id": "/loona-pdf-tools/es/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

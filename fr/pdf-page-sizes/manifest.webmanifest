@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vérificateur de taille de page PDF en ligne gratuitement",
+  "short_name": "Vérificateur de taille de page P",
+  "description": "Vérifiez gratuitement en ligne les tailles de page d'un PDF : les dimensions de chaque page en points, millimètres et pouces, sa taille standard la plus proche (A4, Letter...), la rotation, plus le titre, l'auteur et la version PDF. Rien n'est envoyé.",
+  "id": "/loona-pdf-tools/fr/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

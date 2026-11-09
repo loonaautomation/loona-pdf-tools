@@ -1,0 +1,29 @@
+{
+  "name": "Loona Confrontare file PDF online gratuito",
+  "short_name": "Confrontare file PDF online grat",
+  "description": "Confronta gratuitamente online due file PDF e vedi esattamente quale testo è cambiato, pagina per pagina. Le righe rimosse e aggiunte sono evidenziate affiancate. Senza registrazione; il confronto avviene in privato nel tuo browser.",
+  "id": "/loona-pdf-tools/it/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

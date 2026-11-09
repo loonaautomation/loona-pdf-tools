@@ -143,7 +143,7 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 }
 </script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is .xlsx supported?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — modern .xlsx workbooks, older .xls files and plain .csv files are all read locally in the page. No add-in and no account is needed."}}, {"@type": "Question", "name": "What happens with multiple sheets?", "acceptedAnswer": {"@type": "Answer", "text": "Every sheet in the workbook becomes its own table and starts on a fresh page, in workbook order, with the sheet name printed as its heading."}}, {"@type": "Question", "name": "Do formulas convert?", "acceptedAnswer": {"@type": "Answer", "text": "You get the results — the values Excel last calculated and saved in the file, shown with their normal formatting. The formulas themselves are not printed."}}, {"@type": "Question", "name": "Why do charts and colours not appear in the PDF?", "acceptedAnswer": {"@type": "Answer", "text": "This converter exports the values of your sheets as a clean table. Charts, images, cell colours, fonts and merged-cell layouts are not carried over. If you need a pixel-perfect copy of a styled sheet, print to PDF from Excel itself."}}, {"@type": "Question", "name": "Is my file uploaded?", "acceptedAnswer": {"@type": "Answer", "text": "No. The workbook is parsed and the PDF is built entirely in your browser — nothing is sent to a server."}}]}</script>
-<link rel="manifest" href="../manifest.webmanifest">
+<link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#062e2a">
 </head>
 <body>

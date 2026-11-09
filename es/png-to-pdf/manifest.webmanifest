@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG a PDF en línea gratis",
+  "short_name": "PNG a PDF en línea gratis",
+  "description": "Convierte imágenes PNG en un PDF gratis en línea. Capturas de pantalla, logotipos y gráficos se convierten en un PDF con páginas A4, Letter o ajustadas. Conversión privada en el navegador, sin registro.",
+  "id": "/loona-pdf-tools/es/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
