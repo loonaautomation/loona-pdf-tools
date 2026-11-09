@@ -1,6 +1,6 @@
 {
   "name": "Loona PDF-Seitengrößen-Prüfer Online kostenlos",
-  "short_name": "PDF-Seitengrößen-Prüfer Online k",
+  "short_name": "PDF-Seitengrößen-Prüfer",
   "description": "Die Seitengrößen eines PDF kostenlos online prüfen: die Maße jeder Seite in Punkt, Millimetern und Zoll, ihre nächstgelegene Standardgröße (A4, Letter...), Drehung, plus Titel, Autor und PDF-Version. Nichts hochgeladen.",
   "id": "/loona-pdf-tools/de/pdf-page-sizes/",
   "start_url": ".",

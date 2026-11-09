@@ -1,6 +1,6 @@
 {
-  "name": "Loona Ajouter des signets à un PDF en ligne gratuitement",
-  "short_name": "Ajouter des signets à un PDF en ",
+  "name": "Loona Ajouter des signets à un PDF en ligne",
+  "short_name": "Ajouter des signets à un PDF",
   "description": "Ajoutez des signets (un plan cliquable) à un PDF gratuitement en ligne : listez les titres de chapitres avec leurs numéros de page et téléchargez un PDF avec un vrai plan de navigation. Dans le navigateur, rien n'est envoyé.",
   "id": "/loona-pdf-tools/fr/add-bookmarks-to-pdf/",
   "start_url": ".",

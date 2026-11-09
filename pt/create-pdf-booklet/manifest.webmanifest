@@ -1,6 +1,6 @@
 {
   "name": "Loona Criar Livreto PDF Online Grátis",
-  "short_name": "Criar Livreto PDF Online Grátis",
+  "short_name": "Criar Livreto PDF Online",
   "description": "Criar um PDF de livreto para imprimir online grátis: as páginas são dispostas na verdadeira ordem de livreto em folhas horizontais - imprima frente e verso, dobre, agrafe. As páginas em branco completam automaticamente até um múltiplo de quatro.",
   "id": "/loona-pdf-tools/pt/create-pdf-booklet/",
   "start_url": ".",

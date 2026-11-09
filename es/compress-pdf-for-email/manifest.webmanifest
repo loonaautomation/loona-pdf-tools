@@ -1,6 +1,6 @@
 {
   "name": "Loona Comprimir PDF para correo electrónico",
-  "short_name": "Comprimir PDF para correo electr",
+  "short_name": "Comprimir PDF para correo",
   "description": "Comprime un PDF a 10 MB o menos, gratis en tu navegador. La herramienta prueba primero un nuevo guardado sin pérdida, luego baja la calidad de renderizado paso a paso hasta que tu archivo encaja, e informa del resultado exacto.",
   "id": "/loona-pdf-tools/es/compress-pdf-for-email/",
   "start_url": ".",

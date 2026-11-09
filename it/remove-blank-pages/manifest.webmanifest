@@ -1,6 +1,6 @@
 {
-  "name": "Loona Rimuovere pagine vuote da PDF online gratuito",
-  "short_name": "Rimuovere pagine vuote da PDF on",
+  "name": "Loona Rimuovere pagine vuote da PDF online",
+  "short_name": "Rimuovere pagine vuote da PDF",
   "description": "Rimuovi gratuitamente online le pagine vuote da un PDF: le pagine vengono riprodotte e controllate pixel per pixel, le pagine quasi vuote vengono elencate onestamente con la loro copertura d'inchiostro e rimosse - le pagine di contenuto restano intatte. Nel browser.",
   "id": "/loona-pdf-tools/it/remove-blank-pages/",
   "start_url": ".",

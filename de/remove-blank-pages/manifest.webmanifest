@@ -1,6 +1,6 @@
 {
-  "name": "Loona Leere Seiten aus PDF entfernen Online kostenlos",
-  "short_name": "Leere Seiten aus PDF entfernen O",
+  "name": "Loona Leere Seiten aus PDF entfernen Online",
+  "short_name": "Leere Seiten aus PDF",
   "description": "Leere Seiten kostenlos online aus einem PDF entfernen: Seiten werden gerendert und Pixel für Pixel geprüft, fast leere Seiten werden ehrlich mit ihrer Tintendeckung aufgelistet und entfernt - Inhaltsseiten bleiben unberührt. Im Browser.",
   "id": "/loona-pdf-tools/de/remove-blank-pages/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Réparer un PDF en ligne gratuitement",
-  "short_name": "Réparer un PDF en ligne gratuite",
+  "short_name": "Réparer un PDF en ligne",
   "description": "Réparez un PDF endommagé gratuitement en ligne : reconstruit les tables de références croisées cassées et réenregistre une copie propre, avec une reconstruction en images de pages en dernier recours. Limites honnêtes indiquées. À 100% dans votre navigateur.",
   "id": "/loona-pdf-tools/fr/repair-pdf/",
   "start_url": ".",

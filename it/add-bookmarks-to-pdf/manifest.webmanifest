@@ -1,6 +1,6 @@
 {
-  "name": "Loona Aggiungere segnalibri al PDF online gratuito",
-  "short_name": "Aggiungere segnalibri al PDF onl",
+  "name": "Loona Aggiungere segnalibri al PDF online",
+  "short_name": "Aggiungere segnalibri al PDF",
   "description": "Aggiungi segnalibri (una struttura cliccabile) a un PDF gratuitamente online: elenca i titoli dei capitoli con i loro numeri di pagina e scarica un PDF con una vera struttura di navigazione. Nel browser, senza caricare nulla.",
   "id": "/loona-pdf-tools/it/add-bookmarks-to-pdf/",
   "start_url": ".",

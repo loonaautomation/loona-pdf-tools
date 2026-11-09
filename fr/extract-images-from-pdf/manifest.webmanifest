@@ -1,6 +1,6 @@
 {
-  "name": "Loona Extraire les images d'un PDF en ligne gratuitement",
-  "short_name": "Extraire les images d'un PDF en ",
+  "name": "Loona Extraire les images d'un PDF en ligne",
+  "short_name": "Extraire les images d'un PDF",
   "description": "Extrayez les images originales intégrées dans un PDF gratuitement en ligne : les photos et graphiques sont extraits à leur résolution stockée sous forme de fichiers PNG - pas des captures d'écran. À 100% dans votre navigateur, rien n'est envoyé.",
   "id": "/loona-pdf-tools/fr/extract-images-from-pdf/",
   "start_url": ".",

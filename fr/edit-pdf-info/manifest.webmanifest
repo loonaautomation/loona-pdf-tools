@@ -1,6 +1,6 @@
 {
-  "name": "Loona Modifier les infos du PDF en ligne gratuitement",
-  "short_name": "Modifier les infos du PDF en lig",
+  "name": "Loona Modifier les infos du PDF en ligne",
+  "short_name": "Modifier les infos du PDF en",
   "description": "Voir et modifier les métadonnées d'un PDF gratuitement en ligne - titre, auteur, sujet et mots-clés - et voir le nombre de pages et la taille de fichier. Sans inscription ; la modification des métadonnées fonctionne dans le navigateur.",
   "id": "/loona-pdf-tools/fr/edit-pdf-info/",
   "start_url": ".",

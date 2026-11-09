@@ -1,6 +1,6 @@
 {
   "name": "Loona Compresser un PDF à une taille précise",
-  "short_name": "Compresser un PDF à une taille p",
+  "short_name": "Compresser un PDF à une",
   "description": "Compressez un PDF vers une cible exacte : 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — plus les préréglages e-mail (10 MB) et WhatsApp (16 MB). Gratuit, dans votre navigateur.",
   "id": "/loona-pdf-tools/fr/compress-pdf-to-size/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Verificador de Tamanhos de Página PDF Online Grátis",
-  "short_name": "Verificador de Tamanhos de Págin",
+  "name": "Loona Verificador de Tamanhos de Página PDF",
+  "short_name": "Verificador de Tamanhos de",
   "description": "Verifique os tamanhos de página de um PDF online grátis: as dimensões de cada página em pontos, milímetros e polegadas, o tamanho padrão mais próximo (A4, Letter...), a rotação, mais o título, o autor e a versão do PDF. Sem carregar nada.",
   "id": "/loona-pdf-tools/pt/pdf-page-sizes/",
   "start_url": ".",
