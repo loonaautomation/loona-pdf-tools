@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
 <link rel="icon" href="../../favicon.ico">
 <link rel="apple-touch-icon" href="../../apple-touch-icon.png">
-<link rel="manifest" href="../../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -115,6 +115,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Convertitore da Markdown a PDF","url":"https://loonaautomation.github.io/loona-pdf-tools/it/markdown-to-pdf/","description":"Converti Markdown in un PDF con stile online, gratuitamente nel tuo browser. Intestazioni, elenchi, codice e collegamenti riprodotti con anteprima dal vivo. Nessun caricamento.","applicationCategory":"UtilitiesApplication","operatingSystem":"Any","browserRequirements":"Richiede JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quale Markdown è supportato?","acceptedAnswer":{"@type":"Answer","text":"Intestazioni (da # a ####), grassetto, corsivo, codice in linea, blocchi di codice, elenchi puntati, collegamenti e righe orizzontali — il 95% di uso quotidiano. Tabelle e immagini incorporate NON vengono riprodotte da questo convertitore leggero; quel limite è dichiarato qui invece di essere nascosto."}},{"@type":"Question","name":"Come viene prodotto il PDF?","acceptedAnswer":{"@type":"Answer","text":"L'HTML riprodotto si apre in una vista di stampa e il 'Salva come PDF' del tuo browser crea il file — quindi caratteri e impaginazione sono della migliore qualità del tuo browser."}},{"@type":"Question","name":"Il mio testo viene caricato?","acceptedAnswer":{"@type":"Answer","text":"No — il rendering avviene localmente."}}]}</script>
+<link rel="manifest" href="../../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -169,6 +171,7 @@ Del testo in **grassetto** e un elenco:
 <a href="../terms.html">Termini di utilizzo</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona PDF Tools. Strumenti PDF online gratuiti che funzionano al 100% nel tuo browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 <script src="../../lib/pdf-lib.min.js"></script>

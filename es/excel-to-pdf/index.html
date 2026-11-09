@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
 <link rel="icon" href="../../favicon.ico">
 <link rel="apple-touch-icon" href="../../apple-touch-icon.png">
-<link rel="manifest" href="../../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -141,6 +141,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
   ]
 }</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Se admite .xlsx?","acceptedAnswer":{"@type":"Answer","text":"Sí: los libros .xlsx modernos, los archivos .xls antiguos y los archivos .csv simples se leen localmente en la página. No necesitas ningún complemento ni cuenta."}},{"@type":"Question","name":"¿Qué pasa con varias hojas?","acceptedAnswer":{"@type":"Answer","text":"Cada hoja del libro se convierte en su propia tabla y empieza en una página nueva, en el orden del libro, con el nombre de la hoja impreso como título."}},{"@type":"Question","name":"¿Se convierten las fórmulas?","acceptedAnswer":{"@type":"Answer","text":"Obtienes los resultados: los valores que Excel calculó y guardó por última vez en el archivo, mostrados con su formato normal. Las fórmulas en sí no se imprimen."}},{"@type":"Question","name":"¿Por qué no aparecen los gráficos y los colores en el PDF?","acceptedAnswer":{"@type":"Answer","text":"Este convertidor exporta los valores de tus hojas como una tabla limpia. Los gráficos, las imágenes, los colores de celda, las fuentes y los diseños de celdas combinadas no se trasladan. Si necesitas una copia exacta al píxel de una hoja con estilo, imprime a PDF desde el propio Excel."}},{"@type":"Question","name":"¿Se sube mi archivo?","acceptedAnswer":{"@type":"Answer","text":"No. El libro se analiza y el PDF se crea por completo en tu navegador: nada se envía a un servidor."}}]}</script>
+<link rel="manifest" href="../../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -191,6 +193,7 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <a href="../terms.html">Términos de uso</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona PDF Tools. Herramientas PDF gratuitas en línea que funcionan al 100% en tu navegador.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 <script src="../../lib/xlsx.full.min.js"></script>

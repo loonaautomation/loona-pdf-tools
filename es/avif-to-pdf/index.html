@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
 <link rel="icon" href="../../favicon.ico">
 <link rel="apple-touch-icon" href="../../apple-touch-icon.png">
-<link rel="manifest" href="../../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -115,6 +115,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Convertidor de AVIF a PDF","url":"https://loonaautomation.github.io/loona-pdf-tools/es/avif-to-pdf/","description":"Convierte imágenes AVIF en un PDF en línea, gratis, en tu navegador. Una imagen por página, páginas ajustadas a la imagen o A4/Letter. Sin subida, sin registro.","applicationCategory":"UtilitiesApplication","operatingSystem":"Any","browserRequirements":"Requiere JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo convierto AVIF a PDF?","acceptedAnswer":{"@type":"Answer","text":"Elige uno o más archivos AVIF arriba, escoge un tamaño de página y pulsa Convertir. Cada imagen se convierte en una página de un PDF, en el orden en que las seleccionaste."}},{"@type":"Question","name":"¿La calidad cambiará?","acceptedAnswer":{"@type":"Answer","text":"La decodificación AVIF necesita un navegador moderno (Chrome, Edge, Safari 16+; Firefox también lo admite). La herramienta decodifica cada AVIF y lo guarda como JPEG en el PDF — si tu navegador no puede decodificar AVIF, te lo dice claramente."}},{"@type":"Question","name":"¿Puedo reordenar las páginas?","acceptedAnswer":{"@type":"Answer","text":"Los archivos se añaden en orden de selección. Para un control total del orden y el diseño, convierte aquí y luego usa la herramienta Organizar PDF para reordenar las páginas."}},{"@type":"Question","name":"¿Se sube algo?","acceptedAnswer":{"@type":"Answer","text":"No — la decodificación y la creación del PDF ocurren en tu navegador con pdf-lib."}}]}</script>
+<link rel="manifest" href="../../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -164,6 +166,7 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <a href="../terms.html">Términos de uso</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona PDF Tools. Herramientas PDF gratuitas en línea que funcionan al 100% en tu navegador.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 <script src="../../lib/pdf-lib.min.js"></script>

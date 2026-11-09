@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
 <link rel="icon" href="../../favicon.ico">
 <link rel="apple-touch-icon" href="../../apple-touch-icon.png">
-<link rel="manifest" href="../../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -153,6 +153,8 @@ input[type=checkbox].big{width:19px;height:19px;vertical-align:-3px;margin-right
     }
   ]
 }</script>
+<link rel="manifest" href="../../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -228,5 +230,6 @@ dropSetup('dz','fi',async fl=>{try{const f=fl[0];base=f.name.replace(/\.pdf$/i,'
 $('#go').addEventListener('click',async()=>{const st=$('#st');try{const src=await PDFLib.PDFDocument.load(docBytes);const out=await PDFLib.PDFDocument.create();const embedded=[];for(const sp of src.getPages())embedded.push(await out.embedPage(sp));const per=parseInt($('#layout').value,10);const g=GRIDS[String(per)];const parts=$('#sheet').value.split('x');let sw=parseFloat(parts[0]),sh=parseFloat(parts[1]);if(g.land){const t=sw;sw=sh;sh=t;}const gap=Math.max(0,parseFloat($('#gap').value)||0);const margin=gap;const cellW=(sw-2*margin-(g.c-1)*gap)/g.c;const cellH=(sh-2*margin-(g.r-1)*gap)/g.r;const total=src.getPageCount();const sheets=Math.ceil(total/per);for(let s=0;s<sheets;s++){const sheet=out.addPage([sw,sh]);for(let k=0;k<per;k++){const idx=s*per+k;if(idx>=total)break;const sp=src.getPage(idx);const pw=sp.getWidth(),ph=sp.getHeight();const sc=Math.min(cellW/pw,cellH/ph);const col=k%g.c,row=Math.floor(k/g.c);const cx=margin+col*(cellW+gap),cyTop=margin+row*(cellH+gap);const w=pw*sc,h=ph*sc;sheet.drawPage(embedded[idx],{x:cx+(cellW-w)/2,y:sh-cyTop-cellH+(cellH-h)/2,width:w,height:h});}}const bytes=await out.save();download(bytes,base+'-'+per+'up.pdf');setStatus(st,'Hecho - '+total+' página(s) dispuesta(s) en '+sheets+' hoja(s) a '+per+'-up.',true);}catch(e){setStatus(st,'Error: '+e.message,false);}});
 
 </script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
