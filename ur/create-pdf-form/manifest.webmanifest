@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF فارم بنائیں آن لائن مفت",
+  "short_name": "PDF فارم بنائیں آن لائن مفت",
+  "description": "کوئی بھی PDF پُر کرنے کے قابل فارم میں آن لائن مفت بدلیں: اصل متن فیلڈز اور چیک باکس بالکل وہاں شامل کریں جہاں آپ انہیں گھسیٹتے ہیں، فیلڈز کے نام رکھیں، اور اصل AcroForm PDF ڈاؤن لوڈ کریں جو کوئی بھی بھر سکتا ہے۔ اپ لوڈ نہیں، سائن اپ نہیں۔",
+  "id": "/loona-pdf-tools/ur/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

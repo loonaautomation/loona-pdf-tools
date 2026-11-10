@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF سے Markdown کنورٹر",
+  "short_name": "PDF سے Markdown کنورٹر",
+  "description": "PDF کو Markdown میں آن لائن تبدیل کریں، اپنے براؤزر میں مفت۔ متن نکالا جاتا ہے اور فونٹ سائز سے سرخیوں کا ڈھانچہ پہچانا جاتا ہے۔ نہ اپ لوڈ، نہ سائن اپ۔",
+  "id": "/loona-pdf-tools/ur/pdf-to-markdown/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

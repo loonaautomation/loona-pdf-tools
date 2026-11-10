@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF معلومات میں ترمیم کریں آن لائن مفت",
+  "short_name": "PDF معلومات میں ترمیم کریں آن لائن مفت",
+  "description": "PDF میٹا ڈیٹا آن لائن مفت دیکھیں اور ترمیم کریں - عنوان، مصنف، موضوع اور کلیدی الفاظ - اور صفحات کی تعداد و فائل سائز دیکھیں۔ سائن اپ نہیں؛ میٹا ڈیٹا ترمیم براؤزر میں چلتی ہے۔",
+  "id": "/loona-pdf-tools/ur/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

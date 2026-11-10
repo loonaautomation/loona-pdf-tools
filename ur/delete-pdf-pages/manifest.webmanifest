@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF صفحات حذف کریں آن لائن مفت",
+  "short_name": "PDF صفحات حذف کریں آن لائن مفت",
+  "description": "PDF سے صفحات آن لائن مفت حذف کریں۔ ہٹانے کے لیے صفحہ نمبر لکھیں - جیسے 2, 4-6 - اور صاف شدہ فائل ڈاؤن لوڈ کریں۔ سائن اپ نہیں؛ یہ سب آپ کے براؤزر میں رہتا ہے۔",
+  "id": "/loona-pdf-tools/ur/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

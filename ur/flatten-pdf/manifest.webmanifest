@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF فلیٹن کریں آن لائن مفت",
+  "short_name": "PDF فلیٹن کریں آن لائن مفت",
+  "description": "PDF آن لائن مفت فلیٹن کریں: پُر کرنے کے قابل فارم فیلڈز کو صفحات میں پکا کر شامل کریں تاکہ جوابات مزید ترمیم نہ ہو سکیں، اختیاری مکمل تصویری دوبارہ تعمیر کے ساتھ جو سب کچھ فلیٹن کر دیتی ہے۔ نجی، براؤزر میں، سائن اپ نہیں۔",
+  "id": "/loona-pdf-tools/ur/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

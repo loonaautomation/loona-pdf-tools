@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF کو 2 MB تک کمپریس کریں آن لائن",
+  "short_name": "PDF کو 2 MB تک کمپریس کریں آن لائن",
+  "description": "PDF کو 2 MB یا اس سے کم تک کمپریس کریں، اپنے براؤزر میں مفت۔ ٹول پہلے بغیر نقصان دوبارہ محفوظ کرنے کی کوشش کرتا ہے، پھر رینڈر معیار کو درجہ بدرجہ کم کرتا ہے جب تک آپ کی فائل فٹ نہ ہو جائے — اور درست نتیجہ بتاتا ہے۔",
+  "id": "/loona-pdf-tools/ur/compress-pdf-to-2mb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

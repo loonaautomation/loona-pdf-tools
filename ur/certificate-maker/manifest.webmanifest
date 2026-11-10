@@ -1,0 +1,29 @@
+{
+  "name": "Loona مفت سرٹیفکیٹ میکر آن لائن",
+  "short_name": "مفت سرٹیفکیٹ میکر آن لائن",
+  "description": "مفت سرٹیفکیٹ میکر: براہ راست پیش منظر پر قابلِ پرنٹ سرٹیفکیٹ ڈیزائن کریں، پھر پرنٹ کے لیے تیار A4 PDF یا PNG ڈاؤن لوڈ کریں۔ ایک سرٹیفکیٹ بنائیں یا نام فہرست سے سینکڑوں بلک میں۔ سائن اپ نہیں، واٹر مارک نہیں، اور سب کچھ آپ کے براؤزر میں نجی طور پر چلتا ہے۔",
+  "id": "/loona-pdf-tools/ur/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON سے PDF کنورٹر",
+  "short_name": "JSON سے PDF کنورٹر",
+  "description": "JSON کو پڑھنے کے قابل، صفحات والی PDF میں آن لائن تبدیل کریں، اپنے براؤزر میں مفت۔ پہلے جانچا اور خوبصورت چھپائی کی جاتی ہے۔ نہ اپ لوڈ۔",
+  "id": "/loona-pdf-tools/ur/json-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

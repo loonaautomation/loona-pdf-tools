@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF میں واٹر مارک شامل کریں آن لائن مفت",
+  "short_name": "PDF میں واٹر مارک شامل کریں آن لائن مفت",
+  "description": "PDF میں متنی واٹر مارک آن لائن مفت شامل کریں۔ متن، سائز، شفافیت، زاویہ اور رنگ مقرر کریں - درمیان یا ٹائل شدہ۔ سائن اپ نہیں؛ واٹر مارک لگانا براؤزر میں نجی طور پر چلتا ہے۔",
+  "id": "/loona-pdf-tools/ur/add-watermark-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF صفحہ سائز جانچنے والا آن لائن مفت",
+  "short_name": "PDF صفحہ سائز جانچنے والا آن لائن مفت",
+  "description": "PDF کے صفحہ سائز آن لائن مفت جانچیں: ہر صفحے کی پیمائش پوائنٹس، ملی میٹر اور انچ میں، اس کا قریب ترین معیاری سائز (A4، Letter...)، گردش، علاوہ عنوان، مصنف اور PDF ورژن۔ کچھ بھی اپ لوڈ نہیں ہوتا۔",
+  "id": "/loona-pdf-tools/ur/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

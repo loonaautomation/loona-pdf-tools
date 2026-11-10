@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG سے PDF آن لائن مفت",
+  "short_name": "JPG سے PDF آن لائن مفت",
+  "description": "JPG تصاویر کو PDF میں آن لائن مفت تبدیل کریں۔ تصاویر کو ایک PDF میں ملائیں A4، Letter یا فٹ صفحات کے ساتھ، آپ کی ترتیب میں۔ سائن اپ نہیں - براؤزر میں نجی طور پر کام کرتا ہے۔",
+  "id": "/loona-pdf-tools/ur/jpg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

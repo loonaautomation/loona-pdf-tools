@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF ملائیں آن لائن مفت",
+  "short_name": "PDF ملائیں آن لائن مفت",
+  "description": "PDF فائلیں ایک دستاویز میں آن لائن مفت ملائیں۔ کئی PDF ملائیں، انہیں دوبارہ ترتیب دینے کے لیے گھسیٹیں، سائن اپ کی ضرورت نہیں۔ فائلیں آپ کے براؤزر میں نجی طور پر پراسیس ہوتی ہیں۔",
+  "id": "/loona-pdf-tools/ur/merge-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

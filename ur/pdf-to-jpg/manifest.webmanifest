@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF سے JPG آن لائن مفت",
+  "short_name": "PDF سے JPG آن لائن مفت",
+  "description": "PDF صفحات کو JPG تصاویر میں آن لائن مفت تبدیل کریں۔ معیاری، اعلیٰ یا پرنٹ معیار منتخب کریں اور ہر صفحہ JPG کے طور پر ڈاؤن لوڈ کریں۔ سائن اپ نہیں؛ تبدیلی آپ کے براؤزر میں چلتی ہے۔",
+  "id": "/loona-pdf-tools/ur/pdf-to-jpg/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
