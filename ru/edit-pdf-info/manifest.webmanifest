@@ -1,0 +1,29 @@
+{
+  "name": "Loona Редактировать сведения о PDF",
+  "short_name": "Loona Редактировать сведения о PDF",
+  "description": "Просматривайте и редактируйте метаданные PDF бесплатно онлайн — заголовок, автор, тема и ключевые слова — и смотрите количество страниц и размер файла. Без регистрации; редактирование метаданных выполняется в браузере.",
+  "id": "/loona-pdf-tools/ru/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

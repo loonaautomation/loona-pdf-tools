@@ -1,0 +1,29 @@
+{
+  "name": "Loona Восстановить PDF",
+  "short_name": "Loona Восстановить PDF",
+  "description": "Восстанавливайте повреждённый PDF бесплатно онлайн: пересобирает нарушенные таблицы перекрёстных ссылок и сохраняет чистую копию заново, с пересборкой из изображений страниц как последним средством. Честные ограничения указаны. На 100% в вашем браузере.",
+  "id": "/loona-pdf-tools/ru/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

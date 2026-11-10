@@ -1,0 +1,29 @@
+{
+  "name": "Loona Свести PDF",
+  "short_name": "Loona Свести PDF",
+  "description": "Сводите PDF бесплатно онлайн: встраивайте заполняемые поля форм в страницы, чтобы ответы больше нельзя было редактировать, с необязательной полной пересборкой в виде изображений, которая сводит всё. Конфиденциально, в браузере, без регистрации.",
+  "id": "/loona-pdf-tools/ru/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Создать форму PDF",
+  "short_name": "Loona Создать форму PDF",
+  "description": "Превращайте любой PDF в заполняемую форму бесплатно онлайн: добавляйте настоящие текстовые поля и флажки точно там, куда вы их перетаскиваете, называйте поля и скачивайте настоящий PDF AcroForm, который может заполнить любой. Без загрузки на сервер, без регистрации.",
+  "id": "/loona-pdf-tools/ru/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

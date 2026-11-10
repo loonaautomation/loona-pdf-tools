@@ -1,0 +1,362 @@
+[
+ {
+  "n": "Объединить PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/merge-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Объединяйте несколько файлов PDF в один документ в выбранном вами порядке.",
+  "k": "объединить pdf merge pdf merge pdf combine join multiple files into one together combine several pdf files into one document in the order you choose pdf в вами выбранном документ несколько объединить объединяйте один порядке файлов",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Разделить PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/split-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Разделить PDF на отдельные страницы или пользовательские диапазоны страниц.",
+  "k": "разделить pdf split pdf split pdf separate divide cutter ranges extract pages separate a pdf into individual pages or custom page ranges pdf диапазоны или на отдельные пользовательские разделить страниц страницы",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Сжать PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/compress-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Уменьшайте PDF для электронной почты, WhatsApp или лимитов загрузки — два честных режима.",
+  "k": "сжать pdf compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload make a pdf smaller for email whatsapp or upload limits two honest modes pdf whatsapp два для загрузки или лимитов почты режима сжать уменьшайте честных электронной",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "JPG в PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/jpg-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Превращайте фотографии и сканы JPG в один аккуратный PDF — страницы A4, Letter или с подгонкой под изображение.",
+  "k": "jpg в pdf jpg to pdf jpg to pdf jpeg photo image picture scan convert turn jpg photos and scans into one tidy pdf a4 letter or fit to image pages a4 jpg letter pdf аккуратный в и изображение или один под подгонкой превращайте с сканы страницы фотографии",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF в JPG",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/pdf-to-jpg/",
+  "s": "Loona PDF Tools",
+  "d": "Превращайте каждую страницу PDF в изображение JPG высокого качества, которым можно поделиться где угодно.",
+  "k": "pdf в jpg pdf to jpg pdf to jpg jpeg image picture convert pages extract turn every pdf page into a high quality jpg image you can share anywhere jpg pdf в высокого где изображение каждую качества которым можно поделиться превращайте страницу угодно",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "PNG в PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/png-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Объединяйте скриншоты PNG и графику в один аккуратный документ PDF.",
+  "k": "png в pdf png to pdf png to pdf image picture screenshot convert photo combine png screenshots and graphics into a single clean pdf document pdf png аккуратный в графику документ и объединяйте один скриншоты",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF в PNG",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/pdf-to-png/",
+  "s": "Loona PDF Tools",
+  "d": "Преобразуйте страницы PDF в чёткие изображения PNG — с сохранением настоящей прозрачности.",
+  "k": "pdf в png pdf to png pdf to png image transparent convert picture convert pdf pages to sharp png images with true transparency preserved pdf png в изображения настоящей преобразуйте прозрачности с сохранением страницы чёткие",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF в текст",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/pdf-to-text/",
+  "s": "Loona PDF Tools",
+  "d": "Извлекайте весь читаемый текст из PDF, чтобы вы могли копировать, редактировать и повторно использовать его.",
+  "k": "pdf в текст pdf to text pdf to text extract txt words copy plain text file pull all the readable text out of a pdf so you can copy edit and reuse it pdf в весь вы его и из извлекайте использовать копировать могли повторно редактировать текст читаемый чтобы",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Текст в PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/text-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Введите или вставьте текст и скачайте его как аккуратный, пригодный для печати документ PDF.",
+  "k": "текст в pdf text to pdf text to pdf txt write type document make create type or paste text and download it as a neat printable pdf document pdf аккуратный в введите вставьте для документ его и или как печати пригодный скачайте текст",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Excel в PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/excel-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Превращайте электронные таблицы .xlsx, .xls и CSV в чистые таблицы PDF — каждый лист, без загрузки на сервер.",
+  "k": "excel в pdf excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert turn xlsx xls and csv spreadsheets into clean pdf tables every sheet no upload csv excel pdf xls xlsx без в загрузки и каждый лист на превращайте сервер таблицы чистые электронные",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Повернуть PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/rotate-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Исправляйте страницы PDF, лежащие на боку или вверх ногами, окончательно, в вашем браузере.",
+  "k": "повернуть pdf rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees fix sideways or upside down pdf pages permanently in your browser pdf боку браузере в вашем вверх или исправляйте лежащие на ногами окончательно повернуть страницы",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Удалить страницы PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/delete-pdf-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Удаляйте пустые, повторяющиеся или ненужные страницы и сохраняйте более компактный документ.",
+  "k": "удалить страницы pdf delete pdf pages delete pdf pages remove unwanted blank duplicate pages remove blank duplicate or unwanted pages and keep a leaner document pdf более документ и или компактный ненужные повторяющиеся пустые сохраняйте страницы удалить удаляйте",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Извлечь страницы PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/extract-pdf-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Оставьте только нужные вам страницы — например, страницу 3 и 5-8 — в виде совершенно нового PDF.",
+  "k": "извлечь страницы pdf extract pdf pages extract pdf pages keep select pages range new document pull keep only the pages you need like page 3 and 5 8 as a brand new pdf 3 5-8 pdf в вам виде и извлечь например нового нужные оставьте совершенно страницу страницы только",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Упорядочить PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/organize-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Просматривайте каждую страницу в виде миниатюры — перетаскивайте для изменения порядка, поворачивайте страницы, лежащие боком, удаляйте страницы, которые вам не нужны.",
+  "k": "упорядочить pdf organize pdf organize pdf reorder rearrange sort thumbnails drag move pages see every page as a thumbnail drag to reorder rotate sideways pages delete pages you do not need pdf боком в вам виде для изменения каждую которые лежащие миниатюры не нужны перетаскивайте поворачивайте порядка просматривайте страницу страницы удаляйте упорядочить",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор сертификатов",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/certificate-maker/",
+  "s": "Loona PDF Tools",
+  "d": "Создавайте печатные сертификаты в предварительном просмотре в реальном времени — по одному или сотни пакетно из списка имён.",
+  "k": "конструктор сертификатов certificate maker certificate maker award diploma design bulk names printable design printable certificates on a live preview one at a time or hundreds in bulk from a name list в времени из или имён конструктор одному пакетно печатные по предварительном просмотре реальном сертификатов сертификаты создавайте сотни списка",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Добавить номера страниц",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/add-page-numbers-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Размещайте номера страниц в вашем стиле и положении на каждой странице PDF.",
+  "k": "добавить номера страниц add page numbers add page numbers to pdf numbering stamp folio pagination pages stamp page numbers in your style and position on every page of a pdf pdf в вашем добавить и каждой на номера положении размещайте стиле страниц странице",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Добавить водяной знак",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/add-watermark-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Размещайте текст, например CONFIDENTIAL или название вашей школы, на каждой странице.",
+  "k": "добавить водяной знак add watermark add watermark to pdf stamp confidential overlay text brand pages stamp text like confidential or your school name across every page confidential вашей водяной добавить знак или каждой на название например размещайте странице текст школы",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Подписать PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/sign-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Нарисуйте или загрузите вашу подпись и разместите её именно там, где ей положено быть.",
+  "k": "подписать pdf sign pdf sign pdf signature draw sign document electronic signature draw or upload your signature and place it exactly where it belongs pdf быть вашу где ей её загрузите и или именно нарисуйте подписать подпись положено разместите там",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Редактировать сведения о PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/edit-pdf-info/",
+  "s": "Loona PDF Tools",
+  "d": "Просматривайте и изменяйте скрытые заголовок, автора, тему и ключевые слова PDF.",
+  "k": "редактировать сведения о pdf edit pdf info edit pdf info metadata title author subject keywords properties info view and change a pdf s hidden title author subject and keywords pdf автора заголовок и изменяйте ключевые о просматривайте редактировать сведения скрытые слова тему",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Заполнить форму PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/fill-pdf-form/",
+  "s": "Loona PDF Tools",
+  "d": "Откройте заполняемую форму PDF, введите данные в её поля и скачайте заполненную копию — редактируемую или сведённую.",
+  "k": "заполнить форму pdf fill pdf form fill pdf form form fields fillable complete fill type open a fillable pdf form type into its fields and download the completed copy editable or flattened pdf в введите данные её заполненную заполнить заполняемую и или копию откройте поля редактируемую сведённую скачайте форму",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Сравнить PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/compare-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Смотрите, какой именно текст изменился между двумя версиями PDF, страница за страницей, с выделением различий.",
+  "k": "сравнить pdf compare pdf compare pdf diff differences two versions side by side changes see exactly which text changed between two versions of a pdf page by page with differences highlighted pdf версиями выделением двумя за изменился именно какой между различий с смотрите сравнить страница страницей текст",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор подписей",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/signature-generator/",
+  "s": "Loona PDF Tools",
+  "d": "Создайте прозрачный PNG вашей подписи — нарисуйте её, введите или удалите белый фон фотографии.",
+  "k": "генератор подписей signature generator signature generator draw signature create sign name handwritten create a transparent png of your signature draw it type it or remove a photo s white background png белый вашей введите генератор её или нарисуйте подписей подписи прозрачный создайте удалите фон фотографии",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Скрыть содержимое PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/redact-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Навсегда зачерняйте конфиденциальные области — впечатанные в изображение страницы, никогда не просто закрытые.",
+  "k": "скрыть содержимое pdf redact pdf redact pdf black out hide sensitive permanent remove text censor permanently black out sensitive areas burned into the page image never just covered pdf в впечатанные закрытые зачерняйте изображение конфиденциальные навсегда не никогда области просто скрыть содержимое страницы",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Создать форму PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/create-pdf-form/",
+  "s": "Loona PDF Tools",
+  "d": "Добавьте настоящие заполняемые текстовые поля и флажки в любой плоский PDF.",
+  "k": "создать форму pdf create pdf form create pdf form fillable form fields maker creator build add real fillable text fields and checkboxes to any flat pdf pdf в добавьте заполняемые и любой настоящие плоский поля создать текстовые флажки форму",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Свести PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/flatten-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Вшейте ответы формы в страницы, чтобы их больше нельзя было редактировать, или перестройте страницы как изображения.",
+  "k": "свести pdf flatten pdf flatten pdf flatten form annotations layers lock bake form answers into the pages so they can no longer be edited or rebuild pages as images pdf больше было в вшейте изображения или их как нельзя ответы перестройте редактировать свести страницы формы чтобы",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF в оттенки серого",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/pdf-to-grayscale/",
+  "s": "Loona PDF Tools",
+  "d": "Преобразуйте каждую страницу в оттенки серого для более дешёвой печати и чистого монохромного вида.",
+  "k": "pdf в оттенки серого pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert convert every page to shades of grey for cheaper printing and a clean monochrome look pdf более в вида дешёвой для и каждую монохромного оттенки печати преобразуйте серого страницу чистого",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Добавить верхний и нижний колонтитулы",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/add-header-footer-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Размещайте текст верхнего и нижнего колонтитулов на каждой странице со встроенными номерами вида Страница X из Y.",
+  "k": "добавить верхний и нижний колонтитулы add header footer add header footer to pdf header footer stamp text top bottom pages stamp header and footer text on every page with page x of y numbers built in x y верхнего верхний вида встроенными добавить и из каждой колонтитулов колонтитулы на нижнего нижний номерами размещайте со страница странице текст",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Восстановить PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/repair-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Исправляйте структурные повреждения — нарушенные индексы и мусор в конце файла — и сохраняйте чистую копию.",
+  "k": "восстановить pdf repair pdf repair pdf fix corrupted damaged broken recover restore fix structural damage broken indexes and trailing junk and save a clean copy pdf в восстановить и индексы исправляйте конце копию мусор нарушенные повреждения сохраняйте структурные файла чистую",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Обрезать PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/crop-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Обрезайте белые поля или срезайте края страниц по пунктам, процентам или миллиметрам.",
+  "k": "обрезать pdf crop pdf crop pdf trim margins cut white borders pages trim white margins or cut page edges by points percent or millimetres pdf белые или края миллиметрам обрезайте обрезать по поля процентам пунктам срезайте страниц",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Изменить размер страниц PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/resize-pdf-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Измените каждую страницу на A4, Letter или Legal, масштабируя содержимое по размеру.",
+  "k": "изменить размер страниц pdf resize pdf pages resize pdf pages page size a4 letter dimensions resize change change every page to a4 letter or legal scaling the content to fit a4 legal letter pdf измените изменить или каждую масштабируя на по размер размеру содержимое страниц страницу",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Обратить порядок страниц PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/reverse-pdf-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Переверните PDF, идущий задом наперёд, чтобы последняя страница стала первой.",
+  "k": "обратить порядок страниц pdf reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front flip a back to front pdf so the last page becomes the first pdf задом идущий наперёд обратить первой переверните порядок последняя стала страниц страница чтобы",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Удалить аннотации PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/remove-pdf-annotations/",
+  "s": "Loona PDF Tools",
+  "d": "Удаляйте комментарии, выделения, заметки и штампы, при этом содержимое страницы остаётся нетронутым.",
+  "k": "удалить аннотации pdf remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations strip comments highlights sticky notes and stamps while page content stays untouched pdf аннотации выделения заметки и комментарии нетронутым остаётся при содержимое страницы удалить удаляйте штампы этом",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Размеры страниц PDF &amp; сведения",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/pdf-page-sizes/",
+  "s": "Loona PDF Tools",
+  "d": "Смотрите точный размер каждой страницы в пунктах, миллиметрах и дюймах, а также информацию о документе.",
+  "k": "размеры страниц pdf &amp; сведения pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure see every page s exact size in points millimetres and inches plus document info amp pdf а в документе дюймах и информацию каждой миллиметрах о пунктах размер размеры сведения смотрите страниц страницы также точный",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Добавить закладки в PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/add-bookmarks-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Добавьте в длинный PDF интерактивную структуру из глав и разделов.",
+  "k": "добавить закладки в pdf add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation give a long pdf a clickable outline of chapters and sections pdf в глав длинный добавить добавьте закладки и из интерактивную разделов структуру",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Извлечь изображения из PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/extract-images-from-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Извлекайте исходные встроенные фотографии и графику из PDF в виде файлов PNG.",
+  "k": "извлечь изображения из pdf extract images from pdf extract images from pdf get pictures photos images out extract save pull the original embedded photos and graphics out of a pdf as png files pdf png в виде встроенные графику и из извлекайте извлечь изображения исходные файлов фотографии",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Добавить пустую страницу в PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/add-blank-page-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Вставляйте пустые страницы в начало, в конец или после любой страницы с соответствующим размером.",
+  "k": "добавить пустую страницу в pdf add blank page to pdf add blank page to pdf insert blank empty page add new insert blank pages at the start end or after any page sized to match pdf в вставляйте добавить или конец любой начало после пустую пустые размером с соответствующим страницу страницы",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF в WebP",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/pdf-to-webp/",
+  "s": "Loona PDF Tools",
+  "d": "Преобразуйте страницы PDF в изображения WebP — меньше, чем JPG, для сайтов, с выбранным вами качеством.",
+  "k": "pdf в webp pdf to webp pdf to webp webp image convert picture convert pdf pages to webp images smaller than jpg for websites at your chosen quality jpg pdf webp в вами выбранным для изображения качеством меньше преобразуйте с сайтов страницы чем",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "N-up PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/n-up-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Размещайте 2, 4, 6 или 9 страниц на одном листе в порядке чтения и экономьте бумагу на раздаточных материалах.",
+  "k": "n-up pdf n up pdf n up pdf n-up multiple pages per sheet impose tiles print put 2 4 6 or 9 pages on one sheet in reading order and save paper on handouts 2 4 6 9 n-up pdf бумагу в и или листе материалах на одном порядке раздаточных размещайте страниц чтения экономьте",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Создать буклет PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/create-pdf-booklet/",
+  "s": "Loona PDF Tools",
+  "d": "Располагайте страницы в настоящем буклетном порядке — печатайте с двух сторон, складывайте, скрепляйте.",
+  "k": "создать буклет pdf create pdf booklet create pdf booklet booklet book fold impose print saddle stitch impose pages in true booklet order print double sided fold staple pdf буклет буклетном в двух настоящем печатайте порядке располагайте с складывайте скрепляйте создать сторон страницы",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Удалить пустые страницы",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/remove-blank-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Обнаруживайте почти пустые страницы с помощью анализа пикселей и удаляйте их, с честным покрытием по каждой странице.",
+  "k": "удалить пустые страницы remove blank pages remove blank pages delete empty blank pages clean remove automatically detect near empty pages by pixel analysis and remove them with honest per page coverage анализа и их каждой обнаруживайте пикселей по покрытием помощью почти пустые с странице страницы удалить удаляйте честным",
+  "p": 139,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конструктор сертификатов",
+  "short_name": "Loona Конструктор сертификатов",
+  "description": "Бесплатный конструктор сертификатов: оформите сертификат для печати с живым предварительным просмотром, а затем скачайте готовый к печати PDF формата A4 или PNG. Создайте один сертификат или сотни пакетно из списка имён. Без регистрации, без водяного знака, и всё выполняется конфиденциально в вашем браузере.",
+  "id": "/loona-pdf-tools/ru/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Удалить страницы PDF",
+  "short_name": "Loona Удалить страницы PDF",
+  "description": "Удаляйте страницы из PDF бесплатно онлайн. Введите номера страниц для удаления — например, 2, 4-6 — и скачайте очищенный файл. Без регистрации; всё остаётся в вашем браузере.",
+  "id": "/loona-pdf-tools/ru/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

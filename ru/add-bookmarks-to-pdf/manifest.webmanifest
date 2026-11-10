@@ -1,0 +1,29 @@
+{
+  "name": "Loona Добавить закладки в PDF",
+  "short_name": "Loona Добавить закладки в PDF",
+  "description": "Добавьте закладки (структуру с возможностью нажатия) в PDF бесплатно онлайн: перечислите названия глав с их номерами страниц и скачайте PDF с настоящей структурой навигации. В браузере, ничего не загружается.",
+  "id": "/loona-pdf-tools/ru/add-bookmarks-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

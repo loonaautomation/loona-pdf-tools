@@ -1,0 +1,29 @@
+{
+  "name": "Loona Добавить водяной знак",
+  "short_name": "Loona Добавить водяной знак",
+  "description": "Добавьте текстовый водяной знак в PDF бесплатно онлайн. Установите текст, размер, непрозрачность, угол и цвет — по центру или мозаикой. Без регистрации; водяной знак применяется конфиденциально в браузере.",
+  "id": "/loona-pdf-tools/ru/add-watermark-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

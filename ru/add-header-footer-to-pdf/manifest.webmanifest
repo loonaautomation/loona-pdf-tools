@@ -1,0 +1,29 @@
+{
+  "name": "Loona Добавить верхний и нижний колонтитулы",
+  "short_name": "Loona Добавить верхний и нижний колонтитулы",
+  "description": "Добавьте верхний и нижний колонтитулы на каждую страницу PDF бесплатно онлайн: пользовательский текст, номера страниц в форматах «Страница X из Y», выравнивание и размер шрифта — всё в вашем браузере, ничего не загружается.",
+  "id": "/loona-pdf-tools/ru/add-header-footer-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
