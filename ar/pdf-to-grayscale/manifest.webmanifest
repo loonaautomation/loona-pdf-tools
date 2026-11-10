@@ -1,0 +1,29 @@
+{
+  "name": "Loona تحويل PDF إلى التدرج الرمادي عبر الإنترنت مجانًا",
+  "short_name": "تحويل PDF إلى التدرج الرمادي عبر الإنترنت مجانًا",
+  "description": "حوّل ملف PDF إلى التدرج الرمادي مجانًا عبر الإنترنت: تُعاد بناء كل صفحة بدرجات الرمادي — مثالي لطباعة أرخص ومظهر أحادي نظيف. يعمل بنسبة 100% في متصفحك؛ لا يُرفع أي شيء.",
+  "id": "/loona-pdf-tools/ar/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona تحويل PNG إلى PDF عبر الإنترنت مجانًا",
+  "short_name": "تحويل PNG إلى PDF عبر الإنترنت مجانًا",
+  "description": "حوّل صور PNG إلى PDF مجانًا عبر الإنترنت. تصبح لقطات الشاشة والشعارات والرسوم ملف PDF واحدًا بصفحات A4 أو Letter أو ملاءمة. تحويل خاص داخل المتصفح، دون تسجيل.",
+  "id": "/loona-pdf-tools/ar/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

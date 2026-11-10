@@ -1,0 +1,29 @@
+{
+  "name": "Loona ضغط PDF إلى 100 KB عبر الإنترنت – مجانًا، هدف مضمون",
+  "short_name": "ضغط PDF إلى 100 KB عبر الإنترنت – مجانًا، هدف مضمون",
+  "description": "اضغط ملف PDF إلى 100 KB أو أقل، مجانًا في متصفحك. تجرب الأداة إعادة حفظ دون فقدان أولًا، ثم تخفض جودة العرض تدريجيًا حتى يناسب ملفك — وتبلغ عن النتيجة الدقيقة.",
+  "id": "/loona-pdf-tools/ar/compress-pdf-to-100kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

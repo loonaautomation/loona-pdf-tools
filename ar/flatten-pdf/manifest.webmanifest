@@ -1,0 +1,29 @@
+{
+  "name": "Loona تسطيح PDF عبر الإنترنت مجانًا",
+  "short_name": "تسطيح PDF عبر الإنترنت مجانًا",
+  "description": "سطّح ملف PDF مجانًا عبر الإنترنت: ادمج حقول النماذج القابلة للملء في الصفحات بحيث لا يمكن تعديل الإجابات بعد، مع إعادة بناء صورة كاملة اختيارية تسطّح كل شيء. خاص، داخل المتصفح، دون تسجيل.",
+  "id": "/loona-pdf-tools/ar/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

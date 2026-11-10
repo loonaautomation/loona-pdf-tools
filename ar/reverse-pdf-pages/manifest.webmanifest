@@ -1,0 +1,29 @@
+{
+  "name": "Loona عكس ترتيب صفحات PDF عبر الإنترنت مجانًا",
+  "short_name": "عكس ترتيب صفحات PDF عبر الإنترنت مجانًا",
+  "description": "اعكس ترتيب صفحات PDF مجانًا عبر الإنترنت — تصبح الصفحة الأخيرة أولى. مثالي لإصلاح المسوح المعكوسة. فوري، في متصفحك، دون رفع أي شيء.",
+  "id": "/loona-pdf-tools/ar/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona تغيير حجم صفحات PDF عبر الإنترنت مجانًا",
+  "short_name": "تغيير حجم صفحات PDF عبر الإنترنت مجانًا",
+  "description": "غيّر حجم صفحات PDF مجانًا عبر الإنترنت: حوّل كل صفحة إلى A4 أو US Letter أو Legal، أو قس بنسبة مئوية، مع قياس المحتوى للملاءمة والتوسيط. يعمل في متصفحك — دون رفع أي شيء.",
+  "id": "/loona-pdf-tools/ar/resize-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

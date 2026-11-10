@@ -1,0 +1,29 @@
+{
+  "name": "Loona محوّل PDF إلى HTML – مجاني، دون رفع",
+  "short_name": "محوّل PDF إلى HTML – مجاني، دون رفع",
+  "description": "حوّل ملف PDF إلى HTML عبر الإنترنت، مجانًا في متصفحك. يُستخرج النص مع اكتشاف بنية العناوين من أحجام الخطوط. دون رفع، دون تسجيل.",
+  "id": "/loona-pdf-tools/ar/pdf-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

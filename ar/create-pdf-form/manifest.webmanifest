@@ -1,0 +1,29 @@
+{
+  "name": "Loona إنشاء نموذج PDF عبر الإنترنت مجانًا",
+  "short_name": "إنشاء نموذج PDF عبر الإنترنت مجانًا",
+  "description": "حوّل أي ملف PDF إلى نموذج قابل للملء مجانًا عبر الإنترنت: أضف حقول نص حقيقية وخانات اختيار تمامًا حيث تسحبها، وسمّ الحقول، ونزّل ملف PDF من نوع AcroForm حقيقي يستطيع أي شخص ملؤه. دون رفع، دون تسجيل.",
+  "id": "/loona-pdf-tools/ar/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

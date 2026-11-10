@@ -1,0 +1,29 @@
+{
+  "name": "Loona استخراج صفحات PDF عبر الإنترنت مجانًا",
+  "short_name": "استخراج صفحات PDF عبر الإنترنت مجانًا",
+  "description": "استخرج صفحات مختارة من PDF مجانًا عبر الإنترنت. أدخل صفحات مثل 3، 5-8 ونزّلها كملف PDF جديد أصغر. دون تسجيل؛ يعمل الاستخراج في متصفحك.",
+  "id": "/loona-pdf-tools/ar/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

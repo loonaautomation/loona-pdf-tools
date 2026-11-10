@@ -1,0 +1,29 @@
+{
+  "name": "Loona صفحات متعددة في صفحة PDF عبر الإنترنت مجانًا",
+  "short_name": "صفحات متعددة في صفحة PDF عبر الإنترنت مجانًا",
+  "description": "ضع صفحات PDF متعددة على ورقة واحدة مجانًا عبر الإنترنت: تخطيطات 2 في الورقة، 4 في الورقة، 6 في الورقة أو 9 في الورقة على A4 أو Letter، بترتيب القراءة. يوفّر الورق للمطبوعات والمسودات. داخل المتصفح، دون رفع أي شيء.",
+  "id": "/loona-pdf-tools/ar/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona تحويل النص إلى PDF عبر الإنترنت مجانًا",
+  "short_name": "تحويل النص إلى PDF عبر الإنترنت مجانًا",
+  "description": "حوّل النص إلى PDF مجانًا عبر الإنترنت. الصق نصك، واختر حجم الخط وصفحات A4 أو Letter، ونزّل ملف PDF نظيفًا. دون تسجيل — يُصنع بخصوصية داخل المتصفح.",
+  "id": "/loona-pdf-tools/ar/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

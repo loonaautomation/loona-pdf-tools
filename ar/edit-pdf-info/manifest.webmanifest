@@ -1,0 +1,29 @@
+{
+  "name": "Loona تعديل معلومات PDF عبر الإنترنت مجانًا",
+  "short_name": "تعديل معلومات PDF عبر الإنترنت مجانًا",
+  "description": "اعرض البيانات الوصفية لملف PDF وحرّرها مجانًا عبر الإنترنت — العنوان والمؤلف والموضوع والكلمات المفتاحية — وشاهد عدد الصفحات وحجم الملف. دون تسجيل؛ يعمل تحرير البيانات الوصفية داخل المتصفح.",
+  "id": "/loona-pdf-tools/ar/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

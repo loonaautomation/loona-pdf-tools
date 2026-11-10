@@ -1,0 +1,29 @@
+{
+  "name": "Loona مقارنة ملفات PDF عبر الإنترنت مجانًا",
+  "short_name": "مقارنة ملفات PDF عبر الإنترنت مجانًا",
+  "description": "قارن ملفي PDF مجانًا عبر الإنترنت واعرف بالضبط أي نص تغيّر، صفحة بعد صفحة. تُميَّز الأسطر المزالة والمضافة جنبًا إلى جنب. دون تسجيل؛ تتم المقارنة بخصوصية في متصفحك.",
+  "id": "/loona-pdf-tools/ar/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

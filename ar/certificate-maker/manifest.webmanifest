@@ -1,0 +1,29 @@
+{
+  "name": "Loona صانع شهادات مجاني عبر الإنترنت",
+  "short_name": "صانع شهادات مجاني عبر الإنترنت",
+  "description": "صانع شهادات مجاني: صمّم شهادة قابلة للطباعة على معاينة حية، ثم نزّل ملف PDF أو PNG بحجم A4 جاهزًا للطباعة. اصنع شهادة واحدة أو مئات بالجملة من قائمة أسماء. دون تسجيل، دون علامة مائية، ويعمل كل شيء بخصوصية في متصفحك.",
+  "id": "/loona-pdf-tools/ar/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
