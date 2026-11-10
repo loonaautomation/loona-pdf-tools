@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz İmza Oluşturucu",
+  "short_name": "Çevrimiçi Ücretsiz İmza Oluşturucu",
+  "description": "Çevrimiçi ücretsiz bir imza görüntüsü oluşturun: çizin, adınızı bir el yazısı stilinde yazın veya imzanızın bir fotoğrafını şeffaf hâle getirin. Temiz, şeffaf bir PNG indirin; yükleme yok, kayıt yok.",
+  "id": "/loona-pdf-tools/tr/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

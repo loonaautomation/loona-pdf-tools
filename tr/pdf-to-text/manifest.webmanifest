@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz PDF'den Metne",
+  "short_name": "Çevrimiçi Ücretsiz PDF'den Metne",
+  "description": "Bir PDF'den metni çevrimiçi ücretsiz çıkarın. Her sayfanın tam metnini kopyalamak veya TXT dosyası olarak indirmek için alın. Kayıt gerekmez ve PDF'niz tarayıcınızdan asla ayrılmaz.",
+  "id": "/loona-pdf-tools/tr/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

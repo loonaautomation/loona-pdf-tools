@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi PDF'yi 500 KB'ye Sıkıştır",
+  "short_name": "Çevrimiçi PDF'yi 500 KB'ye Sıkıştır",
+  "description": "Bir PDF'yi tarayıcınızda ücretsiz olarak 500 KB veya altına sıkıştırın. Araç önce kayıpsız bir yeniden kaydetmeyi dener, ardından dosyanız sığana kadar oluşturma kalitesini kademeli olarak düşürür ve tam sonucu bildirir.",
+  "id": "/loona-pdf-tools/tr/compress-pdf-to-500kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

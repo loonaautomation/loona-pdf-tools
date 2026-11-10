@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Dönüştürücüler",
+  "short_name": "PDF Dönüştürücüler",
+  "description": "Her PDF dönüştürücü tek bir yerde: görüntüler, CSV, JSON, HTML ve Markdown'dan PDF'ye; PDF'den de görüntülere, metne, HTML'ye ve Markdown'a. Ücretsiz, tarayıcınızda.",
+  "id": "/loona-pdf-tools/tr/pdf-converters/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz PDF Düzenle",
+  "short_name": "Çevrimiçi Ücretsiz PDF Düzenle",
+  "description": "PDF sayfalarını çevrimiçi ücretsiz düzenleyin: sayfaları yeniden sıralamak için küçük resimleri sürükleyin, yan sayfaları döndürün ve ihtiyacınız olmayan sayfaları silin. Kayıt yok. Dosyalar tarayıcınızda gizlice işlenir.",
+  "id": "/loona-pdf-tools/tr/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz PDF Döndür",
+  "short_name": "Çevrimiçi Ücretsiz PDF Döndür",
+  "description": "PDF sayfalarını çevrimiçi ücretsiz olarak 90, 180 veya 270 derece döndürün (tüm sayfalar veya seçilen bir aralık) ve düzeltilmiş dosyayı kaydedin. Kayıt yok; tarayıcınızda gerçekleşir.",
+  "id": "/loona-pdf-tools/tr/rotate-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

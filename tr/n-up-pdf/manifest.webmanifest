@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz N-up PDF",
+  "short_name": "Çevrimiçi Ücretsiz N-up PDF",
+  "description": "Birden çok PDF sayfasını çevrimiçi ücretsiz olarak tek yaprağa koyun: A4 veya Letter üzerinde, okuma sırasına göre 2'li, 4'lü, 6'lı veya 9'lu düzenler. Dağıtım kopyaları ve taslaklar için kâğıt tasarrufu sağlar. Tarayıcıda, hiçbir şey yüklenmez.",
+  "id": "/loona-pdf-tools/tr/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

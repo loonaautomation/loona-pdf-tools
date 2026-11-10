@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz PDF Kitapçık Oluştur",
+  "short_name": "Çevrimiçi Ücretsiz PDF Kitapçık Oluştur",
+  "description": "Çevrimiçi ücretsiz yazdırılabilir bir kitapçık PDF'si yapın: sayfalar yatay yapraklara gerçek kitapçık sırasıyla yerleştirilir; çift taraflı yazdırın, katlayın, zımbalayın. Boş sayfalar, dördün katına otomatik olarak tamamlar.",
+  "id": "/loona-pdf-tools/tr/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

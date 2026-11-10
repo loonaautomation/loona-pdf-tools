@@ -1,0 +1,362 @@
+[
+ {
+  "n": "PDF Birleştir",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/merge-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Birkaç PDF dosyasını, seçtiğiniz sırayla tek bir belgede birleştirin.",
+  "k": "merge pdf merge pdf combine join multiple files into one together birkaç pdf dosyasını, seçtiğiniz sırayla tek bir belgede birleştirin.",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Böl",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/split-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Bir PDF'yi tek tek sayfalara veya özel sayfa aralıklarına ayırın.",
+  "k": "split pdf split pdf separate divide cutter ranges extract pages bir pdf'yi tek tek sayfalara veya özel sayfa aralıklarına ayırın.",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Sıkıştır",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/compress-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Bir PDF'yi e-posta, WhatsApp veya yükleme sınırları için küçültün; iki dürüst mod.",
+  "k": "compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload make a pdf smaller for email whatsapp or upload limits two honest modes bir pdf'yi e-posta, whatsapp veya yükleme sınırları için küçültün; iki dürüst mod.",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "JPG'den PDF'ye",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/jpg-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "JPG fotoğraflarını ve taramalarını tek bir düzenli PDF'ye dönüştürün; A4, Letter veya görüntüye sığdır sayfalar.",
+  "k": "jpg to pdf jpg to pdf jpeg photo image picture scan convert turn jpg photos and scans into one tidy pdf a4 letter or fit to image pages jpg fotoğraflarını ve taramalarını tek bir düzenli pdf'ye dönüştürün; a4, letter veya görüntüye sığdır sayfalar.",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF'den JPG'ye",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/pdf-to-jpg/",
+  "s": "Loona PDF Tools",
+  "d": "Her PDF sayfasını, her yerde paylaşabileceğiniz yüksek kaliteli bir JPG görüntüsüne dönüştürün.",
+  "k": "pdf to jpg pdf to jpg jpeg image picture convert pages extract turn every pdf page into a high quality jpg image you can share anywhere her pdf sayfasını, her yerde paylaşabileceğiniz yüksek kaliteli bir jpg görüntüsüne dönüştürün.",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "PNG'den PDF'ye",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/png-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "PNG ekran görüntülerini ve grafiklerini tek bir temiz PDF belgesinde birleştirin.",
+  "k": "png to pdf png to pdf image picture screenshot convert photo png ekran görüntülerini ve grafiklerini tek bir temiz pdf belgesinde birleştirin.",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF'den PNG'ye",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/pdf-to-png/",
+  "s": "Loona PDF Tools",
+  "d": "PDF sayfalarını keskin PNG görüntülerine dönüştürün; gerçek şeffaflık korunarak.",
+  "k": "pdf to png pdf to png image transparent convert picture convert pdf pages to sharp png images with true transparency preserved pdf sayfalarını keskin png görüntülerine dönüştürün; gerçek şeffaflık korunarak.",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF'den Metne",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/pdf-to-text/",
+  "s": "Loona PDF Tools",
+  "d": "Bir PDF'deki tüm okunabilir metni çıkarın; böylece kopyalayabilir, düzenleyebilir ve yeniden kullanabilirsiniz.",
+  "k": "pdf to text pdf to text extract txt words copy plain text file bir pdf'deki tüm okunabilir metni çıkarın; böylece kopyalayabilir, düzenleyebilir ve yeniden kullanabilirsiniz.",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Metinden PDF'ye",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/text-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Metin yazın veya yapıştırın ve onu düzgün, basılabilir bir PDF belgesi olarak indirin.",
+  "k": "text to pdf text to pdf txt write type document make create metin yazın veya yapıştırın ve onu düzgün, basılabilir bir pdf belgesi olarak indirin.",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Excel'den PDF'ye",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/excel-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": ".xlsx, .xls ve CSV elektronik tablolarını temiz PDF tablolarına dönüştürün; her sayfa, yükleme yok.",
+  "k": "excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert turn xlsx xls and csv spreadsheets into clean pdf tables every sheet no upload .xlsx, .xls ve csv elektronik tablolarını temiz pdf tablolarına dönüştürün; her sayfa, yükleme yok.",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Döndür",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/rotate-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Yan veya baş aşağı PDF sayfalarını tarayıcınızda kalıcı olarak düzeltin.",
+  "k": "rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees fix sideways or upside down pdf pages permanently in your browser yan veya baş aşağı pdf sayfalarını tarayıcınızda kalıcı olarak düzeltin.",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Sayfalarını Sil",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/delete-pdf-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Boş, yinelenen veya istenmeyen sayfaları kaldırın ve daha yalın bir belge tutun.",
+  "k": "delete pdf pages delete pdf pages remove unwanted blank duplicate pages boş, yinelenen veya istenmeyen sayfaları kaldırın ve daha yalın bir belge tutun.",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Sayfalarını Çıkar",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/extract-pdf-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Yalnızca ihtiyacınız olan sayfaları (3. sayfa ve 5-8 gibi) yepyeni bir PDF olarak tutun.",
+  "k": "extract pdf pages extract pdf pages keep select pages range new document pull keep only the pages you need like page 3 and 5 8 as a brand new pdf yalnızca ihtiyacınız olan sayfaları (3. sayfa ve 5-8 gibi) yepyeni bir pdf olarak tutun.",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Düzenle",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/organize-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Her sayfayı bir küçük resim olarak görün; yeniden sıralamak için sürükleyin, yan sayfaları döndürün, ihtiyacınız olmayan sayfaları silin.",
+  "k": "organize pdf organize pdf reorder rearrange sort thumbnails drag move pages see every page as a thumbnail drag to reorder rotate sideways pages delete pages you do not need her sayfayı bir küçük resim olarak görün; yeniden sıralamak için sürükleyin, yan sayfaları döndürün, ihtiyacınız olmayan sayfaları silin.",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Sertifika Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/certificate-maker/",
+  "s": "Loona PDF Tools",
+  "d": "Basılabilir sertifikaları canlı bir önizleme üzerinde tasarlayın; tek tek veya bir ad listesinden toplu olarak yüzlercesini.",
+  "k": "certificate maker certificate maker award diploma design bulk names printable design printable certificates on a live preview one at a time or hundreds in bulk from a name list basılabilir sertifikaları canlı bir önizleme üzerinde tasarlayın; tek tek veya bir ad listesinden toplu olarak yüzlercesini.",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Sayfa Numarası Ekle",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/add-page-numbers-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Sayfa numaralarını, bir PDF'nin her sayfasına kendi stiliniz ve konumunuzda damgalayın.",
+  "k": "add page numbers add page numbers to pdf numbering stamp folio pagination pages sayfa numaralarını, bir pdf'nin her sayfasına kendi stiliniz ve konumunuzda damgalayın.",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Filigran Ekle",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/add-watermark-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Her sayfaya GİZLİ gibi bir metni veya okul adınızı damgalayın.",
+  "k": "add watermark add watermark to pdf stamp confidential overlay text brand pages her sayfaya gizli gibi bir metni veya okul adınızı damgalayın.",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF İmzala",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/sign-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "İmzanızı çizin veya yükleyin ve tam ait olduğu yere yerleştirin.",
+  "k": "sign pdf sign pdf signature draw sign document electronic signature imzanızı çizin veya yükleyin ve tam ait olduğu yere yerleştirin.",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Bilgilerini Düzenle",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/edit-pdf-info/",
+  "s": "Loona PDF Tools",
+  "d": "Bir PDF'nin gizli başlığını, yazarını, konusunu ve anahtar kelimelerini görün ve değiştirin.",
+  "k": "edit pdf info edit pdf info metadata title author subject keywords properties info view and change a pdf s hidden title author subject and keywords bir pdf'nin gizli başlığını, yazarını, konusunu ve anahtar kelimelerini görün ve değiştirin.",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Formu Doldur",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/fill-pdf-form/",
+  "s": "Loona PDF Tools",
+  "d": "Doldurulabilir bir PDF formu açın, alanlarına yazın ve tamamlanmış kopyayı indirin; düzenlenebilir veya düzleştirilmiş.",
+  "k": "fill pdf form fill pdf form form fields fillable complete fill type open a fillable pdf form type into its fields and download the completed copy editable or flattened doldurulabilir bir pdf formu açın, alanlarına yazın ve tamamlanmış kopyayı indirin; düzenlenebilir veya düzleştirilmiş.",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Karşılaştır",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/compare-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Bir PDF'nin iki sürümü arasında tam olarak hangi metnin değiştiğini sayfa sayfa, farklar vurgulanmış olarak görün.",
+  "k": "compare pdf compare pdf diff differences two versions side by side changes bir pdf'nin iki sürümü arasında tam olarak hangi metnin değiştiğini sayfa sayfa, farklar vurgulanmış olarak görün.",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "İmza Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/signature-generator/",
+  "s": "Loona PDF Tools",
+  "d": "İmzanızın şeffaf bir PNG'sini oluşturun; çizin, yazın veya bir fotoğrafın beyaz arka planını kaldırın.",
+  "k": "signature generator signature generator draw signature create sign name handwritten create a transparent png of your signature draw it type it or remove a photo s white background imzanızın şeffaf bir png'sini oluşturun; çizin, yazın veya bir fotoğrafın beyaz arka planını kaldırın.",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Karart",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/redact-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Hassas alanları kalıcı olarak karartın; sayfa görüntüsüne işlenir, asla yalnızca kapatılmaz.",
+  "k": "redact pdf redact pdf black out hide sensitive permanent remove text censor permanently black out sensitive areas burned into the page image never just covered hassas alanları kalıcı olarak karartın; sayfa görüntüsüne işlenir, asla yalnızca kapatılmaz.",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Formu Oluştur",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/create-pdf-form/",
+  "s": "Loona PDF Tools",
+  "d": "Herhangi bir düz PDF'ye gerçek doldurulabilir metin alanları ve onay kutuları ekleyin.",
+  "k": "create pdf form create pdf form fillable form fields maker creator build herhangi bir düz pdf'ye gerçek doldurulabilir metin alanları ve onay kutuları ekleyin.",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Düzleştir",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/flatten-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Form yanıtlarını artık düzenlenememeleri için sayfalara işleyin veya sayfaları görüntüler olarak yeniden oluşturun.",
+  "k": "flatten pdf flatten pdf flatten form annotations layers lock form yanıtlarını artık düzenlenememeleri için sayfalara işleyin veya sayfaları görüntüler olarak yeniden oluşturun.",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF'yi Gri Tonlamaya Çevir",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/pdf-to-grayscale/",
+  "s": "Loona PDF Tools",
+  "d": "Daha ucuz baskı ve temiz tek renkli bir görünüm için her sayfayı gri tonlarına dönüştürün.",
+  "k": "pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert daha ucuz baskı ve temiz tek renkli bir görünüm için her sayfayı gri tonlarına dönüştürün.",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Üst Bilgi ve Alt Bilgi Ekle",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/add-header-footer-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Her sayfaya üst bilgi ve alt bilgi metni damgalayın; X / Y Sayfa numaraları yerleşik.",
+  "k": "add header footer add header footer to pdf header footer stamp text top bottom pages her sayfaya üst bilgi ve alt bilgi metni damgalayın; x / y sayfa numaraları yerleşik.",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Onar",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/repair-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Yapısal hasarı (bozuk dizinler ve sondaki gereksiz içerik) düzeltin ve temiz bir kopya kaydedin.",
+  "k": "repair pdf repair pdf fix corrupted damaged broken recover restore fix structural damage broken indexes and trailing junk and save a clean copy yapısal hasarı (bozuk dizinler ve sondaki gereksiz içerik) düzeltin ve temiz bir kopya kaydedin.",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Kırp",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/crop-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Beyaz kenar boşluklarını düzeltin veya sayfa kenarlarını puan, yüzde veya milimetreyle kesin.",
+  "k": "crop pdf crop pdf trim margins cut white borders pages beyaz kenar boşluklarını düzeltin veya sayfa kenarlarını puan, yüzde veya milimetreyle kesin.",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Sayfalarını Yeniden Boyutlandır",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/resize-pdf-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Her sayfayı A4, Letter veya Legal olarak değiştirin; içerik sığacak şekilde ölçeklenir.",
+  "k": "resize pdf pages resize pdf pages page size a4 letter dimensions resize change her sayfayı a4, letter veya legal olarak değiştirin; içerik sığacak şekilde ölçeklenir.",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Sayfalarını Ters Çevir",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/reverse-pdf-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Son sayfa birinci olacak şekilde tersten bir PDF'yi çevirin.",
+  "k": "reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front flip a back to front pdf so the last page becomes the first son sayfa birinci olacak şekilde tersten bir pdf'yi çevirin.",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Açıklamalarını Kaldır",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/remove-pdf-annotations/",
+  "s": "Loona PDF Tools",
+  "d": "Yorumları, vurguları, yapışkan notları ve mühürleri çıkarın; sayfa içeriği dokunulmadan kalır.",
+  "k": "remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations yorumları, vurguları, yapışkan notları ve mühürleri çıkarın; sayfa içeriği dokunulmadan kalır.",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Sayfa Boyutları ve Bilgileri",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/pdf-page-sizes/",
+  "s": "Loona PDF Tools",
+  "d": "Her sayfanın puan, milimetre ve inç cinsinden tam boyutunu, artı belge bilgilerini görün.",
+  "k": "pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure see every page s exact size in points millimetres and inches plus document info her sayfanın puan, milimetre ve inç cinsinden tam boyutunu, artı belge bilgilerini görün.",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF'ye Yer İmi Ekle",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/add-bookmarks-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Uzun bir PDF'ye tıklanabilir bir bölüm ve kısım ana hattı verin.",
+  "k": "add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation uzun bir pdf'ye tıklanabilir bir bölüm ve kısım ana hattı verin.",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF'den Görüntü Çıkar",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/extract-images-from-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Bir PDF'deki orijinal gömülü fotoğrafları ve grafikleri PNG dosyaları olarak çıkarın.",
+  "k": "extract images from pdf extract images from pdf get pictures photos images out extract save bir pdf'deki orijinal gömülü fotoğrafları ve grafikleri png dosyaları olarak çıkarın.",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF'ye Boş Sayfa Ekle",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/add-blank-page-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Başta, sonda veya herhangi bir sayfadan sonra, boyutu eşleşen boş sayfalar yerleştirin.",
+  "k": "add blank page to pdf add blank page to pdf insert blank empty page add new başta, sonda veya herhangi bir sayfadan sonra, boyutu eşleşen boş sayfalar yerleştirin.",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF'den WebP'ye",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/pdf-to-webp/",
+  "s": "Loona PDF Tools",
+  "d": "PDF sayfalarını WebP görüntülerine dönüştürün; web siteleri için JPG'den daha küçük, seçtiğiniz kalitede.",
+  "k": "pdf to webp pdf to webp webp image convert picture convert pdf pages to webp images smaller than jpg for websites at your chosen quality pdf sayfalarını webp görüntülerine dönüştürün; web siteleri için jpg'den daha küçük, seçtiğiniz kalitede.",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "N-up PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/n-up-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Okuma sırasıyla tek bir yaprağa 2, 4, 6 veya 9 sayfa koyun ve dağıtım kopyalarında kâğıt tasarrufu yapın.",
+  "k": "n up pdf n up pdf n-up multiple pages per sheet impose tiles print okuma sırasıyla tek bir yaprağa 2, 4, 6 veya 9 sayfa koyun ve dağıtım kopyalarında kâğıt tasarrufu yapın.",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF Kitapçık Oluştur",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/create-pdf-booklet/",
+  "s": "Loona PDF Tools",
+  "d": "Sayfaları gerçek kitapçık sırasına yerleştirin; çift taraflı yazdırın, katlayın, zımbalayın.",
+  "k": "create pdf booklet create pdf booklet booklet book fold impose print saddle stitch impose pages in true booklet order print double sided fold staple sayfaları gerçek kitapçık sırasına yerleştirin; çift taraflı yazdırın, katlayın, zımbalayın.",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Boş Sayfaları Kaldır",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/remove-blank-pages/",
+  "s": "Loona PDF Tools",
+  "d": "Neredeyse boş sayfaları piksel analiziyle algılayın ve dürüst sayfa başına kapsamla kaldırın.",
+  "k": "remove blank pages remove blank pages delete empty blank pages clean remove automatically detect near empty pages by pixel analysis and remove them with honest per page coverage neredeyse boş sayfaları piksel analiziyle algılayın ve dürüst sayfa başına kapsamla kaldırın.",
+  "p": 139,
+  "c": "Tool"
+ }
+]

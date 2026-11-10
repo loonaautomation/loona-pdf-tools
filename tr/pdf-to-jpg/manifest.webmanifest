@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz PDF'den JPG'ye",
+  "short_name": "Çevrimiçi Ücretsiz PDF'den JPG'ye",
+  "description": "PDF sayfalarını çevrimiçi ücretsiz olarak JPG görüntülerine dönüştürün. Standart, yüksek veya baskı kalitesini seçin ve her sayfayı JPG olarak indirin. Kayıt gerekmez; dönüştürme tarayıcınızda çalışır.",
+  "id": "/loona-pdf-tools/tr/pdf-to-jpg/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

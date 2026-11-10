@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz PDF Sayfa Boyutu",
+  "short_name": "Çevrimiçi Ücretsiz PDF Sayfa Boyutu",
+  "description": "Bir PDF'nin sayfa boyutlarını çevrimiçi ücretsiz denetleyin: her sayfanın puan, milimetre ve inç cinsinden boyutları, en yakın standart boyutu (A4, Letter...), döndürmesi, ayrıca başlığı, yazarı ve PDF sürümü. Hiçbir şey yüklenmez.",
+  "id": "/loona-pdf-tools/tr/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

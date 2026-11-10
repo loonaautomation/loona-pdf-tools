@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çevrimiçi Ücretsiz PDF Onar",
+  "short_name": "Çevrimiçi Ücretsiz PDF Onar",
+  "description": "Hasarlı bir PDF'yi çevrimiçi ücretsiz onarın: bozuk çapraz başvuru tablolarını yeniden oluşturur ve temiz bir kopyayı yeniden kaydeder; son çare olarak sayfa görüntüsüyle yeniden oluşturma ile. Dürüst sınırlar belirtilmiştir. %100 tarayıcınızda.",
+  "id": "/loona-pdf-tools/tr/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
