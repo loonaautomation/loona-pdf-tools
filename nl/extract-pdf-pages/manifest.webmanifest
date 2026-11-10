@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-pagina's extraheren online gratis",
+  "short_name": "PDF-pagina's extraheren online gratis",
+  "description": "Extraheer gratis online geselecteerde pagina's uit een PDF. Voer pagina's in zoals 3, 5-8 en download ze als een nieuwe, kleinere PDF. Geen registratie; de extractie gebeurt in je browser.",
+  "id": "/loona-pdf-tools/nl/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

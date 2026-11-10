@@ -1,0 +1,29 @@
+{
+  "name": "Loona Watermerk toevoegen online gratis",
+  "short_name": "Watermerk toevoegen online gratis",
+  "description": "Voeg gratis online een tekstwatermerk toe aan een PDF. Stel de tekst, grootte, dekking, hoek en kleur in - gecentreerd of betegeld. Geen registratie; watermerken gebeurt privé in de browser.",
+  "id": "/loona-pdf-tools/nl/add-watermark-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

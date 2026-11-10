@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bladwijzers toevoegen aan PDF online gratis",
+  "short_name": "Bladwijzers toevoegen aan PDF online gratis",
+  "description": "Voeg gratis online bladwijzers (een klikbare inhoudsopgave) toe aan een PDF: geef hoofdstuktitels op met hun paginanummers en download een PDF met een echte navigatiestructuur. In de browser, niets geüpload.",
+  "id": "/loona-pdf-tools/nl/add-bookmarks-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

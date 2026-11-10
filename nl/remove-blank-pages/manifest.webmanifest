@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lege pagina's verwijderen online gratis",
+  "short_name": "Lege pagina's verwijderen online gratis",
+  "description": "Verwijder gratis online lege pagina's uit een PDF: pagina's worden gerenderd en pixel per pixel gecontroleerd, bijna lege pagina's worden eerlijk opgelijst met hun inktdekking, en verwijderd - inhoudspagina's blijven onaangeroerd. In de browser.",
+  "id": "/loona-pdf-tools/nl/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

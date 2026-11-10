@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF naar tekst online gratis",
+  "short_name": "PDF naar tekst online gratis",
+  "description": "Extraheer gratis online tekst uit een PDF. Haal de volledige tekst van elke pagina op om te kopiëren of te downloaden als TXT-bestand. Geen registratie, en je PDF verlaat je browser nooit.",
+  "id": "/loona-pdf-tools/nl/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona N-op-een PDF online gratis",
+  "short_name": "N-op-een PDF online gratis",
+  "description": "Zet gratis online meerdere PDF-pagina's op één vel: lay-outs van 2-op-een, 4-op-een, 6-op-een of 9-op-een op A4 of Letter, in leesvolgorde. Bespaart papier voor hand-outs en concepten. In de browser, niets geüpload.",
+  "id": "/loona-pdf-tools/nl/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

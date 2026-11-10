@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-info bewerken online gratis",
+  "short_name": "PDF-info bewerken online gratis",
+  "description": "Bekijk en bewerk PDF-metadata gratis online - titel, auteur, onderwerp en trefwoorden - en zie het aantal pagina's en de bestandsgrootte. Geen registratie; metadata bewerken gebeurt in de browser.",
+  "id": "/loona-pdf-tools/nl/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-paginaformaten & info online gratis",
+  "short_name": "PDF-paginaformaten & info online gratis",
+  "description": "Controleer gratis online de paginaformaten van een PDF: de afmetingen van elke pagina in punten, millimeters en inches, het dichtstbijzijnde standaardformaat (A4, Letter...), rotatie, plus titel, auteur en PDF-versie. Niets geüpload.",
+  "id": "/loona-pdf-tools/nl/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

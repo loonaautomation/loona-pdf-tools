@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kop- en voettekst toevoegen online gratis",
+  "short_name": "Kop- en voettekst toevoegen online gratis",
+  "description": "Voeg gratis online een kop- en voettekst toe aan elke PDF-pagina: eigen tekst, paginanummers in het formaat Pagina X van Y, uitlijning en lettergrootte - alles in je browser, niets geüpload.",
+  "id": "/loona-pdf-tools/nl/add-header-footer-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

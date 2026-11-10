@@ -1,0 +1,29 @@
+{
+  "name": "Loona Certificaatmaker online gratis",
+  "short_name": "Certificaatmaker online gratis",
+  "description": "Gratis certificaatmaker: ontwerp een printbaar certificaat op een live voorbeeld en download daarna een printklare A4-PDF of PNG. Maak één certificaat of honderden in bulk vanaf een namenlijst. Geen registratie, geen watermerk, en alles gebeurt privé in je browser.",
+  "id": "/loona-pdf-tools/nl/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
