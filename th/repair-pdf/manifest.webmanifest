@@ -1,0 +1,29 @@
+{
+  "name": "Loona ซ่อมแซม PDF ออนไลน์ฟรี",
+  "short_name": "ซ่อมแซม PDF ออนไลน์ฟรี",
+  "description": "ซ่อมแซม PDF ที่เสียหายฟรีออนไลน์: สร้างตารางอ้างอิงโยงที่เสียใหม่และบันทึกสำเนาที่สะอาดซ้ำ พร้อมการสร้างใหม่จากรูปภาพหน้าเป็นทางเลือกสุดท้าย ขีดจำกัดที่ระบุอย่างตรงไปตรงมา 100% ในเบราว์เซอร์ของคุณ",
+  "id": "/loona-pdf-tools/th/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona แยกรูปภาพจาก PDF ออนไลน์ฟรี",
+  "short_name": "แยกรูปภาพจาก PDF ออนไลน์ฟรี",
+  "description": "แยกรูปภาพต้นฉบับที่ฝังใน PDF ฟรีออนไลน์: รูปถ่ายและกราฟิกถูกดึงออกที่ความละเอียดที่จัดเก็บเป็นไฟล์ PNG ไม่ใช่ภาพหน้าจอ 100% ในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลดใด ๆ",
+  "id": "/loona-pdf-tools/th/extract-images-from-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

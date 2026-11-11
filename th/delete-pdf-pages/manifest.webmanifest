@@ -1,0 +1,29 @@
+{
+  "name": "Loona ลบหน้า PDF ออนไลน์ฟรี",
+  "short_name": "ลบหน้า PDF ออนไลน์ฟรี",
+  "description": "ลบหน้าออกจาก PDF ฟรีออนไลน์ พิมพ์เลขหน้าที่จะลบ เช่น 2, 4-6 แล้วดาวน์โหลดไฟล์ที่ทำความสะอาดแล้ว ไม่ต้องสมัคร ทุกอย่างอยู่ในเบราว์เซอร์ของคุณ",
+  "id": "/loona-pdf-tools/th/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

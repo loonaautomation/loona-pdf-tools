@@ -1,0 +1,29 @@
+{
+  "name": "Loona เพิ่มส่วนหัวและส่วนท้าย ออนไลน์ฟรี",
+  "short_name": "เพิ่มส่วนหัวและส่วนท้าย ออนไลน์ฟรี",
+  "description": "เพิ่มส่วนหัวและส่วนท้ายลงในทุกหน้า PDF ฟรีออนไลน์: ข้อความกำหนดเอง เลขหน้าในรูปแบบ Page X of Y การจัดแนว และขนาดฟอนต์ ทั้งหมดในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลดใด ๆ",
+  "id": "/loona-pdf-tools/th/add-header-footer-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

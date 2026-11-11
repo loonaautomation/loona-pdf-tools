@@ -1,0 +1,29 @@
+{
+  "name": "Loona บีบอัด PDF ให้ได้ขนาดที่ต้องการ ออนไลน์ฟรี",
+  "short_name": "บีบอัด PDF ให้ได้ขนาดที่ต้องการ ออนไลน์ฟรี",
+  "description": "บีบอัด PDF ให้ได้เป้าหมายที่แน่นอน: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB บวกค่าตั้งล่วงหน้าสำหรับอีเมล (10 MB) และ WhatsApp (16 MB) ฟรี ในเบราว์เซอร์ของคุณ",
+  "id": "/loona-pdf-tools/th/compress-pdf-to-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

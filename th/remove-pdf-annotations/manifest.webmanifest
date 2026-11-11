@@ -1,0 +1,29 @@
+{
+  "name": "Loona ลบคำอธิบายประกอบใน PDF ออนไลน์ฟรี",
+  "short_name": "ลบคำอธิบายประกอบใน PDF ออนไลน์ฟรี",
+  "description": "ลบคำอธิบายประกอบออกจาก PDF ฟรีออนไลน์: ความคิดเห็น ไฮไลต์ โน้ตติดกระดาษ ตราประทับ และมาร์กอัปถูกถอดออกในขณะที่เนื้อหาหน้ายังไม่ถูกแตะต้อง ในเบราว์เซอร์ ไม่มีการอัปโหลดใด ๆ",
+  "id": "/loona-pdf-tools/th/remove-pdf-annotations/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ปรับขนาดหน้า PDF ออนไลน์ฟรี",
+  "short_name": "ปรับขนาดหน้า PDF ออนไลน์ฟรี",
+  "description": "ปรับขนาดหน้า PDF ฟรีออนไลน์: แปลงทุกหน้าเป็น A4, US Letter หรือ Legal หรือปรับสเกลเป็นเปอร์เซ็นต์ โดยเนื้อหาปรับสเกลให้พอดีและจัดกึ่งกลาง ทำงานในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลดใด ๆ",
+  "id": "/loona-pdf-tools/th/resize-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona N-up PDF ออนไลน์ฟรี",
+  "short_name": "N-up PDF ออนไลน์ฟรี",
+  "description": "วางหน้า PDF หลายหน้าบนหนึ่งแผ่นฟรีออนไลน์: เลย์เอาต์ 2-up, 4-up, 6-up หรือ 9-up บน A4 หรือ Letter ตามลำดับการอ่าน ประหยัดกระดาษสำหรับเอกสารแจกและฉบับร่าง ในเบราว์เซอร์ ไม่มีการอัปโหลดใด ๆ",
+  "id": "/loona-pdf-tools/th/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

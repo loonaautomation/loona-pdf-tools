@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องมือสร้างลายเซ็น ออนไลน์ฟรี",
+  "short_name": "เครื่องมือสร้างลายเซ็น ออนไลน์ฟรี",
+  "description": "สร้างรูปภาพลายเซ็นฟรีออนไลน์: วาดมัน พิมพ์ชื่อของคุณในสไตล์ลายมือ หรือทำรูปถ่ายลายเซ็นของคุณให้โปร่งใส ดาวน์โหลด PNG โปร่งใสที่สะอาด ไม่ต้องอัปโหลด ไม่ต้องสมัคร",
+  "id": "/loona-pdf-tools/th/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

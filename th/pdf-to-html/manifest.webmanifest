@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง PDF เป็น HTML ออนไลน์ฟรี",
+  "short_name": "ตัวแปลง PDF เป็น HTML ออนไลน์ฟรี",
+  "description": "แปลง PDF เป็น HTML ออนไลน์ ฟรีในเบราว์เซอร์ของคุณ ข้อความถูกแยกโดยตรวจจับโครงสร้างหัวข้อจากขนาดฟอนต์ ไม่ต้องอัปโหลด ไม่ต้องสมัคร",
+  "id": "/loona-pdf-tools/th/pdf-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona กรอกแบบฟอร์ม PDF ออนไลน์ฟรี",
+  "short_name": "กรอกแบบฟอร์ม PDF ออนไลน์ฟรี",
+  "description": "กรอกแบบฟอร์ม PDF ที่กรอกได้ฟรีออนไลน์ อัปโหลด PDF ที่มีฟิลด์แบบฟอร์ม พิมพ์ลงในกล่องข้อความ ช่องทำเครื่องหมาย ดรอปดาวน์ และปุ่มตัวเลือกเดียวของมัน จากนั้นดาวน์โหลด PDF ที่กรอกเสร็จแล้ว ไม่ต้องสมัคร ทุกอย่างทำงานเป็นส่วนตัวในเบราว์เซอร์ของคุณ",
+  "id": "/loona-pdf-tools/th/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

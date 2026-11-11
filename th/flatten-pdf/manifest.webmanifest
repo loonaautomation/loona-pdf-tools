@@ -1,0 +1,29 @@
+{
+  "name": "Loona ทำให้ PDF แบนราบ ออนไลน์ฟรี",
+  "short_name": "ทำให้ PDF แบนราบ ออนไลน์ฟรี",
+  "description": "ทำให้ PDF แบนราบฟรีออนไลน์: ฝังฟิลด์แบบฟอร์มที่กรอกได้ลงในหน้าเพื่อให้คำตอบแก้ไขไม่ได้อีก พร้อมการสร้างใหม่เป็นรูปภาพเต็มรูปแบบที่เป็นตัวเลือก ซึ่งทำให้ทุกอย่างแบนราบ เป็นส่วนตัว ในเบราว์เซอร์ ไม่ต้องสมัคร",
+  "id": "/loona-pdf-tools/th/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

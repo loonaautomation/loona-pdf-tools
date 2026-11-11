@@ -1,0 +1,29 @@
+{
+  "name": "Loona แยก PDF ออนไลน์ฟรี",
+  "short_name": "แยก PDF ออนไลน์ฟรี",
+  "description": "แยก PDF เป็นไฟล์แยกฟรีออนไลน์ แยกทุกหน้าเป็น PDF ของตัวเองหรือแยกตามช่วงหน้า ไม่ต้องสมัคร และไฟล์ของคุณไม่เคยออกจากเบราว์เซอร์ของคุณ",
+  "id": "/loona-pdf-tools/th/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

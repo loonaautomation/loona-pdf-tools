@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องมือสร้างใบรับรอง ออนไลน์ฟรี",
+  "short_name": "เครื่องมือสร้างใบรับรอง ออนไลน์ฟรี",
+  "description": "เครื่องมือสร้างใบรับรองฟรี: ออกแบบใบรับรองที่พิมพ์ได้บนตัวอย่างสด จากนั้นดาวน์โหลด PDF A4 ที่พร้อมพิมพ์หรือ PNG สร้างใบรับรองหนึ่งใบหรือหลายร้อยใบแบบจำนวนมากจากรายชื่อ ไม่ต้องสมัคร ไม่มีลายน้ำ และทุกอย่างทำงานเป็นส่วนตัวในเบราว์เซอร์ของคุณ",
+  "id": "/loona-pdf-tools/th/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

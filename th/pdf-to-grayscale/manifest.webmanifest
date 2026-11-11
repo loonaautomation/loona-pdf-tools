@@ -1,0 +1,29 @@
+{
+  "name": "Loona แปลง PDF เป็นโทนเทา ออนไลน์ฟรี",
+  "short_name": "แปลง PDF เป็นโทนเทา ออนไลน์ฟรี",
+  "description": "แปลง PDF เป็นโทนเทาฟรีออนไลน์: ทุกหน้าถูกสร้างใหม่เป็นเฉดสีเทา เหมาะอย่างยิ่งสำหรับการพิมพ์ที่ถูกกว่าและลุคขาวดำที่สะอาด ทำงาน 100% ในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลดใด ๆ",
+  "id": "/loona-pdf-tools/th/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
