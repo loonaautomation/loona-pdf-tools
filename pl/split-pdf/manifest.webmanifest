@@ -1,0 +1,29 @@
+{
+  "name": "Loona Podziel PDF online za darmo",
+  "short_name": "Podziel PDF online za darmo",
+  "description": "Dziel PDF na osobne pliki za darmo online. Wyodrębniaj każdą stronę jako własny PDF lub dziel według zakresów stron. Bez rejestracji, a Twój plik nigdy nie opuszcza Twojej przeglądarki.",
+  "id": "/loona-pdf-tools/pl/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

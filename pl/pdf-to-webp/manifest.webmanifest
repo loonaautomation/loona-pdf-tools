@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF na WebP online za darmo",
+  "short_name": "PDF na WebP online za darmo",
+  "description": "Konwertuj strony PDF na obrazy WebP za darmo online: mniejsze niż JPG i PNG na strony internetowe, renderowane w wybranej przez Ciebie rozdzielczości w Twojej przeglądarce. Nic nie jest przesyłane, bez rejestracji.",
+  "id": "/loona-pdf-tools/pl/pdf-to-webp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rozmiary stron PDF i informacje online za darmo",
+  "short_name": "Rozmiary stron PDF i informacje online za darmo",
+  "description": "Sprawdź rozmiary stron PDF-a za darmo online: wymiary każdej strony w punktach, milimetrach i calach, jej najbliższy rozmiar standardowy (A4, Letter...), obrót oraz tytuł, autor i wersja PDF. Nic nie jest przesyłane.",
+  "id": "/loona-pdf-tools/pl/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

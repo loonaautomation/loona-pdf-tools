@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter WebP na PDF online za darmo",
+  "short_name": "Konwerter WebP na PDF online za darmo",
+  "description": "Konwertuj obrazy WebP na PDF online, za darmo, w swojej przeglądarce. Jeden obraz na stronę, strony dopasowane do obrazu lub A4/Letter. Bez przesyłania, bez rejestracji.",
+  "id": "/loona-pdf-tools/pl/webp-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Tools",
+  "short_name": "Loona PDF Tools",
+  "description": "Darmowe narzędzia PDF online – scalaj, dziel, kompresuj, konwertuj, obracaj, podpisuj i edytuj PDF-y. W 100% za darmo, bez rejestracji, a Twoje pliki nigdy nie opuszczają Twojego urządzenia.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-pdf-tools/pl/"
+}

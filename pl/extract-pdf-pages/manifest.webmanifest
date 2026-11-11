@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wyodrębnij strony PDF online za darmo",
+  "short_name": "Wyodrębnij strony PDF online za darmo",
+  "description": "Wyodrębniaj wybrane strony z PDF-a za darmo online. Wpisz strony jak 3, 5-8 i pobierz je jako nowy, mniejszy PDF. Bez rejestracji; wyodrębnianie odbywa się w Twojej przeglądarce.",
+  "id": "/loona-pdf-tools/pl/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

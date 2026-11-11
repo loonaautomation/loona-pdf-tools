@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF na tekst online za darmo",
+  "short_name": "PDF na tekst online za darmo",
+  "description": "Wyodrębniaj tekst z PDF-a za darmo online. Pobierz pełny tekst każdej strony do skopiowania lub pobrania jako plik TXT. Bez rejestracji, a Twój PDF nigdy nie opuszcza Twojej przeglądarki.",
+  "id": "/loona-pdf-tools/pl/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

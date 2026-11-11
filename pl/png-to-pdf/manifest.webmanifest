@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG na PDF online za darmo",
+  "short_name": "PNG na PDF online za darmo",
+  "description": "Konwertuj obrazy PNG na PDF za darmo online. Zrzuty ekranu, logo i grafiki stają się jednym PDF-em ze stronami A4, Letter lub dopasowanymi. Prywatna konwersja w przeglądarce, bez rejestracji.",
+  "id": "/loona-pdf-tools/pl/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

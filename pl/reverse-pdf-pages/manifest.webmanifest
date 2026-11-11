@@ -1,0 +1,29 @@
+{
+  "name": "Loona Odwróć kolejność stron PDF online za darmo",
+  "short_name": "Odwróć kolejność stron PDF online za darmo",
+  "description": "Odwracaj kolejność stron PDF-a za darmo online – ostatnia strona staje się pierwszą. Idealne do naprawiania skanów od końca. Natychmiast, w Twojej przeglądarce, nic nie jest przesyłane.",
+  "id": "/loona-pdf-tools/pl/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

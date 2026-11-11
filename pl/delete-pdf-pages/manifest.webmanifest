@@ -1,0 +1,29 @@
+{
+  "name": "Loona Usuń strony PDF online za darmo",
+  "short_name": "Usuń strony PDF online za darmo",
+  "description": "Usuwaj strony z PDF-a za darmo online. Wpisz numery stron do usunięcia – jak 2, 4-6 – i pobierz oczyszczony plik. Bez rejestracji; wszystko zostaje w Twojej przeglądarce.",
+  "id": "/loona-pdf-tools/pl/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
