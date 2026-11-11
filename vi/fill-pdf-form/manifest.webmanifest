@@ -1,0 +1,29 @@
+{
+  "name": "Loona Điền biểu mẫu PDF trực tuyến miễn phí",
+  "short_name": "Điền biểu mẫu PDF trực tuyến miễn phí",
+  "description": "Điền một biểu mẫu PDF có thể điền miễn phí trực tuyến. Tải lên một PDF có các trường biểu mẫu, nhập vào các ô văn bản, hộp kiểm, danh sách thả xuống và nút radio của nó, rồi tải xuống PDF đã hoàn thành. Không cần đăng ký; mọi thứ chạy riêng tư trong trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

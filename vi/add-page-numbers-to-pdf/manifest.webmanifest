@@ -1,0 +1,29 @@
+{
+  "name": "Loona Thêm số trang trực tuyến miễn phí",
+  "short_name": "Thêm số trang trực tuyến miễn phí",
+  "description": "Thêm số trang vào PDF miễn phí trực tuyến. Chọn kiểu (1, Trang 1, 1 / 10), vị trí và số bắt đầu. Không cần đăng ký; việc đánh số được thực hiện riêng tư trong trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/add-page-numbers-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

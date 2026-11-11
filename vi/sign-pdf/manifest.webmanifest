@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ký PDF trực tuyến miễn phí",
+  "short_name": "Ký PDF trực tuyến miễn phí",
+  "description": "Ký một PDF miễn phí trực tuyến. Vẽ chữ ký của bạn hoặc tải lên hình ảnh của nó, định vị nó bằng bản xem trước trực tiếp, và tải xuống PDF đã ký. Riêng tư - không có gì được tải lên.",
+  "id": "/loona-pdf-tools/vi/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

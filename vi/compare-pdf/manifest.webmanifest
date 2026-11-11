@@ -1,0 +1,29 @@
+{
+  "name": "Loona So sánh PDF trực tuyến miễn phí",
+  "short_name": "So sánh PDF trực tuyến miễn phí",
+  "description": "So sánh hai tệp PDF miễn phí trực tuyến và xem chính xác văn bản nào đã thay đổi, theo từng trang. Các dòng bị loại bỏ và thêm vào được làm nổi bật cạnh nhau. Không cần đăng ký; việc so sánh chạy riêng tư trong trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

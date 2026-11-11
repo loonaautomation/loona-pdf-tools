@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sắp xếp PDF trực tuyến miễn phí",
+  "short_name": "Sắp xếp PDF trực tuyến miễn phí",
+  "description": "Sắp xếp các trang PDF miễn phí trực tuyến: kéo hình thu nhỏ để sắp xếp lại trang, xoay các trang bị ngang và xóa các trang bạn không cần. Không đăng ký. Các tệp được xử lý riêng tư trong trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

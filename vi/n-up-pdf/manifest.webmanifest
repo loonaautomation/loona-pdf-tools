@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF N-up trực tuyến miễn phí",
+  "short_name": "PDF N-up trực tuyến miễn phí",
+  "description": "Đặt nhiều trang PDF lên một tờ miễn phí trực tuyến: bố cục 2-up, 4-up, 6-up hoặc 9-up trên A4 hoặc Letter, theo thứ tự đọc. Tiết kiệm giấy cho tài liệu phát tay và bản nháp. Trong trình duyệt, không tải lên gì cả.",
+  "id": "/loona-pdf-tools/vi/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

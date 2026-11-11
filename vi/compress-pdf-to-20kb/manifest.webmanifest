@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nén PDF xuống 20 KB trực tuyến miễn phí",
+  "short_name": "Nén PDF xuống 20 KB trực tuyến miễn phí",
+  "description": "Nén một PDF xuống 20 KB hoặc nhỏ hơn, miễn phí trong trình duyệt của bạn. Công cụ thử lưu lại không mất dữ liệu trước, sau đó giảm dần chất lượng hiển thị cho đến khi tệp của bạn vừa — và báo cáo kết quả chính xác.",
+  "id": "/loona-pdf-tools/vi/compress-pdf-to-20kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

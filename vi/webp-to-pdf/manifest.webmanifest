@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ chuyển đổi WebP sang PDF trực tuyến miễn phí",
+  "short_name": "Công cụ chuyển đổi WebP sang PDF trực tuyến miễn phí",
+  "description": "Chuyển đổi hình ảnh WebP thành PDF trực tuyến, miễn phí, trong trình duyệt của bạn. Một hình ảnh mỗi trang, trang vừa với hình ảnh hoặc A4/Letter. Không tải lên, không đăng ký.",
+  "id": "/loona-pdf-tools/vi/webp-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

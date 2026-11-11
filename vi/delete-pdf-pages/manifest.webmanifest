@@ -1,0 +1,29 @@
+{
+  "name": "Loona Xóa trang PDF trực tuyến miễn phí",
+  "short_name": "Xóa trang PDF trực tuyến miễn phí",
+  "description": "Xóa trang khỏi một PDF miễn phí trực tuyến. Nhập các số trang cần loại bỏ - như 2, 4-6 - và tải xuống tệp đã dọn sạch. Không cần đăng ký; mọi thứ ở lại trong trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF sang Markdown trực tuyến miễn phí",
+  "short_name": "PDF sang Markdown trực tuyến miễn phí",
+  "description": "Chuyển đổi một PDF thành Markdown trực tuyến, miễn phí trong trình duyệt của bạn. Văn bản được trích xuất với cấu trúc heading được phát hiện từ cỡ chữ. Không tải lên, không đăng ký.",
+  "id": "/loona-pdf-tools/vi/pdf-to-markdown/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nén PDF xuống kích thước cụ thể trực tuyến miễn phí",
+  "short_name": "Nén PDF xuống kích thước cụ thể trực tuyến miễn phí",
+  "description": "Nén một PDF xuống mục tiêu chính xác: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — cộng với cài sẵn email (10 MB) và WhatsApp (16 MB). Miễn phí, trong trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/compress-pdf-to-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

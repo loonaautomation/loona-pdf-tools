@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trích xuất trang PDF trực tuyến miễn phí",
+  "short_name": "Trích xuất trang PDF trực tuyến miễn phí",
+  "description": "Trích xuất các trang đã chọn khỏi một PDF miễn phí trực tuyến. Nhập các trang như 3, 5-8 và tải chúng xuống dưới dạng một PDF mới, nhỏ hơn. Không cần đăng ký; việc trích xuất chạy trong trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

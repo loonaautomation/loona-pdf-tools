@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trích xuất hình ảnh từ PDF trực tuyến miễn phí",
+  "short_name": "Trích xuất hình ảnh từ PDF trực tuyến miễn phí",
+  "description": "Trích xuất các hình ảnh gốc nhúng trong một PDF miễn phí trực tuyến: ảnh chụp và đồ họa được lấy ra ở độ phân giải đã lưu của chúng dưới dạng tệp PNG - không phải ảnh chụp màn hình. 100% trong trình duyệt của bạn, không tải lên gì cả.",
+  "id": "/loona-pdf-tools/vi/extract-images-from-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

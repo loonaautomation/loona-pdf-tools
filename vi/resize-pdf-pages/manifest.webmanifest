@@ -1,0 +1,29 @@
+{
+  "name": "Loona Đổi kích thước trang PDF trực tuyến miễn phí",
+  "short_name": "Đổi kích thước trang PDF trực tuyến miễn phí",
+  "description": "Đổi kích thước các trang PDF miễn phí trực tuyến: chuyển đổi mỗi trang thành A4, US Letter hoặc Legal, hoặc co giãn theo phần trăm, với nội dung được co giãn cho vừa và căn giữa. Chạy trong trình duyệt của bạn - không tải lên gì cả.",
+  "id": "/loona-pdf-tools/vi/resize-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

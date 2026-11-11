@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sửa chữa PDF trực tuyến miễn phí",
+  "short_name": "Sửa chữa PDF trực tuyến miễn phí",
+  "description": "Sửa chữa một PDF bị hỏng miễn phí trực tuyến: dựng lại các bảng tham chiếu chéo bị hỏng và lưu lại một bản sao sạch, với dựng lại hình ảnh trang làm phương án cuối cùng. Các giới hạn trung thực được nêu rõ. 100% trong trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

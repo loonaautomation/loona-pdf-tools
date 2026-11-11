@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ chuyển đổi CSV sang PDF trực tuyến miễn phí",
+  "short_name": "Công cụ chuyển đổi CSV sang PDF trực tuyến miễn phí",
+  "description": "Chuyển đổi dữ liệu CSV thành một bảng PDF sạch, được phân trang trực tuyến, miễn phí trong trình duyệt của bạn. Hàng tiêu đề in đậm lặp lại, cột được vừa trang. Không tải lên.",
+  "id": "/loona-pdf-tools/vi/csv-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

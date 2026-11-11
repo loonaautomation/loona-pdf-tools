@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tạo tập sách PDF trực tuyến miễn phí",
+  "short_name": "Tạo tập sách PDF trực tuyến miễn phí",
+  "description": "Tạo một PDF tập sách có thể in miễn phí trực tuyến: các trang được sắp theo đúng thứ tự tập sách trên các tờ ngang - in hai mặt, gập, dập ghim. Các trang trống đệm đến bội số của bốn tự động.",
+  "id": "/loona-pdf-tools/vi/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

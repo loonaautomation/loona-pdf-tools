@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ tạo chữ ký trực tuyến miễn phí",
+  "short_name": "Công cụ tạo chữ ký trực tuyến miễn phí",
+  "description": "Tạo hình ảnh chữ ký miễn phí trực tuyến: vẽ nó, nhập tên bạn theo kiểu viết tay, hoặc biến một bức ảnh chữ ký của bạn thành trong suốt. Tải xuống một ảnh PNG trong suốt sạch - không tải lên, không đăng ký.",
+  "id": "/loona-pdf-tools/vi/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

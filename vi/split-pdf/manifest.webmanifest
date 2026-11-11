@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tách PDF trực tuyến miễn phí",
+  "short_name": "Tách PDF trực tuyến miễn phí",
+  "description": "Tách một PDF thành các tệp riêng miễn phí trực tuyến. Trích xuất mỗi trang thành PDF riêng của nó hoặc tách theo khoảng trang. Không cần đăng ký, và tệp của bạn không bao giờ rời khỏi trình duyệt của bạn.",
+  "id": "/loona-pdf-tools/vi/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

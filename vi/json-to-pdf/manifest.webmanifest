@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ chuyển đổi JSON sang PDF trực tuyến miễn phí",
+  "short_name": "Công cụ chuyển đổi JSON sang PDF trực tuyến miễn phí",
+  "description": "Chuyển đổi JSON thành một PDF dễ đọc, được phân trang trực tuyến, miễn phí trong trình duyệt của bạn. Được kiểm tra và in đẹp trước. Không tải lên.",
+  "id": "/loona-pdf-tools/vi/json-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
