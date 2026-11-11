@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 가리기(레닥션) 온라인 무료",
+  "short_name": "Loona PDF 가리기(레닥션)",
+  "description": "온라인 무료로 PDF를 가리세요(레닥션): 이름, 번호, 사진 위에 검은 상자를 그리고 영구적으로 구워 넣으세요. 숨은 내용은 그냥 덮이는 것이 아니라 제거돼요. 브라우저에서 100% 처리하고 아무것도 업로드하지 않아요.",
+  "id": "/loona-pdf-tools/ko/redact-pdf/",
+  "start_url": "/loona-pdf-tools/ko/redact-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

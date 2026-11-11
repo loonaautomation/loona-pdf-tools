@@ -1,0 +1,29 @@
+{
+  "name": "Loona 수료증 만들기 온라인 무료",
+  "short_name": "Loona 수료증 만들기",
+  "description": "무료 수료증 만들기: 실시간 미리보기에서 인쇄 가능한 수료증을 디자인한 뒤, 인쇄 준비가 된 A4 PDF나 PNG를 다운로드하세요. 수료증 하나를 만들거나 이름 목록으로 수백 개를 대량으로 만드세요. 가입도, 워터마크도 없고, 모든 것이 브라우저에서 비공개로 실행돼요.",
+  "id": "/loona-pdf-tools/ko/certificate-maker/",
+  "start_url": "/loona-pdf-tools/ko/certificate-maker/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

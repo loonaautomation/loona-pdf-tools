@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF에서 이미지 추출 온라인 무료",
+  "short_name": "Loona PDF에서 이미지 추출",
+  "description": "온라인 무료로 PDF에 삽입된 원본 이미지를 추출하세요: 사진과 그래픽이 스크린샷이 아닌, 저장된 해상도 그대로 PNG 파일로 나와요. 브라우저에서 100% 처리하고 아무것도 업로드하지 않아요.",
+  "id": "/loona-pdf-tools/ko/extract-images-from-pdf/",
+  "start_url": "/loona-pdf-tools/ko/extract-images-from-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

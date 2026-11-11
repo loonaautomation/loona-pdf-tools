@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML을 PDF로 변환하는 도구 온라인 무료",
+  "short_name": "Loona HTML을 PDF로 변환하는 도구",
+  "description": "브라우저 자체의 인쇄하여 PDF로 만들기 엔진을 사용해 온라인 무료로 HTML을 PDF로 변환하세요 — 전체 CSS 지원, 업로드 없음, 워터마크 없음.",
+  "id": "/loona-pdf-tools/ko/html-to-pdf/",
+  "start_url": "/loona-pdf-tools/ko/html-to-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 페이지 번호 추가 온라인 무료",
+  "short_name": "Loona 페이지 번호 추가",
+  "description": "온라인 무료로 PDF에 페이지 번호를 추가하세요. 스타일(1, Page 1, 1 of 10), 위치와 시작 번호를 선택하세요. 가입이 필요 없고, 번호 매기기는 브라우저에서 비공개로 이뤄져요.",
+  "id": "/loona-pdf-tools/ko/add-page-numbers-to-pdf/",
+  "start_url": "/loona-pdf-tools/ko/add-page-numbers-to-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

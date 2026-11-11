@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 주석 제거 온라인 무료",
+  "short_name": "Loona PDF 주석 제거",
+  "description": "온라인 무료로 PDF에서 주석을 제거하세요: 댓글, 강조 표시, 스티키 노트, 도장, 마크업이 벗겨지고 페이지 내용은 건드려지지 않아요. 브라우저에서 처리하고 아무것도 업로드하지 않아요.",
+  "id": "/loona-pdf-tools/ko/remove-pdf-annotations/",
+  "start_url": "/loona-pdf-tools/ko/remove-pdf-annotations/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

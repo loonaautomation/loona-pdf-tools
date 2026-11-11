@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 페이지 뒤집기 온라인 무료",
+  "short_name": "Loona PDF 페이지 뒤집기",
+  "description": "온라인 무료로 PDF의 페이지 순서를 뒤집으세요. 마지막 페이지가 첫 페이지가 돼요. 뒤에서 앞으로 된 스캔을 고치는 데 완벽해요. 즉시, 브라우저에서, 아무것도 업로드하지 않아요.",
+  "id": "/loona-pdf-tools/ko/reverse-pdf-pages/",
+  "start_url": "/loona-pdf-tools/ko/reverse-pdf-pages/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

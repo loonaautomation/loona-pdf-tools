@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG를 PDF로 변환 온라인 무료",
+  "short_name": "Loona PNG를 PDF로 변환",
+  "description": "PNG 이미지를 온라인 무료로 PDF로 변환하세요. 스크린샷, 로고, 그래픽이 A4, Letter 또는 맞춘 페이지로 하나의 PDF가 돼요. 브라우저에서 비공개로 변환하고 가입이 필요 없어요.",
+  "id": "/loona-pdf-tools/ko/png-to-pdf/",
+  "start_url": "/loona-pdf-tools/ko/png-to-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

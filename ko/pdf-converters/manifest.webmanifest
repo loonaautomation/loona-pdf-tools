@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 변환 도구 온라인 무료",
+  "short_name": "Loona PDF 변환 도구",
+  "description": "모든 PDF 변환기가 한곳에 있어요: 이미지, CSV, JSON, HTML, Markdown을 PDF로 — 그리고 PDF를 이미지, 텍스트, HTML, Markdown으로 되돌려요. 무료로, 브라우저에서 처리해요.",
+  "id": "/loona-pdf-tools/ko/pdf-converters/",
+  "start_url": "/loona-pdf-tools/ko/pdf-converters/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 머리글 및 바닥글 추가 온라인 무료",
+  "short_name": "Loona 머리글 및 바닥글 추가",
+  "description": "온라인 무료로 모든 PDF 페이지에 머리글과 바닥글을 추가하세요: 사용자 지정 텍스트, Page X of Y 형식의 페이지 번호, 정렬과 글자 크기까지 - 모두 브라우저에서, 아무것도 업로드하지 않아요.",
+  "id": "/loona-pdf-tools/ko/add-header-footer-to-pdf/",
+  "start_url": "/loona-pdf-tools/ko/add-header-footer-to-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

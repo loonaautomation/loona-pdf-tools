@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF를 텍스트로 변환 온라인 무료",
+  "short_name": "Loona PDF를 텍스트로 변환",
+  "description": "온라인 무료로 PDF에서 텍스트를 추출하세요. 모든 페이지의 전체 텍스트를 복사하거나 TXT 파일로 다운로드하세요. 가입이 필요 없고 PDF는 브라우저를 떠나지 않아요.",
+  "id": "/loona-pdf-tools/ko/pdf-to-text/",
+  "start_url": "/loona-pdf-tools/ko/pdf-to-text/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

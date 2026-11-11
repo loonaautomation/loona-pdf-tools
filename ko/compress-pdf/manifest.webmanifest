@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 압축 온라인 무료",
+  "short_name": "Loona PDF 압축",
+  "description": "온라인 무료로 PDF 파일을 압축해 이메일이나 업로드용으로 줄이세요. 무손실 스트림 압축 또는 강력한 이미지 압축을 선택하세요. 비공개로, 브라우저에서 처리해요.",
+  "id": "/loona-pdf-tools/ko/compress-pdf/",
+  "start_url": "/loona-pdf-tools/ko/compress-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

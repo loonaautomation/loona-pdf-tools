@@ -1,0 +1,242 @@
+[
+ {
+  "u": "/loona-pdf-tools/ko/merge-pdf/",
+  "n": "PDF 병합",
+  "d": "여러 PDF 파일을 선택한 순서대로 하나의 문서로 결합하세요.",
+  "k": "merge pdf merge pdf combine join multiple files into one together pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/split-pdf/",
+  "n": "PDF 분할",
+  "d": "PDF를 개별 페이지나 사용자 지정 페이지 범위로 분리하세요.",
+  "k": "split pdf split pdf separate divide cutter ranges extract pages pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/compress-pdf/",
+  "n": "PDF 압축",
+  "d": "이메일, WhatsApp 또는 업로드 제한을 위해 PDF를 더 작게 만드세요. 솔직한 두 가지 모드가 있어요.",
+  "k": "compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload whatsapp pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/jpg-to-pdf/",
+  "n": "JPG를 PDF로 변환",
+  "d": "JPG 사진과 스캔을 하나의 정돈된 PDF로 바꾸세요. A4, Letter 또는 이미지에 맞춘 페이지예요.",
+  "k": "jpg to pdf jpg to pdf jpeg photo image picture scan convert jpg pdf a4 letter"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/pdf-to-jpg/",
+  "n": "PDF를 JPG로 변환",
+  "d": "모든 PDF 페이지를 어디에서든 공유할 수 있는 고품질 JPG 이미지로 바꾸세요.",
+  "k": "pdf to jpg pdf to jpg jpeg image picture convert pages extract pdf jpg"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/png-to-pdf/",
+  "n": "PNG를 PDF로 변환",
+  "d": "PNG 스크린샷과 그래픽을 하나의 깔끔한 PDF 문서로 결합하세요.",
+  "k": "png to pdf png to pdf image picture screenshot convert photo png pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/pdf-to-png/",
+  "n": "PDF를 PNG로 변환",
+  "d": "PDF 페이지를 선명한 PNG 이미지로 변환하세요. 실제 투명도가 유지돼요.",
+  "k": "pdf to png pdf to png image transparent convert picture pdf png"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/pdf-to-text/",
+  "n": "PDF를 텍스트로 변환",
+  "d": "PDF에서 읽을 수 있는 모든 텍스트를 꺼내 복사, 편집, 재사용할 수 있게 하세요.",
+  "k": "pdf to text pdf to text extract txt words copy plain text file pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/text-to-pdf/",
+  "n": "텍스트를 PDF로 변환",
+  "d": "텍스트를 입력하거나 붙여 넣고 깔끔하고 인쇄 가능한 PDF 문서로 다운로드하세요.",
+  "k": "text to pdf text to pdf txt write type document make create pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/excel-to-pdf/",
+  "n": "Excel을 PDF로 변환",
+  "d": ".xlsx, .xls, CSV 스프레드시트를 깔끔한 PDF 표로 바꾸세요. 모든 시트, 업로드 없어요.",
+  "k": "excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert xlsx xls csv pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/rotate-pdf/",
+  "n": "PDF 회전",
+  "d": "옆으로 또는 뒤집힌 PDF 페이지를 브라우저에서 영구적으로 고치세요.",
+  "k": "rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/delete-pdf-pages/",
+  "n": "PDF 페이지 삭제",
+  "d": "빈 페이지, 중복 페이지, 원하지 않는 페이지를 제거하고 더 간결한 문서를 유지하세요.",
+  "k": "delete pdf pages delete pdf pages remove unwanted blank duplicate pages"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/extract-pdf-pages/",
+  "n": "PDF 페이지 추출",
+  "d": "필요한 페이지만 유지하세요. 예를 들어 3페이지와 5-8페이지를 새 PDF로 만드세요.",
+  "k": "extract pdf pages extract pdf pages keep select pages range new document pull 3 5 8 pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/organize-pdf/",
+  "n": "PDF 정리",
+  "d": "모든 페이지를 썸네일로 보세요. 드래그해 순서를 바꾸고, 옆으로 된 페이지를 회전하고, 필요 없는 페이지를 삭제하세요.",
+  "k": "organize pdf organize pdf reorder rearrange sort thumbnails drag move pages"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/certificate-maker/",
+  "n": "수료증 만들기",
+  "d": "실시간 미리보기에서 인쇄 가능한 수료증을 디자인하세요. 한 번에 하나씩, 또는 이름 목록으로 수백 개를 대량으로 만들 수 있어요.",
+  "k": "certificate maker certificate maker award diploma design bulk names printable"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/add-page-numbers-to-pdf/",
+  "n": "페이지 번호 추가",
+  "d": "모든 PDF 페이지에 본인의 스타일과 위치로 페이지 번호를 찍으세요.",
+  "k": "add page numbers add page numbers to pdf numbering stamp folio pagination pages pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/add-watermark-to-pdf/",
+  "n": "워터마크 추가",
+  "d": "모든 페이지에 CONFIDENTIAL 같은 텍스트나 학교 이름을 찍으세요.",
+  "k": "add watermark add watermark to pdf stamp confidential overlay text brand pages confidential"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/sign-pdf/",
+  "n": "PDF 서명",
+  "d": "서명을 그리거나 업로드하고 정확히 있어야 할 위치에 배치하세요.",
+  "k": "sign pdf sign pdf signature draw sign document electronic signature"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/edit-pdf-info/",
+  "n": "PDF 정보 편집",
+  "d": "PDF의 숨은 제목, 작성자, 주제, 키워드를 보고 바꾸세요.",
+  "k": "edit pdf info edit pdf info metadata title author subject keywords properties info pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/fill-pdf-form/",
+  "n": "PDF 양식 채우기",
+  "d": "입력 가능한 PDF 양식을 열고, 입력란에 입력한 뒤 완성된 사본을 다운로드하세요. 편집 가능하게, 또는 평탄화해서 받을 수 있어요.",
+  "k": "fill pdf form fill pdf form form fields fillable complete fill type pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/compare-pdf/",
+  "n": "PDF 비교",
+  "d": "두 버전의 PDF 사이에서 어떤 텍스트가 바뀌었는지 페이지별로, 차이가 강조된 상태로 정확히 확인하세요.",
+  "k": "compare pdf compare pdf diff differences two versions side by side changes pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/signature-generator/",
+  "n": "서명 생성기",
+  "d": "서명의 투명 PNG를 만드세요. 그리거나, 입력하거나, 사진의 흰 배경을 제거하세요.",
+  "k": "signature generator signature generator draw signature create sign name handwritten png"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/redact-pdf/",
+  "n": "PDF 가리기(레닥션)",
+  "d": "민감한 영역을 영구적으로 검게 지우세요. 페이지 이미지에 구워 넣는 방식이라 절대 그냥 덮는 것이 아니에요.",
+  "k": "redact pdf redact pdf black out hide sensitive permanent remove text censor"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/create-pdf-form/",
+  "n": "PDF 양식 만들기",
+  "d": "평면 PDF에 실제로 입력 가능한 텍스트 입력란과 확인란을 추가하세요.",
+  "k": "create pdf form create pdf form fillable form fields maker creator build pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/flatten-pdf/",
+  "n": "PDF 평탄화",
+  "d": "양식 답변을 페이지에 구워 넣어 더 이상 편집할 수 없게 하거나, 페이지를 이미지로 다시 만드세요.",
+  "k": "flatten pdf flatten pdf flatten form annotations layers lock"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/pdf-to-grayscale/",
+  "n": "PDF를 흑백으로 변환",
+  "d": "저렴한 인쇄와 깔끔한 단색 느낌을 위해 모든 페이지를 회색 음영으로 변환하세요.",
+  "k": "pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/add-header-footer-to-pdf/",
+  "n": "머리글 및 바닥글 추가",
+  "d": "모든 페이지에 머리글과 바닥글 텍스트를 찍으세요. Page X of Y 번호가 내장되어 있어요.",
+  "k": "add header footer add header footer to pdf header footer stamp text top bottom pages page x of y"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/repair-pdf/",
+  "n": "PDF 복구",
+  "d": "구조적 손상(깨진 색인과 끝에 붙은 쓰레기 데이터)을 고치고 깨끗한 사본을 저장하세요.",
+  "k": "repair pdf repair pdf fix corrupted damaged broken recover restore"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/crop-pdf/",
+  "n": "PDF 자르기",
+  "d": "포인트, 백분율, 밀리미터로 흰 여백을 다듬거나 페이지 가장자리를 자르세요.",
+  "k": "crop pdf crop pdf trim margins cut white borders pages"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/resize-pdf-pages/",
+  "n": "PDF 페이지 크기 조정",
+  "d": "모든 페이지를 A4, Letter 또는 Legal로 바꾸고 내용을 맞게 조정하세요.",
+  "k": "resize pdf pages resize pdf pages page size a4 letter dimensions resize change a4 letter legal"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/reverse-pdf-pages/",
+  "n": "PDF 페이지 뒤집기",
+  "d": "뒤에서 앞으로 된 PDF를 뒤집어 마지막 페이지가 첫 페이지가 되게 하세요.",
+  "k": "reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/remove-pdf-annotations/",
+  "n": "PDF 주석 제거",
+  "d": "페이지 내용은 건드려지지 않은 채로 댓글, 강조 표시, 스티키 노트, 도장을 벗겨 내세요.",
+  "k": "remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/pdf-page-sizes/",
+  "n": "PDF 페이지 크기 및 정보",
+  "d": "모든 페이지의 정확한 크기를 포인트, 밀리미터, 인치로 보고, 문서 정보도 확인하세요.",
+  "k": "pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/add-bookmarks-to-pdf/",
+  "n": "PDF에 북마크 추가",
+  "d": "긴 PDF에 챕터와 섹션의 클릭 가능한 개요를 제공하세요.",
+  "k": "add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation pdf"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/extract-images-from-pdf/",
+  "n": "PDF에서 이미지 추출",
+  "d": "원본에 삽입된 사진과 그래픽을 PDF에서 PNG 파일로 꺼내세요.",
+  "k": "extract images from pdf extract images from pdf get pictures photos images out extract save pdf png"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/add-blank-page-to-pdf/",
+  "n": "PDF에 빈 페이지 추가",
+  "d": "처음, 끝, 또는 어떤 페이지 뒤에든 크기가 맞는 빈 페이지를 삽입하세요.",
+  "k": "add blank page to pdf add blank page to pdf insert blank empty page add new"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/pdf-to-webp/",
+  "n": "PDF를 WebP로 변환",
+  "d": "PDF 페이지를 WebP 이미지로 변환하세요. 웹사이트용으로 JPG보다 작고, 원하는 품질을 선택할 수 있어요.",
+  "k": "pdf to webp pdf to webp webp image convert picture pdf webp jpg"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/n-up-pdf/",
+  "n": "N-up PDF",
+  "d": "한 장에 2, 4, 6, 9페이지를 읽기 순서로 넣고 배포 자료의 종이를 절약하세요.",
+  "k": "n up pdf n up pdf n-up multiple pages per sheet impose tiles print 2 4 6 9"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/create-pdf-booklet/",
+  "n": "PDF 소책자 만들기",
+  "d": "실제 소책자 순서로 페이지를 배치하세요. 양면 인쇄하고 접고 스테이플러로 고정하세요.",
+  "k": "create pdf booklet create pdf booklet booklet book fold impose print saddle stitch"
+ },
+ {
+  "u": "/loona-pdf-tools/ko/remove-blank-pages/",
+  "n": "빈 페이지 제거",
+  "d": "픽셀 분석으로 거의 빈 페이지를 감지하고 제거하세요. 페이지별 사용량을 솔직하게 알려 줘요.",
+  "k": "remove blank pages remove blank pages delete empty blank pages clean remove automatically"
+ }
+]

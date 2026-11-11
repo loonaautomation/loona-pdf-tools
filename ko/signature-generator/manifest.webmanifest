@@ -1,0 +1,29 @@
+{
+  "name": "Loona 서명 생성기 온라인 무료",
+  "short_name": "Loona 서명 생성기",
+  "description": "온라인 무료로 서명 이미지를 만드세요: 그리거나, 손글씨 스타일로 이름을 입력하거나, 서명 사진을 투명하게 만드세요. 깔끔한 투명 PNG를 다운로드하세요. 업로드도, 가입도 없어요.",
+  "id": "/loona-pdf-tools/ko/signature-generator/",
+  "start_url": "/loona-pdf-tools/ko/signature-generator/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

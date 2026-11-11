@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG를 PDF로 변환 온라인 무료",
+  "short_name": "Loona JPG를 PDF로 변환",
+  "description": "JPG 이미지를 온라인 무료로 PDF로 변환하세요. 사진을 원하는 순서대로 A4, Letter 또는 맞춘 페이지로 하나의 PDF로 결합하세요. 가입이 필요 없고 브라우저에서 비공개로 작동해요.",
+  "id": "/loona-pdf-tools/ko/jpg-to-pdf/",
+  "start_url": "/loona-pdf-tools/ko/jpg-to-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

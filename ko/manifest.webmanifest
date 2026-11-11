@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 도구 — 무료 온라인 PDF 도구",
+  "short_name": "Loona PDF 도구",
+  "description": "무료 온라인 PDF 도구 - PDF를 병합, 분할, 압축, 변환, 회전, 서명, 편집하세요. 100% 무료이고 가입이 필요 없으며, 파일은 기기를 절대 떠나지 않아요.",
+  "id": "/loona-pdf-tools/ko/",
+  "start_url": "/loona-pdf-tools/ko/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

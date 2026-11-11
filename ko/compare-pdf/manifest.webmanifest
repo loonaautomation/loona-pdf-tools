@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 비교 온라인 무료",
+  "short_name": "Loona PDF 비교",
+  "description": "온라인 무료로 두 PDF 파일을 비교하고 어떤 텍스트가 바뀌었는지 페이지별로 정확히 확인하세요. 제거된 줄과 추가된 줄이 나란히 강조 표시돼요. 가입이 필요 없고, 비교는 브라우저에서 비공개로 실행돼요.",
+  "id": "/loona-pdf-tools/ko/compare-pdf/",
+  "start_url": "/loona-pdf-tools/ko/compare-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 양식 만들기 온라인 무료",
+  "short_name": "Loona PDF 양식 만들기",
+  "description": "어떤 PDF든 온라인 무료로 입력 가능한 양식으로 바꾸세요: 실제 텍스트 입력란과 확인란을 드래그하는 정확히 그 위치에 추가하고, 입력란 이름을 지정한 뒤, 누구나 채울 수 있는 진짜 AcroForm PDF를 다운로드하세요. 업로드도, 가입도 없어요.",
+  "id": "/loona-pdf-tools/ko/create-pdf-form/",
+  "start_url": "/loona-pdf-tools/ko/create-pdf-form/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

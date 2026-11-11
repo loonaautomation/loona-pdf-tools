@@ -1,0 +1,29 @@
+{
+  "name": "Loona 빈 페이지 제거 온라인 무료",
+  "short_name": "Loona 빈 페이지 제거",
+  "description": "온라인 무료로 PDF에서 빈 페이지를 제거하세요: 페이지가 렌더링되어 픽셀 단위로 검사되고, 거의 빈 페이지는 잉크 사용량과 함께 솔직하게 나열되어 제거돼요. 내용 페이지는 건드려지지 않아요. 브라우저에서 처리해요.",
+  "id": "/loona-pdf-tools/ko/remove-blank-pages/",
+  "start_url": "/loona-pdf-tools/ko/remove-blank-pages/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

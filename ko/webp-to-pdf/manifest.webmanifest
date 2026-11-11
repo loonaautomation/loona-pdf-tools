@@ -1,0 +1,29 @@
+{
+  "name": "Loona WebP를 PDF로 변환하는 도구 온라인 무료",
+  "short_name": "Loona WebP를 PDF로 변환하는 도구",
+  "description": "WebP 이미지를 온라인 무료로 브라우저에서 PDF로 변환하세요. 페이지당 이미지 하나, 이미지에 맞추기 또는 A4/Letter 페이지예요. 업로드도, 가입도 없어요.",
+  "id": "/loona-pdf-tools/ko/webp-to-pdf/",
+  "start_url": "/loona-pdf-tools/ko/webp-to-pdf/",
+  "scope": "/loona-pdf-tools/",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0d7a6f",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
