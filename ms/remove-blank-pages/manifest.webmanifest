@@ -1,0 +1,29 @@
+{
+  "name": "Loona Buang Halaman Kosong dalam talian percuma",
+  "short_name": "Buang Halaman Kosong dalam talian percuma",
+  "description": "Buang halaman kosong daripada PDF percuma dalam talian: halaman dirender dan disemak piksel demi piksel, halaman hampir kosong disenaraikan dengan jujur bersama litupan dakwatnya, dan dibuang - halaman berkandungan kekal tidak disentuh. Dalam pelayar.",
+  "id": "/loona-pdf-tools/ms/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

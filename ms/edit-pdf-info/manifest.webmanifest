@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sunting Maklumat PDF dalam talian percuma",
+  "short_name": "Sunting Maklumat PDF dalam talian percuma",
+  "description": "Lihat dan sunting metadata PDF percuma dalam talian - tajuk, pengarang, subjek dan kata kunci - dan lihat bilangan halaman dan saiz fail. Tiada pendaftaran; penyuntingan metadata berjalan dalam pelayar.",
+  "id": "/loona-pdf-tools/ms/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

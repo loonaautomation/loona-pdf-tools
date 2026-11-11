@@ -1,0 +1,29 @@
+{
+  "name": "Loona Putar PDF dalam talian percuma",
+  "short_name": "Putar PDF dalam talian percuma",
+  "description": "Putar halaman PDF percuma dalam talian sebanyak 90, 180 atau 270 darjah - semua halaman atau julat pilihan - dan simpan fail yang diperbetulkan. Tiada pendaftaran; ia berlaku dalam pelayar anda.",
+  "id": "/loona-pdf-tools/ms/rotate-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

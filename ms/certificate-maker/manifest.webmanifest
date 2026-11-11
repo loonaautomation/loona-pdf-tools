@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat Sijil dalam talian percuma",
+  "short_name": "Pembuat Sijil dalam talian percuma",
+  "description": "Pembuat sijil percuma: reka sijil boleh cetak pada pratonton langsung, kemudian muat turun PDF A4 atau PNG sedia cetak. Buat satu sijil atau ratusan secara pukal daripada senarai nama. Tiada pendaftaran, tiada tera air, dan semuanya berjalan secara peribadi dalam pelayar anda.",
+  "id": "/loona-pdf-tools/ms/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

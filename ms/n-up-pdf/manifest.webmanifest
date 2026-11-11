@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF N-up dalam talian percuma",
+  "short_name": "PDF N-up dalam talian percuma",
+  "description": "Letakkan berbilang halaman PDF pada satu helaian percuma dalam talian: susun atur 2-up, 4-up, 6-up atau 9-up pada A4 atau Letter, dalam susunan bacaan. Menjimatkan kertas untuk edaran dan draf. Dalam pelayar, tiada apa-apa dimuat naik.",
+  "id": "/loona-pdf-tools/ms/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

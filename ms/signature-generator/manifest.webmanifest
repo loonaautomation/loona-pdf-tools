@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Tandatangan dalam talian percuma",
+  "short_name": "Penjana Tandatangan dalam talian percuma",
+  "description": "Cipta imej tandatangan secara percuma dalam talian: lukisnya, taip nama anda dalam gaya tulisan tangan, atau jadikan foto tandatangan anda lutsinar. Muat turun PNG lutsinar yang bersih - tiada muat naik, tiada pendaftaran.",
+  "id": "/loona-pdf-tools/ms/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

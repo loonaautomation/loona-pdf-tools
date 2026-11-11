@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bandingkan PDF dalam talian percuma",
+  "short_name": "Bandingkan PDF dalam talian percuma",
+  "description": "Bandingkan dua fail PDF secara percuma dalam talian dan lihat dengan tepat teks mana yang berubah, halaman demi halaman. Baris yang dibuang dan ditambah diserlahkan bersebelahan. Tanpa pendaftaran; perbandingan berjalan secara peribadi dalam pelayar anda.",
+  "id": "/loona-pdf-tools/ms/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

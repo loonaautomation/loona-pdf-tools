@@ -1,0 +1,29 @@
+{
+  "name": "Loona Buat Buku Kecil PDF dalam talian percuma",
+  "short_name": "Buat Buku Kecil PDF dalam talian percuma",
+  "description": "Buat PDF buku kecil boleh cetak secara percuma dalam talian: halaman dikenakan dalam susunan buku kecil sebenar pada helaian landskap - cetak dwimuka, lipat, stapel. Halaman kosong dilapik hingga gandaan empat secara automatik.",
+  "id": "/loona-pdf-tools/ms/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

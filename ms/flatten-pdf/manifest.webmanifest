@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ratakan PDF dalam talian percuma",
+  "short_name": "Ratakan PDF dalam talian percuma",
+  "description": "Ratakan PDF secara percuma dalam talian: sematkan medan borang boleh isi ke dalam halaman supaya jawapan tidak lagi boleh disunting, dengan binaan semula imej penuh pilihan yang meratakan semuanya. Peribadi, dalam pelayar, tiada pendaftaran.",
+  "id": "/loona-pdf-tools/ms/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tandatangan PDF dalam talian percuma",
+  "short_name": "Tandatangan PDF dalam talian percuma",
+  "description": "Tandatangani PDF percuma dalam talian. Lukis tandatangan anda atau muat naik imejnya, letakkannya dengan pratonton langsung, dan muat turun PDF yang telah ditandatangani. Peribadi - tiada apa-apa dimuat naik.",
+  "id": "/loona-pdf-tools/ms/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
