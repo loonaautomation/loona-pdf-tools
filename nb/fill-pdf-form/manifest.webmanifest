@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fyll ut PDF-skjema på nett gratis",
+  "short_name": "Fyll ut PDF-skjema på nett gratis",
+  "description": "Fyll ut et utfyllbart PDF-skjema gratis på nett. Last opp en PDF som har skjemafelt, skriv i tekstbokser, avkrysningsbokser, rullegardinlister og radioknapper, og last deretter ned den utfylte PDF-en. Ingen registrering; alt kjører privat i nettleseren din.",
+  "id": "/loona-pdf-tools/nb/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Legg til topptekst & bunntekst på nett gratis",
+  "short_name": "Legg til topptekst & bunntekst på nett gratis",
+  "description": "Legg til topptekst og bunntekst på hver PDF-side gratis på nett: egendefinert tekst, sidetall med formatene Side X av Y, justering og skriftstørrelse - alt i nettleseren din, ingenting lastes opp.",
+  "id": "/loona-pdf-tools/nb/add-header-footer-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

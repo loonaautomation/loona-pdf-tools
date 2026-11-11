@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tekst til PDF på nett gratis",
+  "short_name": "Tekst til PDF på nett gratis",
+  "description": "Konverter tekst til en PDF gratis på nett. Lim inn teksten din, velg skriftstørrelse og A4- eller Letter-sider, og last ned en ryddig PDF. Ingen registrering - laget privat i nettleseren.",
+  "id": "/loona-pdf-tools/nb/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

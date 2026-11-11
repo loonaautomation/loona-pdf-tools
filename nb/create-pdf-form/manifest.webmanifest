@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lag PDF-skjema på nett gratis",
+  "short_name": "Lag PDF-skjema på nett gratis",
+  "description": "Gjør enhver PDF om til et utfyllbart skjema gratis på nett: legg til ekte tekstfelt og avkrysningsbokser nøyaktig der du drar dem, gi feltene navn, og last ned en ekte AcroForm-PDF enhver kan fylle ut. Ingen opplasting, ingen registrering.",
+  "id": "/loona-pdf-tools/nb/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

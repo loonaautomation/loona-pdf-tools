@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sammenlign PDF på nett gratis",
+  "short_name": "Sammenlign PDF på nett gratis",
+  "description": "Sammenlign to PDF-filer gratis på nett og se nøyaktig hvilken tekst som er endret, side for side. Fjernede og tilføyde linjer utheves side ved side. Ingen registrering; sammenligningen kjører privat i nettleseren din.",
+  "id": "/loona-pdf-tools/nb/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

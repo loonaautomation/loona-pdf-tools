@@ -1,0 +1,29 @@
+{
+  "name": "Loona Organiser PDF på nett gratis",
+  "short_name": "Organiser PDF på nett gratis",
+  "description": "Organiser PDF-sider gratis på nett: dra miniatyrbilder for å omorganisere sider, roter sider som ligger sidelengs, og slett sider du ikke trenger. Ingen registrering. Filer behandles privat i nettleseren din.",
+  "id": "/loona-pdf-tools/nb/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

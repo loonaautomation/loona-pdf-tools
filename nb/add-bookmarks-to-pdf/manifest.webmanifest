@@ -1,0 +1,29 @@
+{
+  "name": "Loona Legg til bokmerker i PDF på nett gratis",
+  "short_name": "Legg til bokmerker i PDF på nett gratis",
+  "description": "Legg til bokmerker (en klikkbar disposisjon) i en PDF gratis på nett: list opp kapititteltler med sidetallene deres og last ned en PDF med en virkelig navigasjonsdisposisjon. I nettleseren, ingenting lastes opp.",
+  "id": "/loona-pdf-tools/nb/add-bookmarks-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
