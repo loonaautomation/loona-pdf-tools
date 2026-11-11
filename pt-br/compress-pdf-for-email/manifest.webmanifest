@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimir PDF para E-mail",
+  "short_name": "Comprimir PDF para E-mail",
+  "description": "Comprimir um PDF para 10 MB ou menos, grátis no seu navegador. A ferramenta tenta primeiro uma nova gravação sem perdas e depois desce a qualidade de renderização passo a passo até o arquivo caber — e indica o resultado exato.",
+  "id": "/loona-pdf-tools/pt-br/compress-pdf-for-email/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

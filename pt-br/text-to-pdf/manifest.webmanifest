@@ -1,0 +1,29 @@
+{
+  "name": "Loona Texto para PDF Online Grátis",
+  "short_name": "Texto para PDF Online Grátis",
+  "description": "Converter texto num PDF online grátis. Cole o seu texto, escolha o tamanho de letra e páginas A4 ou Letter e transfira um PDF limpo. Sem registro - feito de forma privada no navegador.",
+  "id": "/loona-pdf-tools/pt-br/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Extrair Imagens do PDF Online Grátis",
+  "short_name": "Extrair Imagens do PDF Online",
+  "description": "Extrair as imagens originais incorporadas num PDF online grátis: as fotografias e os gráficos são retirados com a sua resolução salva como arquivos PNG - não são capturas de tela. 100% no seu navegador, sem carregar nada.",
+  "id": "/loona-pdf-tools/pt-br/extract-images-from-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
