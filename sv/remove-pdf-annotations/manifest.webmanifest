@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ta bort PDF-kommentarer online gratis",
+  "short_name": "Ta bort PDF-kommentarer online gratis",
+  "description": "Ta bort kommentarer från en PDF gratis online: kommentarer, markeringar, klisterlappar, stämplar och uppmärkning tas bort medan sidinnehållet förblir orört. I webbläsaren, ingenting laddas upp.",
+  "id": "/loona-pdf-tools/sv/remove-pdf-annotations/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

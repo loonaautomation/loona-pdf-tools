@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lägg till sidnummer online gratis",
+  "short_name": "Lägg till sidnummer online gratis",
+  "description": "Lägg till sidnummer i en PDF gratis online. Välj stil (1, Sida 1, 1 av 10), position och startnummer. Ingen registrering; numreringen görs privat i din webbläsare.",
+  "id": "/loona-pdf-tools/sv/add-page-numbers-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

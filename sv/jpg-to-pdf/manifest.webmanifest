@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG till PDF online gratis",
+  "short_name": "JPG till PDF online gratis",
+  "description": "Konvertera JPG-bilder till en PDF gratis online. Kombinera foton till en PDF med A4-, Letter- eller anpassade sidor, i din ordning. Ingen registrering - fungerar privat i webbläsaren.",
+  "id": "/loona-pdf-tools/sv/jpg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

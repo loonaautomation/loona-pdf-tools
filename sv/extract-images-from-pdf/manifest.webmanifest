@@ -1,0 +1,29 @@
+{
+  "name": "Loona Extrahera bilder från PDF online gratis",
+  "short_name": "Extrahera bilder från PDF online gratis",
+  "description": "Extrahera originalbilderna som är inbäddade i en PDF gratis online: foton och grafik dras ut i sin lagrade upplösning som PNG-filer - inte skärmbilder. Till 100% i din webbläsare, ingenting laddas upp.",
+  "id": "/loona-pdf-tools/sv/extract-images-from-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

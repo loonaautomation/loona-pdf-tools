@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF till gråskala online gratis",
+  "short_name": "PDF till gråskala online gratis",
+  "description": "Konvertera en PDF till gråskala gratis online: varje sida byggs om i gråtoner - perfekt för billigare utskrift och ett rent monokromt utseende. Körs till 100% i din webbläsare; ingenting laddas upp.",
+  "id": "/loona-pdf-tools/sv/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimera PDF till 1 MB online gratis",
+  "short_name": "Komprimera PDF till 1 MB online gratis",
+  "description": "Komprimera en PDF till 1 MB eller mindre, gratis i din webbläsare. Verktyget provar först en förlustfri omsparning, sänker sedan renderingskvaliteten stegvis tills din fil passar — och rapporterar det exakta resultatet.",
+  "id": "/loona-pdf-tools/sv/compress-pdf-to-1mb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-sidstorlekar och info online gratis",
+  "short_name": "PDF-sidstorlekar och info online gratis",
+  "description": "Kontrollera en PDF:s sidstorlekar gratis online: varje sidas mått i punkter, millimeter och tum, dess närmaste standardstorlek (A4, Letter...), rotation, plus titel, författare och PDF-version. Ingenting laddas upp.",
+  "id": "/loona-pdf-tools/sv/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ta bort tomma sidor online gratis",
+  "short_name": "Ta bort tomma sidor online gratis",
+  "description": "Ta bort tomma sidor från en PDF gratis online: sidor renderas och kontrolleras pixel för pixel, nästan tomma sidor listas ärligt med sin bläcktäckning, och tas bort - innehållssidor förblir orörda. I webbläsaren.",
+  "id": "/loona-pdf-tools/sv/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

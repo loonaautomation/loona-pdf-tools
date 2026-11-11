@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fyll i PDF-formulär online gratis",
+  "short_name": "Fyll i PDF-formulär online gratis",
+  "description": "Fyll i ett ifyllbart PDF-formulär gratis online. Ladda upp en PDF som har formulärfält, skriv i dess textrutor, kryssrutor, rullgardinsmenyer och radioknappar, och ladda sedan ner den ifyllda PDF:en. Ingen registrering; allt körs privat i din webbläsare.",
+  "id": "/loona-pdf-tools/sv/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
