@@ -1,0 +1,29 @@
+{
+  "name": "Loona 透かしを追加 オンライン無料",
+  "short_name": "透かしを追加 オンライン無料",
+  "description": "PDFにテキストの透かしを無料でオンライン追加。テキスト、サイズ、不透明度、角度、色を設定し、中央配置またはタイル配置が可能です。登録不要。透かし入れはブラウザ内でプライベートに実行されます。",
+  "id": "/loona-pdf-tools/ja/add-watermark-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

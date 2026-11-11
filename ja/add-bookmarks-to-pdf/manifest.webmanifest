@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDFにブックマークを追加 オンライン無料",
+  "short_name": "PDFにブックマークを追加 オンライン無料",
+  "description": "PDFにブックマーク（クリック可能なアウトライン）を無料でオンライン追加：章のタイトルとページ番号を一覧で入力し、本物のナビゲーションアウトラインを持つPDFをダウンロードできます。ブラウザ内で処理し、アップロードは一切ありません。",
+  "id": "/loona-pdf-tools/ja/add-bookmarks-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

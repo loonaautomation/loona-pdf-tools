@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSONからPDFへの変換ツール オンライン無料",
+  "short_name": "JSONからPDFへの変換ツール オンライン無料",
+  "description": "JSONをオンラインで、読みやすくページ分割されたPDFに変換。ブラウザで無料。まず検証と整形表示を行います。アップロード不要。",
+  "id": "/loona-pdf-tools/ja/json-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

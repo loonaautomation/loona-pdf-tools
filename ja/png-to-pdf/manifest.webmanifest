@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNGをPDFに変換 オンライン無料",
+  "short_name": "PNGをPDFに変換 オンライン無料",
+  "description": "PNG画像をPDFに無料でオンライン変換。スクリーンショット、ロゴ、グラフィックがA4、Letter、合わせるページで一つのPDFになります。ブラウザ内でのプライベートな変換、登録不要。",
+  "id": "/loona-pdf-tools/ja/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

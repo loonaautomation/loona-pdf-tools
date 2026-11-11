@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDFページサイズと情報 オンライン無料",
+  "short_name": "PDFページサイズと情報 オンライン無料",
+  "description": "PDFのページサイズを無料でオンライン確認：すべてのページの寸法をポイント、ミリメートル、インチで表示し、最も近い標準サイズ（A4、Letterなど）、回転、タイトル、作成者、PDFバージョンも分かります。アップロードは一切ありません。",
+  "id": "/loona-pdf-tools/ja/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

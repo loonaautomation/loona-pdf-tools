@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDFを比較 オンライン無料",
+  "short_name": "PDFを比較 オンライン無料",
+  "description": "二つのPDFファイルを無料でオンライン比較し、どのテキストが変わったかをページごとに正確に確認できます。削除された行と追加された行が並べてハイライトされます。登録不要。比較はブラウザ内でプライベートに実行されます。",
+  "id": "/loona-pdf-tools/ja/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

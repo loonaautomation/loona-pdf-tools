@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDFを500 KBに圧縮 オンライン無料",
+  "short_name": "PDFを500 KBに圧縮 オンライン無料",
+  "description": "PDFを500 KB以下に圧縮、ブラウザで無料。このツールはまず可逆の再保存を試し、ファイルが収まるまで描画品質を段階的に下げ、正確な結果を報告します。",
+  "id": "/loona-pdf-tools/ja/compress-pdf-to-500kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

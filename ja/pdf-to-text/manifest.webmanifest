@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDFをテキストに変換 オンライン無料",
+  "short_name": "PDFをテキストに変換 オンライン無料",
+  "description": "PDFからテキストを無料でオンライン抽出。すべてのページの全文を取得し、コピーしたりTXTファイルとしてダウンロードしたりできます。登録不要で、PDFがブラウザの外に出ることは決してありません。",
+  "id": "/loona-pdf-tools/ja/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

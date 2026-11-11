@@ -1,0 +1,29 @@
+{
+  "name": "Loona SVGからPDFへの変換ツール オンライン無料",
+  "short_name": "SVGからPDFへの変換ツール オンライン無料",
+  "description": "SVG画像をPDFにオンライン変換、無料、ブラウザ上で。一ページに一画像、画像に合わせるかA4/Letterページ。アップロード不要、登録不要。",
+  "id": "/loona-pdf-tools/ja/svg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

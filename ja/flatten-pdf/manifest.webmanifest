@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDFをフラット化 オンライン無料",
+  "short_name": "PDFをフラット化 オンライン無料",
+  "description": "PDFを無料でオンラインフラット化：入力可能なフォームフィールドをページに焼き込み、回答を編集できないようにします。すべてをフラット化する完全な画像再構築も任意で選べます。プライベート、ブラウザ内、登録不要。",
+  "id": "/loona-pdf-tools/ja/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

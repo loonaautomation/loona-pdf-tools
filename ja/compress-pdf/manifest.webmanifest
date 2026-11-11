@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDFを圧縮 オンライン無料",
+  "short_name": "PDFを圧縮 オンライン無料",
+  "description": "PDFファイルを無料でオンライン圧縮し、メールやアップロード用に小さくします。可逆のストリーム圧縮か、強力な画像圧縮かを選べます。プライベートに、ブラウザ上で。",
+  "id": "/loona-pdf-tools/ja/compress-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

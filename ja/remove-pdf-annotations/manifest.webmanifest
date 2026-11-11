@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF注釈を削除 オンライン無料",
+  "short_name": "PDF注釈を削除 オンライン無料",
+  "description": "PDFから注釈を無料でオンライン削除：コメント、ハイライト、付箋、スタンプ、マークアップが取り除かれ、ページ内容はそのままです。ブラウザ内で、アップロードは一切ありません。",
+  "id": "/loona-pdf-tools/ja/remove-pdf-annotations/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

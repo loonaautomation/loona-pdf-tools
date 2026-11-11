@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDFページを削除 オンライン無料",
+  "short_name": "PDFページを削除 オンライン無料",
+  "description": "PDFからページを無料でオンライン削除。削除するページ番号（例：2, 4-6）を入力し、クリーニング済みのファイルをダウンロードできます。登録不要。すべてブラウザ内に留まります。",
+  "id": "/loona-pdf-tools/ja/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

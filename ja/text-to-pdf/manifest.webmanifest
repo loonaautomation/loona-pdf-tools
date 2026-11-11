@@ -1,0 +1,29 @@
+{
+  "name": "Loona テキストをPDFに変換 オンライン無料",
+  "short_name": "テキストをPDFに変換 オンライン無料",
+  "description": "テキストをPDFに無料でオンライン変換。テキストを貼り付け、フォントサイズとA4またはLetterページを選び、きれいなPDFをダウンロードできます。登録不要。ブラウザ内でプライベートに作成されます。",
+  "id": "/loona-pdf-tools/ja/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

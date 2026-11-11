@@ -1,0 +1,29 @@
+{
+  "name": "Loona 証明書メーカー オンライン無料",
+  "short_name": "証明書メーカー オンライン無料",
+  "description": "無料の証明書メーカー：ライブプレビューで印刷可能な証明書をデザインし、印刷可能なA4 PDFまたはPNGをダウンロードできます。証明書を一枚作ることも、名前リストから数百枚を一括で作ることもできます。登録不要、透かしなし、すべてブラウザ内でプライベートに実行されます。",
+  "id": "/loona-pdf-tools/ja/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

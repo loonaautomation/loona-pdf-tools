@@ -1,0 +1,29 @@
+{
+  "name": "Loona ページ番号を追加 オンライン無料",
+  "short_name": "ページ番号を追加 オンライン無料",
+  "description": "PDFにページ番号を無料でオンライン追加。スタイル（1、Page 1、1 of 10）、位置、開始番号を選べます。登録不要。番号付けはブラウザ内でプライベートに行われます。",
+  "id": "/loona-pdf-tools/ja/add-page-numbers-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

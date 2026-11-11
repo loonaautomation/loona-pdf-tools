@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF情報を編集 オンライン無料",
+  "short_name": "PDF情報を編集 オンライン無料",
+  "description": "PDFメタデータを無料でオンライン表示・編集。タイトル、作成者、件名、キーワードに加え、ページ数とファイルサイズも確認できます。登録不要。メタデータ編集はブラウザ内で実行されます。",
+  "id": "/loona-pdf-tools/ja/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
