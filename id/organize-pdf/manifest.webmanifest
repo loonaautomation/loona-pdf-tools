@@ -1,0 +1,29 @@
+{
+  "name": "Loona Atur PDF online gratis",
+  "short_name": "Atur PDF online gratis",
+  "description": "Atur halaman PDF gratis secara online: seret thumbnail untuk menyusun ulang halaman, putar halaman yang menyamping, dan hapus halaman yang tidak Anda perlukan. Tanpa pendaftaran. File diproses secara privat di browser Anda.",
+  "id": "/loona-pdf-tools/id/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

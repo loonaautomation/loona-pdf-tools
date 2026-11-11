@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hapus Halaman Kosong online gratis",
+  "short_name": "Hapus Halaman Kosong online gratis",
+  "description": "Hapus halaman kosong dari PDF gratis secara online: halaman dirender dan diperiksa piksel demi piksel, halaman nyaris kosong didaftar dengan jujur beserta cakupan tintanya, dan dihapus - halaman berisi tetap tidak tersentuh. Di browser.",
+  "id": "/loona-pdf-tools/id/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

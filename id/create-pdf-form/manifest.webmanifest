@@ -1,0 +1,29 @@
+{
+  "name": "Loona Buat Formulir PDF online gratis",
+  "short_name": "Buat Formulir PDF online gratis",
+  "description": "Ubah PDF apa pun menjadi formulir yang dapat diisi gratis secara online: tambahkan kolom teks dan kotak centang sungguhan tepat di tempat Anda menyeretnya, namai kolomnya, dan unduh PDF AcroForm sejati yang dapat diisi siapa pun. Tanpa unggahan, tanpa pendaftaran.",
+  "id": "/loona-pdf-tools/id/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

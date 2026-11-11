@@ -1,0 +1,29 @@
+{
+  "name": "Loona Putar PDF online gratis",
+  "short_name": "Putar PDF online gratis",
+  "description": "Putar halaman PDF gratis secara online sebesar 90, 180, atau 270 derajat - semua halaman atau rentang pilihan - dan simpan file yang telah diperbaiki. Tanpa pendaftaran; ini terjadi di browser Anda.",
+  "id": "/loona-pdf-tools/id/rotate-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

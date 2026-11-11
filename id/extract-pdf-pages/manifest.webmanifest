@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ekstrak Halaman PDF online gratis",
+  "short_name": "Ekstrak Halaman PDF online gratis",
+  "description": "Ekstrak halaman pilihan dari PDF gratis secara online. Masukkan halaman seperti 3, 5-8 dan unduh sebagai PDF baru yang lebih kecil. Tanpa pendaftaran; ekstraksi berjalan di browser Anda.",
+  "id": "/loona-pdf-tools/id/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

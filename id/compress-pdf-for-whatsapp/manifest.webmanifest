@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kompres PDF untuk WhatsApp online gratis",
+  "short_name": "Kompres PDF untuk WhatsApp online gratis",
+  "description": "Kompres PDF menjadi 16 MB atau kurang, gratis di browser Anda. Alat ini pertama mencoba penyimpanan ulang lossless, lalu menurunkan kualitas render langkah demi langkah hingga file Anda muat — dan melaporkan hasil persisnya.",
+  "id": "/loona-pdf-tools/id/compress-pdf-for-whatsapp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

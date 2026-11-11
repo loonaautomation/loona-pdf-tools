@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF ke WebP online gratis",
+  "short_name": "PDF ke WebP online gratis",
+  "description": "Konversi halaman PDF ke gambar WebP gratis secara online: lebih kecil daripada JPG dan PNG untuk situs web, dirender pada resolusi pilihan Anda di browser Anda. Tanpa ada yang diunggah, tanpa pendaftaran.",
+  "id": "/loona-pdf-tools/id/pdf-to-webp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator Tanda Tangan online gratis",
+  "short_name": "Generator Tanda Tangan online gratis",
+  "description": "Buat gambar tanda tangan gratis secara online: gambar, ketik nama Anda dalam gaya tulisan tangan, atau jadikan foto tanda tangan Anda transparan. Unduh PNG transparan yang bersih - tanpa unggahan, tanpa pendaftaran.",
+  "id": "/loona-pdf-tools/id/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

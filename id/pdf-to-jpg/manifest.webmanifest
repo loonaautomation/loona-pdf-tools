@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF ke JPG online gratis",
+  "short_name": "PDF ke JPG online gratis",
+  "description": "Konversi halaman PDF ke gambar JPG gratis secara online. Pilih kualitas standar, tinggi, atau cetak dan unduh setiap halaman sebagai JPG. Tanpa pendaftaran; konversi berjalan di browser Anda.",
+  "id": "/loona-pdf-tools/id/pdf-to-jpg/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

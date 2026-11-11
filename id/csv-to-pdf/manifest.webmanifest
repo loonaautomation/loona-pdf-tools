@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV ke PDF online gratis",
+  "short_name": "CSV ke PDF online gratis",
+  "description": "Konversi data CSV ke tabel PDF yang bersih dan berpaginasi secara online, gratis di browser Anda. Baris header tebal yang berulang, kolom yang disesuaikan. Tanpa unggahan.",
+  "id": "/loona-pdf-tools/id/csv-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
