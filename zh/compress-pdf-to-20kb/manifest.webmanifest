@@ -1,0 +1,29 @@
+{
+  "name": "Loona 将 PDF 压缩到 20 KB 在线免费",
+  "short_name": "将 PDF 压缩到 20 KB 在线免费",
+  "description": "在浏览器中免费将 PDF 压缩到 20 KB 或更小。工具先尝试无损重新保存，然后逐步降低渲染质量，直到您的文件达标——并报告确切结果。",
+  "id": "/loona-pdf-tools/zh/compress-pdf-to-20kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 转 PDF 在线免费",
+  "short_name": "HTML 转 PDF 在线免费",
+  "description": "在线免费将 HTML 转换为 PDF，使用您浏览器自己的打印为 PDF 引擎——完整 CSS 支持，不上传，无水印。",
+  "id": "/loona-pdf-tools/zh/html-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

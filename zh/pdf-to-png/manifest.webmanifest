@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 转 PNG 在线免费",
+  "short_name": "PDF 转 PNG 在线免费",
+  "description": "在线免费将 PDF 页面转换为 PNG 图片，分辨率最高可达 3 倍，并保留透明度。分别下载每个页面。在您的浏览器中私密进行。",
+  "id": "/loona-pdf-tools/zh/pdf-to-png/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 多页合一 PDF 在线免费",
+  "short_name": "多页合一 PDF 在线免费",
+  "description": "在线免费将多个 PDF 页面放在一张纸上：A4 或 Letter 上的 2 合一、4 合一、6 合一或 9 合一布局，按阅读顺序。为讲义和草稿节省纸张。在浏览器中完成，不上传任何内容。",
+  "id": "/loona-pdf-tools/zh/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

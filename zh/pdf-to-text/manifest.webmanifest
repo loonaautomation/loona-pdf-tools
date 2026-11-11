@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 转文字 在线免费",
+  "short_name": "PDF 转文字 在线免费",
+  "description": "在线免费从 PDF 中提取文字。获取每个页面的完整文字，可复制或下载为 TXT 文件。无需注册，您的 PDF 永远不会离开您的浏览器。",
+  "id": "/loona-pdf-tools/zh/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

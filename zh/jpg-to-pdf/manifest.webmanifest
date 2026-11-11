@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG 转 PDF 在线免费",
+  "short_name": "JPG 转 PDF 在线免费",
+  "description": "在线免费将 JPG 图片转换为 PDF。按您的顺序将照片合并为一份带 A4、Letter 或适合页面的 PDF。无需注册——在浏览器中私密进行。",
+  "id": "/loona-pdf-tools/zh/jpg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

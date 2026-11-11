@@ -1,0 +1,29 @@
+{
+  "name": "Loona 删除 PDF 注释 在线免费",
+  "short_name": "删除 PDF 注释 在线免费",
+  "description": "在线免费从 PDF 中删除注释：评论、高亮、便利贴、印章和标记被剥离，而页面内容保持不变。在浏览器中完成，不上传任何内容。",
+  "id": "/loona-pdf-tools/zh/remove-pdf-annotations/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

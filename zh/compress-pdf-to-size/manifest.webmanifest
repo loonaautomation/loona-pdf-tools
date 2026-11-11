@@ -1,0 +1,29 @@
+{
+  "name": "Loona 将 PDF 压缩到指定大小 在线免费",
+  "short_name": "将 PDF 压缩到指定大小 在线免费",
+  "description": "将 PDF 压缩到精确目标：20 KB、50 KB、100 KB、200 KB、500 KB、1 MB、2 MB、5 MB——外加电子邮件（10 MB）和 WhatsApp（16 MB）预设。免费，在您的浏览器中完成。",
+  "id": "/loona-pdf-tools/zh/compress-pdf-to-size/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

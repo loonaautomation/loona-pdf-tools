@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 转 PDF 在线免费",
+  "short_name": "CSV 转 PDF 在线免费",
+  "description": "在线免费在您的浏览器中将 CSV 数据转换为干净、分页的 PDF 表格。加粗的重复表头行，列宽适合页面。不上传。",
+  "id": "/loona-pdf-tools/zh/csv-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

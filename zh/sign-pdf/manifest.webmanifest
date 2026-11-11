@@ -1,0 +1,29 @@
+{
+  "name": "Loona 签署 PDF 在线免费",
+  "short_name": "签署 PDF 在线免费",
+  "description": "在线免费签署 PDF。绘制您的签名或上传其图片，用实时预览定位它，然后下载已签名的 PDF。私密——不上传任何内容。",
+  "id": "/loona-pdf-tools/zh/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

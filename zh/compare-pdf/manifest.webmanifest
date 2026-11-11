@@ -1,0 +1,29 @@
+{
+  "name": "Loona 比较 PDF 在线免费",
+  "short_name": "比较 PDF 在线免费",
+  "description": "在线免费比较两份 PDF 文件，逐页查看到底哪些文字发生了变化。删除和添加的行会并排高亮显示。无需注册；比较在您的浏览器中私密进行。",
+  "id": "/loona-pdf-tools/zh/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

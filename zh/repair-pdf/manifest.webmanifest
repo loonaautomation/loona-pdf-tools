@@ -1,0 +1,29 @@
+{
+  "name": "Loona 修复 PDF 在线免费",
+  "short_name": "修复 PDF 在线免费",
+  "description": "在线免费修复损坏的 PDF：重建损坏的交叉引用表并重新保存干净的副本，并以页面图片重建作为最后手段。诚实说明限制。100% 在您的浏览器中完成。",
+  "id": "/loona-pdf-tools/zh/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

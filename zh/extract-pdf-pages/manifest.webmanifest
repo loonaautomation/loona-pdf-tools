@@ -1,0 +1,29 @@
+{
+  "name": "Loona 提取 PDF 页面 在线免费",
+  "short_name": "提取 PDF 页面 在线免费",
+  "description": "在线免费从 PDF 中提取选定页面。输入如 3, 5-8 的页面并将其下载为新的、更小的 PDF。无需注册；提取在您的浏览器中运行。",
+  "id": "/loona-pdf-tools/zh/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

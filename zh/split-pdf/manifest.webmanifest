@@ -1,0 +1,29 @@
+{
+  "name": "Loona 拆分 PDF 在线免费",
+  "short_name": "拆分 PDF 在线免费",
+  "description": "在线免费将 PDF 拆分为单独的文件。将每个页面提取为其自己的 PDF，或按页面范围拆分。无需注册，您的文件永远不会离开您的浏览器。",
+  "id": "/loona-pdf-tools/zh/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

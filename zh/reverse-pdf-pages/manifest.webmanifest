@@ -1,0 +1,29 @@
+{
+  "name": "Loona 反转 PDF 页面 在线免费",
+  "short_name": "反转 PDF 页面 在线免费",
+  "description": "在线免费反转 PDF 的页面顺序——最后一页成为第一页。非常适合修复前后颠倒的扫描件。即时，在您的浏览器中完成，不上传任何内容。",
+  "id": "/loona-pdf-tools/zh/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

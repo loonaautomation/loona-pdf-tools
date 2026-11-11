@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Tools",
+  "short_name": "Loona PDF Tools",
+  "description": "免费在线 PDF 工具——合并、拆分、压缩、转换、旋转、签署和编辑 PDF。100% 免费，无需注册，您的文件永远不会离开您的设备。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-pdf-tools/zh/"
+}
