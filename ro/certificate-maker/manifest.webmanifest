@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creator de certificate online gratuit",
+  "short_name": "Creator de certificate online gratuit",
+  "description": "Creator de certificate gratuit: proiectează un certificat imprimabil pe o previzualizare live, apoi descarcă un PDF A4 gata de imprimare sau un PNG. Fă un singur certificat sau sute în masă, dintr-o listă de nume. Fără înregistrare, fără filigran, iar totul rulează privat în browserul tău.",
+  "id": "/loona-pdf-tools/ro/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

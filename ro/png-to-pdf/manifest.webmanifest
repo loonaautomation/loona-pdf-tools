@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG în PDF online gratuit",
+  "short_name": "PNG în PDF online gratuit",
+  "description": "Convertește gratuit online imagini PNG într-un PDF. Capturile de ecran, siglele și graficile devin un singur PDF cu pagini A4, Letter sau potrivite. Conversie privată în browser, fără înregistrare.",
+  "id": "/loona-pdf-tools/ro/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editează informațiile PDF online gratuit",
+  "short_name": "Editează informațiile PDF online gratuit",
+  "description": "Vezi și editează gratuit online metadatele PDF - titlu, autor, subiect și cuvinte cheie - și vezi numărul de pagini și dimensiunea fișierului. Fără înregistrare; editarea metadatelor rulează în browser.",
+  "id": "/loona-pdf-tools/ro/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

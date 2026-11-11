@@ -1,0 +1,29 @@
+{
+  "name": "Loona Șterge pagini din PDF online gratuit",
+  "short_name": "Șterge pagini din PDF online gratuit",
+  "description": "Șterge gratuit online pagini dintr-un PDF. Tastează numerele paginilor de eliminat - cum ar fi 2, 4-6 - și descarcă fișierul curățat. Fără înregistrare; totul rămâne în browserul tău.",
+  "id": "/loona-pdf-tools/ro/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

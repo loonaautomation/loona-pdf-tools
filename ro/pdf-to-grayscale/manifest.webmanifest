@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF în tonuri de gri online gratuit",
+  "short_name": "PDF în tonuri de gri online gratuit",
+  "description": "Convertește gratuit online un PDF în tonuri de gri: fiecare pagină este reconstruită în nuanțe de gri - ideal pentru o imprimare mai ieftină și un aspect monocrom curat. Rulează 100% în browserul tău; nu se încarcă nimic.",
+  "id": "/loona-pdf-tools/ro/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

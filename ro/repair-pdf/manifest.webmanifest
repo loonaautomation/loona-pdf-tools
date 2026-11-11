@@ -1,0 +1,29 @@
+{
+  "name": "Loona Repară PDF online gratuit",
+  "short_name": "Repară PDF online gratuit",
+  "description": "Repară gratuit online un PDF deteriorat: reconstruiește tabelele de referințe încrucișate defecte și resalvează o copie curată, cu o reconstrucție din imagini ale paginilor ca ultimă soluție. Limite cinstite declarate. 100% în browserul tău.",
+  "id": "/loona-pdf-tools/ro/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

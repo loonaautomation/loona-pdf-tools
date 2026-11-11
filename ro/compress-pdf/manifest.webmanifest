@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimă PDF online gratuit",
+  "short_name": "Comprimă PDF online gratuit",
+  "description": "Comprimă gratuit online fișiere PDF și micșorează-le pentru e-mail sau încărcări. Alege comprimarea fără pierderi a fluxului sau comprimarea puternică a imaginilor. Privat, în browserul tău.",
+  "id": "/loona-pdf-tools/ro/compress-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

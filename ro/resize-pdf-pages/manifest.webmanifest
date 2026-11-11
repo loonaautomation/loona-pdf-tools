@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionează paginile PDF online gratuit",
+  "short_name": "Redimensionează paginile PDF online gratuit",
+  "description": "Redimensionează gratuit online pagini PDF: convertește fiecare pagină la A4, US Letter sau Legal ori scalează cu un procent, cu conținutul scalat pentru potrivire și centrat. Rulează în browserul tău - fără să se încarce nimic.",
+  "id": "/loona-pdf-tools/ro/resize-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

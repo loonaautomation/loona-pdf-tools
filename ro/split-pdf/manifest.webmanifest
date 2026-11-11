@@ -1,0 +1,29 @@
+{
+  "name": "Loona Divizează PDF online gratuit",
+  "short_name": "Divizează PDF online gratuit",
+  "description": "Divizează gratuit online un PDF în fișiere separate. Extrage fiecare pagină ca propriul ei PDF sau divizează pe intervale de pagini. Fără înregistrare, iar fișierul tău nu părăsește niciodată browserul tău.",
+  "id": "/loona-pdf-tools/ro/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

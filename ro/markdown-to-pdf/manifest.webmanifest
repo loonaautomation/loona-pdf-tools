@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor Markdown în PDF online gratuit",
+  "short_name": "Convertor Markdown în PDF online gratuit",
+  "description": "Convertește Markdown într-un PDF stilizat online, gratuit în browserul tău. Titluri, liste, cod și linkuri randate cu o previzualizare live. Fără încărcare.",
+  "id": "/loona-pdf-tools/ro/markdown-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

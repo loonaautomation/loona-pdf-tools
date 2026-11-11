@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compară PDF online gratuit",
+  "short_name": "Compară PDF online gratuit",
+  "description": "Compară gratuit online două fișiere PDF și vezi exact ce text s-a schimbat, pagină cu pagină. Rândurile eliminate și adăugate sunt evidențiate alăturat. Fără înregistrare; compararea rulează privat în browserul tău.",
+  "id": "/loona-pdf-tools/ro/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

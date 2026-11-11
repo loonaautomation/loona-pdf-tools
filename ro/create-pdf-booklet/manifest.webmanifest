@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creează o broșură PDF online gratuit",
+  "short_name": "Creează o broșură PDF online gratuit",
+  "description": "Fă gratuit online un PDF de broșură imprimabilă: paginile sunt așezate în adevărata ordine de broșură pe foi peisaj - imprimă față-verso, împăturește, capsează. Paginile goale completează automat până la un multiplu de patru.",
+  "id": "/loona-pdf-tools/ro/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

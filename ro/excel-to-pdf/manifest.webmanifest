@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor Excel în PDF online gratuit",
+  "short_name": "Convertor Excel în PDF online gratuit",
+  "description": "Convertește foi de calcul Excel (.xlsx, .xls) și fișiere CSV într-un tabel PDF curat și paginat online, gratuit în browserul tău. Fiecare foaie devine un tabel cu un rând de antet care se repetă. Fără încărcare.",
+  "id": "/loona-pdf-tools/ro/excel-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

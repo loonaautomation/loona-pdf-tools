@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor AVIF în PDF online gratuit",
+  "short_name": "Convertor AVIF în PDF online gratuit",
+  "description": "Convertește imagini AVIF într-un PDF online, gratuit, în browserul tău. O imagine pe pagină, pagini potrivite la imagine sau A4/Letter. Fără încărcare, fără înregistrare.",
+  "id": "/loona-pdf-tools/ro/avif-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

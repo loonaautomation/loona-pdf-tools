@@ -1,0 +1,29 @@
+{
+  "name": "Loona Îmbină PDF online gratuit",
+  "short_name": "Îmbină PDF online gratuit",
+  "description": "Îmbină gratuit online fișiere PDF într-un singur document. Combină mai multe PDF-uri, trage pentru a le reordona, fără înregistrare necesară. Fișierele sunt procesate privat în browserul tău.",
+  "id": "/loona-pdf-tools/ro/merge-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Semnează PDF online gratuit",
+  "short_name": "Semnează PDF online gratuit",
+  "description": "Semnează gratuit online un PDF. Desenează-ți semnătura sau încarcă imaginea ei, așaz-o cu o previzualizare live și descarcă PDF-ul semnat. Privat - nu se încarcă nimic.",
+  "id": "/loona-pdf-tools/ro/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
