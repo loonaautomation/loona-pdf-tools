@@ -1,0 +1,29 @@
+{
+  "name": "Loona 修復 PDF 線上免費",
+  "short_name": "修復 PDF 線上免費",
+  "description": "線上免費修復損壞的 PDF：重建損壞的交叉引用表並重新儲存乾淨的副本，並以頁面圖片重建作為最後手段。誠實說明限制。100% 在您的瀏覽器中完成。",
+  "id": "/loona-pdf-tools/zh-hant/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

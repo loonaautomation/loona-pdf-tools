@@ -1,0 +1,29 @@
+{
+  "name": "Loona 建立 PDF 小冊子 線上免費",
+  "short_name": "建立 PDF 小冊子 線上免費",
+  "description": "線上免費製作可列印的小冊子 PDF：頁面以真正的小冊子順序拼版在橫向紙張上——雙面列印、摺疊、裝訂。空白頁自動補足到四的倍數。",
+  "id": "/loona-pdf-tools/zh-hant/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

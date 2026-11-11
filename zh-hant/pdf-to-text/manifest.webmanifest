@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 轉文字 線上免費",
+  "short_name": "PDF 轉文字 線上免費",
+  "description": "線上免費從 PDF 中提取文字。獲取每個頁面的完整文字，可複製或下載為 TXT 檔案。無需註冊，您的 PDF 永遠不會離開您的瀏覽器。",
+  "id": "/loona-pdf-tools/zh-hant/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

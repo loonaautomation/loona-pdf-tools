@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文字轉 PDF 線上免費",
+  "short_name": "文字轉 PDF 線上免費",
+  "description": "線上免費將文字轉換為 PDF。貼上您的文字，選擇字型大小和 A4 或 Letter 頁面，下載乾淨的 PDF。無需註冊——在瀏覽器中私密製作。",
+  "id": "/loona-pdf-tools/zh-hant/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

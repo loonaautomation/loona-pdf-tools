@@ -1,0 +1,29 @@
+{
+  "name": "Loona 調整 PDF 頁面大小 線上免費",
+  "short_name": "調整 PDF 頁面大小 線上免費",
+  "description": "線上免費調整 PDF 頁面大小：將每個頁面轉換為 A4、US Letter 或 Legal，或按百分比縮放，內容縮放以適合並居中。在您的瀏覽器中執行——不上傳任何內容。",
+  "id": "/loona-pdf-tools/zh-hant/resize-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

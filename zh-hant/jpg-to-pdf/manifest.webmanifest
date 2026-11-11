@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG 轉 PDF 線上免費",
+  "short_name": "JPG 轉 PDF 線上免費",
+  "description": "線上免費將 JPG 圖片轉換為 PDF。按您的順序將照片合併為一份帶 A4、Letter 或適合頁面的 PDF。無需註冊——在瀏覽器中私密進行。",
+  "id": "/loona-pdf-tools/zh-hant/jpg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

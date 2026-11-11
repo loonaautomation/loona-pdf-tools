@@ -1,0 +1,29 @@
+{
+  "name": "Loona 裁剪 PDF 線上免費",
+  "short_name": "裁剪 PDF 線上免費",
+  "description": "線上免費裁剪 PDF 頁面：按點或百分比修剪每個頁面或一個範圍的白色邊距或切邊。頁面裁剪框在您的瀏覽器中精確設定——不上傳任何內容。",
+  "id": "/loona-pdf-tools/zh-hant/crop-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

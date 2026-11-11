@@ -1,0 +1,29 @@
+{
+  "name": "Loona 從 PDF 中提取圖片 線上免費",
+  "short_name": "從 PDF 中提取圖片 線上免費",
+  "description": "線上免費提取 PDF 中嵌入的原始圖片：照片和圖形以其儲存解析度作為 PNG 檔案被提取出來——不是截圖。100% 在您的瀏覽器中完成，不上傳任何內容。",
+  "id": "/loona-pdf-tools/zh-hant/extract-images-from-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

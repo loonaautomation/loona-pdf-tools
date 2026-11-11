@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 轉 Markdown 轉換器 線上免費",
+  "short_name": "PDF 轉 Markdown 轉換器 線上免費",
+  "description": "線上免費在您的瀏覽器中將 PDF 轉換為 Markdown。提取文字，並根據字型大小檢測標題結構。不上傳，無需註冊。",
+  "id": "/loona-pdf-tools/zh-hant/pdf-to-markdown/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

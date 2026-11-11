@@ -1,0 +1,29 @@
+{
+  "name": "Loona 將 PDF 壓縮到 2 MB 線上免費",
+  "short_name": "將 PDF 壓縮到 2 MB 線上免費",
+  "description": "在瀏覽器中免費將 PDF 壓縮到 2 MB 或更小。工具先嚐試無損重新儲存，然後逐步降低渲染質量，直到您的檔案達標——並報告確切結果。",
+  "id": "/loona-pdf-tools/zh-hant/compress-pdf-to-2mb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

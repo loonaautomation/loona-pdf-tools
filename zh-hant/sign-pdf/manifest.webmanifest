@@ -1,0 +1,29 @@
+{
+  "name": "Loona 簽署 PDF 線上免費",
+  "short_name": "簽署 PDF 線上免費",
+  "description": "線上免費簽署 PDF。繪製您的簽名或上傳其圖片，用實時預覽定位它，然後下載已簽名的 PDF。私密——不上傳任何內容。",
+  "id": "/loona-pdf-tools/zh-hant/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

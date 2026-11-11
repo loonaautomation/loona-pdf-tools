@@ -1,0 +1,29 @@
+{
+  "name": "Loona 整理 PDF 線上免費",
+  "short_name": "整理 PDF 線上免費",
+  "description": "線上免費整理 PDF 頁面：拖動縮圖重新排列頁面，旋轉側著的頁面，刪除您不需要的頁面。無需註冊。檔案在您的瀏覽器中私密處理。",
+  "id": "/loona-pdf-tools/zh-hant/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 轉 PDF 線上免費",
+  "short_name": "CSV 轉 PDF 線上免費",
+  "description": "線上免費在您的瀏覽器中將 CSV 資料轉換為乾淨、分頁的 PDF 表格。加粗的重複表頭行，列寬適合頁面。不上傳。",
+  "id": "/loona-pdf-tools/zh-hant/csv-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

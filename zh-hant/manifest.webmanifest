@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Tools",
+  "short_name": "Loona PDF Tools",
+  "description": "免費線上 PDF 工具——合併、拆分、壓縮、轉換、旋轉、簽署和編輯 PDF。100% 免費，無需註冊，您的檔案永遠不會離開您的裝置。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-pdf-tools/zh-hant/"
+}

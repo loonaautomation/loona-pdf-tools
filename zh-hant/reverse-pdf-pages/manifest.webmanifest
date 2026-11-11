@@ -1,0 +1,29 @@
+{
+  "name": "Loona 反轉 PDF 頁面 線上免費",
+  "short_name": "反轉 PDF 頁面 線上免費",
+  "description": "線上免費反轉 PDF 的頁面順序——最後一頁成為第一頁。非常適合修復前後顛倒的掃描件。即時，在您的瀏覽器中完成，不上傳任何內容。",
+  "id": "/loona-pdf-tools/zh-hant/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

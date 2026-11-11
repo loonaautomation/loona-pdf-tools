@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF 轉換器 線上免費",
+  "short_name": "PDF 轉換器 線上免費",
+  "description": "所有 PDF 轉換器集中一處：圖片、CSV、JSON、HTML 和 Markdown 轉 PDF——以及 PDF 轉回圖片、文字、HTML 和 Markdown。免費，在您的瀏覽器中完成。",
+  "id": "/loona-pdf-tools/zh-hant/pdf-converters/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

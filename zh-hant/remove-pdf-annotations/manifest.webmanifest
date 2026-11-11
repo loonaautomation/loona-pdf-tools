@@ -1,0 +1,29 @@
+{
+  "name": "Loona 刪除 PDF 註釋 線上免費",
+  "short_name": "刪除 PDF 註釋 線上免費",
+  "description": "線上免費從 PDF 中刪除註釋：評論、高亮、便利貼、印章和標記被剝離，而頁面內容保持不變。在瀏覽器中完成，不上傳任何內容。",
+  "id": "/loona-pdf-tools/zh-hant/remove-pdf-annotations/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

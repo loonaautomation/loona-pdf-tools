@@ -1,0 +1,29 @@
+{
+  "name": "Loona 比較 PDF 線上免費",
+  "short_name": "比較 PDF 線上免費",
+  "description": "線上免費比較兩份 PDF 檔案，逐頁檢視到底哪些文字發生了變化。刪除和新增的行會並排高亮顯示。無需註冊；比較在您的瀏覽器中私密進行。",
+  "id": "/loona-pdf-tools/zh-hant/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

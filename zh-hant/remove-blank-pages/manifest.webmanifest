@@ -1,0 +1,29 @@
+{
+  "name": "Loona 刪除空白頁 線上免費",
+  "short_name": "刪除空白頁 線上免費",
+  "description": "線上免費從 PDF 中刪除空白頁：頁面被渲染並逐畫素檢查，近乎空白的頁面連同其墨跡覆蓋率誠實地列出，並被刪除——內容頁面保持不變。在瀏覽器中完成。",
+  "id": "/loona-pdf-tools/zh-hant/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

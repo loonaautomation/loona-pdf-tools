@@ -1,0 +1,29 @@
+{
+  "name": "Loona 多頁合一 PDF 線上免費",
+  "short_name": "多頁合一 PDF 線上免費",
+  "description": "線上免費將多個 PDF 頁面放在一張紙上：A4 或 Letter 上的 2 合一、4 合一、6 合一或 9 合一佈局，按閱讀順序。為講義和草稿節省紙張。在瀏覽器中完成，不上傳任何內容。",
+  "id": "/loona-pdf-tools/zh-hant/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

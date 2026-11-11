@@ -1,0 +1,29 @@
+{
+  "name": "Loona 簽名生成器 線上免費",
+  "short_name": "簽名生成器 線上免費",
+  "description": "線上免費建立簽名圖片：繪製它、用手寫風格輸入您的姓名，或將簽名照片變為透明。下載乾淨的透明 PNG——不上傳，無需註冊。",
+  "id": "/loona-pdf-tools/zh-hant/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
