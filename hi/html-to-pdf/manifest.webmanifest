@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML से PDF कन्वर्टर",
+  "short_name": "HTML से PDF कन्वर्टर",
+  "description": "HTML को ऑनलाइन, मुफ़्त, अपने ब्राउज़र के अपने प्रिंट-टू-PDF इंजन से PDF में बदलें — पूर्ण CSS समर्थन, कोई अपलोड नहीं, कोई वॉटरमार्क नहीं।",
+  "id": "/loona-pdf-tools/hi/html-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

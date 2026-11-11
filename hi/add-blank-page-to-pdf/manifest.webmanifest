@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF में खाली पृष्ठ जोड़ें ऑनलाइन मुफ़्त",
+  "short_name": "PDF में खाली पृष्ठ जोड़ें ऑनलाइन मुफ़्त",
+  "description": "PDF में मुफ़्त ऑनलाइन खाली पृष्ठ डालें: शुरुआत में, अंत में, या किसी पृष्ठ के बाद, दस्तावेज़ के पृष्ठ आकार, A4 या Letter से मेल खाते हुए। तुरंत, आपके ब्राउज़र में, कुछ भी अपलोड नहीं।",
+  "id": "/loona-pdf-tools/hi/add-blank-page-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

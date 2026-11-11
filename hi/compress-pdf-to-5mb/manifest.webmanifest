@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF को 5 MB तक कंप्रेस करें ऑनलाइन",
+  "short_name": "PDF को 5 MB तक कंप्रेस करें ऑनलाइन",
+  "description": "PDF को 5 MB या उससे कम तक कंप्रेस करें, आपके ब्राउज़र में मुफ़्त। टूल पहले बिना-हानि पुनः-सहेजने का प्रयास करता है, फिर रेंडर गुणवत्ता को तब तक घटाता है जब तक आपकी फ़ाइल फ़िट न हो जाए — और ठीक परिणाम बताता है।",
+  "id": "/loona-pdf-tools/hi/compress-pdf-to-5mb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

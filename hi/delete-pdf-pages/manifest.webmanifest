@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF पृष्ठ हटाएँ ऑनलाइन मुफ़्त",
+  "short_name": "PDF पृष्ठ हटाएँ ऑनलाइन मुफ़्त",
+  "description": "PDF से पृष्ठ मुफ़्त ऑनलाइन हटाएँ। हटाने वाले पृष्ठ नंबर टाइप करें - जैसे 2, 4-6 - और साफ़ फ़ाइल डाउनलोड करें। कोई साइन-अप नहीं; यह सब आपके ब्राउज़र में रहता है।",
+  "id": "/loona-pdf-tools/hi/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

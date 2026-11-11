@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF फ़ॉर्म भरें ऑनलाइन मुफ़्त",
+  "short_name": "PDF फ़ॉर्म भरें ऑनलाइन मुफ़्त",
+  "description": "भरने योग्य PDF फ़ॉर्म मुफ़्त ऑनलाइन भरें। ऐसी PDF अपलोड करें जिसमें फ़ॉर्म फ़ील्ड हों, उसके टेक्स्ट बॉक्स, चेकबॉक्स, ड्रॉपडाउन और रेडियो बटन में टाइप करें, फिर पूर्ण PDF डाउनलोड करें। कोई साइन-अप नहीं; सब कुछ आपके ब्राउज़र में निजी तौर पर चलता है।",
+  "id": "/loona-pdf-tools/hi/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

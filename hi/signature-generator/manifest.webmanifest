@@ -1,0 +1,29 @@
+{
+  "name": "Loona हस्ताक्षर जनरेटर ऑनलाइन मुफ़्त",
+  "short_name": "हस्ताक्षर जनरेटर ऑनलाइन मुफ़्त",
+  "description": "हस्ताक्षर चित्र मुफ़्त ऑनलाइन बनाएँ: इसे बनाएँ, अपना नाम हस्तलिपि शैली में टाइप करें, या अपने हस्ताक्षर की फ़ोटो को पारदर्शी बनाएँ। एक साफ़ पारदर्शी PNG डाउनलोड करें - कोई अपलोड नहीं, कोई साइन-अप नहीं।",
+  "id": "/loona-pdf-tools/hi/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

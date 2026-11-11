@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF रिडैक्ट करें ऑनलाइन मुफ़्त",
+  "short_name": "PDF रिडैक्ट करें ऑनलाइन मुफ़्त",
+  "description": "PDF को मुफ़्त ऑनलाइन रिडैक्ट करें: नामों, नंबरों या तस्वीरों के ऊपर काले बॉक्स बनाएँ और उन्हें स्थायी रूप से जलाएँ - छिपी सामग्री हटाई जाती है, केवल ढकी नहीं जाती। 100% आपके ब्राउज़र में, कुछ भी अपलोड नहीं।",
+  "id": "/loona-pdf-tools/hi/redact-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

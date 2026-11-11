@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF में बुकमार्क जोड़ें ऑनलाइन मुफ़्त",
+  "short_name": "PDF में बुकमार्क जोड़ें ऑनलाइन मुफ़्त",
+  "description": "PDF में मुफ़्त ऑनलाइन बुकमार्क (क्लिक करने योग्य रूपरेखा) जोड़ें: अध्याय शीर्षकों को उनकी पृष्ठ संख्याओं के साथ सूचीबद्ध करें और असली नेविगेशन रूपरेखा वाली PDF डाउनलोड करें। ब्राउज़र में, कुछ भी अपलोड नहीं।",
+  "id": "/loona-pdf-tools/hi/add-bookmarks-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

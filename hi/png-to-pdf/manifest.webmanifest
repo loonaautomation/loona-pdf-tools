@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG से PDF ऑनलाइन मुफ़्त",
+  "short_name": "PNG से PDF ऑनलाइन मुफ़्त",
+  "description": "PNG चित्रों को मुफ़्त ऑनलाइन PDF में बदलें। स्क्रीनशॉट, लोगो और ग्राफ़िक्स A4, Letter या फ़िट पृष्ठों वाली एक PDF बन जाते हैं। निजी ब्राउज़र में बदलाव, कोई साइन-अप नहीं।",
+  "id": "/loona-pdf-tools/hi/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona N-up PDF ऑनलाइन मुफ़्त",
+  "short_name": "N-up PDF ऑनलाइन मुफ़्त",
+  "description": "कई PDF पृष्ठों को मुफ़्त ऑनलाइन एक शीट पर रखें: 2-up, 4-up, 6-up या 9-up लेआउट A4 या Letter पर, पढ़ने के क्रम में। हैंडआउट और ड्राफ़्ट के लिए काग़ज़ बचाता है। ब्राउज़र में, कुछ भी अपलोड नहीं।",
+  "id": "/loona-pdf-tools/hi/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona AVIF से PDF कन्वर्टर",
+  "short_name": "AVIF से PDF कन्वर्टर",
+  "description": "AVIF चित्रों को ऑनलाइन, मुफ़्त, अपने ब्राउज़र में PDF में बदलें। प्रति पृष्ठ एक चित्र, फ़िट-टू-इमेज या A4/Letter पृष्ठ। कोई अपलोड नहीं, कोई साइनअप नहीं।",
+  "id": "/loona-pdf-tools/hi/avif-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

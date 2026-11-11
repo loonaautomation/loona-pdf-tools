@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF फ़ॉर्म बनाएँ ऑनलाइन मुफ़्त",
+  "short_name": "PDF फ़ॉर्म बनाएँ ऑनलाइन मुफ़्त",
+  "description": "किसी भी PDF को मुफ़्त ऑनलाइन भरने योग्य फ़ॉर्म में बदलें: असली टेक्स्ट फ़ील्ड और चेकबॉक्स ठीक वहीं जोड़ें जहाँ आप उन्हें खींचते हैं, फ़ील्ड के नाम दें, और एक असली AcroForm PDF डाउनलोड करें जिसे कोई भी भर सके। कोई अपलोड नहीं, कोई साइन-अप नहीं।",
+  "id": "/loona-pdf-tools/hi/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

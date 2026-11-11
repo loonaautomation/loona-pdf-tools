@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF में वॉटरमार्क जोड़ें ऑनलाइन मुफ़्त",
+  "short_name": "PDF में वॉटरमार्क जोड़ें ऑनलाइन मुफ़्त",
+  "description": "PDF पर मुफ़्त ऑनलाइन टेक्स्ट वॉटरमार्क जोड़ें। टेक्स्ट, आकार, अपारदर्शिता, कोण और रंग सेट करें - केंद्र में या टाइल के रूप में। कोई साइन-अप नहीं; वॉटरमार्किंग निजी तौर पर ब्राउज़र में चलती है।",
+  "id": "/loona-pdf-tools/hi/add-watermark-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

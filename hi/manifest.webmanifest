@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Tools",
+  "short_name": "Loona PDF Tools",
+  "description": "मुफ़्त ऑनलाइन PDF टूल - PDF मर्ज करें, बाँटें, कंप्रेस करें, बदलें, घुमाएँ, हस्ताक्षर करें और संपादित करें। 100% मुफ़्त, कोई साइन-अप नहीं, और आपकी फ़ाइलें कभी आपका डिवाइस नहीं छोड़तीं।",
+  "id": "/loona-pdf-tools/hi/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

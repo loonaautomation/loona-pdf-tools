@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF फ़ाइलों की तुलना करें ऑनलाइन मुफ़्त",
+  "short_name": "PDF फ़ाइलों की तुलना करें ऑनलाइन मुफ़्त",
+  "description": "दो PDF फ़ाइलों की मुफ़्त ऑनलाइन तुलना करें और ठीक देखें कि कौन-सा टेक्स्ट बदला, पृष्ठ-दर-पृष्ठ। हटाई और जोड़ी गई पंक्तियाँ साथ-साथ उजागर होती हैं। कोई साइन-अप नहीं; तुलना आपके ब्राउज़र में निजी तौर पर चलती है।",
+  "id": "/loona-pdf-tools/hi/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

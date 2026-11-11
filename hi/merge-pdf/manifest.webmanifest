@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF मर्ज करें ऑनलाइन मुफ़्त",
+  "short_name": "PDF मर्ज करें ऑनलाइन मुफ़्त",
+  "description": "PDF फ़ाइलों को एक दस्तावेज़ में मुफ़्त ऑनलाइन मर्ज करें। कई PDF जोड़ें, उन्हें पुनः क्रमबद्ध करने के लिए खींचें, कोई साइन-अप नहीं चाहिए। फ़ाइलें आपके ब्राउज़र में निजी तौर पर संसाधित होती हैं।",
+  "id": "/loona-pdf-tools/hi/merge-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

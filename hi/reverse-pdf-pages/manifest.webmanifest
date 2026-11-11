@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF पृष्ठ क्रम उलटें ऑनलाइन मुफ़्त",
+  "short_name": "PDF पृष्ठ क्रम उलटें ऑनलाइन मुफ़्त",
+  "description": "PDF के पृष्ठ क्रम को मुफ़्त ऑनलाइन उलटें - अंतिम पृष्ठ पहला बन जाता है। उल्टे क्रम वाले स्कैन ठीक करने के लिए एकदम सही। तुरंत, आपके ब्राउज़र में, कुछ भी अपलोड नहीं।",
+  "id": "/loona-pdf-tools/hi/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

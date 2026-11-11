@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF मरम्मत ऑनलाइन मुफ़्त",
+  "short_name": "PDF मरम्मत ऑनलाइन मुफ़्त",
+  "description": "क्षतिग्रस्त PDF को मुफ़्त ऑनलाइन सुधारें: टूटी क्रॉस-रेफ़रेंस तालिकाएँ फिर से बनाता है और साफ़ प्रति फिर से सहेजता है, अंतिम उपाय के रूप में पृष्ठ-चित्र पुनर्निर्माण के साथ। ईमानदार सीमाएँ बताई गईं। 100% आपके ब्राउज़र में।",
+  "id": "/loona-pdf-tools/hi/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

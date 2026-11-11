@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF कंप्रेस करें ऑनलाइन मुफ़्त",
+  "short_name": "PDF कंप्रेस करें ऑनलाइन मुफ़्त",
+  "description": "PDF फ़ाइलें मुफ़्त ऑनलाइन कंप्रेस करें और ईमेल या अपलोड के लिए उन्हें सिको़ड़ें। बिना-हानि स्ट्रीम कंप्रेशन या मज़बूत चित्र कंप्रेशन चुनें। निजी, आपके ब्राउज़र में।",
+  "id": "/loona-pdf-tools/hi/compress-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

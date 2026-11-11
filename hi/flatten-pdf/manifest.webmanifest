@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF फ़्लैटन करें ऑनलाइन मुफ़्त",
+  "short_name": "PDF फ़्लैटन करें ऑनलाइन मुफ़्त",
+  "description": "PDF को मुफ़्त ऑनलाइन फ़्लैटन करें: भरने योग्य फ़ॉर्म फ़ील्ड को पृष्ठों में पक्का करें ताकि उत्तर फिर संपादित न हो सकें, एक वैकल्पिक पूर्ण चित्र पुनर्निर्माण के साथ जो सब कुछ फ़्लैटन करता है। निजी, ब्राउज़र में, कोई साइन-अप नहीं।",
+  "id": "/loona-pdf-tools/hi/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

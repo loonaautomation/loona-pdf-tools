@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF पर हस्ताक्षर करें ऑनलाइन मुफ़्त",
+  "short_name": "PDF पर हस्ताक्षर करें ऑनलाइन मुफ़्त",
+  "description": "PDF पर मुफ़्त ऑनलाइन हस्ताक्षर करें। अपना हस्ताक्षर बनाएँ या उसका चित्र अपलोड करें, लाइव पूर्वावलोकन के साथ इसे स्थित करें, और हस्ताक्षरित PDF डाउनलोड करें। निजी - कुछ भी अपलोड नहीं होता।",
+  "id": "/loona-pdf-tools/hi/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

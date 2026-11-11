@@ -1,0 +1,29 @@
+{
+  "name": "Loona Excel से PDF कन्वर्टर",
+  "short_name": "Excel से PDF कन्वर्टर",
+  "description": "Excel स्प्रेडशीट (.xlsx, .xls) और CSV फ़ाइलों को ऑनलाइन, अपने ब्राउज़र में मुफ़्त, साफ़, पृष्ठांकित PDF तालिका में बदलें। हर शीट दोहराई जाने वाली हेडर पंक्ति वाली तालिका बन जाती है। कोई अपलोड नहीं।",
+  "id": "/loona-pdf-tools/hi/excel-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
