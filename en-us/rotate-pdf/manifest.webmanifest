@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rotate PDF Pages Online - Free",
+  "short_name": "Rotate PDF Pages Online - Free",
+  "description": "Rotate PDF pages free online by 90, 180 or 270 degrees - all pages or a chosen range - and save the corrected file. No sign-up; it happens in your browser.",
+  "id": "/loona-pdf-tools/en-us/rotate-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
