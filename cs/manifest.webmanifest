@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nástroje PDF — Bezplatné online nástroje PDF",
+  "short_name": "Loona Nástroje PDF",
+  "description": "Bezplatné online nástroje PDF - slučujte, rozdělujte, komprimujte, převádějte, otáčejte, podepisujte a upravujte PDF. 100% zdarma, bez registrace a vaše soubory nikdy neopustí vaše zařízení.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-pdf-tools/cs/"
+}

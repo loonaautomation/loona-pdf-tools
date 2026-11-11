@@ -1,0 +1,29 @@
+{
+  "name": "Loona Opravit PDF online zdarma",
+  "short_name": "Opravit PDF online zdarma",
+  "description": "Opravte poškozené PDF zdarma online: znovu sestaví poškozené tabulky křížových odkazů a znovu uloží čistou kopii, s znovu sestavením jako obrázek stránky jako poslední možností. Poctivé limity uvedeny. 100 % ve vašem prohlížeči.",
+  "id": "/loona-pdf-tools/cs/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

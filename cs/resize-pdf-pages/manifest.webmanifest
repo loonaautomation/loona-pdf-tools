@@ -1,0 +1,29 @@
+{
+  "name": "Loona Změnit velikost stránek PDF online zdarma",
+  "short_name": "Změnit velikost stránek PDF online zdarma",
+  "description": "Změňte velikost stránek PDF zdarma online: převeďte každou stránku na A4, US Letter nebo Legal, nebo měřte procentem, s obsahem přizpůsobeným měřítkem a vycentrovaným. Běží ve vašem prohlížeči - nic se nenahrává.",
+  "id": "/loona-pdf-tools/cs/resize-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

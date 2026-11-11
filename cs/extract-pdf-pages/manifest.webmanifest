@@ -1,0 +1,29 @@
+{
+  "name": "Loona Extrahovat stránky PDF online zdarma",
+  "short_name": "Extrahovat stránky PDF online zdarma",
+  "description": "Extrahujte vybrané stránky z PDF zdarma online. Zadejte stránky jako 3, 5-8 a stáhněte je jako nové, menší PDF. Bez registrace; extrakce běží ve vašem prohlížeči.",
+  "id": "/loona-pdf-tools/cs/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

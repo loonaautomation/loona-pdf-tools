@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vytvořit formulář PDF online zdarma",
+  "short_name": "Vytvořit formulář PDF online zdarma",
+  "description": "Proměňte jakékoli PDF ve vyplnitelný formulář zdarma online: přidejte skutečná textová pole a zaškrtávací políčka přesně tam, kam je přetáhnete, pojmenujte pole a stáhněte skutečné PDF AcroForm, které může vyplnit kdokoli. Bez nahrávání, bez registrace.",
+  "id": "/loona-pdf-tools/cs/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

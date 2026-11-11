@@ -1,0 +1,29 @@
+{
+  "name": "Loona Upravit informace PDF online zdarma",
+  "short_name": "Upravit informace PDF online zdarma",
+  "description": "Zobrazte a upravte metadata PDF zdarma online - název, autor, předmět a klíčová slova - a podívejte se na počet stránek a velikost souboru. Bez registrace; úpravy metadat běží v prohlížeči.",
+  "id": "/loona-pdf-tools/cs/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

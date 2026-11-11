@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF do textu online zdarma",
+  "short_name": "PDF do textu online zdarma",
+  "description": "Extrahujte text z PDF zdarma online. Získejte plný text každé stránky ke zkopírování nebo stažení jako soubor TXT. Bez registrace a vaše PDF nikdy neopustí váš prohlížeč.",
+  "id": "/loona-pdf-tools/cs/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

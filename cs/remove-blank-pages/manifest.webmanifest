@@ -1,0 +1,29 @@
+{
+  "name": "Loona Odstranit prázdné stránky online zdarma",
+  "short_name": "Odstranit prázdné stránky online zdarma",
+  "description": "Odstraňte prázdné stránky z PDF zdarma online: stránky se vykreslí a zkontrolují pixel po pixelu, téměř prázdné stránky se poctivě vyjmenují s jejich pokrytím inkoustem a odstraní se - stránky s obsahem zůstanou nedotčené. V prohlížeči.",
+  "id": "/loona-pdf-tools/cs/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

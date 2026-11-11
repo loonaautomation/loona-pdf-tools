@@ -1,0 +1,29 @@
+{
+  "name": "Loona Velikosti stránek PDF a informace online zdarma",
+  "short_name": "Velikosti stránek PDF a informace online zdarma",
+  "description": "Zkontrolujte velikosti stránek PDF zdarma online: rozměry každé stránky v bodech, milimetrech a palcích, její nejbližší standardní velikost (A4, Letter...), otočení, plus název, autor a verze PDF. Nic se nenahrává.",
+  "id": "/loona-pdf-tools/cs/pdf-page-sizes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
