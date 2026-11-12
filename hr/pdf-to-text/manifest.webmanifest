@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF u tekst besplatno na mreži",
+  "short_name": "PDF u tekst besplatno na mreži",
+  "description": "Izdvojite tekst iz PDF-a besplatno na mreži. Dobijte puni tekst svake stranice za kopiranje ili preuzimanje kao TXT datoteku. Bez registracije, a vaš PDF nikad ne napušta vaš preglednik.",
+  "id": "/loona-pdf-tools/hr/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG u PDF besplatno na mreži",
+  "short_name": "JPG u PDF besplatno na mreži",
+  "description": "Pretvorite JPG slike u PDF besplatno na mreži. Spojite fotografije u jedan PDF sa stranicama A4, Letter ili prilagođenima, vašim redoslijedom. Bez registracije — radi privatno u pregledniku.",
+  "id": "/loona-pdf-tools/hr/jpg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

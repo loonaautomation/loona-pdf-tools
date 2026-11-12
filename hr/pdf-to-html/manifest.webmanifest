@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF u HTML besplatno na mreži",
+  "short_name": "PDF u HTML besplatno na mreži",
+  "description": "Pretvorite PDF u HTML na mreži, besplatno u svom pregledniku. Tekst se izdvaja uz strukturu naslova otkrivenu iz veličina fonta. Bez prijenosa, bez prijave.",
+  "id": "/loona-pdf-tools/hr/pdf-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

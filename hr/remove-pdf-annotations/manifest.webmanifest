@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukloni napomene PDF-a besplatno na mreži",
+  "short_name": "Ukloni napomene PDF-a besplatno na mreži",
+  "description": "Uklonite napomene iz PDF-a besplatno na mreži: komentari, isticanja, ljepljive bilješke, pečati i označavanje uklanjaju se, a sadržaj stranice ostaje netaknut. U pregledniku, ništa se ne prenosi.",
+  "id": "/loona-pdf-tools/hr/remove-pdf-annotations/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

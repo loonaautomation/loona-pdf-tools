@@ -1,0 +1,29 @@
+{
+  "name": "Loona Obrni stranice PDF-a besplatno na mreži",
+  "short_name": "Obrni stranice PDF-a besplatno na mreži",
+  "description": "Obrnite redoslijed stranica PDF-a besplatno na mreži - posljednja stranica postaje prva. Savršeno za popravljanje skenova od kraja prema početku. Odmah, u vašem pregledniku, ništa se ne prenosi.",
+  "id": "/loona-pdf-tools/hr/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

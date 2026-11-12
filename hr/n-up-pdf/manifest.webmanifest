@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF s više stranica po listu besplatno na mreži",
+  "short_name": "PDF s više stranica po listu besplatno na mreži",
+  "description": "Stavite više stranica PDF-a na jedan list besplatno na mreži: izgledi 2, 4, 6 ili 9 po listu na A4 ili Letter, redoslijedom čitanja. Štedi papir za materijale za dijeljenje i nacrte. U pregledniku, ništa se ne prenosi.",
+  "id": "/loona-pdf-tools/hr/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

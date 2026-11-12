@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML u PDF besplatno na mreži",
+  "short_name": "HTML u PDF besplatno na mreži",
+  "description": "Pretvorite HTML u PDF na mreži, besplatno, koristeći vlastiti mehanizam vašeg preglednika za ispis u PDF&#x27; — potpuna CSS podrška, bez prijenosa, bez vodenih žigova.",
+  "id": "/loona-pdf-tools/hr/html-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Izradi knjižicu PDF besplatno na mreži",
+  "short_name": "Izradi knjižicu PDF besplatno na mreži",
+  "description": "Izradite PDF knjižicu za ispis besplatno na mreži: stranice su postavljene u pravi redoslijed knjižice na vodoravnim listovima - ispišite obostrano, presavijte, spojite klamericom. Prazne stranice automatski dopunjavaju do višekratnika od četiri.",
+  "id": "/loona-pdf-tools/hr/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

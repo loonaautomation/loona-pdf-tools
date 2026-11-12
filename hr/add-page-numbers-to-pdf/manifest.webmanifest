@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dodaj brojeve stranica u PDF besplatno na mreži",
+  "short_name": "Dodaj brojeve stranica u PDF besplatno na mreži",
+  "description": "Dodajte brojeve stranica u PDF besplatno na mreži. Odaberite stil (1, Stranica 1, 1 od 10), položaj i početni broj. Bez registracije; numeriranje se odvija privatno u vašem pregledniku.",
+  "id": "/loona-pdf-tools/hr/add-page-numbers-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

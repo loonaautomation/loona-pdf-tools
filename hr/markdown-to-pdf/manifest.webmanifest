@@ -1,0 +1,29 @@
+{
+  "name": "Loona Markdown u PDF besplatno na mreži",
+  "short_name": "Markdown u PDF besplatno na mreži",
+  "description": "Pretvorite Markdown u oblikovani PDF na mreži, besplatno u svom pregledniku. Naslovi, popisi, kôd i poveznice prikazani s pretpregledom uživo. Bez prijenosa.",
+  "id": "/loona-pdf-tools/hr/markdown-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sažmi PDF na 5 MB besplatno na mreži",
+  "short_name": "Sažmi PDF na 5 MB besplatno na mreži",
+  "description": "Sažmite PDF na 5 MB ili manje, besplatno u svom pregledniku. Alat prvo pokušava ponovno spremanje bez gubitaka, zatim postupno snižava kvalitetu prikaza dok vaša datoteka ne stane — i izvještava o točnom rezultatu.",
+  "id": "/loona-pdf-tools/hr/compress-pdf-to-5mb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

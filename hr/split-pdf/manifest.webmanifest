@@ -1,0 +1,29 @@
+{
+  "name": "Loona Razdvoji PDF besplatno na mreži",
+  "short_name": "Razdvoji PDF besplatno na mreži",
+  "description": "Razdvojite PDF u zasebne datoteke besplatno na mreži. Izdvojite svaku stranicu kao njezin vlastiti PDF ili razdvojite po rasponima stranica. Bez registracije, a vaša datoteka nikad ne napušta vaš preglednik.",
+  "id": "/loona-pdf-tools/hr/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

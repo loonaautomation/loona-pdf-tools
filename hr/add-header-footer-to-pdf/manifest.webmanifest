@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dodaj zaglavlje i podnožje u PDF besplatno na mreži",
+  "short_name": "Dodaj zaglavlje i podnožje u PDF besplatno na mreži",
+  "description": "Dodajte zaglavlje i podnožje na svaku stranicu PDF-a besplatno na mreži: prilagođeni tekst, brojevi stranica u formatima Stranica X od Y, poravnanje i veličina fonta — sve u vašem pregledniku, ništa se ne prenosi.",
+  "id": "/loona-pdf-tools/hr/add-header-footer-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

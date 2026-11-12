@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dodaj knjižne oznake u PDF besplatno na mreži",
+  "short_name": "Dodaj knjižne oznake u PDF besplatno na mreži",
+  "description": "Dodajte oznake (sadržaj na koji se može kliknuti) u PDF besplatno na mreži: navedite naslove poglavlja s njihovim brojevima stranica i preuzmite PDF s pravim navigacijskim sadržajem. U pregledniku, ništa se ne prenosi.",
+  "id": "/loona-pdf-tools/hr/add-bookmarks-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Uredi podatke PDF-a besplatno na mreži",
+  "short_name": "Uredi podatke PDF-a besplatno na mreži",
+  "description": "Pogledajte i uredite metapodatke PDF-a besplatno na mreži - naslov, autora, predmet i ključne riječi - i pogledajte broj stranica i veličinu datoteke. Bez registracije; uređivanje metapodataka radi u pregledniku.",
+  "id": "/loona-pdf-tools/hr/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
