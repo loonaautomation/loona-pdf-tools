@@ -1,0 +1,29 @@
+{
+  "name": "Loona Orezať PDF online zadarmo",
+  "short_name": "Orezať PDF online zadarmo",
+  "description": "Orežte stránky PDF zadarmo online: orezajte biele okraje alebo odrežte hrany o body alebo percentá na každej stránke alebo v jednom rozsahu. Rámček orezania stránky sa nastaví presne vo vašom prehliadači - nič sa nenahráva.",
+  "id": "/loona-pdf-tools/sk/crop-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

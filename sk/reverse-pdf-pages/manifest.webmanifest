@@ -1,0 +1,29 @@
+{
+  "name": "Loona Obrátiť poradie stránok PDF online zadarmo",
+  "short_name": "Obrátiť poradie stránok PDF online zadarmo",
+  "description": "Obráťte poradie stránok PDF zadarmo online - posledná stránka sa stane prvou. Dokonalé na opravu skenov obrátených naopak. Okamžite, vo vašom prehliadači, nič sa nenahráva.",
+  "id": "/loona-pdf-tools/sk/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

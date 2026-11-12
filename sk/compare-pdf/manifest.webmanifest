@@ -1,0 +1,29 @@
+{
+  "name": "Loona Porovnať PDF online zadarmo",
+  "short_name": "Porovnať PDF online zadarmo",
+  "description": "Porovnajte dva súbory PDF zadarmo online a pozrite si presne, ktorý text sa zmenil, stránku po stránke. Odstránené a pridané riadky sú zvýraznené vedľa seba. Bez registrácie; porovnanie beží súkromne vo vašom prehliadači.",
+  "id": "/loona-pdf-tools/sk/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

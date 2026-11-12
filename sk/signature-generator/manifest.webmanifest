@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor podpisu online zadarmo",
+  "short_name": "Generátor podpisu online zadarmo",
+  "description": "Vytvorte obrázok podpisu zadarmo online: nakreslite ho, napíšte svoje meno rukopisným štýlom alebo urobte fotografiu svojho podpisu priehľadnou. Stiahnite si čisté priehľadné PNG - bez nahrávania, bez registrácie.",
+  "id": "/loona-pdf-tools/sk/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

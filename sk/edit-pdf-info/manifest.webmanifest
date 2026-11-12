@@ -1,0 +1,29 @@
+{
+  "name": "Loona Upraviť informácie o PDF online zadarmo",
+  "short_name": "Upraviť informácie o PDF online zadarmo",
+  "description": "Zobrazte a upravte metadáta PDF zadarmo online - názov, autor, predmet a kľúčové slová - a pozrite si počet stránok a veľkosť súboru. Bez registrácie; úprava metadát beží v prehliadači.",
+  "id": "/loona-pdf-tools/sk/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

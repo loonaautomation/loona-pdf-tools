@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník Excel do PDF online zadarmo",
+  "short_name": "Prevodník Excel do PDF online zadarmo",
+  "description": "Preveďte tabuľky Excelu (.xlsx, .xls) a súbory CSV do čistej, stránkovanej tabuľky PDF online, zadarmo vo vašom prehliadači. Každý hárok sa stane tabuľkou s opakujúcim sa riadkom hlavičky. Bez nahrávania.",
+  "id": "/loona-pdf-tools/sk/excel-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

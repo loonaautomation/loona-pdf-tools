@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF do odtieňov sivej online zadarmo",
+  "short_name": "PDF do odtieňov sivej online zadarmo",
+  "description": "Preveďte PDF do odtieňov sivej zadarmo online: každá stránka sa znovu postaví v odtieňoch sivej - ideálne pre lacnejšiu tlač a čistý jednofarebný vzhľad. Beží na 100 % vo vašom prehliadači; nič sa nenahráva.",
+  "id": "/loona-pdf-tools/sk/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Viac stránok na hárok PDF online zadarmo",
+  "short_name": "Viac stránok na hárok PDF online zadarmo",
+  "description": "Umiestnite viacero stránok PDF na jeden hárok zadarmo online: rozloženia 2, 4, 6 alebo 9 na hárok na A4 alebo Letter, v poradí čítania. Šetrí papier na materiály a koncepty. V prehliadači, nič sa nenahráva.",
+  "id": "/loona-pdf-tools/sk/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vytvoriť brožúru PDF online zadarmo",
+  "short_name": "Vytvoriť brožúru PDF online zadarmo",
+  "description": "Vytvorte tlačiteľné brožúrové PDF zadarmo online: stránky sa rozložia v skutočnom poradí brožúry na hárky na šírku - tlačte obojstranne, preložte, zošite. Prázdne stránky sa automaticky doplnia po násobok štyroch.",
+  "id": "/loona-pdf-tools/sk/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

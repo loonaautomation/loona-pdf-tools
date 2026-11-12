@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pridať hlavičku a pätu do PDF online zadarmo",
+  "short_name": "Pridať hlavičku a pätu do PDF online zadarmo",
+  "description": "Pridajte hlavičku a pätu na každú stránku PDF zadarmo online: vlastný text, čísla stránok vo formátoch Stránka X z Y, zarovnanie a veľkosť písma - všetko vo vašom prehliadači, nič sa nenahráva.",
+  "id": "/loona-pdf-tools/sk/add-header-footer-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
