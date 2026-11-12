@@ -1,0 +1,29 @@
+{
+  "name": "Loona Стиснути PDF до 100 KB онлайн безкоштовно",
+  "short_name": "Стиснути PDF до 100 KB онлайн безкоштовно",
+  "description": "Стисніть PDF до 100 KB або менше безкоштовно у своєму браузері. Інструмент спочатку пробує перезбереження без втрат, а потім поступово знижує якість відтворення, доки ваш файл не вміститься, — і повідомляє точний результат.",
+  "id": "/loona-pdf-tools/uk/compress-pdf-to-100kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

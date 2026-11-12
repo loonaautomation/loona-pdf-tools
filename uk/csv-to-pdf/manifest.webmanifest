@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV у PDF онлайн безкоштовно",
+  "short_name": "CSV у PDF онлайн безкоштовно",
+  "description": "Перетворюйте дані CSV на охайну таблицю PDF з розбиттям на сторінки онлайн, безкоштовно у своєму браузері. Жирний рядок заголовка, що повторюється, підігнані стовпці. Без передавання файлів.",
+  "id": "/loona-pdf-tools/uk/csv-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

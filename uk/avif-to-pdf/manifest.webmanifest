@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер AVIF у PDF онлайн безкоштовно",
+  "short_name": "Конвертер AVIF у PDF онлайн безкоштовно",
+  "description": "Перетворюйте зображення AVIF на PDF онлайн, безкоштовно, у своєму браузері. Одне зображення на сторінку, сторінки за розміром зображення або A4/Letter. Без передавання файлів, без реєстрації.",
+  "id": "/loona-pdf-tools/uk/avif-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

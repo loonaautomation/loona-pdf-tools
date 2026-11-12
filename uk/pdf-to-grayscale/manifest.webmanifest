@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF у відтінки сірого онлайн безкоштовно",
+  "short_name": "PDF у відтінки сірого онлайн безкоштовно",
+  "description": "Перетворюйте PDF у відтінки сірого безкоштовно онлайн: кожна сторінка перебудовується у відтінках сірого — ідеально для дешевшого друку та чистого монохромного вигляду. Працює на 100% у вашому браузері; нічого не передається на сервер.",
+  "id": "/loona-pdf-tools/uk/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

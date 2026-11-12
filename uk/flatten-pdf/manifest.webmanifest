@@ -1,0 +1,29 @@
+{
+  "name": "Loona Звести PDF онлайн безкоштовно",
+  "short_name": "Звести PDF онлайн безкоштовно",
+  "description": "Зводьте PDF безкоштовно онлайн: вбудовуйте поля форм для заповнення у сторінки, щоб відповіді більше не можна було редагувати, з необов’язковою повною перебудовою у зображення, яка зводить усе. Приватно, у браузері, без реєстрації.",
+  "id": "/loona-pdf-tools/uk/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

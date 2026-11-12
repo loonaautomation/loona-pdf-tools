@@ -1,0 +1,29 @@
+{
+  "name": "Loona Приховати дані в PDF онлайн безкоштовно",
+  "short_name": "Приховати дані в PDF онлайн безкоштовно",
+  "description": "Приховуйте дані в PDF безкоштовно онлайн: малюйте чорні прямокутники поверх імен, номерів або фотографій і вбудовуйте їх остаточно — прихований вміст видаляється, а не просто накривається. На 100% у вашому браузері, нічого не передається на сервер.",
+  "id": "/loona-pdf-tools/uk/redact-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

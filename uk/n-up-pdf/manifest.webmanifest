@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF N-up онлайн безкоштовно",
+  "short_name": "PDF N-up онлайн безкоштовно",
+  "description": "Розміщуйте кілька сторінок PDF на одному аркуші безкоштовно онлайн: макети 2-up, 4-up, 6-up або 9-up на A4 або Letter, у порядку читання. Заощаджує папір для роздаткових матеріалів і чернеток. У браузері, нічого не передається на сервер.",
+  "id": "/loona-pdf-tools/uk/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

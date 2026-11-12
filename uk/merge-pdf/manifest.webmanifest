@@ -1,0 +1,29 @@
+{
+  "name": "Loona Об’єднати PDF онлайн безкоштовно",
+  "short_name": "Об’єднати PDF онлайн безкоштовно",
+  "description": "Об’єднуйте файли PDF в один документ безкоштовно онлайн. Об’єднуйте кілька PDF, перетягуйте, щоб змінити їхній порядок, реєстрація не потрібна. Файли обробляються приватно у вашому браузері.",
+  "id": "/loona-pdf-tools/uk/merge-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

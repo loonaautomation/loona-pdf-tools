@@ -1,0 +1,29 @@
+{
+  "name": "Loona Порівняти PDF онлайн безкоштовно",
+  "short_name": "Порівняти PDF онлайн безкоштовно",
+  "description": "Порівняйте два файли PDF безкоштовно онлайн і побачте, який саме текст змінився, сторінка за сторінкою. Видалені та додані рядки виділяються поруч. Без реєстрації; порівняння відбувається приватно у вашому браузері.",
+  "id": "/loona-pdf-tools/uk/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

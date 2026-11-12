@@ -1,0 +1,29 @@
+{
+  "name": "Loona Змінити розмір сторінок PDF онлайн безкоштовно",
+  "short_name": "Змінити розмір сторінок PDF онлайн безкоштовно",
+  "description": "Змінюйте розмір сторінок PDF безкоштовно онлайн: перетворюйте кожну сторінку на A4, US Letter або Legal, або масштабуйте на відсоток, зі вмістом, масштабованим для вміщення й відцентрованим. Працює у вашому браузері — нічого не передається на сервер.",
+  "id": "/loona-pdf-tools/uk/resize-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

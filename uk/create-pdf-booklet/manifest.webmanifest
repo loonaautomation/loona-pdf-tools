@@ -1,0 +1,29 @@
+{
+  "name": "Loona Створити буклет PDF онлайн безкоштовно",
+  "short_name": "Створити буклет PDF онлайн безкоштовно",
+  "description": "Створюйте PDF буклета для друку безкоштовно онлайн: сторінки розкладаються у справжньому порядку буклета на альбомних аркушах — друкуйте двосторонньо, згинайте, скріплюйте. Порожні сторінки додаються до числа, кратного чотирьом, автоматично.",
+  "id": "/loona-pdf-tools/uk/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF у JPG онлайн безкоштовно",
+  "short_name": "PDF у JPG онлайн безкоштовно",
+  "description": "Перетворюйте сторінки PDF на зображення JPG безкоштовно онлайн. Виберіть стандартну, високу або друкарську якість і завантажте кожну сторінку як JPG. Без реєстрації; перетворення відбувається у вашому браузері.",
+  "id": "/loona-pdf-tools/uk/pdf-to-jpg/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

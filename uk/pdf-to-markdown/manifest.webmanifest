@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер PDF у Markdown онлайн безкоштовно",
+  "short_name": "Конвертер PDF у Markdown онлайн безкоштовно",
+  "description": "Перетворюйте PDF на Markdown онлайн, безкоштовно у своєму браузері. Текст витягується, а структура заголовків визначається за розмірами шрифтів. Без передавання файлів, без реєстрації.",
+  "id": "/loona-pdf-tools/uk/pdf-to-markdown/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

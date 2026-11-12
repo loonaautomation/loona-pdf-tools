@@ -1,0 +1,29 @@
+{
+  "name": "Loona Створення сертифікатів онлайн безкоштовно",
+  "short_name": "Створення сертифікатів онлайн безкоштовно",
+  "description": "Безкоштовний конструктор сертифікатів: створіть сертифікат для друку на живому попередньому перегляді, а потім завантажте готовий до друку PDF A4 або PNG. Зробіть один сертифікат або сотні пакетно зі списку імен. Без реєстрації, без водяного знака, і все відбувається приватно у вашому браузері.",
+  "id": "/loona-pdf-tools/uk/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

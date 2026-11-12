@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG у PDF онлайн безкоштовно",
+  "short_name": "PNG у PDF онлайн безкоштовно",
+  "description": "Перетворюйте зображення PNG на PDF безкоштовно онлайн. Знімки екрана, логотипи та графіка стають одним PDF зі сторінками A4, Letter або за розміром. Приватне перетворення у браузері, без реєстрації.",
+  "id": "/loona-pdf-tools/uk/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

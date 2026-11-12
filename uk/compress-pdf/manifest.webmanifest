@@ -1,0 +1,29 @@
+{
+  "name": "Loona Стиснути PDF онлайн безкоштовно",
+  "short_name": "Стиснути PDF онлайн безкоштовно",
+  "description": "Стискайте файли PDF безкоштовно онлайн і зменшуйте їх для електронної пошти або завантажень. Виберіть стиснення потоків без втрат або сильне стиснення зображень. Приватно, у вашому браузері.",
+  "id": "/loona-pdf-tools/uk/compress-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
