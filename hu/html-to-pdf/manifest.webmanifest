@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML-ből PDF online ingyen",
+  "short_name": "HTML-ből PDF online ingyen",
+  "description": "Alakítson HTML-t PDF-fé online, ingyen, a böngészője&#x27; saját nyomtatás-PDF-be motorjával — teljes CSS-támogatás, feltöltés nélkül, vízjelek nélkül.",
+  "id": "/loona-pdf-tools/hu/html-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

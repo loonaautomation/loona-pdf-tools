@@ -1,0 +1,29 @@
+{
+  "name": "Loona Üres oldal hozzáadása PDF-hez online ingyen",
+  "short_name": "Üres oldal hozzáadása PDF-hez online ingyen",
+  "description": "Szúrjon be üres oldalakat egy PDF-be ingyen, online: az elejére, a végére vagy bármely oldal után, a dokumentum oldalméretéhez igazodva, A4 vagy Letter. Azonnal, a böngészőjében, feltöltés nélkül.",
+  "id": "/loona-pdf-tools/hu/add-blank-page-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

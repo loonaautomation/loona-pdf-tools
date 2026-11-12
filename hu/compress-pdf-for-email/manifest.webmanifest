@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF tömörítése e-mailhez online ingyen",
+  "short_name": "PDF tömörítése e-mailhez online ingyen",
+  "description": "Tömörítsen egy PDF-et 10 MB-ra vagy az alá, ingyen, a böngészőjében. Az eszköz először veszteségmentes újramentéssel próbálkozik, majd lépésenként csökkenti a renderelési minőséget, amíg a fájlja bele nem fér — és jelenti a pontos eredményt.",
+  "id": "/loona-pdf-tools/hu/compress-pdf-for-email/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

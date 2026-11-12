@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG-ből PDF online ingyen",
+  "short_name": "PNG-ből PDF online ingyen",
+  "description": "Alakítson PNG képeket PDF-fé ingyen, online. A képernyőképek, logók és grafikák egyetlen PDF-fé válnak A4, Letter vagy igazított oldalakkal. Privát, böngészőn belüli átalakítás, regisztráció nélkül.",
+  "id": "/loona-pdf-tools/hu/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

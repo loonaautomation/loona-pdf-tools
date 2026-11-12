@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-adatok szerkesztése online ingyen",
+  "short_name": "PDF-adatok szerkesztése online ingyen",
+  "description": "Tekintse meg és szerkessze a PDF-metaadatokat ingyen, online – címet, szerzőt, tárgyat és kulcsszavakat –, és nézze meg az oldalszámot és a fájlméretet. Regisztráció nélkül; a metaadat-szerkesztés a böngészőben fut.",
+  "id": "/loona-pdf-tools/hu/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

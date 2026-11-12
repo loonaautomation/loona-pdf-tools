@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-ből szürkeárnyalatos online ingyen",
+  "short_name": "PDF-ből szürkeárnyalatos online ingyen",
+  "description": "Alakítson egy PDF-et szürkeárnyalatossá ingyen, online: minden oldal a szürke árnyalataiban épül újra – ideális olcsóbb nyomtatáshoz és tiszta monokróm megjelenéshez. 100%-ban a böngészőjében fut; semmi nem töltődik fel.",
+  "id": "/loona-pdf-tools/hu/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

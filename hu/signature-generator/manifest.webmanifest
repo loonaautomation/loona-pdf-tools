@@ -1,0 +1,29 @@
+{
+  "name": "Loona Aláírásgenerátor online ingyen",
+  "short_name": "Aláírásgenerátor online ingyen",
+  "description": "Készítsen aláírásképet ingyen, online: rajzolja meg, írja be a nevét kézírásos stílusban, vagy tegye átlátszóvá az aláírása fotóját. Töltsön le egy tiszta, átlátszó PNG-t – feltöltés és regisztráció nélkül.",
+  "id": "/loona-pdf-tools/hu/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

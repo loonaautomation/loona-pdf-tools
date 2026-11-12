@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF űrlap kitöltése online ingyen",
+  "short_name": "PDF űrlap kitöltése online ingyen",
+  "description": "Töltsön ki egy kitölthető PDF-űrlapot ingyen, online. Töltsön fel egy űrlapmezőket tartalmazó PDF-et, írjon a szövegmezőibe, jelölőnégyzeteibe, legördülőibe és választógombjaiba, majd töltse le a kész PDF-et. Regisztráció nélkül; minden privát módon, a böngészőjében fut.",
+  "id": "/loona-pdf-tools/hu/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

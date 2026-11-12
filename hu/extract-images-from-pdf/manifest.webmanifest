@@ -1,0 +1,29 @@
+{
+  "name": "Loona Képek kinyerése PDF-ből online ingyen",
+  "short_name": "Képek kinyerése PDF-ből online ingyen",
+  "description": "Nyerje ki a PDF-be ágyazott eredeti képeket ingyen, online: a fotók és grafikák a tárolt felbontásukban, PNG-fájlokként kerülnek ki – nem képernyőképekként. 100%-ban a böngészőjében, feltöltés nélkül.",
+  "id": "/loona-pdf-tools/hu/extract-images-from-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

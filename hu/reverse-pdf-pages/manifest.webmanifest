@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-oldalak megfordítása online ingyen",
+  "short_name": "PDF-oldalak megfordítása online ingyen",
+  "description": "Fordítsa meg egy PDF oldalsorrendjét ingyen, online – az utolsó oldal lesz az első. Tökéletes a fordítva szkennelt anyagok javítására. Azonnal, az Ön böngészőjében, feltöltés nélkül.",
+  "id": "/loona-pdf-tools/hu/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

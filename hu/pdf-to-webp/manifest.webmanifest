@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-ből WebP online ingyen",
+  "short_name": "PDF-ből WebP online ingyen",
+  "description": "Alakítson PDF-oldalakat WebP képekké ingyen, online: kisebbek, mint a JPG és a PNG weboldalakhoz, a böngészőjében, az Ön által választott felbontásban megjelenítve. Semmi nem töltődik fel, regisztráció nélkül.",
+  "id": "/loona-pdf-tools/hu/pdf-to-webp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

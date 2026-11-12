@@ -1,0 +1,29 @@
+{
+  "name": "Loona Oklevélkészítő online ingyen",
+  "short_name": "Oklevélkészítő online ingyen",
+  "description": "Ingyenes oklevélkészítő: tervezzen nyomtatható oklevelet élő előnézeten, majd töltsön le nyomtatásra kész A4-es PDF-et vagy PNG-t. Készítsen egy oklevelet, vagy százával tömegesen egy névlistából. Regisztráció nélkül, vízjel nélkül, és minden privát módon, a böngészőjében fut.",
+  "id": "/loona-pdf-tools/hu/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
