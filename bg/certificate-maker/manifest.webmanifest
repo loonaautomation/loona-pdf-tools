@@ -1,0 +1,29 @@
+{
+  "name": "Loona Създаване на сертификати онлайн безплатно",
+  "short_name": "Създаване на сертификати онлайн безплатно",
+  "description": "Безплатно създаване на сертификати: проектирайте сертификат за печат върху визуализация на живо, след което изтеглете готов за печат PDF А4 или PNG. Направете един сертификат или стотици групово от списък с имена. Без регистрация, без воден знак и всичко работи поверително във вашия браузър.",
+  "id": "/loona-pdf-tools/bg/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

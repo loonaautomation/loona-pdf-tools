@@ -1,0 +1,29 @@
+{
+  "name": "Loona Създай PDF книжка онлайн безплатно",
+  "short_name": "Създай PDF книжка онлайн безплатно",
+  "description": "Направете PDF книжка за печат безплатно онлайн: страниците се разполагат в истински ред за книжка върху хоризонтални листове - отпечатайте двустранно, сгънете, захванете с телбод. Празните страници допълват до кратно на четири автоматично.",
+  "id": "/loona-pdf-tools/bg/create-pdf-booklet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

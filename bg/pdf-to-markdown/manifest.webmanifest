@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор от PDF към Markdown онлайн безплатно",
+  "short_name": "Конвертор от PDF към Markdown онлайн безплатно",
+  "description": "Преобразувайте PDF в Markdown онлайн, безплатно във вашия браузър. Текстът се извлича, като структурата на заглавията се открива от размерите на шрифта. Без качване, без регистрация.",
+  "id": "/loona-pdf-tools/bg/pdf-to-markdown/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

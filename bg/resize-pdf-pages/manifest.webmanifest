@@ -1,0 +1,29 @@
+{
+  "name": "Loona Преоразмери страниците на PDF онлайн безплатно",
+  "short_name": "Преоразмери страниците на PDF онлайн безплатно",
+  "description": "Преоразмерете страниците на PDF безплатно онлайн: преобразувайте всяка страница в А4, US Letter или Legal или мащабирайте с процент, със съдържание, мащабирано да се побере и центрирано. Работи във вашия браузър - нищо не се качва.",
+  "id": "/loona-pdf-tools/bg/resize-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

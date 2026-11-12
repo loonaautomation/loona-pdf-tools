@@ -1,0 +1,29 @@
+{
+  "name": "Loona Извлечи страници от PDF онлайн безплатно",
+  "short_name": "Извлечи страници от PDF онлайн безплатно",
+  "description": "Извлечете избрани страници от PDF безплатно онлайн. Въведете страници като 3, 5-8 и ги изтеглете като нов, по-малък PDF. Без регистрация; извличането работи във вашия браузър.",
+  "id": "/loona-pdf-tools/bg/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

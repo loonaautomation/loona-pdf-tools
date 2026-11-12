@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV към PDF онлайн безплатно",
+  "short_name": "CSV към PDF онлайн безплатно",
+  "description": "Преобразувайте CSV данни в чиста PDF таблица със страници онлайн, безплатно във вашия браузър. Удебелен повтарящ се заглавен ред, напаснати колони. Без качване.",
+  "id": "/loona-pdf-tools/bg/csv-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

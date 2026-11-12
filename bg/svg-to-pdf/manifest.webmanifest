@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор от SVG към PDF онлайн безплатно",
+  "short_name": "Конвертор от SVG към PDF онлайн безплатно",
+  "description": "Преобразувайте SVG изображения в PDF онлайн, безплатно, във вашия браузър. По едно изображение на страница, страници според изображението или А4/Letter. Без качване, без регистрация.",
+  "id": "/loona-pdf-tools/bg/svg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

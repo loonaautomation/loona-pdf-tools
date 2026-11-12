@@ -1,0 +1,29 @@
+{
+  "name": "Loona Компресирай PDF до 200 KB онлайн безплатно",
+  "short_name": "Компресирай PDF до 200 KB онлайн безплатно",
+  "description": "Компресирайте PDF до 200 KB или по-малко, безплатно във вашия браузър. Инструментът първо опитва презаписване без загуба, след което намалява качеството на изобразяване стъпка по стъпка, докато файлът ви се побере — и съобщава точния резултат.",
+  "id": "/loona-pdf-tools/bg/compress-pdf-to-200kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

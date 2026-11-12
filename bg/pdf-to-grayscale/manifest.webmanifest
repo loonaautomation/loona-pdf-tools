@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF към сиви тонове онлайн безплатно",
+  "short_name": "PDF към сиви тонове онлайн безплатно",
+  "description": "Преобразувайте PDF в сиви тонове безплатно онлайн: всяка страница се изгражда отново в нюанси на сивото - идеално за по-евтино отпечатване и чист едноцветен вид. Работи 100% във вашия браузър; нищо не се качва.",
+  "id": "/loona-pdf-tools/bg/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

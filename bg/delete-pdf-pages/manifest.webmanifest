@@ -1,0 +1,29 @@
+{
+  "name": "Loona Изтрий страници от PDF онлайн безплатно",
+  "short_name": "Изтрий страници от PDF онлайн безплатно",
+  "description": "Изтрийте страници от PDF безплатно онлайн. Въведете номерата на страниците за премахване - като 2, 4-6 - и изтеглете почистения файл. Без регистрация; всичко остава във вашия браузър.",
+  "id": "/loona-pdf-tools/bg/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

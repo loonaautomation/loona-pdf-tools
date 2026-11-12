@@ -1,0 +1,29 @@
+{
+  "name": "Loona Изравни PDF онлайн безплатно",
+  "short_name": "Изравни PDF онлайн безплатно",
+  "description": "Изравнете PDF безплатно онлайн: вградете попълваемите полета на формуляра в страниците, така че отговорите да не могат повече да се редактират, с незадължително пълно изграждане отново като изображения, което изравнява всичко. Поверително, в браузъра, без регистрация.",
+  "id": "/loona-pdf-tools/bg/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

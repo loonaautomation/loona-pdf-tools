@@ -1,0 +1,29 @@
+{
+  "name": "Loona Поправи PDF онлайн безплатно",
+  "short_name": "Поправи PDF онлайн безплатно",
+  "description": "Поправете повреден PDF безплатно онлайн: изгражда отново счупените таблици с кръстосани препратки и презаписва чисто копие, с изграждане отново от изображения на страниците като последна възможност. Честните ограничения са посочени. 100% във вашия браузър.",
+  "id": "/loona-pdf-tools/bg/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Създай PDF формуляр онлайн безплатно",
+  "short_name": "Създай PDF формуляр онлайн безплатно",
+  "description": "Превърнете всеки PDF в попълваем формуляр безплатно онлайн: добавете истински текстови полета и квадратчета за отметка точно там, където ги плъзнете, наименувайте полетата и изтеглете истински AcroForm PDF, който всеки може да попълни. Без качване, без регистрация.",
+  "id": "/loona-pdf-tools/bg/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

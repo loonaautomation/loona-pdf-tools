@@ -1,0 +1,29 @@
+{
+  "name": "Loona Обедини PDF онлайн безплатно",
+  "short_name": "Обедини PDF онлайн безплатно",
+  "description": "Обединете PDF файлове в един документ безплатно онлайн. Комбинирайте няколко PDF файла, плъзнете, за да ги пренаредите, не е нужна регистрация. Файловете се обработват поверително във вашия браузър.",
+  "id": "/loona-pdf-tools/bg/merge-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

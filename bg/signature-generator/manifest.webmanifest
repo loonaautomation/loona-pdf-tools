@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на подписи онлайн безплатно",
+  "short_name": "Генератор на подписи онлайн безплатно",
+  "description": "Създайте изображение на подпис безплатно онлайн: нарисувайте го, напишете името си в ръкописен стил или направете снимка на подписа си прозрачна. Изтеглете чист прозрачен PNG - без качване, без регистрация.",
+  "id": "/loona-pdf-tools/bg/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

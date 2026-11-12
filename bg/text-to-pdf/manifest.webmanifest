@@ -1,0 +1,29 @@
+{
+  "name": "Loona Текст към PDF онлайн безплатно",
+  "short_name": "Текст към PDF онлайн безплатно",
+  "description": "Преобразувайте текст в PDF безплатно онлайн. Поставете текста си, изберете размер на шрифта и страници А4 или Letter и изтеглете чист PDF. Без регистрация - създава се поверително в браузъра.",
+  "id": "/loona-pdf-tools/bg/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

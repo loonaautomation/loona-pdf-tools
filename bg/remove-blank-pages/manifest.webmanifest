@@ -1,0 +1,29 @@
+{
+  "name": "Loona Премахни празни страници онлайн безплатно",
+  "short_name": "Премахни празни страници онлайн безплатно",
+  "description": "Премахнете празните страници от PDF безплатно онлайн: страниците се изобразяват и проверяват пиксел по пиксел, почти празните страници се изброяват честно с тяхното покритие с мастило и се премахват - страниците със съдържание остават непокътнати. В браузъра.",
+  "id": "/loona-pdf-tools/bg/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

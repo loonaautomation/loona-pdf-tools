@@ -1,0 +1,29 @@
+{
+  "name": "Loona Раздели PDF онлайн безплатно",
+  "short_name": "Раздели PDF онлайн безплатно",
+  "description": "Разделете PDF на отделни файлове безплатно онлайн. Извлечете всяка страница като собствен PDF или разделете по диапазони от страници. Без регистрация, а файлът ви никога не напуска браузъра ви.",
+  "id": "/loona-pdf-tools/bg/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

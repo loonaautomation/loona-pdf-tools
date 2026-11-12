@@ -1,0 +1,29 @@
+{
+  "name": "Loona Подпиши PDF онлайн безплатно",
+  "short_name": "Подпиши PDF онлайн безплатно",
+  "description": "Подпишете PDF безплатно онлайн. Нарисувайте подписа си или качете изображението му, разположете го с визуализация на живо и изтеглете подписания PDF. Поверително - нищо не се качва.",
+  "id": "/loona-pdf-tools/bg/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
