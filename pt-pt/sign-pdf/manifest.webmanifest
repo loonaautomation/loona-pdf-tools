@@ -1,0 +1,29 @@
+{
+  "name": "Loona Assinar PDF Online Grátis",
+  "short_name": "Assinar PDF Online Grátis",
+  "description": "Assinar um PDF online grátis. Desenhe a sua assinatura ou carregue a sua imagem, posicione-a com uma pré-visualização em direto e transfira o PDF assinado. Privado - nada é carregado.",
+  "id": "/loona-pdf-tools/pt-pt/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

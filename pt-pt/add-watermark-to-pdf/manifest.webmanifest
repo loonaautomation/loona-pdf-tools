@@ -1,0 +1,29 @@
+{
+  "name": "Loona Adicionar Marca de Água ao PDF Online",
+  "short_name": "Adicionar Marca de Água ao",
+  "description": "Adicionar uma marca de água de texto a um PDF online grátis. Defina o texto, o tamanho, a opacidade, o ângulo e a cor - ao centro ou em mosaico. Sem registo; a marca de água é aplicada de forma privada no navegador.",
+  "id": "/loona-pdf-tools/pt-pt/add-watermark-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

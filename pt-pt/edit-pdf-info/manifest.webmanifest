@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editar Informações do PDF Online Grátis",
+  "short_name": "Editar Informações do PDF",
+  "description": "Veja e edite os metadados de um PDF online grátis - título, autor, assunto e palavras-chave - e veja o número de páginas e o tamanho do ficheiro. Sem registo; a edição de metadados é executada no navegador.",
+  "id": "/loona-pdf-tools/pt-pt/edit-pdf-info/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
