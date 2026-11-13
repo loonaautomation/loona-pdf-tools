@@ -1,0 +1,29 @@
+{
+  "name": "Loona Geuza Mpangilio wa Kurasa za PDF bure mtandaoni",
+  "short_name": "Geuza Mpangilio wa Kurasa za PDF bure mtandaoni",
+  "description": "Geuza mpangilio wa kurasa za PDF bure mtandaoni - ukurasa wa mwisho huwa wa kwanza. Bora kwa kurekebisha skani zilizo nyuma-kwenda-mbele. Mara moja, katika kivinjari chako, hakuna kinachopakiwa.",
+  "id": "/loona-pdf-tools/sw/reverse-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

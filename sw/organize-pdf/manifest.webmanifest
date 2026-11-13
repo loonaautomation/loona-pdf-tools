@@ -1,0 +1,29 @@
+{
+  "name": "Loona Panga PDF bure mtandaoni",
+  "short_name": "Panga PDF bure mtandaoni",
+  "description": "Panga kurasa za PDF bure mtandaoni: buruta vijipicha kupanga upya kurasa, zungusha kurasa zilizolala na futa kurasa usizozihitaji. Hakuna kujisajili. Faili huchakatwa kwa faragha katika kivinjari chako.",
+  "id": "/loona-pdf-tools/sw/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

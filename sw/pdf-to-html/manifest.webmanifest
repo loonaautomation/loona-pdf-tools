@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji PDF kwenda HTML bure mtandaoni",
+  "short_name": "Kibadilishaji PDF kwenda HTML bure mtandaoni",
+  "description": "Badilisha PDF kuwa HTML mtandaoni, bure katika kivinjari chako. Maandishi hutolewa muundo wa vichwa ukitambuliwa kutoka ukubwa wa fonti. Hakuna upakiaji, hakuna kujisajili.",
+  "id": "/loona-pdf-tools/sw/pdf-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

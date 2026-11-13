@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kata PDF bure mtandaoni",
+  "short_name": "Kata PDF bure mtandaoni",
+  "description": "Kata kurasa za PDF bure mtandaoni: punguza pambizo nyeupe au kata kingo kwa pointi au asilimia kwenye kila ukurasa au masafa moja. Kisanduku cha ukataji wa ukurasa huwekwa kwa usahihi katika kivinjari chako - hakuna kinachopakiwa.",
+  "id": "/loona-pdf-tools/sw/crop-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

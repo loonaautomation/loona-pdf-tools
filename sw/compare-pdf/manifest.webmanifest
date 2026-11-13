@@ -1,0 +1,29 @@
+{
+  "name": "Loona Linganisha Faili za PDF bure mtandaoni",
+  "short_name": "Linganisha Faili za PDF bure mtandaoni",
+  "description": "Linganisha faili mbili za PDF bure mtandaoni na uone hasa maandishi yapi yamebadilika, ukurasa baada ya ukurasa. Mistari iliyoondolewa na iliyoongezwa huangaziwa kando kwa kando. Hakuna kujisajili; ulinganishaji huendeshwa kwa faragha katika kivinjari chako.",
+  "id": "/loona-pdf-tools/sw/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

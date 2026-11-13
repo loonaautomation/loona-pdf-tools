@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bana PDF bure mtandaoni",
+  "short_name": "Bana PDF bure mtandaoni",
+  "description": "Bana faili za PDF bure mtandaoni na uzipunguze kwa ajili ya barua pepe au upakiaji. Chagua ubanaji wa mkondo usiopoteza ubora au ubanaji mkali wa picha. Kwa faragha, katika kivinjari chako.",
+  "id": "/loona-pdf-tools/sw/compress-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

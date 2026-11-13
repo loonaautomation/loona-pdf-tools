@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji Markdown kwenda PDF bure mtandaoni",
+  "short_name": "Kibadilishaji Markdown kwenda PDF bure mtandaoni",
+  "description": "Badilisha Markdown kuwa PDF yenye mitindo mtandaoni, bure katika kivinjari chako. Vichwa, orodha, msimbo na viungo huonyeshwa pamoja na onyesho la moja kwa moja. Hakuna upakiaji.",
+  "id": "/loona-pdf-tools/sw/markdown-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

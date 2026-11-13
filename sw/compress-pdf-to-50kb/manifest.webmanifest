@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bana PDF hadi 50 KB Mtandaoni bure mtandaoni",
+  "short_name": "Bana PDF hadi 50 KB Mtandaoni bure mtandaoni",
+  "description": "Bana PDF hadi 50 KB au chini yake, bure katika kivinjari chako. Zana hujaribu kwanza kuhifadhi upya bila kupoteza ubora, kisha hupunguza ubora wa uonyeshaji hatua kwa hatua hadi faili lako litoshee — na huripoti matokeo kamili.",
+  "id": "/loona-pdf-tools/sw/compress-pdf-to-50kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

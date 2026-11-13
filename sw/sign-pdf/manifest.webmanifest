@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saini PDF bure mtandaoni",
+  "short_name": "Saini PDF bure mtandaoni",
+  "description": "Saini PDF bure mtandaoni. Chora saini yako au pakia picha yake, iweke kwa onyesho la moja kwa moja, na upakue PDF iliyosainiwa. Kwa faragha - hakuna kinachopakiwa.",
+  "id": "/loona-pdf-tools/sw/sign-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

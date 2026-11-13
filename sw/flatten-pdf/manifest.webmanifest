@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tandaza PDF bure mtandaoni",
+  "short_name": "Tandaza PDF bure mtandaoni",
+  "description": "Tandaza PDF bure mtandaoni: unganisha sehemu za fomu zinazoweza kujazwa katika kurasa ili majibu yasiweze kuhaririwa tena, kwa ujenzi upya wa hiari wa picha kamili unaobana kila kitu. Kwa faragha, ndani ya kivinjari, hakuna kujisajili.",
+  "id": "/loona-pdf-tools/sw/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

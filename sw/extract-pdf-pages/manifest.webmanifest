@@ -1,0 +1,29 @@
+{
+  "name": "Loona Toa Kurasa za PDF bure mtandaoni",
+  "short_name": "Toa Kurasa za PDF bure mtandaoni",
+  "description": "Toa kurasa zilizochaguliwa kutoka PDF bure mtandaoni. Weka kurasa kama 3, 5-8 na uzipakue kama PDF mpya, ndogo zaidi. Hakuna kujisajili; utoaji huendeshwa katika kivinjari chako.",
+  "id": "/loona-pdf-tools/sw/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

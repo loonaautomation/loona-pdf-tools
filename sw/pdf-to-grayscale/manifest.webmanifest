@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF kwenda Rangi za Kijivu bure mtandaoni",
+  "short_name": "PDF kwenda Rangi za Kijivu bure mtandaoni",
+  "description": "Badilisha PDF kuwa rangi za kijivu bure mtandaoni: kila ukurasa hujengwa upya kwa vivuli vya kijivu - bora kwa uchapishaji wa bei nafuu na mwonekano safi wa rangi moja. Huendeshwa 100% katika kivinjari chako; hakuna kinachopakiwa.",
+  "id": "/loona-pdf-tools/sw/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

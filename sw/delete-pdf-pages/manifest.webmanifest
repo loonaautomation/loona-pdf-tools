@@ -1,0 +1,29 @@
+{
+  "name": "Loona Futa Kurasa za PDF bure mtandaoni",
+  "short_name": "Futa Kurasa za PDF bure mtandaoni",
+  "description": "Futa kurasa kutoka PDF bure mtandaoni. Andika nambari za kurasa za kuondoa - kama 2, 4-6 - na upakue faili lililosafishwa. Hakuna kujisajili; yote hubaki katika kivinjari chako.",
+  "id": "/loona-pdf-tools/sw/delete-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG kwenda PDF bure mtandaoni",
+  "short_name": "PNG kwenda PDF bure mtandaoni",
+  "description": "Badilisha picha za PNG kuwa PDF bure mtandaoni. Picha za skrini, nembo na michoro huwa PDF moja yenye kurasa za A4, Letter au toshea. Ubadilishaji wa faragha ndani ya kivinjari, hakuna kujisajili.",
+  "id": "/loona-pdf-tools/sw/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

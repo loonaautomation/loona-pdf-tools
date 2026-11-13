@@ -1,0 +1,29 @@
+{
+  "name": "Loona Maandishi kwenda PDF bure mtandaoni",
+  "short_name": "Maandishi kwenda PDF bure mtandaoni",
+  "description": "Badilisha maandishi kuwa PDF bure mtandaoni. Bandika maandishi yako, chagua ukubwa wa fonti na kurasa za A4 au Letter, na upakue PDF safi. Hakuna kujisajili - hutengenezwa kwa faragha ndani ya kivinjari.",
+  "id": "/loona-pdf-tools/sw/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

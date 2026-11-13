@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF kwenda Maandishi bure mtandaoni",
+  "short_name": "PDF kwenda Maandishi bure mtandaoni",
+  "description": "Toa maandishi kutoka PDF bure mtandaoni. Pata maandishi kamili ya kila ukurasa kuyanakili au kuyapakua kama faili ya TXT. Hakuna kujisajili, na PDF yako haitoki kamwe kwenye kivinjari chako.",
+  "id": "/loona-pdf-tools/sw/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
