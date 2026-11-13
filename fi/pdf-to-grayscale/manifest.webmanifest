@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF harmaasävyksi verkossa ilmaiseksi",
+  "short_name": "PDF harmaasävyksi verkossa ilmaiseksi",
+  "description": "Muunna PDF harmaasävyksi ilmaiseksi verkossa: jokainen sivu rakennetaan uudelleen harmaan sävyinä - ihanteellinen edullisempaan tulostukseen ja puhtaaseen yksiväriseen ulkoasuun. Toimii 100-prosenttisesti selaimessasi; mitään ei ladata palvelimelle.",
+  "id": "/loona-pdf-tools/fi/pdf-to-grayscale/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

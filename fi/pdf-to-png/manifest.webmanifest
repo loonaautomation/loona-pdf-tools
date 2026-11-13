@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF:stä PNG:ksi verkossa ilmaiseksi",
+  "short_name": "PDF:stä PNG:ksi verkossa ilmaiseksi",
+  "description": "Muunna PDF-sivut PNG-kuviksi ilmaiseksi verkossa jopa 3x-tarkkuudella, läpinäkyvyys säilyttäen. Lataa jokainen sivu erikseen. Yksityisesti, selaimessasi.",
+  "id": "/loona-pdf-tools/fi/pdf-to-png/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

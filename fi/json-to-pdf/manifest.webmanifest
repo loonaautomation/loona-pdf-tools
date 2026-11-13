@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON:sta PDF:ksi verkossa ilmaiseksi",
+  "short_name": "JSON:sta PDF:ksi verkossa ilmaiseksi",
+  "description": "Muunna JSON luettavaksi, sivutetuksi PDF:ksi verkossa, ilmaiseksi selaimessasi. Ensin tarkistettu ja siististi tulostettu. Ei latausta palvelimelle.",
+  "id": "/loona-pdf-tools/fi/json-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

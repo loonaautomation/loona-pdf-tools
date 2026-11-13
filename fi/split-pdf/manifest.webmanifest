@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jaa PDF osiin verkossa ilmaiseksi",
+  "short_name": "Jaa PDF osiin verkossa ilmaiseksi",
+  "description": "Jaa PDF erillisiin tiedostoihin ilmaiseksi verkossa. Poimi jokainen sivu omana PDF:nään tai jaa sivualueittain. Ei rekisteröitymistä, eikä tiedostosi koskaan poistu selaimestasi.",
+  "id": "/loona-pdf-tools/fi/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

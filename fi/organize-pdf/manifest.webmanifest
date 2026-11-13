@@ -1,0 +1,29 @@
+{
+  "name": "Loona Järjestä PDF verkossa ilmaiseksi",
+  "short_name": "Järjestä PDF verkossa ilmaiseksi",
+  "description": "Järjestä PDF-sivuja ilmaiseksi verkossa: vedä pikkukuvia järjestääksesi sivut uudelleen, kierrä sivuttain olevat sivut ja poista sivut, joita et tarvitse. Ei rekisteröitymistä. Tiedostot käsitellään yksityisesti selaimessasi.",
+  "id": "/loona-pdf-tools/fi/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

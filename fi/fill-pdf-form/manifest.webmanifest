@@ -1,0 +1,29 @@
+{
+  "name": "Loona Täytä PDF-lomake verkossa ilmaiseksi",
+  "short_name": "Täytä PDF-lomake verkossa ilmaiseksi",
+  "description": "Täytä täytettävä PDF-lomake ilmaiseksi verkossa. Lataa PDF, jossa on lomakekenttiä, kirjoita sen tekstilaatikoihin, valintaruutuihin, pudotusvalikoihin ja valintapainikkeisiin ja lataa sitten valmis PDF. Ei rekisteröitymistä; kaikki toimii yksityisesti selaimessasi.",
+  "id": "/loona-pdf-tools/fi/fill-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

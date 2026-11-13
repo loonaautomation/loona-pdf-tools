@@ -1,0 +1,29 @@
+{
+  "name": "Loona Allekirjoitusgeneraattori verkossa ilmaiseksi",
+  "short_name": "Allekirjoitusgeneraattori verkossa ilmaiseksi",
+  "description": "Luo allekirjoituskuva ilmaiseksi verkossa: piirrä se, kirjoita nimesi käsinkirjoitustyylillä tai tee allekirjoituskuvastasi läpinäkyvä. Lataa puhdas läpinäkyvä PNG - ei latausta palvelimelle, ei rekisteröitymistä.",
+  "id": "/loona-pdf-tools/fi/signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

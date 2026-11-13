@@ -1,0 +1,29 @@
+{
+  "name": "Loona SVG-muunnin PDF-muotoon verkossa ilmaiseksi",
+  "short_name": "SVG-muunnin PDF-muotoon verkossa ilmaiseksi",
+  "description": "Muunna SVG-kuvat PDF:ksi verkossa, ilmaiseksi, selaimessasi. Yksi kuva sivua kohden, sovita kuvaan- tai A4/Letter-sivut. Ei latausta palvelimelle, ei rekisteröitymistä.",
+  "id": "/loona-pdf-tools/fi/svg-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

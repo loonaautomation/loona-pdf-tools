@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF:stä WebP:ksi verkossa ilmaiseksi",
+  "short_name": "PDF:stä WebP:ksi verkossa ilmaiseksi",
+  "description": "Muunna PDF-sivut WebP-kuviksi ilmaiseksi verkossa: pienempiä kuin JPG ja PNG verkkosivustoille, renderöitynä valitsemallasi tarkkuudella selaimessasi. Mitään ei ladata palvelimelle, ei rekisteröitymistä.",
+  "id": "/loona-pdf-tools/fi/pdf-to-webp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

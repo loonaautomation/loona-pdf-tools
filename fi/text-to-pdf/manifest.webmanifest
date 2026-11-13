@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tekstistä PDF:ksi verkossa ilmaiseksi",
+  "short_name": "Tekstistä PDF:ksi verkossa ilmaiseksi",
+  "description": "Muunna teksti PDF:ksi ilmaiseksi verkossa. Liitä tekstisi, valitse fonttikoko ja A4- tai Letter-sivut ja lataa puhdas PDF. Ei rekisteröitymistä - tehdään yksityisesti selaimessa.",
+  "id": "/loona-pdf-tools/fi/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

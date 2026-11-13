@@ -1,0 +1,29 @@
+{
+  "name": "Loona Yhdistä PDF-tiedostot verkossa ilmaiseksi",
+  "short_name": "Yhdistä PDF-tiedostot verkossa ilmaiseksi",
+  "description": "Yhdistä PDF-tiedostot yhdeksi asiakirjaksi ilmaiseksi verkossa. Yhdistä useita PDF:iä, vedä järjestääksesi ne uudelleen, rekisteröitymistä ei tarvita. Tiedostot käsitellään yksityisesti selaimessasi.",
+  "id": "/loona-pdf-tools/fi/merge-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

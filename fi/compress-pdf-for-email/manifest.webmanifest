@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pakkaa PDF sähköpostia varten verkossa ilmaiseksi",
+  "short_name": "Pakkaa PDF sähköpostia varten verkossa ilmaiseksi",
+  "description": "Pakkaa PDF kokoon 10 MB tai alle, ilmaiseksi selaimessasi. Työkalu kokeilee ensin häviötöntä uudelleentallennusta ja alentaa sitten renderöintilaatua asteittain, kunnes tiedostosi mahtuu — ja ilmoittaa tarkan tuloksen.",
+  "id": "/loona-pdf-tools/fi/compress-pdf-for-email/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

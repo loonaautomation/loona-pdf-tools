@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kierrä PDF verkossa ilmaiseksi",
+  "short_name": "Kierrä PDF verkossa ilmaiseksi",
+  "description": "Kierrä PDF-sivuja ilmaiseksi verkossa 90, 180 tai 270 astetta - kaikki sivut tai valittu alue - ja tallenna korjattu tiedosto. Ei rekisteröitymistä; se tapahtuu selaimessasi.",
+  "id": "/loona-pdf-tools/fi/rotate-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

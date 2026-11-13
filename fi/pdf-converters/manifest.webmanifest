@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-muuntimet verkossa ilmaiseksi",
+  "short_name": "PDF-muuntimet verkossa ilmaiseksi",
+  "description": "Jokainen PDF-muunnin yhdessä paikassa: kuvat, CSV, JSON, HTML ja Markdown PDF:ksi — ja PDF takaisin kuviksi, tekstiksi, HTML:ksi ja Markdowniksi. Ilmaiseksi, selaimessasi.",
+  "id": "/loona-pdf-tools/fi/pdf-converters/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

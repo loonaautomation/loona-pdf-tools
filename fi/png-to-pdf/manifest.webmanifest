@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG:stä PDF:ksi verkossa ilmaiseksi",
+  "short_name": "PNG:stä PDF:ksi verkossa ilmaiseksi",
+  "description": "Muunna PNG-kuvat PDF:ksi ilmaiseksi verkossa. Kuvakaappauksista, logoista ja grafiikasta tulee yksi PDF A4-, Letter- tai sovitussivuilla. Yksityinen selaimessa tehtävä muunnos, ei rekisteröitymistä.",
+  "id": "/loona-pdf-tools/fi/png-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
