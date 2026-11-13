@@ -1,0 +1,29 @@
+{
+  "name": "Loona Udtræk PDF-sider online gratis",
+  "short_name": "Udtræk PDF-sider online gratis",
+  "description": "Udtræk gratis valgte sider fra en PDF online. Indtast sider som 3, 5-8, og download dem som en ny, mindre PDF. Ingen tilmelding; udtrækningen kører i din browser.",
+  "id": "/loona-pdf-tools/da/extract-pdf-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

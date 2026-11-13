@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimér PDF til 100 KB online gratis",
+  "short_name": "Komprimér PDF til 100 KB online gratis",
+  "description": "Komprimér en PDF til 100 KB eller derunder, gratis i din browser. Værktøjet prøver først en tabsløs gemning og skruer derefter gengivelseskvaliteten ned trin for trin, indtil din fil passer — og rapporterer det præcise resultat.",
+  "id": "/loona-pdf-tools/da/compress-pdf-to-100kb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

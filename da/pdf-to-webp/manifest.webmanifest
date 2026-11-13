@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF til WebP online gratis",
+  "short_name": "PDF til WebP online gratis",
+  "description": "Konvertér gratis PDF-sider til WebP-billeder online: mindre end JPG og PNG til websteder, gengivet ved din valgte opløsning i din browser. Intet uploades, ingen tilmelding.",
+  "id": "/loona-pdf-tools/da/pdf-to-webp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

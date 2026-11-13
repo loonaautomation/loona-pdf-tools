@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF til tekst online gratis",
+  "short_name": "PDF til tekst online gratis",
+  "description": "Udtræk gratis tekst fra en PDF online. Få den fulde tekst fra hver side til at kopiere eller downloade som en TXT-fil. Ingen tilmelding, og din PDF forlader aldrig din browser.",
+  "id": "/loona-pdf-tools/da/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sammenlign PDF online gratis",
+  "short_name": "Sammenlign PDF online gratis",
+  "description": "Sammenlign gratis to PDF-filer online, og se præcis hvilken tekst der ændrede sig, side for side. Fjernede og tilføjede linjer fremhæves side om side. Ingen tilmelding; sammenligningen kører privat i din browser.",
+  "id": "/loona-pdf-tools/da/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

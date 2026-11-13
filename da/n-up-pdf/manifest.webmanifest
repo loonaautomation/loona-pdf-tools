@@ -1,0 +1,29 @@
+{
+  "name": "Loona N-up PDF online gratis",
+  "short_name": "N-up PDF online gratis",
+  "description": "Læg gratis flere PDF-sider på ét ark online: 2-op-, 4-op-, 6-op- eller 9-op-layouts på A4 eller Letter i læserækkefølge. Sparer papir til uddelingskopier og udkast. I browseren, intet uploades.",
+  "id": "/loona-pdf-tools/da/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

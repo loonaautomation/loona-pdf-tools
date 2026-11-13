@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimér PDF online gratis",
+  "short_name": "Komprimér PDF online gratis",
+  "description": "Komprimér gratis PDF-filer online, og krymp dem til e-mail eller uploads. Vælg tabsløs streamkomprimering eller stærk billedkomprimering. Privat, i din browser.",
+  "id": "/loona-pdf-tools/da/compress-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

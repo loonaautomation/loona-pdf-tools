@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fladgør PDF online gratis",
+  "short_name": "Fladgør PDF online gratis",
+  "description": "Fladgør gratis en PDF online: indbrænd udfyldelige formularfelter i siderne, så svar ikke længere kan redigeres, med en valgfri fuld billedgenopbygning, der fladgør alt. Privat, i browseren, ingen tilmelding.",
+  "id": "/loona-pdf-tools/da/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

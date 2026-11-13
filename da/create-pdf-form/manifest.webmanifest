@@ -1,0 +1,29 @@
+{
+  "name": "Loona Opret PDF-formular online gratis",
+  "short_name": "Opret PDF-formular online gratis",
+  "description": "Gør gratis enhver PDF til en udfyldelig formular online: tilføj ægte tekstfelter og afkrydsningsfelter præcis, hvor du trækker dem, navngiv felterne, og download en ægte AcroForm-PDF, enhver kan udfylde. Ingen upload, ingen tilmelding.",
+  "id": "/loona-pdf-tools/da/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

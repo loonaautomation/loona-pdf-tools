@@ -1,0 +1,29 @@
+{
+  "name": "Loona Censurér PDF online gratis",
+  "short_name": "Censurér PDF online gratis",
+  "description": "Censurér gratis en PDF online: tegn sorte bokse over navne, numre eller fotos, og indbrænd dem permanent - det skjulte indhold fjernes, ikke bare dækkes. 100 % i din browser, intet uploades.",
+  "id": "/loona-pdf-tools/da/redact-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
