@@ -1,0 +1,29 @@
+{
+  "name": "Loona Προσθήκη Κενής Σελίδας σε PDF Online Δωρεάν",
+  "short_name": "Προσθήκη Κενής Σελίδας σε PDF Online Δωρεάν",
+  "description": "Εισαγάγετε κενές σελίδες σε ένα PDF δωρεάν online: στην αρχή, στο τέλος ή μετά από οποιαδήποτε σελίδα, αντιστοιχίζοντας το μέγεθος σελίδας του εγγράφου, A4 ή Letter. Αμέσως, στο πρόγραμμα περιήγησής σας, τίποτα δεν μεταφορτώνεται.",
+  "id": "/loona-pdf-tools/el/add-blank-page-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

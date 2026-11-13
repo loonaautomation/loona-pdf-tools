@@ -1,0 +1,29 @@
+{
+  "name": "Loona Κείμενο σε PDF Online Δωρεάν",
+  "short_name": "Κείμενο σε PDF Online Δωρεάν",
+  "description": "Μετατρέψτε κείμενο σε PDF δωρεάν online. Επικολλήστε το κείμενό σας, επιλέξτε μέγεθος γραμματοσειράς και σελίδες A4 ή Letter και κατεβάστε ένα καθαρό PDF. Χωρίς εγγραφή - φτιάχνεται ιδιωτικά στο πρόγραμμα περιήγησης.",
+  "id": "/loona-pdf-tools/el/text-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

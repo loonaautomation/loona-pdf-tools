@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF N-up Online Δωρεάν",
+  "short_name": "PDF N-up Online Δωρεάν",
+  "description": "Βάλτε πολλές σελίδες PDF σε ένα φύλλο δωρεάν online: διατάξεις 2-up, 4-up, 6-up ή 9-up σε A4 ή Letter, σε σειρά ανάγνωσης. Εξοικονομεί χαρτί για φυλλάδια και πρόχειρα. Στο πρόγραμμα περιήγησης, τίποτα δεν μεταφορτώνεται.",
+  "id": "/loona-pdf-tools/el/n-up-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

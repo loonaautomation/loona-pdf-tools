@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF σε PNG Online Δωρεάν",
+  "short_name": "PDF σε PNG Online Δωρεάν",
+  "description": "Μετατρέψτε σελίδες PDF σε εικόνες PNG δωρεάν online σε ανάλυση έως 3x, με διατήρηση της διαφάνειας. Κατεβάστε κάθε σελίδα ξεχωριστά. Ιδιωτικά, στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-pdf-tools/el/pdf-to-png/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

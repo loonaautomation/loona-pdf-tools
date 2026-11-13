@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εξαγωγή Εικόνων από PDF Online Δωρεάν",
+  "short_name": "Εξαγωγή Εικόνων από PDF Online Δωρεάν",
+  "description": "Εξαγάγετε τις πρωτότυπες εικόνες που είναι ενσωματωμένες σε ένα PDF δωρεάν online: φωτογραφίες και γραφικά τραβιούνται έξω στην αποθηκευμένη ανάλυσή τους ως αρχεία PNG - όχι στιγμιότυπα. 100% στο πρόγραμμα περιήγησής σας, τίποτα δεν μεταφορτώνεται.",
+  "id": "/loona-pdf-tools/el/extract-images-from-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

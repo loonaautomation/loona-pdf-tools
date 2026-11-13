@@ -1,0 +1,29 @@
+{
+  "name": "Loona Σύγκριση PDF Online Δωρεάν",
+  "short_name": "Σύγκριση PDF Online Δωρεάν",
+  "description": "Συγκρίνετε δύο αρχεία PDF δωρεάν online και δείτε ακριβώς ποιο κείμενο άλλαξε, σελίδα προς σελίδα. Οι αφαιρεμένες και οι προστεθείσες γραμμές επισημαίνονται δίπλα-δίπλα. Χωρίς εγγραφή· η σύγκριση εκτελείται ιδιωτικά στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-pdf-tools/el/compare-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

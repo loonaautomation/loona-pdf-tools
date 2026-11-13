@@ -1,0 +1,29 @@
+{
+  "name": "Loona Αφαίρεση Κενών Σελίδων Online Δωρεάν",
+  "short_name": "Αφαίρεση Κενών Σελίδων Online Δωρεάν",
+  "description": "Αφαιρέστε κενές σελίδες από ένα PDF δωρεάν online: οι σελίδες αποδίδονται και ελέγχονται εικονοστοιχείο προς εικονοστοιχείο, οι σχεδόν κενές σελίδες καταχωρίζονται ειλικρινά με την κάλυψη μελανιού τους, και αφαιρούνται - οι σελίδες περιεχομένου παραμένουν ανέγγιχτες. Στο πρόγραμμα περιήγησης.",
+  "id": "/loona-pdf-tools/el/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

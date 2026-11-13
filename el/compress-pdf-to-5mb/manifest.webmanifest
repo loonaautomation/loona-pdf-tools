@@ -1,0 +1,29 @@
+{
+  "name": "Loona Συμπίεση PDF στα 5 MB Online Δωρεάν",
+  "short_name": "Συμπίεση PDF στα 5 MB Online Δωρεάν",
+  "description": "Συμπιέστε ένα PDF σε 5 MB ή λιγότερο, δωρεάν στο πρόγραμμα περιήγησής σας. Το εργαλείο δοκιμάζει πρώτα μια αποθήκευση εκ νέου χωρίς απώλειες, έπειτα κατεβάζει σταδιακά την ποιότητα απόδοσης μέχρι το αρχείο σας να χωρέσει — και αναφέρει το ακριβές αποτέλεσμα.",
+  "id": "/loona-pdf-tools/el/compress-pdf-to-5mb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας AVIF σε PDF Online Δωρεάν",
+  "short_name": "Μετατροπέας AVIF σε PDF Online Δωρεάν",
+  "description": "Μετατρέψτε εικόνες AVIF σε PDF online, δωρεάν, στο πρόγραμμα περιήγησής σας. Μία εικόνα ανά σελίδα, σελίδες προσαρμογής στην εικόνα ή A4/Letter. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
+  "id": "/loona-pdf-tools/el/avif-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

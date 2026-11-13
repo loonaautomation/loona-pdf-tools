@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δημιουργός Πιστοποιητικών Online Δωρεάν",
+  "short_name": "Δημιουργός Πιστοποιητικών Online Δωρεάν",
+  "description": "Δωρεάν δημιουργός πιστοποιητικών: σχεδιάστε ένα εκτυπώσιμο πιστοποιητικό σε ζωντανή προεπισκόπηση, έπειτα κατεβάστε ένα A4 PDF ή PNG έτοιμο για εκτύπωση. Φτιάξτε ένα πιστοποιητικό ή εκατοντάδες μαζικά από μια λίστα ονομάτων. Χωρίς εγγραφή, χωρίς υδατογράφημα, και όλα εκτελούνται ιδιωτικά στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-pdf-tools/el/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

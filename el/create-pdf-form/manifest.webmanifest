@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δημιουργία Φόρμας PDF Online Δωρεάν",
+  "short_name": "Δημιουργία Φόρμας PDF Online Δωρεάν",
+  "description": "Μετατρέψτε οποιοδήποτε PDF σε συμπληρώσιμη φόρμα δωρεάν online: προσθέστε πραγματικά πεδία κειμένου και πλαίσια ελέγχου ακριβώς εκεί που τα σύρετε, ονομάστε τα πεδία, και κατεβάστε ένα πραγματικό PDF AcroForm που ο καθένας μπορεί να συμπληρώσει. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
+  "id": "/loona-pdf-tools/el/create-pdf-form/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

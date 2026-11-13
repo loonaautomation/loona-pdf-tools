@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπείς PDF Online Δωρεάν",
+  "short_name": "Μετατροπείς PDF Online Δωρεάν",
+  "description": "Κάθε μετατροπέας PDF σε ένα μέρος: εικόνες, CSV, JSON, HTML και Markdown σε PDF — και PDF πίσω σε εικόνες, κείμενο, HTML και Markdown. Δωρεάν, στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-pdf-tools/el/pdf-converters/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

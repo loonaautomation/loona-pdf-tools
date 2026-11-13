@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF σε Κείμενο Online Δωρεάν",
+  "short_name": "PDF σε Κείμενο Online Δωρεάν",
+  "description": "Εξαγάγετε κείμενο από ένα PDF δωρεάν online. Πάρτε το πλήρες κείμενο κάθε σελίδας για αντιγραφή ή λήψη ως αρχείο TXT. Χωρίς εγγραφή, και το PDF σας δεν φεύγει ποτέ από το πρόγραμμα περιήγησής σας.",
+  "id": "/loona-pdf-tools/el/pdf-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Οργάνωση PDF Online Δωρεάν",
+  "short_name": "Οργάνωση PDF Online Δωρεάν",
+  "description": "Οργανώστε σελίδες PDF δωρεάν online: σύρετε μικρογραφίες για να αναδιατάξετε σελίδες, περιστρέψτε πλάγιες σελίδες και διαγράψτε σελίδες που δεν χρειάζεστε. Χωρίς εγγραφή. Τα αρχεία επεξεργάζονται ιδιωτικά στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-pdf-tools/el/organize-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

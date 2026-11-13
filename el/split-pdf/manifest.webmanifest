@@ -1,0 +1,29 @@
+{
+  "name": "Loona Διαχωρισμός PDF Online Δωρεάν",
+  "short_name": "Διαχωρισμός PDF Online Δωρεάν",
+  "description": "Διαχωρίστε ένα PDF σε ξεχωριστά αρχεία δωρεάν online. Εξαγάγετε κάθε σελίδα ως δικό της PDF ή διαχωρίστε ανά εύρη σελίδων. Χωρίς εγγραφή, και το αρχείο σας δεν φεύγει ποτέ από το πρόγραμμα περιήγησής σας.",
+  "id": "/loona-pdf-tools/el/split-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

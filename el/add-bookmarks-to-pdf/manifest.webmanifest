@@ -1,0 +1,29 @@
+{
+  "name": "Loona Προσθήκη Σελιδοδεικτών σε PDF Online Δωρεάν",
+  "short_name": "Προσθήκη Σελιδοδεικτών σε PDF Online Δωρεάν",
+  "description": "Προσθέστε σελιδοδείκτες (μια δομή με δυνατότητα κλικ) σε ένα PDF δωρεάν online: καταχωρίστε τίτλους κεφαλαίων με τους αριθμούς σελίδας τους και κατεβάστε ένα PDF με πραγματική δομή πλοήγησης. Στο πρόγραμμα περιήγησης, τίποτα δεν μεταφορτώνεται.",
+  "id": "/loona-pdf-tools/el/add-bookmarks-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
