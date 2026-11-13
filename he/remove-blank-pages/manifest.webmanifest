@@ -1,0 +1,29 @@
+{
+  "name": "Loona הסרת עמודים ריקים מ-PDF מקוון בחינם",
+  "short_name": "הסרת עמודים ריקים מ-PDF מקוון בחינם",
+  "description": "הסירו עמודים ריקים מ-PDF בחינם באינטרנט: עמודים מעובדים ונבדקים פיקסל אחר פיקסל, עמודים כמעט ריקים מפורטים בכנות עם כיסוי הדיו שלהם, ומוסרים - עמודי תוכן נשארים לא נגעים. בדפדפן.",
+  "id": "/loona-pdf-tools/he/remove-blank-pages/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

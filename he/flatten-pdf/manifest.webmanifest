@@ -1,0 +1,29 @@
+{
+  "name": "Loona שיטוח PDF מקוון בחינם",
+  "short_name": "שיטוח PDF מקוון בחינם",
+  "description": "שטחו PDF בחינם באינטרנט: הטמיעו שדות טופס ניתנים למילוי בעמודים כך שתשובות לא יוכלו להיות ערוכות יותר, עם בנייה מחדש מלאה כאופציה כתמונה שמשטחת הכול. פרטי, בדפדפן, ללא הרשמה.",
+  "id": "/loona-pdf-tools/he/flatten-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

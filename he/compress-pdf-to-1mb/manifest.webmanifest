@@ -1,0 +1,29 @@
+{
+  "name": "Loona דחיסת PDF ל-1 MB מקוון – בחינם, יעד מובטח",
+  "short_name": "דחיסת PDF ל-1 MB מקוון – בחינם, יעד מובטח",
+  "description": "דחסו PDF ל-1 MB או פחות, בחינם בדפדפן שלכם. הכלי מנסה תחילה שמירה מחדש ללא אובדן, ואז מוריד את איכות העיבוד צעד אחר צעד עד שהקובץ שלכם מתאים — ומדווח על התוצאה המדויקת.",
+  "id": "/loona-pdf-tools/he/compress-pdf-to-1mb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

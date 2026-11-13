@@ -1,0 +1,29 @@
+{
+  "name": "Loona ממיר CSV ל-PDF – בחינם, ללא העלאה",
+  "short_name": "ממיר CSV ל-PDF – בחינם, ללא העלאה",
+  "description": "המירו נתוני CSV לטבלת PDF נקייה ומעומדת באינטרנט, בחינם בדפדפן שלכם. שורת כותרת מודגשת חוזרת, עמודות מותאמות. ללא העלאה.",
+  "id": "/loona-pdf-tools/he/csv-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

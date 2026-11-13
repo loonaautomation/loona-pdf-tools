@@ -1,0 +1,29 @@
+{
+  "name": "Loona תיקון PDF מקוון בחינם",
+  "short_name": "תיקון PDF מקוון בחינם",
+  "description": "תקנו PDF פגום בחינם באינטרנט: בונה מחדש טבלאות הפניות צולבות שבורות ושומר מחדש עותק נקי, עם בניית תמונות עמודים כמוצא אחרון. מגבלות כנות מצוינות. 100% בדפדפן שלכם.",
+  "id": "/loona-pdf-tools/he/repair-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

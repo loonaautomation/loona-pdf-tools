@@ -1,0 +1,29 @@
+{
+  "name": "Loona חיתוך PDF מקוון בחינם",
+  "short_name": "חיתוך PDF מקוון בחינם",
+  "description": "חתכו עמודי PDF בחינם באינטרנט: חתכו שוליים לבנים או קצוות בנקודות או באחוזים בכל עמוד או בטווח אחד. תיבת החיתוך של העמוד מוגדרת במדויק בדפדפן שלכם - שום דבר לא מועלה.",
+  "id": "/loona-pdf-tools/he/crop-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona יוצר תעודות חינמי באינטרנט",
+  "short_name": "יוצר תעודות חינמי באינטרנט",
+  "description": "יוצר תעודות חינמי: עצבו תעודה מודפסת בתצוגה מקדימה חיה, ואז הורידו PDF או PNG של A4 מוכן להדפסה. צרו תעודה אחת או מאות במרוכז מרשימת שמות. ללא הרשמה, ללא סימן מים, והכול פועל בפרטיות בדפדפן שלכם.",
+  "id": "/loona-pdf-tools/he/certificate-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
