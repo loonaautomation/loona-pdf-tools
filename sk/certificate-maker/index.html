@@ -123,6 +123,13 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 .tpl-opt .nm{font-weight:600;font-size:.9rem;color:var(--teal)}
 canvas.cert{width:100%;height:auto;border:1px solid var(--line);border-radius:10px;background:#fff;box-shadow:0 4px 14px rgba(6,46,42,.08)}
 .name-count{font-size:.9rem;color:var(--mut);margin-top:6px}
+
+.csv-skip{display:none;background:#fdf3e7;border:1px solid #e0b26a;border-radius:10px;padding:10px 14px;margin-top:12px;font-size:.92rem;color:#4a3a14}
+.csv-skip ul{margin:6px 0 0;padding-inline-start:20px;max-height:180px;overflow:auto}
+.csv-results{margin-top:14px;display:flex;flex-direction:column;gap:8px}
+.csv-item{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:#f4f8f6;border:1px solid #d8e2dc;border-radius:10px;padding:8px 12px}
+.csv-item .cnm{font-weight:600;flex:1;min-width:140px}
+.btn.small{padding:6px 12px;font-size:.9rem}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Tvorca certifikátov - Loona PDF Tools","url":"https://loonaautomation.github.io/loona-pdf-tools/sk/certificate-maker/","description":"Bezplatný tvorca certifikátov: navrhnite tlačiteľný certifikát na živom náhľade, potom si stiahnite PDF A4 alebo PNG pripravené na tlač. Vytvorte jeden certifikát alebo stovky hromadne zo zoznamu mien. Bez registrácie, bez vodoznaku a všetko beží súkromne vo vašom prehliadači.","applicationCategory":"UtilitiesApplication","operatingSystem":"Any","browserRequirements":"Vyžaduje JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Je tento tvorca certifikátov naozaj zadarmo?","acceptedAnswer":{"@type":"Answer","text":"Áno. Je to úplne zadarmo, bez registrácie a bez vodoznaku - vrátane hromadného režimu. Mnohé stránky s certifikátmi vám dovolia navrhnúť zadarmo a potom si účtujú za stiahnutie; tu je stiahnutie tiež zadarmo."}},{"@type":"Question","name":"Nahrávajú sa mená, ktoré píšem, niekam?","acceptedAnswer":{"@type":"Answer","text":"Nie. Certifikát sa kreslí a PDF sa stavia na 100 % vo vašom prehliadači. Mená, dátumy a každý ďalší údaj nikdy neopustia vaše zariadenie."}},{"@type":"Question","name":"Koľko certifikátov dokáže hromadný režim vytvoriť?","acceptedAnswer":{"@type":"Answer","text":"Až 200 certifikátov v jednom PDF na beh. Vložte jedno meno na riadok; prázdne riadky sa ignorujú a opakované mená sa zachovajú, takže dvaja študenti s rovnakým menom dostanú každý certifikát."}},{"@type":"Question","name":"Aká je veľkosť certifikátu?","acceptedAnswer":{"@type":"Answer","text":"Každý certifikát je štandardná stránka A4 v orientácii na šírku, nakreslená pri 150 dpi, takže sa tlačí ostro na akejkoľvek domácej alebo kancelárskej tlačiarni. Pre presné prispôsobenie zvoľte v dialógu tlačiarne 'Skutočná veľkosť' alebo 100 %."}},{"@type":"Question","name":"Môžem zmeniť dizajn?","acceptedAnswer":{"@type":"Answer","text":"Áno. Existujú tri vstavané návrhy - Elegantná zlatá, Moderná modrá a Klasická - a každé slovo na certifikáte je upraviteľné: názov, meno príjemcu, riadok kurzu, popis, dátum, vydavateľ a meno podpisu."}}]}</script>
@@ -179,7 +186,12 @@ canvas.cert{width:100%;height:auto;border:1px solid var(--line);border-radius:10
 <button type="button" class="tpl-opt active" data-tpl="gold"><span class="sw" style="background:#fffdf4;border-color:#c9a227"></span><span class="nm">Elegantná zlatá</span></button>
 <button type="button" class="tpl-opt" data-tpl="blue"><span class="sw" style="background:#f4f8ff;border-color:#1d4e89"></span><span class="nm">Moderná modrá</span></button>
 <button type="button" class="tpl-opt" data-tpl="classic"><span class="sw" style="background:#faf6ec;border-color:#3b3125"></span><span class="nm">Klasické</span></button>
-</div></div>
+
+<button type="button" class="tpl-opt" data-tpl="dclassic"><span class="sw" style="background:#fffdf5;border-color:#c9a227"></span><span class="nm">Classic Gold — Úspech</span></button>
+<button type="button" class="tpl-opt" data-tpl="dmodern"><span class="sw" style="background:#ffffff;border-color:#0b3d37"></span><span class="nm">Modern Teal — Absolvovanie kurzu</span></button>
+<button type="button" class="tpl-opt" data-tpl="delegant"><span class="sw" style="background:#f8fafc;border-color:#16283f"></span><span class="nm">Elegant Navy — Uznanie</span></button>
+<button type="button" class="tpl-opt" data-tpl="dfresh"><span class="sw" style="background:#ffffff;border-color:#2e7d4f"></span><span class="nm">Fresh Meadow — Účasť</span></button></div>
+<div class="field" id="varField" style="display:none"><label>Štýl</label><div class="tpl-row" id="varRow"></div></div></div>
 </div>
 <div class="row"><div class="field"><label for="fName">Meno príjemcu</label><input type="text" id="fName" value="Ayesha Khan" maxlength="70"></div></div>
 <div class="row">
@@ -197,6 +209,10 @@ canvas.cert{width:100%;height:auto;border:1px solid var(--line);border-radius:10
 Bilal Ahmed
 Chen Wei</textarea><div class="name-count" id="nameCount"></div></div>
 <p style="font-size:.93rem;color:#33473f;margin-top:8px">Každé ďalšie pole vyššie - kurz, dátum, vydavateľ, podpis a dizajn - zostáva na každom certifikáte rovnaké; mení sa len meno. Prázdne riadky sa ignorujú a opakované mená sa zachovajú.</p>
+
+<div style="margin-top:20px;border-top:1px solid #d8e2dc;padding-top:16px"><div class="field"><label>Hromadne z CSV</label><p style="font-size:.93rem;color:#33473f;margin:6px 0 10px">Vložte údaje CSV so stĺpcami name, course, date (riadok hlavičky je voliteľný) alebo nahrajte súbor .csv. Šablóna, štýl, popis, vydavateľ a podpisujúca osoba z formulára sa použijú pre každý certifikát.</p><textarea id="fCsv" placeholder="name,course,date
+Ayesha Khan,Pokročilý kurz angličtiny,2026-11-15
+Bilal Ahmed,Základy práce s počítačom,2026-11-15" style="width:100%;min-height:110px"></textarea></div><div class="field" style="margin-top:10px"><label for="fCsvFile">Súbor CSV</label><input type="file" id="fCsvFile" accept=".csv,text/csv,text/plain"></div><div style="margin-top:12px"><button class="btn" id="btnCsv" type="button">Vygenerovať certifikáty</button> <button class="btn ghost" id="btnCsvPrintAll" type="button" style="display:none">Vytlačiť všetky certifikáty</button></div><div class="csv-skip" id="csvSkip"></div><div class="csv-results" id="csvResults"></div></div>
 </div>
 <div style="margin:18px 0 6px"><canvas class="cert" id="certCanvas" width="1754" height="1240"></canvas></div>
 <div style="margin-top:14px">
@@ -270,6 +286,20 @@ const TEMPLATES={
   blue:{bg:'#f4f8ff',paper:'#ffffff',frame:'#1d4e89',frame2:'#7fb0e0',accent:'#1d4e89',title:'#123c69',name:'#1d4e89',body:'#33475e',seal:'#1d4e89',sealIn:'#7fb0e0',sealText:'#ffffff',headFont:'"Segoe UI",Arial,sans-serif',bodyFont:'"Segoe UI",Arial,sans-serif',scriptFont:'"Segoe Script","Brush Script MT",cursive'},
   classic:{bg:'#faf6ec',paper:'#faf6ec',frame:'#3b3125',frame2:'#8a7a5c',accent:'#3b3125',title:'#2b241a',name:'#5c4a26',body:'#453c2f',seal:'#3b3125',sealIn:'#8a7a5c',sealText:'#faf6ec',headFont:'Georgia,"Times New Roman",serif',bodyFont:'Georgia,"Times New Roman",serif',scriptFont:'"Segoe Script","Brush Script MT",cursive'}
 };
+Object.assign(TEMPLATES,{
+dclassic0:{"bg": "#fffdf5", "paper": "#fffdf5", "frame": "#c9a227", "frame2": "#8a6d1a", "accent": "#c9a227", "title": "#c9a227", "name": "#c9a227", "body": "#3d3a2e", "seal": "#c9a227", "sealIn": "#8a6d1a", "sealText": "#fffdf5", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive"},
+dclassic1:{"bg": "#fffdf5", "paper": "#fffdf5", "frame": "#7b2231", "frame2": "#c9a227", "accent": "#7b2231", "title": "#7b2231", "name": "#7b2231", "body": "#3d3a2e", "seal": "#7b2231", "sealIn": "#c9a227", "sealText": "#fffdf5", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive"},
+dclassic2:{"bg": "#fffdf5", "paper": "#fffdf5", "frame": "#274690", "frame2": "#c9a227", "accent": "#274690", "title": "#274690", "name": "#274690", "body": "#3d3a2e", "seal": "#274690", "sealIn": "#c9a227", "sealText": "#fffdf5", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive"},
+dmodern0:{"bg": "#ffffff", "paper": "#ffffff", "frame": "#0b3d37", "frame2": "#c9a227", "accent": "#0b3d37", "title": "#0b3d37", "name": "#0b3d37", "body": "#33475e", "seal": "#0b3d37", "sealIn": "#c9a227", "sealText": "#ffffff", "headFont": "\"Segoe UI\",Arial,sans-serif", "bodyFont": "\"Segoe UI\",Arial,sans-serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive", "frameStyle": "band"},
+dmodern1:{"bg": "#ffffff", "paper": "#ffffff", "frame": "#2b2a6e", "frame2": "#8f9ff0", "accent": "#2b2a6e", "title": "#2b2a6e", "name": "#2b2a6e", "body": "#33475e", "seal": "#2b2a6e", "sealIn": "#8f9ff0", "sealText": "#ffffff", "headFont": "\"Segoe UI\",Arial,sans-serif", "bodyFont": "\"Segoe UI\",Arial,sans-serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive", "frameStyle": "band"},
+dmodern2:{"bg": "#ffffff", "paper": "#ffffff", "frame": "#37424e", "frame2": "#c9a227", "accent": "#37424e", "title": "#37424e", "name": "#37424e", "body": "#33475e", "seal": "#37424e", "sealIn": "#c9a227", "sealText": "#ffffff", "headFont": "\"Segoe UI\",Arial,sans-serif", "bodyFont": "\"Segoe UI\",Arial,sans-serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive", "frameStyle": "band"},
+delegant0:{"bg": "#f8fafc", "paper": "#f8fafc", "frame": "#16283f", "frame2": "#b8c2cc", "accent": "#16283f", "title": "#16283f", "name": "#16283f", "body": "#3a4656", "seal": "#16283f", "sealIn": "#b8c2cc", "sealText": "#f8fafc", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive"},
+delegant1:{"bg": "#f8fafc", "paper": "#f8fafc", "frame": "#4a1522", "frame2": "#c9a227", "accent": "#4a1522", "title": "#4a1522", "name": "#4a1522", "body": "#3a4656", "seal": "#4a1522", "sealIn": "#c9a227", "sealText": "#f8fafc", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive"},
+delegant2:{"bg": "#f8fafc", "paper": "#f8fafc", "frame": "#173d2a", "frame2": "#b8c2cc", "accent": "#173d2a", "title": "#173d2a", "name": "#173d2a", "body": "#3a4656", "seal": "#173d2a", "sealIn": "#b8c2cc", "sealText": "#f8fafc", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive"},
+dfresh0:{"bg": "#ffffff", "paper": "#ffffff", "frame": "#2e7d4f", "frame2": "#c9a227", "accent": "#2e7d4f", "title": "#2e7d4f", "name": "#2e7d4f", "body": "#37473c", "seal": "#2e7d4f", "sealIn": "#c9a227", "sealText": "#ffffff", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive", "frameStyle": "wave"},
+dfresh1:{"bg": "#ffffff", "paper": "#ffffff", "frame": "#c2571b", "frame2": "#e3a72f", "accent": "#c2571b", "title": "#c2571b", "name": "#c2571b", "body": "#37473c", "seal": "#c2571b", "sealIn": "#e3a72f", "sealText": "#ffffff", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive", "frameStyle": "wave"},
+dfresh2:{"bg": "#ffffff", "paper": "#ffffff", "frame": "#5b3a8e", "frame2": "#c9a227", "accent": "#5b3a8e", "title": "#5b3a8e", "name": "#5b3a8e", "body": "#37473c", "seal": "#5b3a8e", "sealIn": "#c9a227", "sealText": "#ffffff", "headFont": "Georgia,\"Times New Roman\",serif", "bodyFont": "Georgia,\"Times New Roman\",serif", "scriptFont": "\"Segoe Script\",\"Brush Script MT\",cursive", "frameStyle": "wave"}
+});
 let curTpl='gold';
 
 function fitFont(ctx,text,basePx,weight,family,maxWidth){
@@ -322,6 +352,8 @@ function drawCertificate(ctx,d){
   ctx.strokeStyle=t.frame2;ctx.lineWidth=2.5;ctx.strokeRect(78,78,CW-156,CH-156);
   drawCorner(ctx,96,96,1,1,t.frame);drawCorner(ctx,CW-96,96,-1,1,t.frame);
   drawCorner(ctx,96,CH-96,1,-1,t.frame);drawCorner(ctx,CW-96,CH-96,-1,-1,t.frame);
+    if(t.frameStyle==='band'){var grd=ctx.createLinearGradient(0,0,0,CH);grd.addColorStop(0,t.frame);grd.addColorStop(1,t.frame2);ctx.fillStyle=grd;ctx.fillRect(52,52,110,CH-104);ctx.fillStyle=t.frame2;ctx.fillRect(162,52,5,CH-104);}
+  if(t.frameStyle==='wave'){ctx.save();ctx.beginPath();ctx.moveTo(78,78);ctx.lineTo(CW-78,78);ctx.lineTo(CW-78,118);ctx.bezierCurveTo(CW*0.72,166,CW*0.55,84,CW*0.38,126);ctx.bezierCurveTo(CW*0.24,162,78,148,78,116);ctx.closePath();ctx.fillStyle=t.frame;ctx.fill();ctx.restore();}
   ctx.textAlign='center';ctx.textBaseline='alphabetic';
   const cx=CW/2;
   /* top ornament */
@@ -487,6 +519,132 @@ $('#dlBulk').addEventListener('click',async()=>{
     $('#fDate').value=months[dt.getMonth()]+' '+dt.getDate()+', '+dt.getFullYear();
   }catch(e){}
 })();
+
+/* ---- Bulk from CSV (merged from the Loona Design Studio Certificate Maker) ---- */
+var CSVSTR={"generated": "Vygenerovaných {n} certifikátov. Preskočených {m} prázdnych alebo neplatných riadkov.", "generatedClean": "Vygenerovaných {n} certifikátov.", "tooMany": "Použilo sa iba prvých 200 riadkov.", "noRows": "Nenašli sa žiadne platné riadky. Skontrolujte formát CSV: name, course, date.", "badFile": "Tento súbor sa nepodarilo načítať ako text CSV.", "thisPng": "Stiahnuť toto PNG", "printBtn": "Tlačiť / Uložiť ako PDF", "skipHeading": "Preskočené riadky", "rowWord": "Riadok", "rMissing": "chýba meno", "rEmpty": "prázdny riadok", "rLimit": "nad limit 200 riadkov", "generating": "..."};
+var csvCerts=[];
+function parseCSVRows(text){
+  var rows=[],row=[],field='',inQ=false,i,c;var src=String(text==null?'':text);
+  for(i=0;i<src.length;i++){c=src[i];
+    if(inQ){if(c==='\"'){if(src[i+1]==='\"'){field+='\"';i++;}else{inQ=false;}}else{field+=c;}}
+    else if(c==='\"'){inQ=true;}
+    else if(c===','){row.push(field);field='';}
+    else if(c==='\n'){row.push(field);field='';rows.push(row);row=[];}
+    else if(c==='\r'){}
+    else{field+=c;}
+  }
+  row.push(field);rows.push(row);
+  var start=0;
+  if(rows.length&&rows[0].length&&String(rows[0][0]).trim().toLowerCase()==='name'){start=1;}
+  var certs=[],skipped=[],truncated=false;
+  for(var r=start;r<rows.length;r++){
+    var cells=rows[r].map(function(x){return String(x).trim();});
+    var joined=cells.join('');
+    if(!joined){skipped.push({row:r+1,reason:'empty'});continue;}
+    if(!cells[0]){skipped.push({row:r+1,reason:'missing'});continue;}
+    if(certs.length>=200){truncated=true;skipped.push({row:r+1,reason:'limit'});continue;}
+    certs.push({name:cells[0],course:cells[1]||'',date:cells[2]||'',row:r+1});
+  }
+  return {certificates:certs,skipped:skipped,truncated:truncated};
+}
+function fmtCsvDate(value){
+  var v=String(value||'').trim();var m=v.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if(!m)return v;
+  var d=new Date(parseInt(m[1],10),parseInt(m[2],10)-1,parseInt(m[3],10));
+  try{return d.toLocaleDateString(document.documentElement.lang||'en',{day:'numeric',month:'long',year:'numeric'});}catch(e){return v;}
+}
+function csvReasonText(k){return k==='missing'?CSVSTR.rMissing:(k==='limit'?CSVSTR.rLimit:CSVSTR.rEmpty);}
+function showSkipReport(res,summary){
+  var box=$('#csvSkip');var parts=[];
+  if(summary)parts.push('<strong>'+summary+'</strong>');
+  if(res.skipped.length){
+    parts.push('<div style="margin-top:6px"><strong>'+CSVSTR.skipHeading+' ('+res.skipped.length+')</strong></div><ul>'+
+      res.skipped.slice(0,100).map(function(s){return '<li>'+CSVSTR.rowWord+' '+s.row+': '+csvReasonText(s.reason)+'</li>';}).join('')+'</ul>');
+  }
+  box.innerHTML=parts.join('');box.style.display=parts.length?'block':'none';
+}
+function printCertImages(urls){
+  var ifr=document.getElementById('csvPrintFrame');
+  if(!ifr){ifr=document.createElement('iframe');ifr.id='csvPrintFrame';ifr.style.cssText='position:fixed;right:0;bottom:0;width:0;height:0;border:0';document.body.appendChild(ifr);}
+  var doc=ifr.contentWindow.document;
+  doc.open();doc.write('<!DOCTYPE html><html><head><title>Certificates</title><style>@page{size:A4 landscape;margin:0}body{margin:0}img{width:297mm;height:210mm;page-break-after:always;display:block}</style></head><body>'+
+    urls.map(function(u){return '<img src="'+u+'">';}).join('')+'</body></html>');doc.close();
+  var imgs=doc.images,loaded=0;
+  function go(){try{ifr.contentWindow.focus();ifr.contentWindow.print();}catch(e){}}
+  if(!imgs.length){go();return;}
+  for(var i=0;i<imgs.length;i++){imgs[i].onload=imgs[i].onerror=function(){loaded++;if(loaded>=imgs.length)setTimeout(go,150);};}
+  setTimeout(go,2500);
+}
+async function generateCsv(){
+  var st=$('#st');
+  try{
+    var res=parseCSVRows($('#fCsv').value);
+    var list=$('#csvResults');list.innerHTML='';csvCerts=[];
+    $('#btnCsvPrintAll').style.display='none';
+    if(!res.certificates.length){
+      showSkipReport(res,'');
+      setStatus(st,CSVSTR.noRows,false);return;
+    }
+    setStatus(st,CSVSTR.generating||'...');
+    var base=collect();
+    var off=document.createElement('canvas');off.width=CW;off.height=CH;var octx=off.getContext('2d');
+    for(var i=0;i<res.certificates.length;i++){
+      var c=res.certificates[i];var d=Object.assign({},base);
+      d.name=c.name;if(c.course)d.courseName=c.course;if(c.date)d.date=fmtCsvDate(c.date);
+      drawCertificate(octx,d);
+      var bytes=await canvasPngBytes(off);
+      csvCerts.push({name:c.name,bytes:bytes});
+    }
+    csvCerts.forEach(function(cc,idx){
+      var item=document.createElement('div');item.className='csv-item';
+      var nm=document.createElement('span');nm.className='cnm';nm.textContent=(idx+1)+'. '+cc.name;item.appendChild(nm);
+      var b1=document.createElement('button');b1.type='button';b1.className='btn small';b1.textContent=CSVSTR.thisPng;
+      b1.addEventListener('click',function(){download(new Blob([cc.bytes],{type:'image/png'}),'certificate-'+slugName(cc.name)+'.png','image/png');});
+      var b2=document.createElement('button');b2.type='button';b2.className='btn ghost small';b2.textContent=CSVSTR.printBtn;
+      b2.addEventListener('click',function(){printCertImages([URL.createObjectURL(new Blob([cc.bytes],{type:'image/png'}))]);});
+      item.appendChild(b1);item.appendChild(b2);list.appendChild(item);
+    });
+    $('#btnCsvPrintAll').style.display='inline-block';
+    var summary=res.skipped.length?CSVSTR.generated.replace('{n}',res.certificates.length).replace('{m}',res.skipped.length):CSVSTR.generatedClean.replace('{n}',res.certificates.length);
+    if(res.truncated)summary+=' '+CSVSTR.tooMany;
+    showSkipReport(res,summary);
+    setStatus(st,summary,true);
+  }catch(e){setStatus(st,'Error: '+e.message,false);}
+}
+$('#btnCsv').addEventListener('click',generateCsv);
+$('#btnCsvPrintAll').addEventListener('click',function(){
+  if(!csvCerts.length)return;
+  printCertImages(csvCerts.map(function(cc){return URL.createObjectURL(new Blob([cc.bytes],{type:'image/png'}));}));
+});
+$('#fCsvFile').addEventListener('change',function(){
+  var f=this.files&&this.files[0];if(!f)return;
+  function ok(t){$('#fCsv').value=t;}
+  function bad(){setStatus($('#st'),CSVSTR.badFile,false);}
+  if(f.text){f.text().then(ok).catch(bad);}
+  else{var r=new FileReader();r.onload=function(){ok(String(r.result||''));};r.onerror=bad;r.readAsText(f);}
+});
+/* ---- Design-template style variants ---- */
+var DFAM={"dclassic": {"names": ["Zlatá", "Bordová", "Kráľovská"], "keys": ["dclassic0", "dclassic1", "dclassic2"], "sw": ["#c9a227", "#7b2231", "#274690"]}, "dmodern": {"names": ["Petrolejová", "Indigo", "Bridlicová"], "keys": ["dmodern0", "dmodern1", "dmodern2"], "sw": ["#0b3d37", "#2b2a6e", "#37424e"]}, "delegant": {"names": ["Námornícka", "Gaštanová", "Lesná"], "keys": ["delegant0", "delegant1", "delegant2"], "sw": ["#16283f", "#4a1522", "#173d2a"]}, "dfresh": {"names": ["Lúčna", "Západ slnka", "Fialová"], "keys": ["dfresh0", "dfresh1", "dfresh2"], "sw": ["#2e7d4f", "#c2571b", "#5b3a8e"]}};
+var curFam=null,curVar=0;
+function showVars(fam){
+  var row=$('#varRow');row.innerHTML='';
+  DFAM[fam].names.forEach(function(nm,i){
+    var b=document.createElement('button');b.type='button';b.className='tpl-opt'+(i===curVar?' active':'');
+    b.innerHTML='<span class="sw" style="background:'+DFAM[fam].sw[i]+';border-color:'+DFAM[fam].sw[i]+'"></span><span class="nm"></span>';
+    b.querySelector('.nm').textContent=nm;
+    b.addEventListener('click',function(){curVar=i;curTpl=DFAM[fam].keys[i];showVars(fam);redraw();});
+    row.appendChild(b);
+  });
+  $('#varField').style.display='block';
+}
+document.querySelectorAll('#tplRow .tpl-opt').forEach(function(b){
+  b.addEventListener('click',function(){
+    var t=b.getAttribute('data-tpl');
+    if(DFAM[t]){curFam=t;curVar=0;curTpl=DFAM[t].keys[0];showVars(t);redraw();}
+    else{curFam=null;$('#varField').style.display='none';}
+  });
+});
+
 redraw();
 </script>
 
