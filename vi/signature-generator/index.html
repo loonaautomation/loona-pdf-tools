@@ -271,7 +271,7 @@ $('#undoBtn').addEventListener('click',()=>{strokes.pop();redrawPad();});
 $('#clearBtn').addEventListener('click',()=>{strokes=[];redrawPad();});
 $('#penW').addEventListener('input',()=>{$('#penWVal').textContent=$('#penW').value;});
 let upCanvas=null;
-function showTab(m){mode=m;['Vẽ','Loại','Tải lên'].forEach(n=>{$('#tab'+n).classList.toggle('on',n.toLowerCase()===m||(m==='upload'&&n==='Tải lên'));$('#pane'+n).style.display=((m==='draw'&&n==='Vẽ')||(m==='type'&&n==='Loại')||(m==='upload'&&n==='Tải lên'))?'':'none';});refreshPreview();}
+function showTab(m){mode=m;['Draw','Type','Upload'].forEach(n=>{$('#tab'+n).classList.toggle('on',n.toLowerCase()===m||(m==='upload'&&n==='Upload'));$('#pane'+n).style.display=((m==='draw'&&n==='Draw')||(m==='type'&&n==='Type')||(m==='upload'&&n==='Upload'))?'':'none';});refreshPreview();}
 $('#tabDraw').addEventListener('click',()=>showTab('draw'));
 $('#tabType').addEventListener('click',()=>showTab('type'));
 $('#tabUpload').addEventListener('click',()=>showTab('upload'));

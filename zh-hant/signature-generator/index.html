@@ -271,7 +271,7 @@ $('#undoBtn').addEventListener('click',()=>{strokes.pop();redrawPad();});
 $('#clearBtn').addEventListener('click',()=>{strokes=[];redrawPad();});
 $('#penW').addEventListener('input',()=>{$('#penWVal').textContent=$('#penW').value;});
 let upCanvas=null;
-function showTab(m){mode=m;['繪製','輸入','上傳'].forEach(n=>{$('#tab'+n).classList.toggle('在',n.toLowerCase()===m||(m==='upload'&&n==='上傳'));$('#pane'+n).style.display=((m==='draw'&&n==='繪製')||(m==='type'&&n==='輸入')||(m==='upload'&&n==='上傳'))?'':'none';});refreshPreview();}
+function showTab(m){mode=m;['Draw','Type','Upload'].forEach(n=>{$('#tab'+n).classList.toggle('on',n.toLowerCase()===m||(m==='upload'&&n==='Upload'));$('#pane'+n).style.display=((m==='draw'&&n==='Draw')||(m==='type'&&n==='Type')||(m==='upload'&&n==='Upload'))?'':'none';});refreshPreview();}
 $('#tabDraw').addEventListener('click',()=>showTab('draw'));
 $('#tabType').addEventListener('click',()=>showTab('type'));
 $('#tabUpload').addEventListener('click',()=>showTab('upload'));
