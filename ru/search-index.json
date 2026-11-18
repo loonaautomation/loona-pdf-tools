@@ -358,5 +358,14 @@
   "k": "удалить пустые страницы remove blank pages remove blank pages delete empty blank pages clean remove automatically detect near empty pages by pixel analysis and remove them with honest per page coverage анализа и их каждой обнаруживайте пикселей по покрытием помощью почти пустые с странице страницы удалить удаляйте честным",
   "p": 139,
   "c": "Tool"
+ },
+ {
+  "n": "PDF в Excel",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/pdf-to-excel/",
+  "s": "Loona PDF Tools",
+  "d": "Извлекайте таблицы PDF в редактируемые электронные таблицы Excel (.xlsx) - просматривайте и исправляйте каждую ячейку, без загрузки на сервер.",
+  "k": "pdf в excel pdf to excel converter xlsx извлекайте таблицы pdf в редактируемые электронные таблицы excel (.xlsx)   просматривайте и исправляйте каждую ячейку, без загрузки на сервер. pdf to excel конвертер pdf в excel",
+  "p": 110,
+  "c": "Tool"
  }
 ]
