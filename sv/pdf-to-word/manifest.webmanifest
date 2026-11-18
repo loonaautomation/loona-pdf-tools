@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF till Word online gratis",
+  "short_name": "PDF till Word online gratis",
+  "description": "Konvertera en textbaserad PDF till ett redigerbart Word-dokument (.docx) gratis i din webbläsare. Rubriker, stycken, listor och enkla tabeller följer med. Ingen uppladdning, ingen registrering.",
+  "id": "/loona-pdf-tools/sv/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
