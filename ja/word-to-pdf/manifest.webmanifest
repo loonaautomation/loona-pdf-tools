@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word to PDF Converter",
+  "short_name": "Word to PDF Converter",
+  "description": "Wordの.docx文書を、ブラウザで無料でオンライン変換し、きれいで読みやすいPDFにします。見出し、リスト、表、画像も引き継がれます。ファイルがアップロードされることは決してありません — 変換はすべてあなたのデバイス上で行われます。",
+  "id": "/loona-pdf-tools/ja/word-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
