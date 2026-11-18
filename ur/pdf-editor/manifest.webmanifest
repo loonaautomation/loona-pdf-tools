@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor آن لائن مفت",
+  "short_name": "Loona PDF Editor",
+  "description": "Loona PDF Editor کے ساتھ PDF فائلیں آن لائن مفت میں ترمیم کریں: متن، تصاویر، شکلیں اور ہائی لائٹس شامل کریں، وائٹ آؤٹ سے غلطیاں ڈھکیں، دستخط بنائیں یا لکھیں، پھر تیار PDF ڈاؤن لوڈ کریں۔ سب کچھ آپ کے براؤزر میں چلتا ہے - آپ کی فائل کبھی آپ کے آلے سے باہر نہیں جاتی۔ سائن اپ نہیں، صفحات کی کوئی حد نہیں، واٹر مارک نہیں۔",
+  "id": "/loona-pdf-tools/ur/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
