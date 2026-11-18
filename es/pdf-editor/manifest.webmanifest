@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor en línea gratis",
+  "short_name": "Loona PDF Editor",
+  "description": "Edita archivos PDF gratis en línea con Loona PDF Editor: añade texto, imágenes, formas y resaltados, cubre errores con corrector blanco, dibuja o escribe una firma y descarga el PDF terminado. Todo se ejecuta en tu navegador: tu archivo nunca sale de tu dispositivo. Sin registro, sin límites de páginas, sin marcas de agua.",
+  "id": "/loona-pdf-tools/es/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
