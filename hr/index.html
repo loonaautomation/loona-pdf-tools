@@ -82,7 +82,7 @@ input[type=range]{width:100%}
 .results a.dl{display:inline-block;margin:5px 8px 5px 0;background:var(--teal);color:#fff;padding:9px 16px;border-radius:10px;font-weight:600;font-size:.92rem}
 .results a.dl:hover{background:var(--teal2);text-decoration:none}
 .privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
-section.block{margin:31px 0}
+section.block{margin:30px 0}
 section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
 section.block h3{color:var(--teal);margin:14px 0 6px}
 section.block p,section.block li{color:#33473f}
@@ -106,7 +106,7 @@ canvas.preview{max-width:100%;border:1px solid var(--line);border-radius:10px;ba
 .kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
 .kv b{color:var(--teal)}
 footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
-.footer-in{max-width:1140px;margin:0 auto;padding:31px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
 .footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
 .footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
 .footer-in .col{min-width:170px}
@@ -249,7 +249,7 @@ function lev(a, b) {
 }
 function wordLevel(w, nameWords, hayWords, nameJoined) {
   var i;
-  for (i = 0; i < nameWords.length; i++) if (nameWords[i] === w) return 31;
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i] === w) return 30;
   for (i = 0; i < nameWords.length; i++) if (w.length >= 3 && nameWords[i].indexOf(w) === 0) return 24;
   for (i = 0; i < hayWords.length; i++) if (hayWords[i] === w) return 20;
   for (i = 0; i < hayWords.length; i++) if (w.length >= 3 && hayWords[i].indexOf(w) === 0) return 18;
@@ -331,7 +331,7 @@ function runSearch(q, limit) {
 }
 function popular(n) {
   if (!data) return [];
-  return data.filter(function (e) { return (typeof e.p === 'number' ? e.p : 400) < 31; })
+  return data.filter(function (e) { return (typeof e.p === 'number' ? e.p : 400) < 30; })
              .sort(function (a, b) { return a.p - b.p; }).slice(0, n);
 }
 /*CORE-END*/
