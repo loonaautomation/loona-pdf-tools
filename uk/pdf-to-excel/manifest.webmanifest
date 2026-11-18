@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер PDF у Excel",
+  "short_name": "Конвертер PDF у Excel",
+  "description": "Безкоштовно перетворюйте таблиці PDF на електронні таблиці Excel (.xlsx) у вашому браузері. Переглядайте та виправляйте кожну клітинку перед завантаженням. Без передавання файлів, без реєстрації — ваш файл ніколи не залишає ваш пристрій.",
+  "id": "/loona-pdf-tools/uk/pdf-to-excel/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
