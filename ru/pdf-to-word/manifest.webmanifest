@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF to Word Converter",
+  "short_name": "PDF to Word Converter",
+  "description": "Преобразуйте текстовый PDF в редактируемый документ Word (.docx) бесплатно в вашем браузере. Заголовки, абзацы, списки и простые таблицы переносятся. Без загрузки на сервер и без регистрации — ваш файл никогда не покидает ваше устройство.",
+  "id": "/loona-pdf-tools/ru/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
