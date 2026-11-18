@@ -367,5 +367,14 @@
   "k": "pdf do excelu pdf to excel converter xlsx extrahujte tabuľky pdf do upraviteľných tabuliek excel (.xlsx)   prezrite si a opravte každú bunku, bez nahrávania. pdf to excel prevodník pdf do excelu",
   "p": 110,
   "c": "Tool"
+ },
+ {
+  "n": "Word to PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/sk/word-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Preveďte dokumenty Word .docx na čisté, čitateľné PDF - nadpisy, zoznamy, tabuľky a obrázky sa zachovajú, bez nahrávania.",
+  "k": "word to pdf word to pdf docx doc word document microsoft convert preveďte dokumenty word docx na čisté čitateľné pdf nadpisy zoznamy tabuľky a obrázky sa zachovajú bez nahrávania",
+  "p": 140,
+  "c": "Tool"
  }
 ]
