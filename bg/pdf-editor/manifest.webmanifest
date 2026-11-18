@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor онлайн безплатно",
+  "short_name": "Loona PDF Editor",
+  "description": "Редактирайте PDF файлове безплатно онлайн с Loona PDF Editor: добавяйте текст, изображения, фигури и подчертавания, покривайте грешки с коректор, рисувайте или въвеждайте подпис, след което изтеглете готовия PDF. Всичко работи във вашия браузър - файлът ви никога не напуска устройството ви. Без регистрация, без ограничения за страници, без водни знаци.",
+  "id": "/loona-pdf-tools/bg/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
