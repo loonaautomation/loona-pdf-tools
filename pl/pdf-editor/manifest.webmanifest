@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor online za darmo",
+  "short_name": "Loona PDF Editor",
+  "description": "Edytuj pliki PDF za darmo online w Loona PDF Editor: dodawaj tekst, obrazy, kształty i wyróżnienia, zakrywaj błędy korektorem, rysuj lub wpisuj podpis, a potem pobierz gotowy plik. Wszystko działa w Twojej przeglądarce – Twój plik nigdy nie opuszcza Twojego urządzenia. Bez rejestracji, bez limitów stron, bez znaków wodnych.",
+  "id": "/loona-pdf-tools/pl/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
