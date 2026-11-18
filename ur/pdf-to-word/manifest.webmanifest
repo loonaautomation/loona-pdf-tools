@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF سے Word کنورٹر",
+  "short_name": "PDF سے Word کنورٹر",
+  "description": "متن پر مبنی PDF کو قابلِ ترمیم Word دستاویز (.docx) میں اپنے براؤزر میں مفت تبدیل کریں۔ عنوانات، پیراگراف، فہرستیں اور سادہ جداول ساتھ منتقل ہوتے ہیں۔ نہ اپ لوڈ، نہ سائن اپ۔",
+  "id": "/loona-pdf-tools/ur/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
