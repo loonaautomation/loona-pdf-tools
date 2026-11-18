@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF naar Word-converter online gratis",
+  "short_name": "PDF naar Word-converter online gratis",
+  "description": "Converteer een PDF met tekst gratis in je browser naar een bewerkbaar Word-document (.docx). Koppen, alinea’s, lijsten en eenvoudige tabellen blijven behouden. Geen upload, geen registratie.",
+  "id": "/loona-pdf-tools/nl/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
