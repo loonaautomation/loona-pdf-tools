@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF-ből Word konvertáló",
+  "short_name": "PDF-ből Word konvertáló",
+  "description": "Alakítson át egy szövegalapú PDF-et szerkeszthető Word-dokumentummá (.docx) ingyen, a böngészőjében. A címsorok, bekezdések, listák és egyszerű táblázatok átkerülnek. Nincs feltöltés, nincs regisztráció — a fájlja soha nem hagyja el az eszközét.",
+  "id": "/loona-pdf-tools/hu/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
