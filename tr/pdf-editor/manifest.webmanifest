@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor Çevrimiçi Ücretsiz",
+  "short_name": "Loona PDF Editor",
+  "description": "Loona PDF Editor ile PDF dosyalarını çevrimiçi ücretsiz düzenleyin: metin, resim, şekil ve vurgular ekleyin, hataları beyazlatıcıyla kapatın, imzanızı çizin veya yazın, ardından bitmiş dosyanızı indirin. Her şey tarayıcınızda çalışır - dosyanız cihazınızdan asla ayrılmaz. Kayıt yok, sayfa sınırı yok, filigran yok.",
+  "id": "/loona-pdf-tools/tr/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
