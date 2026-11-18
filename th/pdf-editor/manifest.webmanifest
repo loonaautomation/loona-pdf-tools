@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor ออนไลน์ฟรี",
+  "short_name": "PDF Editor ออนไลน์ฟรี",
+  "description": "แก้ไขไฟล์ PDF ฟรีออนไลน์ด้วย Loona PDF Editor: เพิ่มข้อความ รูปภาพ รูปร่าง และไฮไลต์ ปิดทับความผิดพลาดด้วยไวท์เอาต์ วาดหรือพิมพ์ลายเซ็น แล้วดาวน์โหลด PDF ที่เสร็จสมบูรณ์ของคุณ ทุกอย่างทำงานในเบราว์เซอร์ของคุณ - ไฟล์ของคุณไม่เคยออกจากอุปกรณ์ ไม่ต้องสมัครสมาชิก ไม่มีขีดจำกัดจำนวนหน้า ไม่มีลายน้ำ",
+  "id": "/loona-pdf-tools/th/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
