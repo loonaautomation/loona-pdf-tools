@@ -359,4 +359,14 @@
   "p": 139,
   "c": "Tool"
  }
-,{"n":"PDF'den Excel'e","u":"https://loonaautomation.github.io/loona-pdf-tools/tr/pdf-to-excel/","s":"Loona PDF Tools","d":"PDF tablolarını düzenlenebilir Excel (.xlsx) elektronik tablolarına çıkarın - her hücrenin önizlemesini görün ve düzeltin, yükleme yok.","k":"pdf to excel pdf to excel converter xlsx spreadsheet table extract convert pdf to xlsx pdf tablolarını düzenlenebilir excel xlsx elektronik tablolarına çıkarın her hücrenin önizlemesini görün ve düzeltin yükleme yok","p":110,"c":"Tool"}]
+,{"n":"PDF'den Excel'e","u":"https://loonaautomation.github.io/loona-pdf-tools/tr/pdf-to-excel/","s":"Loona PDF Tools","d":"PDF tablolarını düzenlenebilir Excel (.xlsx) elektronik tablolarına çıkarın - her hücrenin önizlemesini görün ve düzeltin, yükleme yok.","k":"pdf to excel pdf to excel converter xlsx spreadsheet table extract convert pdf to xlsx pdf tablolarını düzenlenebilir excel xlsx elektronik tablolarına çıkarın her hücrenin önizlemesini görün ve düzeltin yükleme yok","p":110,"c":"Tool"},
+ {
+  "n": "Word to PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/tr/word-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Word .docx belgelerini temiz, okunabilir PDF'lere dönüştürün - başlıklar, listeler, tablolar ve resimler korunur, yükleme yok.",
+  "k": "word to pdf word to pdf docx doc word document microsoft convert word docx belgelerini temiz okunabilir pdf lere dönüştürün başlıklar listeler tablolar ve resimler korunur yükleme yok",
+  "p": 140,
+  "c": "Tool"
+ }
+]
