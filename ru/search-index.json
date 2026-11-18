@@ -367,5 +367,14 @@
   "k": "pdf в excel pdf to excel converter xlsx извлекайте таблицы pdf в редактируемые электронные таблицы excel (.xlsx)   просматривайте и исправляйте каждую ячейку, без загрузки на сервер. pdf to excel конвертер pdf в excel",
   "p": 110,
   "c": "Tool"
+ },
+ {
+  "n": "Word to PDF",
+  "u": "https://loonaautomation.github.io/loona-pdf-tools/ru/word-to-pdf/",
+  "s": "Loona PDF Tools",
+  "d": "Преобразуйте документы Word .docx в чистые, читаемые PDF — заголовки, списки, таблицы и изображения сохранены, без загрузки на сервер.",
+  "k": "word to pdf word to pdf docx doc word document microsoft convert преобразуйте документы word docx в чистые читаемые pdf заголовки списки таблицы и изображения сохранены без загрузки на сервер",
+  "p": 140,
+  "c": "Tool"
  }
 ]
