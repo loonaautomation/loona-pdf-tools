@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor ऑनलाइन मुफ़्त",
+  "short_name": "Loona PDF Editor",
+  "description": "Loona PDF Editor से PDF फ़ाइलें मुफ़्त ऑनलाइन संपादित करें: टेक्स्ट, छवियाँ, आकृतियाँ और हाइलाइट जोड़ें, व्हाइटआउट से गलतियाँ ढकें, हस्ताक्षर बनाएँ या टाइप करें, फिर तैयार PDF डाउनलोड करें। सब कुछ आपके ब्राउज़र में चलता है - आपकी फ़ाइल कभी आपके डिवाइस से बाहर नहीं जाती। कोई साइन-अप नहीं, कोई पृष्ठ सीमा नहीं, कोई वॉटरमार्क नहीं।",
+  "id": "/loona-pdf-tools/hi/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
