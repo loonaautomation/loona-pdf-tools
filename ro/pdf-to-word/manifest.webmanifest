@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor PDF în Word",
+  "short_name": "Convertor PDF în Word",
+  "description": "Convertește un PDF bazat pe text într-un document Word editabil (.docx), gratuit, în browserul tău. Titlurile, paragrafele, listele și tabelele simple se preiau. Fără încărcare, fără înregistrare — fișierul tău nu părăsește niciodată dispozitivul tău.",
+  "id": "/loona-pdf-tools/ro/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
