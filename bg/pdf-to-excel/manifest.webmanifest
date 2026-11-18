@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор от PDF към Excel",
+  "short_name": "Loona Конвертор от PDF към Excel",
+  "description": "Преобразувайте PDF таблици в електронни таблици Excel (.xlsx) безплатно във вашия браузър. Преглеждайте и поправяйте всяка клетка преди изтегляне. Без качване, без регистрация — файлът ви никога не напуска устройството ви.",
+  "id": "/loona-pdf-tools/bg/pdf-to-excel/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
