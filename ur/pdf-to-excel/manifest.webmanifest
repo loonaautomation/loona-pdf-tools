@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF سے Excel کنورٹر",
+  "short_name": "PDF سے Excel کنورٹر",
+  "description": "PDF ٹیبلز کو اپنے براؤزر میں مفت Excel (.xlsx) اسپریڈشیٹس میں بدلیں۔ ڈاؤن لوڈ سے پہلے ہر سیل کا پیش منظر دیکھیں اور درست کریں۔ کوئی اپ لوڈ، کوئی سائن اپ نہیں — آپ کی فائل کبھی آپ کے آلے سے باہر نہیں جاتی۔",
+  "id": "/loona-pdf-tools/ur/pdf-to-excel/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
