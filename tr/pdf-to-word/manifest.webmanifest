@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF'den Word'e Dönüştürücü",
+  "short_name": "PDF'den Word'e Dönüştürücü",
+  "description": "Metin tabanlı bir PDF'yi tarayıcınızda ücretsiz olarak düzenlenebilir bir Word belgesine (.docx) dönüştürün. Başlıklar, paragraflar, listeler ve basit tablolar taşınır. Yükleme yok, kayıt yok — dosyanız cihazınızdan asla ayrılmaz.",
+  "id": "/loona-pdf-tools/tr/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
