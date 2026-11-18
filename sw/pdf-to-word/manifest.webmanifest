@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji PDF kwenda Word bure mtandaoni",
+  "short_name": "Kibadilishaji PDF kwenda Word bure mtandaoni",
+  "description": "Badilisha PDF yenye maandishi kuwa hati ya Word inayoweza kuhaririwa (.docx) bure katika kivinjari chako. Vichwa, aya, orodha na majedwali rahisi huhamishwa. Hakuna upakiaji, hakuna kujisajili.",
+  "id": "/loona-pdf-tools/sw/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
