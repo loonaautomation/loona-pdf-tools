@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore da PDF a Excel",
+  "short_name": "Convertitore da PDF a Excel",
+  "description": "Converti le tabelle PDF in fogli di calcolo Excel (.xlsx) gratis nel tuo browser. Visualizza in anteprima e correggi ogni cella prima di scaricare. Nessun caricamento, nessuna registrazione — il tuo file non lascia mai il tuo dispositivo.",
+  "id": "/loona-pdf-tools/it/pdf-to-excel/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

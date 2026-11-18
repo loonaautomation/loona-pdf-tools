@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF naar Excel-converter online gratis",
+  "short_name": "PDF naar Excel-converter online gratis",
+  "description": "Converteer PDF-tabellen gratis in je browser naar Excel-spreadsheets (.xlsx). Bekijk en corrigeer elke cel in de preview voordat je downloadt. Geen upload, geen registratie — je bestand verlaat je apparaat nooit.",
+  "id": "/loona-pdf-tools/nl/pdf-to-excel/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
