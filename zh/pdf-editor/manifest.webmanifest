@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor 在线免费",
+  "short_name": "PDF Editor 在线免费",
+  "description": "使用 Loona PDF Editor 免费在线编辑 PDF 文件：添加文字、图片、形状和高亮，用涂白遮盖错误，绘制或输入签名，然后下载您完成的 PDF。一切都在您的浏览器中运行 — 您的文件永远不会离开您的设备。无需注册，无页数限制，无水印。",
+  "id": "/loona-pdf-tools/zh/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
