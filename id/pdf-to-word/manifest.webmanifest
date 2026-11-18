@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF to Word Converter",
+  "short_name": "PDF to Word Converter",
+  "description": "Konversi PDF berbasis teks menjadi dokumen Word (.docx) yang dapat diedit secara gratis di browser Anda. Judul, paragraf, daftar, dan tabel sederhana ikut terbawa. Tanpa unggahan, tanpa pendaftaran — file Anda tidak pernah meninggalkan perangkat Anda.",
+  "id": "/loona-pdf-tools/id/pdf-to-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
