@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor trực tuyến miễn phí",
+  "short_name": "PDF Editor trực tuyến miễn phí",
+  "description": "Chỉnh sửa tệp PDF miễn phí trực tuyến với Loona PDF Editor: thêm văn bản, hình ảnh, hình dạng và tô sáng, che lỗi bằng xóa trắng, vẽ hoặc gõ chữ ký, rồi tải xuống PDF đã hoàn thành của bạn. Mọi thứ chạy trong trình duyệt của bạn - tệp của bạn không bao giờ rời khỏi thiết bị. Không cần đăng ký, không giới hạn trang, không hình mờ.",
+  "id": "/loona-pdf-tools/vi/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
