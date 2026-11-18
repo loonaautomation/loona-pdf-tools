@@ -247,6 +247,7 @@ async function convertPdfToWord(pdfBytes){
   var allLines=[];var totalChars=0;
   for(var p=1;p<=pdf.numPages;p++){
     var page=await pdf.getPage(p);
+    var vpW=612;try{vpW=page.getViewport({scale:1}).width||612;}catch(e){}
     var tc=await page.getTextContent();
     try{await page.getOperatorList();}catch(e){} /* resolves font objects so real font names (bold/italic) are readable */
     var items=[];
@@ -315,7 +316,7 @@ async function convertPdfToWord(pdfBytes){
       }
       cells.push(cellRuns);
       var cellObjs=cells.map(function(cr){return {x:cr[0].x,runs:cr,text:cr.map(function(r){return r.text;}).join('').trim()};});
-      allLines.push({page:p,y:ln.y,runs:runs,text:text,size:maxSize,x:x0,cells:cellObjs});
+      allLines.push({page:p,y:ln.y,runs:runs,text:text,size:maxSize,x:x0,cells:cellObjs,pw:vpW});
       totalChars+=text.replace(/\s/g,'').length;
     }
   }
@@ -336,61 +337,228 @@ async function convertPdfToWord(pdfBytes){
     if(allBold&&L.size>=median*1.12&&t.length<=90)return 3;
     return 0;
   }
+  /* ===== FIX PASS — checker defects B1/B2/D1/D2 =====
+     Order matters: (1) strip printed margin line-numbers, (2) classify list
+     lines BEFORE any table detection and exclude them from it, (3) confirm
+     decimal items only as incrementing sequences, (4) table detection is
+     strict — when in doubt, emit paragraphs. */
+  /* (1) A leading run that is only digits, in a clearly smaller font than the
+     text after it, is a printed margin line-number (common in legal/report
+     PDFs), not content and not a list marker. Real list markers are set in
+     body-sized type, so they survive this strip. */
+  allLines.forEach(function(L){
+    if(L.runs.length>=2){
+      var f=L.runs[0],s=L.runs[1];
+      if(/^\d{1,3}$/.test(f.text.trim())&&s&&f.size<=0.85*s.size&&(s.x-(f.x+f.w))>=6){
+        L.runs=L.runs.slice(1);
+        if(L.runs.length&&/^\s/.test(L.runs[0].text))L.runs[0].text=L.runs[0].text.replace(/^\s+/,'');
+        L.text=L.runs.map(function(r){return r.text;}).join('');
+        L.x=L.runs.length?L.runs[0].x:0;
+      }
+    }
+  });
+  /* standalone margin-number lines (a small digit run and nothing else) are
+     page furniture, not paragraphs */
+  var workLines=allLines.filter(function(L){
+    return !(L.runs.length===1&&/^\d{1,3}$/.test(L.text.trim())&&L.size<=median*0.85);
+  });
+  if(!workLines.length)workLines=allLines;
+  function stripMarkerRuns(runs,li){
+    var out=[];var full=runs.map(function(r){return r.text;}).join('');
+    var target=(typeof li==='string')?li:li.text;var pos=full.indexOf(target);
+    if(pos<0)return runs;
+    var skip=pos;
+    for(var i=0;i<runs.length;i++){
+      var r=runs[i];
+      if(skip>=r.text.length){skip-=r.text.length;continue;}
+      var t=r.text.slice(skip);skip=0;
+      if(t)out.push({text:t,bold:r.bold,italic:r.italic,size:r.size,x:r.x,w:r.w});
+    }
+    return out.length?out:runs;
+  }
+  function dropFirstRun(runs){
+    var out=[];
+    for(var i=1;i<runs.length;i++)out.push({text:runs[i].text,bold:runs[i].bold,italic:runs[i].italic,size:runs[i].size,x:runs[i].x,w:runs[i].w});
+    if(out.length)out[0].text=out[0].text.replace(/^\s+/,'');
+    return out.filter(function(r){return r.text.length>0;});
+  }
+  /* (2) List detection on the margin-stripped runs. A bullet glyph may be
+     inline ("• text") or a separate run in its own column (reportlab
+     Platypus ListFlowable); a number may be inline ("1. text", "1) text",
+     "(1) text") or a separate bare-number run at a hanging indent
+     (Platypus bulletType '1' emits the digit alone, no punctuation). */
   function listInfo(L){
+    var runs=L.runs;if(!runs.length)return null;
     var t=L.text.trim();
-    var m=t.match(/^[•·▪◦*\-–—]\s+(.*)$/);
-    if(m)return {type:'bullet',text:m[1]};
+    var m=t.match(/^[•●·▪◦*]\s+(.*)$/)||t.match(/^[-–—]\s+(.*)$/);
+    if(m&&m[1])return {type:'bullet',num:0,text:m[1],runs:stripMarkerRuns(runs,m[1]),markerX:runs[0].x,textX:(runs.length>1?runs[1].x:runs[0].x)};
     m=t.match(/^\(?(\d{1,3})[.)]\s+(.*)$/);
-    if(m)return {type:'decimal',text:m[2]};
+    if(m&&m[2])return {type:'decimal',num:parseInt(m[1],10),text:m[2],runs:stripMarkerRuns(runs,m[2]),markerX:runs[0].x,textX:(runs.length>1?runs[1].x:runs[0].x)};
+    if(runs.length>=2){
+      var f=runs[0],ft=f.text.trim(),second=runs[1];
+      if(/^[•●·▪◦*]$/.test(ft)||/^[-–—]$/.test(ft)){
+        var bruns=dropFirstRun(runs);
+        if(bruns.length)return {type:'bullet',num:0,text:bruns.map(function(r){return r.text;}).join('').trim(),runs:bruns,markerX:f.x,textX:second.x};
+      }
+      var nm=ft.match(/^\(?(\d{1,3})[.)]?$/);
+      if(nm&&(second.x-f.x)>=8&&f.size>=0.9*second.size){
+        var druns=dropFirstRun(runs);
+        if(druns.length)return {type:'decimal',num:parseInt(nm[1],10),text:druns.map(function(r){return r.text;}).join('').trim(),runs:druns,markerX:f.x,textX:second.x};
+      }
+    }
     return null;
   }
-  function isRowLike(L){return L.cells.length>=2&&L.cells.every(function(c){return c.text.length>0;});}
+  workLines.forEach(function(L){L.listRaw=listInfo(L);L.heading=headingLevel(L);});
+  /* (3) A decimal candidate becomes a real list item only when it belongs to
+     an incrementing sequence (n followed by n+1) at the same text indent,
+     with nothing but list/continuation lines in between. A lone number at a
+     line start in prose stays prose, marker included. */
+  function transparentBetween(a,b,cand){
+    for(var i=a+1;i<b;i++){
+      var M=workLines[i];
+      if(M.listRaw)continue;
+      if(M.heading||M.tableId)return false;
+      if(M.runs.length&&M.runs[0].x>=cand.textX-3)continue;
+      return false;
+    }
+    return true;
+  }
+  var decIdx=[];
+  workLines.forEach(function(L,i){if(L.listRaw&&L.listRaw.type==='decimal'&&!L.heading)decIdx.push(i);});
+  var decConfirmed={};
+  for(var di=0;di<decIdx.length;di++){
+    for(var dj=di+1;dj<decIdx.length;dj++){
+      var i1=decIdx[di],i2=decIdx[dj];
+      if(i2-i1>16)break;
+      var cA=workLines[i1].listRaw,cB=workLines[i2].listRaw;
+      if(cB.num===cA.num+1&&Math.abs(cA.textX-cB.textX)<=6&&transparentBetween(i1,i2,cA)){decConfirmed[i1]=true;decConfirmed[i2]=true;}
+    }
+  }
+  workLines.forEach(function(L,i){
+    L.list=null;
+    if(L.listRaw&&!L.heading){
+      if(L.listRaw.type==='bullet')L.list=L.listRaw;
+      else if(decConfirmed[i])L.list=L.listRaw;
+    }
+  });
+  /* (4) STRICT table detection. Cells are split only at gaps clearly wider
+     than word spacing. A table then needs >=3 consecutive rows on one page
+     whose cells start at the SAME column positions, with real gutters
+     between columns, predominantly short non-sentence cells, and rows that
+     do not span the full text width like justified prose. List lines and
+     headings are never table rows. Anything failing a test falls back to
+     paragraphs — a missed table is acceptable, a false table is not. */
+  workLines.forEach(function(L){
+    var cells=[];var cellRuns=L.runs.length?[L.runs[0]]:[];
+    for(var c=1;c<L.runs.length;c++){
+      var pr2=L.runs[c-1];var gap2=L.runs[c].x-(pr2.x+pr2.w);
+      if(gap2>Math.max(14,pr2.size*1.3)){cells.push(cellRuns);cellRuns=[L.runs[c]];}
+      else cellRuns.push(L.runs[c]);
+    }
+    if(L.runs.length)cells.push(cellRuns);
+    L.cells=cells.map(function(cr){return {x:cr[0].x,end:(cr[cr.length-1].x+cr[cr.length-1].w),runs:cr,text:cr.map(function(r){return r.text;}).join('').trim()};});
+  });
+  function isTableCandidate(L){return !L.list&&!L.listRaw&&!L.heading&&L.cells.length>=2&&L.cells.every(function(c){return c.text.length>0;});}
+  function validateTable(rows){
+    var nCols=rows[0].cells.length;
+    if(nCols<2||nCols>6)return false;
+    for(var cix=0;cix<nCols-1;cix++){
+      var minGap=1e9;
+      rows.forEach(function(rw){var g=rw.cells[cix+1].x-rw.cells[cix].end;if(g<minGap)minGap=g;});
+      if(minGap<Math.max(14,median*1.1))return false;
+    }
+    var totalCells=0,wordsSum=0,sentLike=0,fullWidth=0,longCell=false;
+    rows.forEach(function(rw){
+      if(rw.pw&&rw.cells[rw.cells.length-1].end>rw.pw*0.84)fullWidth++;
+      rw.cells.forEach(function(c){
+        totalCells++;
+        var wds=c.text.split(/\s+/).filter(Boolean).length;
+        wordsSum+=wds;
+        if(c.text.length>110)longCell=true;
+        if(wds>=7||(wds>=5&&/[.!?]["')\]]?$/.test(c.text)))sentLike++;
+      });
+    });
+    if(longCell)return false;
+    if(totalCells&&wordsSum/totalCells>5)return false;
+    if(totalCells&&sentLike/totalCells>0.25)return false;
+    if(fullWidth/rows.length>0.25)return false;
+    return true;
+  }
+  var tableSeq=0;var ti=0;
+  while(ti<workLines.length){
+    var TL=workLines[ti];
+    if(isTableCandidate(TL)){
+      var tcols=TL.cells.map(function(c){return c.x;});
+      var trun=[TL];var tj=ti+1;
+      while(tj<workLines.length){
+        var NL2=workLines[tj];
+        if(NL2.page!==TL.page)break;
+        if(!isTableCandidate(NL2))break;
+        if(NL2.cells.length!==tcols.length)break;
+        var okc=true;
+        for(var cc=0;cc<tcols.length;cc++){if(Math.abs(NL2.cells[cc].x-tcols[cc])>8){okc=false;break;}}
+        if(!okc)break;
+        if((trun[trun.length-1].y-NL2.y)>Math.max(40,median*3.5))break;
+        trun.push(NL2);tj++;
+      }
+      if(trun.length>=3&&validateTable(trun)){
+        tableSeq++;
+        trun.forEach(function(rw){rw.tableId=tableSeq;rw.tableCols=tcols;});
+        ti=tj;continue;
+      }
+    }
+    ti++;
+  }
   /* build blocks */
   var blocks=[];var idx=0;
-  while(idx<allLines.length){
-    var L=allLines[idx];
-    /* table run: >=3 consecutive row-like lines on same page sharing >=2 column starts */
-    if(isRowLike(L)){
-      var run=[L];var j2=idx+1;
-      while(j2<allLines.length&&allLines[j2].page===L.page&&isRowLike(allLines[j2])){
-        var cand=run.concat([allLines[j2]]);
-        var cols=[];
-        cand.forEach(function(rw){rw.cells.forEach(function(c){var f=false;for(var u=0;u<cols.length;u++){if(Math.abs(cols[u]-c.x)<=7){f=true;break;}}if(!f)cols.push(c.x);});});
-        if(cols.length>=2&&cols.length<=8)run.push(allLines[j2]);
-        j2++;
-        if(cand.length>40)break;
-      }
-      if(run.length>=3){
-        var colStarts=[];
-        run.forEach(function(rw){rw.cells.forEach(function(c){var f=false;for(var u=0;u<colStarts.length;u++){if(Math.abs(colStarts[u]-c.x)<=7){f=true;break;}}if(!f)colStarts.push(c.x);});});
-        colStarts.sort(function(a,b){return a-b;});
-        var rows=run.map(function(rw){
-          var cells=new Array(colStarts.length);
-          for(var u=0;u<cells.length;u++)cells[u]=[];
-          rw.cells.forEach(function(c){
-            var best=0,bd=1e9;
-            colStarts.forEach(function(cs,ci){var d=Math.abs(cs-c.x);if(d<bd){bd=d;best=ci;}});
-            cells[best]=cells[best].concat(c.runs);
-          });
-          return cells;
+  while(idx<workLines.length){
+    var L=workLines[idx];
+    if(L.tableId){
+      var tid=L.tableId;var trows=[];
+      while(idx<workLines.length&&workLines[idx].tableId===tid){trows.push(workLines[idx]);idx++;}
+      var colStarts=trows[0].tableCols;
+      var rows=trows.map(function(rw){
+        var cells=new Array(colStarts.length);
+        for(var u=0;u<cells.length;u++)cells[u]=[];
+        rw.cells.forEach(function(c){
+          var best=0,bd=1e9;
+          colStarts.forEach(function(cs,ci){var d=Math.abs(cs-c.x);if(d<bd){bd=d;best=ci;}});
+          cells[best]=cells[best].concat(c.runs);
         });
-        blocks.push({type:'table',rows:rows,cols:colStarts.length});
-        idx+=run.length;continue;
-      }
+        return cells;
+      });
+      blocks.push({type:'table',rows:rows,cols:colStarts.length});
+      continue;
     }
-    var hl=headingLevel(L);
+    var hl=L.heading;
     if(hl){blocks.push({type:'heading',level:hl,runs:L.runs});idx++;continue;}
-    var li=listInfo(L);
-    if(li){
-      var stripRuns=stripMarkerRuns(L.runs,li);
-      blocks.push({type:'list',kind:li.type,runs:stripRuns});idx++;continue;
+    if(L.list){
+      var lRuns=L.list.runs.slice();var lastL=L;idx++;
+      /* absorb wrapped continuation lines of the same item (aligned with the
+         item text, normal line spacing, not a new item/heading/table) */
+      while(idx<workLines.length){
+        var CN=workLines[idx];
+        if(CN.page!==lastL.page)break;
+        if(CN.list||CN.listRaw||CN.heading||CN.tableId)break;
+        if(!CN.runs.length||Math.abs(CN.runs[0].x-L.list.textX)>5)break;
+        if((lastL.y-CN.y)>Math.max(14,median*1.9))break;
+        var lprev=lRuns.length?lRuns[lRuns.length-1].text:'';
+        if(/[-]$/.test(lprev.trim())){lRuns[lRuns.length-1].text=lprev.replace(/-$/,'');}
+        else if(!/\s$/.test(lprev)){lRuns[lRuns.length-1].text=lprev+' ';}
+        lRuns=lRuns.concat(CN.runs);
+        lastL=CN;idx++;
+      }
+      blocks.push({type:'list',kind:L.list.type,numVal:L.list.num,runs:lRuns});
+      continue;
     }
-    /* paragraph: merge following plain lines with normal spacing on same page */
+    /* paragraph: merge following plain lines with normal spacing on same page;
+       always break at a heading, a list item (confirmed or candidate),
+       or a table row */
     var paraRuns=L.runs.slice();var lastLine=L;idx++;
-    while(idx<allLines.length){
-      var N=allLines[idx];
+    while(idx<workLines.length){
+      var N=workLines[idx];
       if(N.page!==lastLine.page)break;
-      if(headingLevel(N)||listInfo(N)||isRowLike(N))break;
+      if(N.heading||N.list||N.listRaw||N.tableId)break;
       var gapY=lastLine.y-N.y;
       if(gapY>Math.max(14,median*1.9))break;
       var prevText=paraRuns.length?paraRuns[paraRuns.length-1].text:'';
@@ -402,27 +570,16 @@ async function convertPdfToWord(pdfBytes){
     }
     blocks.push({type:'para',runs:paraRuns});
   }
-  function stripMarkerRuns(runs,li){
-    var out=[];var full=runs.map(function(r){return r.text;}).join('');
-    var target=li.text;var pos=full.indexOf(target);
-    if(pos<0)return runs;
-    var skip=pos;
-    for(var i=0;i<runs.length;i++){
-      var r=runs[i];
-      if(skip>=r.text.length){skip-=r.text.length;continue;}
-      var t=r.text.slice(skip);skip=0;
-      if(t)out.push({text:t,bold:r.bold,italic:r.italic,size:r.size,x:r.x,w:r.w});
-    }
-    return out.length?out:runs;
-  }
-  /* numbering: bullets share numId 1; each decimal block gets a fresh numId */
-  var nums=[{numId:1,abstract:0}];var nextNum=2;var curDecBlock=false;
+  /* numbering: bullets share numId 1; a decimal sequence that keeps
+     incrementing shares one numId, a restarted sequence gets a fresh one */
+  var nums=[{numId:1,abstract:0}];var nextNum=2;var decState=null;
   blocks.forEach(function(b){
     if(b.type==='list'&&b.kind==='decimal'){
-      if(!curDecBlock){b.numId=nextNum;nums.push({numId:nextNum,abstract:1});nextNum++;curDecBlock=true;}
-      else b.numId=nextNum-1;
-    }else if(b.type==='list'&&b.kind==='bullet'){b.numId=1;curDecBlock=false;}
-    else curDecBlock=false;
+      if(decState&&b.numVal===decState.next){b.numId=decState.numId;}
+      else{b.numId=nextNum;nums.push({numId:nextNum,abstract:1});nextNum++;}
+      decState={numId:b.numId,next:b.numVal+1};
+    }else if(b.type==='list'&&b.kind==='bullet'){b.numId=1;decState=null;}
+    else decState=null;
   });
   /* document.xml */
   var body='';
