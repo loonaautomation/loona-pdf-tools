@@ -1,0 +1,29 @@
+{
+  "background_color": "#062e2a",
+  "description": "PDF টেবিলগুলোকে আপনার ব্রাউজারে বিনামূল্যে Excel (.xlsx) স্প্রেডশিটে রূপান্তর করুন। ডাউনলোডের আগে প্রতিটি সেলের প্রিভিউ দেখুন ও ঠিক করুন। কোনো আপলোড নয়, কোনো সাইন-আপ নয় — আপনার ফাইল কখনো আপনার ডিভাইস ছাড়ে না।",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "/loona-pdf-tools/icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "/loona-pdf-tools/icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "type": "image/png"
+    }
+  ],
+  "id": "/loona-pdf-tools/bn/pdf-to-excel/",
+  "name": "Loona PDF থেকে Excel রূপান্তরকারী",
+  "scope": ".",
+  "short_name": "PDF থেকে Excel রূপান্তরকারী",
+  "start_url": ".",
+  "theme_color": "#062e2a"
+}

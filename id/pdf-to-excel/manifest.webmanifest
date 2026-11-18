@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter PDF ke Excel",
+  "short_name": "Konverter PDF ke Excel",
+  "description": "Ubah tabel PDF menjadi spreadsheet Excel (.xlsx) secara gratis di browser Anda. Pratinjau dan perbaiki setiap sel sebelum mengunduh. Tanpa unggahan, tanpa pendaftaran — file Anda tidak pernah meninggalkan perangkat Anda.",
+  "id": "/loona-pdf-tools/id/pdf-to-excel/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
