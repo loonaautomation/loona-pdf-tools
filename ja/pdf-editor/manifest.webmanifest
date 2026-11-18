@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor オンライン無料",
+  "short_name": "PDF Editor オンライン無料",
+  "description": "Loona PDF EditorでPDFファイルを無料でオンライン編集：テキスト、画像、図形、ハイライトを追加し、間違いをホワイトアウトで隠し、署名を描くか入力して、完成したPDFをダウンロードできます。すべてブラウザ内で処理され、ファイルがデバイスの外に出ることはありません。登録不要、ページ数制限なし、透かしなし。",
+  "id": "/loona-pdf-tools/ja/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
