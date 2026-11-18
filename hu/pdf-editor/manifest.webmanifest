@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor online ingyen",
+  "short_name": "Loona PDF Editor",
+  "description": "Szerkesszen PDF-fájlokat ingyen, online a Loona PDF Editor segítségével: adjon hozzá szöveget, képeket, alakzatokat és kiemeléseket, takarja le a hibákat fehérítővel, rajzoljon vagy gépeljen aláírást, majd töltse le a kész fájlt. Minden a böngészőjében fut – a fájlja soha nem hagyja el az eszközét. Regisztráció nélkül, oldalkorlát nélkül, vízjel nélkül.",
+  "id": "/loona-pdf-tools/hu/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
