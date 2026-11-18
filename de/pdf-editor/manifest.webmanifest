@@ -1,0 +1,29 @@
+{
+  "name": "Loona PDF Editor Online kostenlos",
+  "short_name": "Loona PDF Editor",
+  "description": "PDF-Dateien kostenlos online mit dem Loona PDF Editor bearbeiten: Text, Bilder, Formen und Markierungen hinzufügen, Fehler abdecken, eine Unterschrift zeichnen oder tippen und die fertige PDF herunterladen. Alles läuft in Ihrem Browser - Ihre Datei verlässt Ihr Gerät nie. Keine Anmeldung, keine Seitenlimits, keine Wasserzeichen.",
+  "id": "/loona-pdf-tools/de/pdf-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-pdf-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
