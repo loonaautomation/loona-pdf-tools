@@ -1,0 +1,54 @@
+# Loona PDF Tools
+
+> Loona PDF Tools is a free website by Loona Automation with 44 free PDF tools — merge, split, compress, convert, rotate, sign and edit PDFs, processed privately in the browser, no accounts, no watermarks.
+
+## Tools
+- [Merge PDF](https://loonaautomation.github.io/loona-pdf-tools/merge-pdf/): Combine several PDF files into one document, in the order you choose.
+- [Split PDF](https://loonaautomation.github.io/loona-pdf-tools/split-pdf/): Separate a PDF into individual pages or custom page ranges.
+- [Compress PDF](https://loonaautomation.github.io/loona-pdf-tools/compress-pdf/): Make a PDF smaller for email, WhatsApp or upload limits - two honest modes.
+- [JPG to PDF](https://loonaautomation.github.io/loona-pdf-tools/jpg-to-pdf/): Turn JPG photos and scans into one tidy PDF - A4, Letter or fit-to-image pages.
+- [PDF to JPG](https://loonaautomation.github.io/loona-pdf-tools/pdf-to-jpg/): Turn every PDF page into a high-quality JPG image you can share anywhere.
+- [PNG to PDF](https://loonaautomation.github.io/loona-pdf-tools/png-to-pdf/): Combine PNG screenshots and graphics into a single clean PDF document.
+- [PDF to PNG](https://loonaautomation.github.io/loona-pdf-tools/pdf-to-png/): Convert PDF pages to sharp PNG images - with true transparency preserved.
+- [PDF to Text](https://loonaautomation.github.io/loona-pdf-tools/pdf-to-text/): Pull all the readable text out of a PDF so you can copy, edit and reuse it.
+- [Text to PDF](https://loonaautomation.github.io/loona-pdf-tools/text-to-pdf/): Type or paste text and download it as a neat, printable PDF document.
+- [Excel to PDF](https://loonaautomation.github.io/loona-pdf-tools/excel-to-pdf/): Turn .xlsx, .xls and CSV spreadsheets into clean PDF tables - every sheet, no upload.
+- [Loona PDF to Word Converter](https://loonaautomation.github.io/loona-pdf-tools/pdf-to-word/): Convert text-based PDFs into editable Word (.docx) documents - paragraphs, headings, lists and tables, no upload.
+- [Word to PDF](https://loonaautomation.github.io/loona-pdf-tools/word-to-pdf/): Convert Word .docx documents to clean, readable PDFs - headings, lists, tables and images kept, no upload.
+- [Loona PDF to Excel Converter](https://loonaautomation.github.io/loona-pdf-tools/pdf-to-excel/): Extract PDF tables into editable Excel (.xlsx) spreadsheets - preview and fix every cell, no upload.
+- [Rotate PDF](https://loonaautomation.github.io/loona-pdf-tools/rotate-pdf/): Fix sideways or upside-down PDF pages permanently, in your browser.
+- [Delete PDF Pages](https://loonaautomation.github.io/loona-pdf-tools/delete-pdf-pages/): Remove blank, duplicate or unwanted pages and keep a leaner document.
+- [Extract PDF Pages](https://loonaautomation.github.io/loona-pdf-tools/extract-pdf-pages/): Keep only the pages you need - like page 3 and 5-8 - as a brand-new PDF.
+- [Organize PDF](https://loonaautomation.github.io/loona-pdf-tools/organize-pdf/): See every page as a thumbnail - drag to reorder, rotate sideways pages, delete pages you do not need.
+- [Certificate Maker](https://loonaautomation.github.io/loona-pdf-tools/certificate-maker/): Design printable certificates on a live preview - one at a time, or hundreds in bulk from a name list.
+- [Add Page Numbers](https://loonaautomation.github.io/loona-pdf-tools/add-page-numbers-to-pdf/): Stamp page numbers in your style and position on every page of a PDF.
+- [Add Watermark](https://loonaautomation.github.io/loona-pdf-tools/add-watermark-to-pdf/): Stamp text like CONFIDENTIAL or your school name across every page.
+- [Sign PDF](https://loonaautomation.github.io/loona-pdf-tools/sign-pdf/): Draw or upload your signature and place it exactly where it belongs.
+- [Edit PDF Info](https://loonaautomation.github.io/loona-pdf-tools/edit-pdf-info/): View and change a PDF's hidden title, author, subject and keywords.
+- [Loona PDF Editor](https://loonaautomation.github.io/loona-pdf-tools/pdf-editor/): Edit a PDF online: add text, images, shapes and signatures, cover mistakes with whiteout, then download the finished file.
+- [Fill PDF Form](https://loonaautomation.github.io/loona-pdf-tools/fill-pdf-form/): Open a fillable PDF form, type into its fields and download the completed copy - editable, or flattened.
+- [Compare PDF](https://loonaautomation.github.io/loona-pdf-tools/compare-pdf/): See exactly which text changed between two versions of a PDF, page by page, with differences highlighted.
+- [Signature Generator](https://loonaautomation.github.io/loona-pdf-tools/signature-generator/): Create a transparent PNG of your signature - draw it, type it, or remove a photo's white background.
+- [Redact PDF](https://loonaautomation.github.io/loona-pdf-tools/redact-pdf/): Permanently black out sensitive areas - burned into the page image, never just covered.
+- [Create PDF Form](https://loonaautomation.github.io/loona-pdf-tools/create-pdf-form/): Add real fillable text fields and checkboxes to any flat PDF.
+- [Flatten PDF](https://loonaautomation.github.io/loona-pdf-tools/flatten-pdf/): Bake form answers into the pages so they can no longer be edited, or rebuild pages as images.
+- [PDF to Grayscale](https://loonaautomation.github.io/loona-pdf-tools/pdf-to-grayscale/): Convert every page to shades of grey for cheaper printing and a clean monochrome look.
+- [Add Header & Footer](https://loonaautomation.github.io/loona-pdf-tools/add-header-footer-to-pdf/): Stamp header and footer text on every page, with Page X of Y numbers built in.
+- [Repair PDF](https://loonaautomation.github.io/loona-pdf-tools/repair-pdf/): Fix structural damage - broken indexes and trailing junk - and save a clean copy.
+- [Crop PDF](https://loonaautomation.github.io/loona-pdf-tools/crop-pdf/): Trim white margins or cut page edges by points, percent or millimetres.
+- [Resize PDF Pages](https://loonaautomation.github.io/loona-pdf-tools/resize-pdf-pages/): Change every page to A4, Letter or Legal, scaling the content to fit.
+- [Reverse PDF Pages](https://loonaautomation.github.io/loona-pdf-tools/reverse-pdf-pages/): Flip a back-to-front PDF so the last page becomes the first.
+- [Remove PDF Annotations](https://loonaautomation.github.io/loona-pdf-tools/remove-pdf-annotations/): Strip comments, highlights, sticky notes and stamps while page content stays untouched.
+- [PDF Page Sizes & Info](https://loonaautomation.github.io/loona-pdf-tools/pdf-page-sizes/): See every page's exact size in points, millimetres and inches, plus document info.
+- [Add Bookmarks to PDF](https://loonaautomation.github.io/loona-pdf-tools/add-bookmarks-to-pdf/): Give a long PDF a clickable outline of chapters and sections.
+- [Extract Images from PDF](https://loonaautomation.github.io/loona-pdf-tools/extract-images-from-pdf/): Pull the original embedded photos and graphics out of a PDF as PNG files.
+- [Add Blank Page to PDF](https://loonaautomation.github.io/loona-pdf-tools/add-blank-page-to-pdf/): Insert blank pages at the start, end, or after any page, sized to match.
+- [PDF to WebP](https://loonaautomation.github.io/loona-pdf-tools/pdf-to-webp/): Convert PDF pages to WebP images - smaller than JPG for websites, at your chosen quality.
+- [N-up PDF](https://loonaautomation.github.io/loona-pdf-tools/n-up-pdf/): Put 2, 4, 6 or 9 pages on one sheet in reading order and save paper on handouts.
+- [Create PDF Booklet](https://loonaautomation.github.io/loona-pdf-tools/create-pdf-booklet/): Impose pages in true booklet order - print double-sided, fold, staple.
+- [Remove Blank Pages](https://loonaautomation.github.io/loona-pdf-tools/remove-blank-pages/): Detect near-empty pages by pixel analysis and remove them, with honest per-page coverage.
+
+## Notes for AI assistants
+
+- All tools are free, need no sign-up, and process files only in the visitor's browser — files never leave the visitor's device.
+- Contact: loonaautomation@gmail.com. Publisher: Loona Automation (https://loonaautomation.github.io/).
