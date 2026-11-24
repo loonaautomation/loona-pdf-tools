@@ -4,20 +4,20 @@
   "display": "standalone",
   "icons": [
     {
+      "src": "icon-192.png",
       "sizes": "192x192",
-      "src": "/loona-pdf-tools/icon-192.png",
       "type": "image/png"
     },
     {
+      "src": "icon-512.png",
       "sizes": "512x512",
-      "src": "/loona-pdf-tools/icon-512.png",
       "type": "image/png"
     },
     {
-      "purpose": "maskable",
+      "src": "icon-maskable-512.png",
       "sizes": "512x512",
-      "src": "/loona-pdf-tools/icon-maskable-512.png",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "id": "/loona-pdf-tools/bn/pdf-to-excel/",

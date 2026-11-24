@@ -1,1 +1,29 @@
-{"background_color":"#062e2a","description":"অনলাইনে বিনামূল্যে PDF পৃষ্ঠা JPG ছবিতে রূপান্তর করুন। মানক, উচ্চ বা ছাপার মান বেছে নিন এবং প্রতিটি পৃষ্ঠা JPG হিসেবে ডাউনলোড করুন। সাইন-আপ নেই; রূপান্তর আপনার ব্রাউজারে চলে।","display":"standalone","icons":[{"sizes":"192x192","src":"/loona-pdf-tools/icon-192.png","type":"image/png"},{"sizes":"512x512","src":"/loona-pdf-tools/icon-512.png","type":"image/png"},{"purpose":"maskable","sizes":"512x512","src":"/loona-pdf-tools/icon-maskable-512.png","type":"image/png"}],"id":"/loona-pdf-tools/bn/pdf-to-jpg/","name":"Loona PDF থেকে JPG অনলাইনে বিনামূল্যে","scope":".","short_name":"PDF থেকে JPG অনলাইনে বিনামূল্যে","start_url":".","theme_color":"#062e2a"}
+{
+  "background_color": "#062e2a",
+  "description": "অনলাইনে বিনামূল্যে PDF পৃষ্ঠা JPG ছবিতে রূপান্তর করুন। মানক, উচ্চ বা ছাপার মান বেছে নিন এবং প্রতিটি পৃষ্ঠা JPG হিসেবে ডাউনলোড করুন। সাইন-আপ নেই; রূপান্তর আপনার ব্রাউজারে চলে।",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-pdf-tools/bn/pdf-to-jpg/",
+  "name": "Loona PDF থেকে JPG অনলাইনে বিনামূল্যে",
+  "scope": ".",
+  "short_name": "PDF থেকে JPG অনলাইনে বিনামূল্যে",
+  "start_url": ".",
+  "theme_color": "#062e2a"
+}
