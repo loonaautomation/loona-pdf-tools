@@ -2,7 +2,7 @@
   "name": "Loona PDFページを逆順にする オンライン無料",
   "short_name": "PDFページを逆順にする オンライン無料",
   "description": "PDFのページ順序を無料でオンライン反転。最後のページが最初になります。前後逆のスキャンの修正に最適です。即座に、ブラウザ上で、アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/reverse-pdf-pages/",
+  "id": "/ja/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

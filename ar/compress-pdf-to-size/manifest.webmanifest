@@ -2,7 +2,7 @@
   "name": "Loona ضغط PDF إلى حجم محدد – من 20 KB إلى 16 MB",
   "short_name": "ضغط PDF إلى حجم محدد – من 20 KB إلى 16 MB",
   "description": "اضغط ملف PDF إلى هدف دقيق: 20 KB، 50 KB، 100 KB، 200 KB، 500 KB، 1 MB، 2 MB، 5 MB — زائد إعدادات مسبقة للبريد الإلكتروني (10 MB) وواتساب (16 MB). مجانًا، في متصفحك.",
-  "id": "/loona-pdf-tools/ar/compress-pdf-to-size/",
+  "id": "/ar/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

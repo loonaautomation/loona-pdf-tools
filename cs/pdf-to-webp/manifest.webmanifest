@@ -2,7 +2,7 @@
   "name": "Loona PDF do WebP online zdarma",
   "short_name": "PDF do WebP online zdarma",
   "description": "Převeďte stránky PDF do obrázků WebP zdarma online: menších než JPG a PNG pro weby, vykreslených ve vámi zvoleném rozlišení ve vašem prohlížeči. Nic se nenahrává, bez registrace.",
-  "id": "/loona-pdf-tools/cs/pdf-to-webp/",
+  "id": "/cs/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

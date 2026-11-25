@@ -2,7 +2,7 @@
   "name": "Loona פיצול PDF מקוון בחינם",
   "short_name": "פיצול PDF מקוון בחינם",
   "description": "פצלו PDF לקבצים נפרדים בחינם באינטרנט. חלצו כל עמוד כ-PDF משלו או פצלו לפי טווחי עמודים. ללא הרשמה, והקובץ שלכם לעולם אינו עוזב את הדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/split-pdf/",
+  "id": "/he/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Baiki PDF dalam talian percuma",
   "short_name": "Baiki PDF dalam talian percuma",
   "description": "Baiki PDF rosak percuma dalam talian: membina semula jadual rujukan silang yang rosak dan menyimpan semula salinan bersih, dengan pembinaan semula imej halaman sebagai jalan terakhir. Had dinyatakan dengan jujur. 100% dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/repair-pdf/",
+  "id": "/ms/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

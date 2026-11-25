@@ -2,7 +2,7 @@
   "name": "Loona 新增頁碼 線上免費",
   "short_name": "新增頁碼 線上免費",
   "description": "線上免費為 PDF 新增頁碼。選擇樣式（1、第 1 頁、1 / 10）、位置和起始編號。無需註冊；編號在您的瀏覽器中私密完成。",
-  "id": "/loona-pdf-tools/zh-hant/add-page-numbers-to-pdf/",
+  "id": "/zh-hant/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

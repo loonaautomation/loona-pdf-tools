@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Kırp",
   "short_name": "Çevrimiçi Ücretsiz PDF Kırp",
   "description": "PDF sayfalarını çevrimiçi ücretsiz kırpın: her sayfada veya tek bir aralıkta beyaz kenar boşluklarını düzeltin ya da kenarları puan veya yüzdeyle kesin. Sayfa kırpma kutusu tarayıcınızda tam olarak ayarlanır; hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/crop-pdf/",
+  "id": "/tr/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

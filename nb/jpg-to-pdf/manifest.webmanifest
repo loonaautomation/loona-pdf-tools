@@ -2,7 +2,7 @@
   "name": "Loona JPG til PDF på nett gratis",
   "short_name": "JPG til PDF på nett gratis",
   "description": "Konverter JPG-bilder til en PDF gratis på nett. Kombiner fotoer til én PDF med A4-, Letter- eller tilpassede sider, i din rekkefølge. Ingen registrering - fungerer privat i nettleseren.",
-  "id": "/loona-pdf-tools/nb/jpg-to-pdf/",
+  "id": "/nb/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

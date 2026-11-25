@@ -2,7 +2,7 @@
   "name": "Loona PDF til Markdown-konverter på nett gratis",
   "short_name": "PDF til Markdown-konverter på nett gratis",
   "description": "Konverter en PDF til Markdown på nett, gratis i nettleseren din. Tekst hentes ut med overskriftsstruktur oppdaget fra skriftstørrelser. Ingen opplasting, ingen registrering.",
-  "id": "/loona-pdf-tools/nb/pdf-to-markdown/",
+  "id": "/nb/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

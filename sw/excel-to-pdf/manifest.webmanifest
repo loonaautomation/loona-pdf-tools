@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji Excel kwenda PDF bure mtandaoni",
   "short_name": "Kibadilishaji Excel kwenda PDF bure mtandaoni",
   "description": "Badilisha lahajedwali za Excel (.xlsx, .xls) na faili za CSV kuwa jedwali safi la PDF lenye kurasa mtandaoni, bure katika kivinjari chako. Kila laha huwa jedwali lenye mstari wa kichwa unaojirudia. Hakuna upakiaji.",
-  "id": "/loona-pdf-tools/sw/excel-to-pdf/",
+  "id": "/sw/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

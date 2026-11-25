@@ -2,7 +2,7 @@
   "name": "Loona Extrair Páginas do PDF Online Grátis",
   "short_name": "Extrair Páginas do PDF Online",
   "description": "Extrair páginas selecionadas de um PDF online grátis. Indique páginas como 3, 5-8 e transfira-as como um PDF novo e mais pequeno. Sem registro; a extração é executada no seu navegador.",
-  "id": "/loona-pdf-tools/pt-br/extract-pdf-pages/",
+  "id": "/pt-br/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

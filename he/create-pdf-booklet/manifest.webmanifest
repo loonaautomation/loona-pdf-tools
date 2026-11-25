@@ -2,7 +2,7 @@
   "name": "Loona יצירת חוברת PDF מקוון בחינם",
   "short_name": "יצירת חוברת PDF מקוון בחינם",
   "description": "צרו PDF חוברת מודפסת בחינם באינטרנט: עמודים מוטלים בסדר חוברת אמיתי על גיליונות לרוחב - הדפיסו דו-צדדי, קפלו, הדקו. עמודים ריקים מרפדים לכפולה של ארבע אוטומטית.",
-  "id": "/loona-pdf-tools/he/create-pdf-booklet/",
+  "id": "/he/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

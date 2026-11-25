@@ -2,7 +2,7 @@
   "name": "Loona Riparare PDF online gratuito",
   "short_name": "Riparare PDF online gratuito",
   "description": "Ripara gratuitamente online un PDF danneggiato: ricostruisce le tabelle dei riferimenti incrociati rotte e risalva una copia pulita, con una ricostruzione da immagini delle pagine come ultima risorsa. Limiti onesti dichiarati. Al 100% nel tuo browser.",
-  "id": "/loona-pdf-tools/it/repair-pdf/",
+  "id": "/it/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

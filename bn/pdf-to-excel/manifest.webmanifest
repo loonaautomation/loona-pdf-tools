@@ -20,7 +20,7 @@
       "purpose": "maskable"
     }
   ],
-  "id": "/loona-pdf-tools/bn/pdf-to-excel/",
+  "id": "/bn/pdf-to-excel/",
   "name": "Loona PDF থেকে Excel রূপান্তরকারী",
   "scope": ".",
   "short_name": "PDF থেকে Excel রূপান্তরকারী",

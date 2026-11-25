@@ -2,7 +2,7 @@
   "name": "Loona Underskriftsgenerator online gratis",
   "short_name": "Underskriftsgenerator online gratis",
   "description": "Opret gratis et underskriftsbillede online: tegn det, skriv dit navn i en håndskriftsstil, eller gør et foto af din underskrift gennemsigtigt. Download en ren gennemsigtig PNG - ingen upload, ingen tilmelding.",
-  "id": "/loona-pdf-tools/da/signature-generator/",
+  "id": "/da/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

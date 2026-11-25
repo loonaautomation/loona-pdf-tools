@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/split-pdf/",
+  "id": "/en-gb/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Добавить пустую страницу в PDF",
   "short_name": "Loona Добавить пустую страницу в PDF",
   "description": "Вставляйте пустые страницы в PDF бесплатно онлайн: в начало, в конец или после любой страницы, в соответствии с размером страницы документа, A4 или Letter. Мгновенно, в вашем браузере, ничего не загружается на сервер.",
-  "id": "/loona-pdf-tools/ru/add-blank-page-to-pdf/",
+  "id": "/ru/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

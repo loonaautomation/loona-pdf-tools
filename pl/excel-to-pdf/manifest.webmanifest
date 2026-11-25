@@ -2,7 +2,7 @@
   "name": "Loona Konwerter Excel na PDF online za darmo",
   "short_name": "Konwerter Excel na PDF online za darmo",
   "description": "Konwertuj arkusze Excel (.xlsx, .xls) i pliki CSV na czystą, podzieloną na strony tabelę PDF online, za darmo w swojej przeglądarce. Każdy arkusz staje się tabelą z powtarzającym się wierszem nagłówka. Bez przesyłania.",
-  "id": "/loona-pdf-tools/pl/excel-to-pdf/",
+  "id": "/pl/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

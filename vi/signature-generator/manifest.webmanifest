@@ -2,7 +2,7 @@
   "name": "Loona Công cụ tạo chữ ký trực tuyến miễn phí",
   "short_name": "Công cụ tạo chữ ký trực tuyến miễn phí",
   "description": "Tạo hình ảnh chữ ký miễn phí trực tuyến: vẽ nó, nhập tên bạn theo kiểu viết tay, hoặc biến một bức ảnh chữ ký của bạn thành trong suốt. Tải xuống một ảnh PNG trong suốt sạch - không tải lên, không đăng ký.",
-  "id": "/loona-pdf-tools/vi/signature-generator/",
+  "id": "/vi/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

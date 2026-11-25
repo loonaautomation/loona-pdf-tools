@@ -2,7 +2,7 @@
   "name": "Loona Ongeza Nambari za Kurasa kwenye PDF bure mtandaoni",
   "short_name": "Ongeza Nambari za Kurasa kwenye PDF bure mtandaoni",
   "description": "Ongeza nambari za kurasa kwenye PDF bure mtandaoni. Chagua mtindo (1, Ukurasa 1, 1 kati ya 10), nafasi na nambari ya kuanzia. Hakuna kujisajili; uwekaji nambari hufanyika kwa faragha kwenye kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/add-page-numbers-to-pdf/",
+  "id": "/sw/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

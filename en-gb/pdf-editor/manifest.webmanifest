@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor",
   "short_name": "Loona PDF Editor",
   "description": "Edit PDF files free online with the Loona PDF Editor: add text, images, shapes and highlights, cover mistakes with whiteout, draw or type a signature, then download your finished PDF. Everything runs in your browser - your file never leaves your device. No sign-up, no page limits, no watermarks.",
-  "id": "/loona-pdf-tools/en-gb/pdf-editor/",
+  "id": "/en-gb/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

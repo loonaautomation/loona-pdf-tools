@@ -2,7 +2,7 @@
   "name": "Loona Markdown سے PDF کنورٹر",
   "short_name": "Markdown سے PDF کنورٹر",
   "description": "Markdown کو اسٹائل شدہ PDF میں آن لائن تبدیل کریں، اپنے براؤزر میں مفت۔ سرخیاں، فہرستیں، کوڈ اور لنکس براہ راست پیش منظر کے ساتھ بنائے جاتے ہیں۔ نہ اپ لوڈ۔",
-  "id": "/loona-pdf-tools/ur/markdown-to-pdf/",
+  "id": "/ur/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

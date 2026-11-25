@@ -2,7 +2,7 @@
   "name": "Loona Todistusten tekijä verkossa ilmaiseksi",
   "short_name": "Todistusten tekijä verkossa ilmaiseksi",
   "description": "Ilmainen todistusten tekijä: suunnittele tulostettava todistus reaaliaikaisella esikatselulla ja lataa sitten tulostusvalmis A4-PDF tai PNG. Tee yksi todistus tai satoja joukkona nimiluettelosta. Ei rekisteröitymistä, ei vesileimaa, ja kaikki toimii yksityisesti selaimessasi.",
-  "id": "/loona-pdf-tools/fi/certificate-maker/",
+  "id": "/fi/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

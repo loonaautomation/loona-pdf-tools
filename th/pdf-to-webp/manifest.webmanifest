@@ -2,7 +2,7 @@
   "name": "Loona แปลง PDF เป็น WebP ออนไลน์ฟรี",
   "short_name": "แปลง PDF เป็น WebP ออนไลน์ฟรี",
   "description": "แปลงหน้า PDF เป็นรูปภาพ WebP ฟรีออนไลน์: เล็กกว่า JPG และ PNG สำหรับเว็บไซต์ เรนเดอร์ที่ความละเอียดที่คุณเลือกในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลด ไม่ต้องสมัคร",
-  "id": "/loona-pdf-tools/th/pdf-to-webp/",
+  "id": "/th/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

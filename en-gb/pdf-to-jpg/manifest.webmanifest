@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/pdf-to-jpg/",
+  "id": "/en-gb/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

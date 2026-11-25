@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/signature-generator/",
+  "id": "/en-gb/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

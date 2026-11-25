@@ -2,7 +2,7 @@
   "name": "Loona Konwerter PDF na Excel",
   "short_name": "Loona Konwerter PDF na Excel",
   "description": "Konwertuj tabele PDF na arkusze Excel (.xlsx) za darmo w swojej przeglądarce. Podglądaj i poprawiaj każdą komórkę przed pobraniem. Bez przesyłania, bez rejestracji — Twój plik nigdy nie opuszcza Twojego urządzenia.",
-  "id": "/loona-pdf-tools/pl/pdf-to-excel/",
+  "id": "/pl/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

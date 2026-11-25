@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Açıklamalarını",
   "short_name": "Çevrimiçi Ücretsiz PDF Açıklamalarını",
   "description": "Bir PDF'den açıklamaları çevrimiçi ücretsiz kaldırın: yorumlar, vurgular, yapışkan notlar, mühürler ve işaretlemeler, sayfa içeriği dokunulmadan kalırken çıkarılır. Tarayıcıda, hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/remove-pdf-annotations/",
+  "id": "/tr/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

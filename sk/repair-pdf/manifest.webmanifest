@@ -2,7 +2,7 @@
   "name": "Loona Opraviť PDF online zadarmo",
   "short_name": "Opraviť PDF online zadarmo",
   "description": "Opravte poškodené PDF zadarmo online: znovu postaví poškodené tabuľky krížových odkazov a znovu uloží čistú kópiu, s prestavbou na obrázky stránok ako poslednou možnosťou. Úprimné limity sú uvedené. Na 100 % vo vašom prehliadači.",
-  "id": "/loona-pdf-tools/sk/repair-pdf/",
+  "id": "/sk/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

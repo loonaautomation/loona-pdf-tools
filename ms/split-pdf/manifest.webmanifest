@@ -2,7 +2,7 @@
   "name": "Loona Pisahkan PDF dalam talian percuma",
   "short_name": "Pisahkan PDF dalam talian percuma",
   "description": "Pisahkan PDF menjadi fail berasingan percuma dalam talian. Ekstrak setiap halaman sebagai PDF-nya sendiri atau pisahkan mengikut julat halaman. Tiada pendaftaran, dan fail anda tidak pernah meninggalkan pelayar anda.",
-  "id": "/loona-pdf-tools/ms/split-pdf/",
+  "id": "/ms/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

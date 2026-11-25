@@ -2,7 +2,7 @@
   "name": "Loona Prevodník CSV do PDF online zadarmo",
   "short_name": "Prevodník CSV do PDF online zadarmo",
   "description": "Preveďte dáta CSV do čistej, stránkovanej tabuľky PDF online, zadarmo vo vašom prehliadači. Tučný opakujúci sa riadok hlavičky, prispôsobené stĺpce. Bez nahrávania.",
-  "id": "/loona-pdf-tools/sk/csv-to-pdf/",
+  "id": "/sk/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

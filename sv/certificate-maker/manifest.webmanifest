@@ -2,7 +2,7 @@
   "name": "Loona Certifikatskapare online gratis",
   "short_name": "Certifikatskapare online gratis",
   "description": "Gratis certifikatskapare: designa ett utskriftsbart certifikat på en liveförhandsvisning, ladda sedan ner en utskriftsklar A4 PDF eller PNG. Gör ett certifikat eller hundratals i massa från en namnlista. Ingen registrering, ingen vattenstämpel, och allt körs privat i din webbläsare.",
-  "id": "/loona-pdf-tools/sv/certificate-maker/",
+  "id": "/sv/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ضغط PDF للبريد الإلكتروني – أقل من 10 MB، مجانًا",
   "short_name": "ضغط PDF للبريد الإلكتروني – أقل من 10 MB، مجانًا",
   "description": "اضغط ملف PDF إلى 10 MB أو أقل، مجانًا في متصفحك. تجرب الأداة إعادة حفظ دون فقدان أولًا، ثم تخفض جودة العرض تدريجيًا حتى يناسب ملفك — وتبلغ عن النتيجة الدقيقة.",
-  "id": "/loona-pdf-tools/ar/compress-pdf-for-email/",
+  "id": "/ar/compress-pdf-for-email/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

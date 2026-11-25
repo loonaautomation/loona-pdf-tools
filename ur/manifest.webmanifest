@@ -2,7 +2,7 @@
   "name": "Loona PDF Tools",
   "short_name": "Loona PDF Tools",
   "description": "مفت آن لائن PDF ٹولز - PDF ملائیں، تقسیم کریں، کمپریس کریں، تبدیل کریں، گھمائیں، دستخط کریں اور ترمیم کریں۔ 100% مفت، سائن اپ نہیں، اور آپ کی فائلیں آپ کے آلے سے کبھی نہیں نکلتیں۔",
-  "id": "/loona-pdf-tools/ur/",
+  "id": "/ur/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-pdf-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-pdf-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-pdf-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona Kompres PDF online gratis",
   "short_name": "Kompres PDF online gratis",
   "description": "Kompres file PDF gratis secara online dan kecilkan untuk email atau unggahan. Pilih kompresi stream lossless atau kompresi gambar kuat. Privat, di browser Anda.",
-  "id": "/loona-pdf-tools/id/compress-pdf/",
+  "id": "/id/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

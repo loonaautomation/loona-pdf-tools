@@ -2,7 +2,7 @@
   "name": "Loona Vytvoriť formulár PDF online zadarmo",
   "short_name": "Vytvoriť formulár PDF online zadarmo",
   "description": "Premeňte akékoľvek PDF na vyplniteľný formulár zadarmo online: pridajte skutočné textové polia a začiarkavacie políčka presne tam, kam ich presuniete, pomenujte polia a stiahnite si skutočné PDF AcroForm, ktoré môže vyplniť ktokoľvek. Bez nahrávania, bez registrácie.",
-  "id": "/loona-pdf-tools/sk/create-pdf-form/",
+  "id": "/sk/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

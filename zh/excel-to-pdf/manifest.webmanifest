@@ -2,7 +2,7 @@
   "name": "Loona Excel 转 PDF 在线免费",
   "short_name": "Excel 转 PDF 在线免费",
   "description": "在线免费在您的浏览器中将 Excel 电子表格（.xlsx、.xls）和 CSV 文件转换为干净、分页的 PDF 表格。每个工作表变成一张带重复表头行的表格。不上传。",
-  "id": "/loona-pdf-tools/zh/excel-to-pdf/",
+  "id": "/zh/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

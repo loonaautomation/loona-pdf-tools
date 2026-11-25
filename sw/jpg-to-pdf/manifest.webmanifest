@@ -2,7 +2,7 @@
   "name": "Loona JPG kwenda PDF bure mtandaoni",
   "short_name": "JPG kwenda PDF bure mtandaoni",
   "description": "Badilisha picha za JPG kuwa PDF bure mtandaoni. Unganisha picha kuwa PDF moja yenye kurasa za A4, Letter au toshea, kwa mpangilio wako. Hakuna kujisajili - hufanya kazi kwa faragha ndani ya kivinjari.",
-  "id": "/loona-pdf-tools/sw/jpg-to-pdf/",
+  "id": "/sw/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

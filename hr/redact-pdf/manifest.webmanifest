@@ -2,7 +2,7 @@
   "name": "Loona Zatamni PDF besplatno na mreži",
   "short_name": "Zatamni PDF besplatno na mreži",
   "description": "Zatamnite PDF besplatno na mreži: nacrtajte crne okvire preko imena, brojeva ili fotografija i trajno ih ugradite - skriveni se sadržaj uklanja, ne samo pokriva. 100% u vašem pregledniku, ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/redact-pdf/",
+  "id": "/hr/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

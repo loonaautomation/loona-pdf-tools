@@ -2,7 +2,7 @@
   "name": "Loona N-up PDF オンライン無料",
   "short_name": "N-up PDF オンライン無料",
   "description": "複数のPDFページを一枚のシートに無料でオンライン配置：A4またはLetterに、読書順序で2-up、4-up、6-up、9-upレイアウト。配布資料や下書きの用紙を節約します。ブラウザ内で、アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/n-up-pdf/",
+  "id": "/ja/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Сжать PDF до 5 MB",
   "short_name": "Loona Сжать PDF до 5 MB",
   "description": "Сожмите PDF до 5 MB или меньше, бесплатно в вашем браузере. Инструмент сначала пробует повторное сохранение без потерь, затем пошагово снижает качество отрисовки, пока ваш файл не уложится, — и сообщает точный результат.",
-  "id": "/loona-pdf-tools/ru/compress-pdf-to-5mb/",
+  "id": "/ru/compress-pdf-to-5mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

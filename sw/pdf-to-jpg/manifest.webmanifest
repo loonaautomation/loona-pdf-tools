@@ -2,7 +2,7 @@
   "name": "Loona PDF kwenda JPG bure mtandaoni",
   "short_name": "PDF kwenda JPG bure mtandaoni",
   "description": "Badilisha kurasa za PDF kuwa picha za JPG bure mtandaoni. Chagua ubora wa kawaida, wa juu au wa kuchapisha na upakue kila ukurasa kama JPG. Hakuna kujisajili; ubadilishaji huendeshwa katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/pdf-to-jpg/",
+  "id": "/sw/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

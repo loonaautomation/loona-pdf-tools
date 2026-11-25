@@ -2,7 +2,7 @@
   "name": "Loona Ispuni PDF obrazac besplatno na mreži",
   "short_name": "Ispuni PDF obrazac besplatno na mreži",
   "description": "Ispunite PDF obrazac za ispunjavanje besplatno na mreži. Prenesite PDF koji ima polja obrasca, upišite u njegove tekstualne okvire, potvrdne okvire, padajuće izbornike i radio gumbe, zatim preuzmite ispunjeni PDF. Bez registracije; sve se odvija privatno u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/fill-pdf-form/",
+  "id": "/hr/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

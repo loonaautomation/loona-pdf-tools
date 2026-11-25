@@ -2,7 +2,7 @@
   "name": "Loona Redaksi PDF online gratis",
   "short_name": "Redaksi PDF online gratis",
   "description": "Redaksi PDF gratis secara online: gambar kotak hitam di atas nama, nomor, atau foto dan bakar masuk secara permanen - isi yang tersembunyi dihapus, bukan sekadar tertutup. 100% di browser Anda, tanpa ada yang diunggah.",
-  "id": "/loona-pdf-tools/id/redact-pdf/",
+  "id": "/id/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

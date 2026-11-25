@@ -2,7 +2,7 @@
   "name": "Loona Excel'den PDF'ye Dönüştürücü",
   "short_name": "Excel'den PDF'ye Dönüştürücü",
   "description": "Excel elektronik tablolarını (.xlsx, .xls) ve CSV dosyalarını çevrimiçi, tarayıcınızda ücretsiz olarak temiz, sayfalandırılmış bir PDF tablosuna dönüştürün. Her sayfa, tekrarlanan bir üst bilgi satırına sahip bir tabloya dönüşür. Yükleme yok.",
-  "id": "/loona-pdf-tools/tr/excel-to-pdf/",
+  "id": "/tr/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tandatangan PDF dalam talian percuma",
   "short_name": "Tandatangan PDF dalam talian percuma",
   "description": "Tandatangani PDF percuma dalam talian. Lukis tandatangan anda atau muat naik imejnya, letakkannya dengan pratonton langsung, dan muat turun PDF yang telah ditandatangani. Peribadi - tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/sign-pdf/",
+  "id": "/ms/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

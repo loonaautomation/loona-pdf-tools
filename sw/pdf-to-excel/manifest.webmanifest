@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji PDF kwenda Excel",
   "short_name": "Kibadilishaji PDF kwenda Excel",
   "description": "Badilisha jedwali za PDF kuwa lahajedwali za Excel (.xlsx) bila malipo katika kivinjari chako. Hakiki na urekebishe kila kisanduku kabla ya kupakua. Hakuna upakiaji, hakuna kujisajili — faili yako haitoki kamwe kwenye kifaa chako.",
-  "id": "/loona-pdf-tools/sw/pdf-to-excel/",
+  "id": "/sw/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

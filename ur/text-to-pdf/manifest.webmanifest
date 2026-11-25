@@ -2,7 +2,7 @@
   "name": "Loona متن سے PDF آن لائن مفت",
   "short_name": "متن سے PDF آن لائن مفت",
   "description": "متن کو PDF میں آن لائن مفت تبدیل کریں۔ اپنا متن پیسٹ کریں، فونٹ سائز اور A4 یا Letter صفحات منتخب کریں، اور صاف PDF ڈاؤن لوڈ کریں۔ سائن اپ نہیں - براؤزر میں نجی طور پر بنایا گیا۔",
-  "id": "/loona-pdf-tools/ur/text-to-pdf/",
+  "id": "/ur/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

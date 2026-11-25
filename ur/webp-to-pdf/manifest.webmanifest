@@ -2,7 +2,7 @@
   "name": "Loona WebP سے PDF کنورٹر",
   "short_name": "WebP سے PDF کنورٹر",
   "description": "WebP تصاویر کو PDF میں آن لائن، مفت، اپنے براؤزر میں تبدیل کریں۔ فی صفحہ ایک تصویر، تصویر کے مطابق فٹ یا A4/Letter صفحات۔ نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-pdf-tools/ur/webp-to-pdf/",
+  "id": "/ur/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

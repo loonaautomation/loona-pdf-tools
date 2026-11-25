@@ -2,7 +2,7 @@
   "name": "Loona Badilisha Ukubwa wa Kurasa za PDF bure mtandaoni",
   "short_name": "Badilisha Ukubwa wa Kurasa za PDF bure mtandaoni",
   "description": "Badilisha ukubwa wa kurasa za PDF bure mtandaoni: badilisha kila ukurasa kuwa A4, US Letter au Legal, au pima kwa asilimia, maudhui yakipimwa yatoshee na kuwekwa katikati. Huendeshwa katika kivinjari chako - hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/resize-pdf-pages/",
+  "id": "/sw/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF în PNG online gratuit",
   "short_name": "PDF în PNG online gratuit",
   "description": "Convertește gratuit online pagini PDF în imagini PNG la o rezoluție de până la 3x, cu transparența păstrată. Descarcă fiecare pagină separat. Privat, în browserul tău.",
-  "id": "/loona-pdf-tools/ro/pdf-to-png/",
+  "id": "/ro/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

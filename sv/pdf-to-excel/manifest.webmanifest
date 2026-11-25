@@ -2,7 +2,7 @@
   "name": "Loona PDF till Excel online gratis",
   "short_name": "PDF till Excel online gratis",
   "description": "Konvertera PDF-tabeller till Excel-kalkylblad (.xlsx) gratis i din webbläsare. Förhandsgranska och rätta varje cell innan du laddar ner. Ingen uppladdning, ingen registrering — din fil lämnar aldrig din enhet.",
-  "id": "/loona-pdf-tools/sv/pdf-to-excel/",
+  "id": "/sv/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

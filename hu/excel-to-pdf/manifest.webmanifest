@@ -2,7 +2,7 @@
   "name": "Loona Excelből PDF online ingyen",
   "short_name": "Excelből PDF online ingyen",
   "description": "Alakítson Excel-táblázatokat (.xlsx, .xls) és CSV-fájlokat tiszta, oldalszámozott PDF-táblázattá online, ingyen, a böngészőjében. Minden munkalap táblázattá válik ismétlődő fejlécsorral. Feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/excel-to-pdf/",
+  "id": "/hu/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

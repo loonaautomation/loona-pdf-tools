@@ -2,7 +2,7 @@
   "name": "Loona PDF-in-Word-Konverter",
   "short_name": "PDF-in-Word-Konverter",
   "description": "Konvertieren Sie eine textbasierte PDF-Datei kostenlos in Ihrem Browser in ein bearbeitbares Word-Dokument (.docx). Überschriften, Absätze, Listen und einfache Tabellen werden übernommen. Kein Upload, keine Anmeldung.",
-  "id": "/loona-pdf-tools/de/pdf-to-word/",
+  "id": "/de/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

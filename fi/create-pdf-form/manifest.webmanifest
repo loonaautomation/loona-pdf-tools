@@ -2,7 +2,7 @@
   "name": "Loona Luo PDF-lomake verkossa ilmaiseksi",
   "short_name": "Luo PDF-lomake verkossa ilmaiseksi",
   "description": "Muuta mikä tahansa PDF täytettäväksi lomakkeeksi ilmaiseksi verkossa: lisää aitoja tekstikenttiä ja valintaruutuja täsmälleen sinne, minne vedät ne, nimeä kentät ja lataa aito AcroForm-PDF, jonka kuka tahansa voi täyttää. Ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-pdf-tools/fi/create-pdf-form/",
+  "id": "/fi/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

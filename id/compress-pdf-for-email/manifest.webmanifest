@@ -2,7 +2,7 @@
   "name": "Loona Kompres PDF untuk Email online gratis",
   "short_name": "Kompres PDF untuk Email online gratis",
   "description": "Kompres PDF menjadi 10 MB atau kurang, gratis di browser Anda. Alat ini pertama mencoba penyimpanan ulang lossless, lalu menurunkan kualitas render langkah demi langkah hingga file Anda muat — dan melaporkan hasil persisnya.",
-  "id": "/loona-pdf-tools/id/compress-pdf-for-email/",
+  "id": "/id/compress-pdf-for-email/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pridať záložky do PDF online zadarmo",
   "short_name": "Pridať záložky do PDF online zadarmo",
   "description": "Pridajte záložky (klikateľnú osnovu) do PDF zadarmo online: uveďte názvy kapitol s ich číslami stránok a stiahnite si PDF so skutočnou navigačnou osnovou. V prehliadači, nič sa nenahráva.",
-  "id": "/loona-pdf-tools/sk/add-bookmarks-to-pdf/",
+  "id": "/sk/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'ye Sayfa Numarası",
   "short_name": "Çevrimiçi Ücretsiz PDF'ye Sayfa Numarası",
   "description": "Çevrimiçi ücretsiz olarak bir PDF'ye sayfa numaraları ekleyin. Stili (1, Sayfa 1, 10 taneden 1), konumu ve başlangıç numarasını seçin. Kayıt gerekmez; numaralandırma tarayıcınızda gizlice yapılır.",
-  "id": "/loona-pdf-tools/tr/add-page-numbers-to-pdf/",
+  "id": "/tr/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

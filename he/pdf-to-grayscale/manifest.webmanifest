@@ -2,7 +2,7 @@
   "name": "Loona PDF לגוני אפור מקוון בחינם",
   "short_name": "PDF לגוני אפור מקוון בחינם",
   "description": "המירו PDF לגוני אפור בחינם באינטרנט: כל עמוד נבנה מחדש בגוני אפור - אידיאלי להדפסה זולה יותר ומראה מונוכרום נקי. פועל 100% בדפדפן שלכם; שום דבר לא מועלה.",
-  "id": "/loona-pdf-tools/he/pdf-to-grayscale/",
+  "id": "/he/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona تقسيم PDF عبر الإنترنت مجانًا",
   "short_name": "تقسيم PDF عبر الإنترنت مجانًا",
   "description": "قسّم ملف PDF إلى ملفات منفصلة مجانًا عبر الإنترنت. استخرج كل صفحة كملف PDF خاص بها أو قسّم بنطاقات الصفحات. دون تسجيل، ولا يغادر ملفك متصفحك أبدًا.",
-  "id": "/loona-pdf-tools/ar/split-pdf/",
+  "id": "/ar/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

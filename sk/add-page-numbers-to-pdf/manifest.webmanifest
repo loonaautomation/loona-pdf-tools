@@ -2,7 +2,7 @@
   "name": "Loona Pridať čísla stránok do PDF online zadarmo",
   "short_name": "Pridať čísla stránok do PDF online zadarmo",
   "description": "Pridajte čísla stránok do PDF zadarmo online. Zvoľte štýl (1, Stránka 1, 1 z 10), polohu a počiatočné číslo. Bez registrácie; číslovanie prebieha súkromne vo vašom prehliadači.",
-  "id": "/loona-pdf-tools/sk/add-page-numbers-to-pdf/",
+  "id": "/sk/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

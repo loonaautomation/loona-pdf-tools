@@ -2,7 +2,7 @@
   "name": "Loona AVIF-ből PDF online ingyen",
   "short_name": "AVIF-ből PDF online ingyen",
   "description": "Alakítson AVIF képeket PDF-fé online, ingyen, a böngészőjében. Oldalanként egy kép, képhez igazított vagy A4/Letter oldalak. Feltöltés és regisztráció nélkül.",
-  "id": "/loona-pdf-tools/hu/avif-to-pdf/",
+  "id": "/hu/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

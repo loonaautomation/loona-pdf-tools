@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Karart",
   "short_name": "Çevrimiçi Ücretsiz PDF Karart",
   "description": "Bir PDF'yi çevrimiçi ücretsiz karartın: adların, numaraların veya fotoğrafların üzerine siyah kutular çizin ve onları kalıcı olarak işleyin; gizli içerik yalnızca kapatılmaz, kaldırılır. %100 tarayıcınızda, hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/redact-pdf/",
+  "id": "/tr/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

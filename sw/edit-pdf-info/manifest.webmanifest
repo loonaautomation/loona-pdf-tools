@@ -2,7 +2,7 @@
   "name": "Loona Hariri Taarifa za PDF bure mtandaoni",
   "short_name": "Hariri Taarifa za PDF bure mtandaoni",
   "description": "Tazama na uhariri metadata ya PDF bure mtandaoni - kichwa, mwandishi, mada na maneno muhimu - na uone idadi ya kurasa na ukubwa wa faili. Hakuna kujisajili; uhariri wa metadata huendeshwa ndani ya kivinjari.",
-  "id": "/loona-pdf-tools/sw/edit-pdf-info/",
+  "id": "/sw/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

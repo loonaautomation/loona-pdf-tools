@@ -2,7 +2,7 @@
   "name": "Loona Repair PDF Online Free",
   "short_name": "Repair PDF Online Free",
   "description": "Repair a damaged PDF free online: rebuilds broken cross-reference tables and re-saves a clean copy, with a page-image rebuild as a last resort. Honest limits stated. 100% in your browser.",
-  "id": "/loona-pdf-tools/repair-pdf/",
+  "id": "/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

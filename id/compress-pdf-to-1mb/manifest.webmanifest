@@ -2,7 +2,7 @@
   "name": "Loona Kompres PDF ke 1 MB online gratis",
   "short_name": "Kompres PDF ke 1 MB online gratis",
   "description": "Kompres PDF menjadi 1 MB atau kurang, gratis di browser Anda. Alat ini pertama mencoba penyimpanan ulang lossless, lalu menurunkan kualitas render langkah demi langkah hingga file Anda muat — dan melaporkan hasil persisnya.",
-  "id": "/loona-pdf-tools/id/compress-pdf-to-1mb/",
+  "id": "/id/compress-pdf-to-1mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

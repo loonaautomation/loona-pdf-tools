@@ -2,7 +2,7 @@
   "name": "Loona Compress PDF for Email",
   "short_name": "Compress PDF for Email",
   "description": "Compress a PDF to 10 MB or under, free in your browser. The tool tries a lossless re-save first, then steps down render quality until your file fits — and reports the exact result.",
-  "id": "/loona-pdf-tools/compress-pdf-for-email/",
+  "id": "/compress-pdf-for-email/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

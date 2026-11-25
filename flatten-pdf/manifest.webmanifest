@@ -2,7 +2,7 @@
   "name": "Loona Flatten PDF Online Free",
   "short_name": "Flatten PDF Online Free",
   "description": "Flatten a PDF free online: bake fillable form fields into the pages so answers can no longer be edited, with an optional full image rebuild that flattens everything. Private, in-browser, no sign-up.",
-  "id": "/loona-pdf-tools/flatten-pdf/",
+  "id": "/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

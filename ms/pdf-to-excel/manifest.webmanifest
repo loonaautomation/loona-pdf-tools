@@ -2,7 +2,7 @@
   "name": "Loona Penukar PDF kepada Excel",
   "short_name": "Penukar PDF kepada Excel",
   "description": "Tukar jadual PDF kepada hamparan Excel (.xlsx) secara percuma dalam pelayar anda. Pratonton dan betulkan setiap sel sebelum memuat turun. Tanpa muat naik, tanpa pendaftaran — fail anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-pdf-tools/ms/pdf-to-excel/",
+  "id": "/ms/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

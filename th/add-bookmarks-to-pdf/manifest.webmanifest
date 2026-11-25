@@ -2,7 +2,7 @@
   "name": "Loona เพิ่มบุ๊กมาร์กลงใน PDF ออนไลน์ฟรี",
   "short_name": "เพิ่มบุ๊กมาร์กลงใน PDF ออนไลน์ฟรี",
   "description": "เพิ่มบุ๊กมาร์ก (โครงร่างที่คลิกได้) ลงใน PDF ฟรีออนไลน์: ระบุชื่อบทพร้อมเลขหน้าและดาวน์โหลด PDF ที่มีโครงร่างนำทางจริง ในเบราว์เซอร์ ไม่มีการอัปโหลดใด ๆ",
-  "id": "/loona-pdf-tools/th/add-bookmarks-to-pdf/",
+  "id": "/th/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Dosyalarını",
   "short_name": "Çevrimiçi Ücretsiz PDF Dosyalarını",
   "description": "İki PDF dosyasını çevrimiçi ücretsiz karşılaştırın ve sayfa sayfa tam olarak hangi metnin değiştiğini görün. Kaldırılan ve eklenen satırlar yan yana vurgulanır. Kayıt gerekmez; karşılaştırma tarayıcınızda gizlice çalışır.",
-  "id": "/loona-pdf-tools/tr/compare-pdf/",
+  "id": "/tr/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Böl",
   "short_name": "Çevrimiçi Ücretsiz PDF Böl",
   "description": "Bir PDF'yi çevrimiçi ücretsiz olarak ayrı dosyalara bölün. Her sayfayı kendi PDF'si olarak çıkarın veya sayfa aralıklarına göre bölün. Kayıt yok ve dosyanız tarayıcınızdan asla ayrılmaz.",
-  "id": "/loona-pdf-tools/tr/split-pdf/",
+  "id": "/tr/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Jaa PDF osiin verkossa ilmaiseksi",
   "short_name": "Jaa PDF osiin verkossa ilmaiseksi",
   "description": "Jaa PDF erillisiin tiedostoihin ilmaiseksi verkossa. Poimi jokainen sivu omana PDF:nään tai jaa sivualueittain. Ei rekisteröitymistä, eikä tiedostosi koskaan poistu selaimestasi.",
-  "id": "/loona-pdf-tools/fi/split-pdf/",
+  "id": "/fi/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF til JPG online gratis",
   "short_name": "PDF til JPG online gratis",
   "description": "Konvertér gratis PDF-sider til JPG-billeder online. Vælg standard-, høj- eller udskriftskvalitet, og download hver side som en JPG. Ingen tilmelding; konverteringen kører i din browser.",
-  "id": "/loona-pdf-tools/da/pdf-to-jpg/",
+  "id": "/da/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

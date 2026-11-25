@@ -2,7 +2,7 @@
   "name": "Loona טקסט ל-PDF מקוון בחינם",
   "short_name": "טקסט ל-PDF מקוון בחינם",
   "description": "המירו טקסט ל-PDF בחינם באינטרנט. הדביקו את הטקסט, בחרו גודל גופן ועמודי A4 או Letter, והורידו PDF נקי. ללא הרשמה - נוצר בפרטיות בדפדפן.",
-  "id": "/loona-pdf-tools/he/text-to-pdf/",
+  "id": "/he/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

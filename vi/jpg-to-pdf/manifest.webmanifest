@@ -2,7 +2,7 @@
   "name": "Loona JPG sang PDF trực tuyến miễn phí",
   "short_name": "JPG sang PDF trực tuyến miễn phí",
   "description": "Chuyển đổi hình ảnh JPG thành PDF miễn phí trực tuyến. Kết hợp ảnh thành một PDF với trang A4, Letter hoặc trang vừa ảnh, theo thứ tự của bạn. Không cần đăng ký - hoạt động riêng tư trong trình duyệt.",
-  "id": "/loona-pdf-tools/vi/jpg-to-pdf/",
+  "id": "/vi/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

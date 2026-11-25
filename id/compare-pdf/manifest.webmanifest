@@ -2,7 +2,7 @@
   "name": "Loona Bandingkan PDF online gratis",
   "short_name": "Bandingkan PDF online gratis",
   "description": "Bandingkan dua file PDF gratis secara online dan lihat persis teks mana yang berubah, halaman demi halaman. Baris yang dihapus dan ditambahkan disorot berdampingan. Tanpa pendaftaran; perbandingan berjalan secara privat di browser Anda.",
-  "id": "/loona-pdf-tools/id/compare-pdf/",
+  "id": "/id/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

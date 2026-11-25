@@ -2,7 +2,7 @@
   "name": "Loona ヘッダーとフッターを追加 オンライン無料",
   "short_name": "ヘッダーとフッターを追加 オンライン無料",
   "description": "すべてのPDFページにヘッダーとフッターを無料でオンライン追加：カスタムテキスト、「Page X of Y」形式のページ番号、配置、フォントサイズ。すべてブラウザ上で行われ、アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/add-header-footer-to-pdf/",
+  "id": "/ja/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

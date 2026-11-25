@@ -2,7 +2,7 @@
   "name": "Loona Extrahovať stránky PDF online zadarmo",
   "short_name": "Extrahovať stránky PDF online zadarmo",
   "description": "Extrahujte vybrané stránky z PDF zadarmo online. Zadajte stránky ako 3, 5-8 a stiahnite si ich ako nové, menšie PDF. Bez registrácie; extrakcia beží vo vašom prehliadači.",
-  "id": "/loona-pdf-tools/sk/extract-pdf-pages/",
+  "id": "/sk/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

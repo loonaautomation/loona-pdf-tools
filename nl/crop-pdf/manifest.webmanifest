@@ -2,7 +2,7 @@
   "name": "Loona PDF bijsnijden online gratis",
   "short_name": "PDF bijsnijden online gratis",
   "description": "Snijd PDF-pagina's gratis online bij: trim witte marges of snijd randen op punten of procenten op elke pagina of één bereik. Het bijsnijdvak van de pagina wordt precies ingesteld in je browser - niets geüpload.",
-  "id": "/loona-pdf-tools/nl/crop-pdf/",
+  "id": "/nl/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

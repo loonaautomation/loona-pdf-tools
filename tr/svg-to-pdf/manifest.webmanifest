@@ -2,7 +2,7 @@
   "name": "Loona SVG'den PDF'ye Dönüştürücü",
   "short_name": "SVG'den PDF'ye Dönüştürücü",
   "description": "SVG görüntülerini çevrimiçi, ücretsiz, tarayıcınızda bir PDF'ye dönüştürün. Sayfa başına bir görüntü, görüntüye sığdır veya A4/Letter sayfalar. Yükleme yok, kayıt yok.",
-  "id": "/loona-pdf-tools/tr/svg-to-pdf/",
+  "id": "/tr/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

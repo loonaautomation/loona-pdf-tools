@@ -2,7 +2,7 @@
   "name": "Loona Rediger PDF-informasjon på nett gratis",
   "short_name": "Rediger PDF-informasjon på nett gratis",
   "description": "Se og rediger PDF-metadata gratis på nett - tittel, forfatter, emne og nøkkelord - og se sidetall og filstørrelse. Ingen registrering; metadataredigering kjører i nettleseren.",
-  "id": "/loona-pdf-tools/nb/edit-pdf-info/",
+  "id": "/nb/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

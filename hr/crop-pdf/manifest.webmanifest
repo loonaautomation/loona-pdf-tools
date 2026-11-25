@@ -2,7 +2,7 @@
   "name": "Loona Obreži PDF besplatno na mreži",
   "short_name": "Obreži PDF besplatno na mreži",
   "description": "Obrezujte stranice PDF-a besplatno na mreži: skratite bijele margine ili odrežite rubove u točkama ili postocima na svakoj stranici ili jednom rasponu. Okvir obrezivanja stranice postavlja se precizno u vašem pregledniku — ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/crop-pdf/",
+  "id": "/hr/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

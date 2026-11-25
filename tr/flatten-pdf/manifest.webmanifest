@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Düzleştir",
   "short_name": "Çevrimiçi Ücretsiz PDF Düzleştir",
   "description": "Bir PDF'yi çevrimiçi ücretsiz düzleştirin: doldurulabilir form alanlarını sayfalara işleyerek yanıtların artık düzenlenememesini sağlayın; her şeyi düzleştiren isteğe bağlı tam görüntü yeniden oluşturma ile. Gizli, tarayıcıda, kayıt gerekmez.",
-  "id": "/loona-pdf-tools/tr/flatten-pdf/",
+  "id": "/tr/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

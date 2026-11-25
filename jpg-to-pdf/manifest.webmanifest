@@ -2,7 +2,7 @@
   "name": "Loona JPG to PDF Online Free",
   "short_name": "JPG to PDF Online Free",
   "description": "Convert JPG images to a PDF free online. Combine photos into one PDF with A4, Letter or fit pages, in your order. No sign-up - works privately in-browser.",
-  "id": "/loona-pdf-tools/jpg-to-pdf/",
+  "id": "/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

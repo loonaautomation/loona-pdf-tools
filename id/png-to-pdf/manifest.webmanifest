@@ -2,7 +2,7 @@
   "name": "Loona PNG ke PDF online gratis",
   "short_name": "PNG ke PDF online gratis",
   "description": "Konversi gambar PNG ke PDF gratis secara online. Tangkapan layar, logo, dan grafik menjadi satu PDF dengan halaman A4, Letter, atau pas. Konversi privat di browser, tanpa pendaftaran.",
-  "id": "/loona-pdf-tools/id/png-to-pdf/",
+  "id": "/id/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

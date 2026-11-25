@@ -2,7 +2,7 @@
   "name": "Loona PDF小冊子を作成 オンライン無料",
   "short_name": "PDF小冊子を作成 オンライン無料",
   "description": "印刷可能な小冊子PDFを無料でオンライン作成：ページは横向きシート上に本物の小冊子の順序で面付けされます。両面印刷し、折って、ホチキスで留めてください。空白ページは自動で四の倍数に埋められます。",
-  "id": "/loona-pdf-tools/ja/create-pdf-booklet/",
+  "id": "/ja/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

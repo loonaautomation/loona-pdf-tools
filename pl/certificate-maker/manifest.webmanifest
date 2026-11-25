@@ -2,7 +2,7 @@
   "name": "Loona Kreator certyfikatów online za darmo",
   "short_name": "Kreator certyfikatów online za darmo",
   "description": "Darmowy kreator certyfikatów: zaprojektuj certyfikat do druku na podglądzie na żywo, a potem pobierz gotowy do druku PDF A4 lub PNG. Zrób jeden certyfikat albo setki zbiorczo z listy nazwisk. Bez rejestracji, bez znaku wodnego, a wszystko działa prywatnie w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/certificate-maker/",
+  "id": "/pl/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

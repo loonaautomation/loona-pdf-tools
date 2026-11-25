@@ -2,7 +2,7 @@
   "name": "Loona Legg til vannmerke på nett gratis",
   "short_name": "Legg til vannmerke på nett gratis",
   "description": "Legg til et tekstvannmerke i en PDF gratis på nett. Still inn tekst, størrelse, gjennomsiktighet, vinkel og farge - midtstilt eller flislagt. Ingen registrering; vannmerkingen kjører privat i nettleseren.",
-  "id": "/loona-pdf-tools/nb/add-watermark-to-pdf/",
+  "id": "/nb/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

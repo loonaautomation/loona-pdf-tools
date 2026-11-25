@@ -2,7 +2,7 @@
   "name": "Loona Allekirjoita PDF verkossa ilmaiseksi",
   "short_name": "Allekirjoita PDF verkossa ilmaiseksi",
   "description": "Allekirjoita PDF ilmaiseksi verkossa. Piirrä allekirjoituksesi tai lähetä sen kuva, aseta se reaaliaikaisella esikatselulla ja lataa allekirjoitettu PDF. Yksityinen - mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/sign-pdf/",
+  "id": "/fi/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

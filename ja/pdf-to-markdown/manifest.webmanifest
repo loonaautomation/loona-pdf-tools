@@ -2,7 +2,7 @@
   "name": "Loona PDFからMarkdownへの変換ツール オンライン無料",
   "short_name": "PDFからMarkdownへの変換ツール オンライン無料",
   "description": "PDFをMarkdownにオンライン変換、ブラウザで無料。テキストが抽出され、フォントサイズから見出し構造が検出されます。アップロード不要、登録不要。",
-  "id": "/loona-pdf-tools/ja/pdf-to-markdown/",
+  "id": "/ja/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

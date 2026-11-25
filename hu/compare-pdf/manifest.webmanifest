@@ -2,7 +2,7 @@
   "name": "Loona PDF összehasonlítása online ingyen",
   "short_name": "PDF összehasonlítása online ingyen",
   "description": "Hasonlítson össze két PDF-fájlt ingyen, online, és nézze meg oldalanként pontosan, melyik szöveg változott. Az eltávolított és hozzáadott sorok egymás mellett kiemelve látszanak. Regisztráció nélkül; az összehasonlítás privát módon, a böngészőjében fut.",
-  "id": "/loona-pdf-tools/hu/compare-pdf/",
+  "id": "/hu/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

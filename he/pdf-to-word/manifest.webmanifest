@@ -2,7 +2,7 @@
   "name": "Loona ממיר PDF ל-Word – בחינם, ללא העלאה",
   "short_name": "ממיר PDF ל-Word – בחינם, ללא העלאה",
   "description": "המירו PDF מבוסס-טקסט למסמך Word ניתן לעריכה (.docx) בחינם בדפדפן שלכם. כותרות, פסקאות, רשימות וטבלאות פשוטות עוברות. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/pdf-to-word/",
+  "id": "/he/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

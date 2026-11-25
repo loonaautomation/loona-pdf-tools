@@ -2,7 +2,7 @@
   "name": "Loona Markdown у PDF онлайн безкоштовно",
   "short_name": "Markdown у PDF онлайн безкоштовно",
   "description": "Перетворюйте Markdown на оформлений PDF онлайн, безкоштовно у своєму браузері. Заголовки, списки, код і посилання відтворюються з живим попереднім переглядом. Без передавання файлів.",
-  "id": "/loona-pdf-tools/uk/markdown-to-pdf/",
+  "id": "/uk/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

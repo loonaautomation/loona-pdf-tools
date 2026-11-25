@@ -2,7 +2,7 @@
   "name": "Loona دستخط جنریٹر آن لائن مفت",
   "short_name": "دستخط جنریٹر آن لائن مفت",
   "description": "دستخط کی تصویر آن لائن مفت بنائیں: اسے بنائیں، اپنا نام ہاتھ کی لکھائی کے انداز میں لکھیں، یا اپنے دستخط کی تصویر کو شفاف بنائیں۔ صاف شفاف PNG ڈاؤن لوڈ کریں - نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-pdf-tools/ur/signature-generator/",
+  "id": "/ur/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

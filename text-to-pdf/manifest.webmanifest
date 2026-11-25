@@ -2,7 +2,7 @@
   "name": "Loona Text to PDF Online Free",
   "short_name": "Text to PDF Online Free",
   "description": "Convert text to a PDF free online. Paste your text, choose font size and A4 or Letter pages, and download a clean PDF. No sign-up - made privately in-browser.",
-  "id": "/loona-pdf-tools/text-to-pdf/",
+  "id": "/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

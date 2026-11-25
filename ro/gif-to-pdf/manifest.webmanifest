@@ -2,7 +2,7 @@
   "name": "Loona Convertor GIF în PDF online gratuit",
   "short_name": "Convertor GIF în PDF online gratuit",
   "description": "Convertește imagini GIF într-un PDF online, gratuit, în browserul tău. O imagine pe pagină, pagini potrivite la imagine sau A4/Letter. Fără încărcare, fără înregistrare.",
-  "id": "/loona-pdf-tools/ro/gif-to-pdf/",
+  "id": "/ro/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

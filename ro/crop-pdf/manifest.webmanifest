@@ -2,7 +2,7 @@
   "name": "Loona Decupează PDF online gratuit",
   "short_name": "Decupează PDF online gratuit",
   "description": "Decupează gratuit online pagini PDF: taie marginile albe sau marginile în puncte sau procente pe fiecare pagină sau pe un interval. Caseta de decupare a paginii este setată precis în browserul tău - fără să se încarce nimic.",
-  "id": "/loona-pdf-tools/ro/crop-pdf/",
+  "id": "/ro/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor verkossa ilmaiseksi",
   "short_name": "Loona PDF Editor",
   "description": "Muokkaa PDF-tiedostoja ilmaiseksi verkossa Loona PDF Editorilla: lisää tekstiä, kuvia, muotoja ja korostuksia, peitä virheet valkopeitteellä, piirrä tai kirjoita allekirjoitus ja lataa valmis PDF. Kaikki toimii selaimessasi - tiedostosi ei koskaan poistu laitteeltasi. Ei rekisteröitymistä, ei sivurajoja, ei vesileimoja.",
-  "id": "/loona-pdf-tools/fi/pdf-editor/",
+  "id": "/fi/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

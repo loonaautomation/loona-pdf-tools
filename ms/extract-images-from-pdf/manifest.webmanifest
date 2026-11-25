@@ -2,7 +2,7 @@
   "name": "Loona Ekstrak Imej daripada PDF dalam talian percuma",
   "short_name": "Ekstrak Imej daripada PDF dalam talian percuma",
   "description": "Ekstrak imej asal yang terbenam dalam PDF secara percuma dalam talian: foto dan grafik ditarik keluar pada resolusi tersimpannya sebagai fail PNG - bukan tangkapan skrin. 100% dalam pelayar anda, tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/extract-images-from-pdf/",
+  "id": "/ms/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

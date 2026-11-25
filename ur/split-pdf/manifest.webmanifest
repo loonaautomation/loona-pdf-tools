@@ -2,7 +2,7 @@
   "name": "Loona PDF تقسیم کریں آن لائن مفت",
   "short_name": "PDF تقسیم کریں آن لائن مفت",
   "description": "PDF کو الگ فائلوں میں آن لائن مفت تقسیم کریں۔ ہر صفحہ اس کی اپنی PDF کے طور پر نکالیں یا صفحہ رینجز سے تقسیم کریں۔ سائن اپ نہیں، اور آپ کی فائل آپ کے براؤزر سے کبھی نہیں نکلتی۔",
-  "id": "/loona-pdf-tools/ur/split-pdf/",
+  "id": "/ur/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

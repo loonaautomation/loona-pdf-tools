@@ -2,7 +2,7 @@
   "name": "Loona Tambah Header & Footer ke PDF online gratis",
   "short_name": "Tambah Header & Footer ke PDF online gratis",
   "description": "Tambahkan header dan footer ke setiap halaman PDF gratis secara online: teks kustom, nomor halaman dengan format Page X of Y, perataan, dan ukuran font - semuanya di browser Anda, tanpa ada yang diunggah.",
-  "id": "/loona-pdf-tools/id/add-header-footer-to-pdf/",
+  "id": "/id/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

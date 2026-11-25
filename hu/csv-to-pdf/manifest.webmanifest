@@ -2,7 +2,7 @@
   "name": "Loona CSV-ből PDF online ingyen",
   "short_name": "CSV-ből PDF online ingyen",
   "description": "Alakítson CSV-adatokat tiszta, oldalszámozott PDF-táblázattá online, ingyen, a böngészőjében. Félkövér, ismétlődő fejlécsor, igazított oszlopok. Feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/csv-to-pdf/",
+  "id": "/hu/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

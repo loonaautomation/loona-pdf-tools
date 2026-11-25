@@ -2,7 +2,7 @@
   "name": "Loona Tilpas PDF-sidestørrelse online gratis",
   "short_name": "Tilpas PDF-sidestørrelse online gratis",
   "description": "Tilpas gratis PDF-sidestørrelse online: konvertér hver side til A4, US Letter eller Legal, eller skalér med en procentdel, med indhold skaleret til at passe og centreret. Kører i din browser - intet uploades.",
-  "id": "/loona-pdf-tools/da/resize-pdf-pages/",
+  "id": "/da/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

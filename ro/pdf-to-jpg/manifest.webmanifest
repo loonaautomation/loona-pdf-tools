@@ -2,7 +2,7 @@
   "name": "Loona PDF în JPG online gratuit",
   "short_name": "PDF în JPG online gratuit",
   "description": "Convertește gratuit online pagini PDF în imagini JPG. Alege calitatea standard, înaltă sau de imprimare și descarcă fiecare pagină ca JPG. Fără înregistrare; conversia rulează în browserul tău.",
-  "id": "/loona-pdf-tools/ro/pdf-to-jpg/",
+  "id": "/ro/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tilføj sidetal til PDF online gratis",
   "short_name": "Tilføj sidetal til PDF online gratis",
   "description": "Tilføj gratis sidetal til en PDF online. Vælg stil (1, Side 1, 1 af 10), placering og startnummer. Ingen tilmelding; nummereringen sker privat i din browser.",
-  "id": "/loona-pdf-tools/da/add-page-numbers-to-pdf/",
+  "id": "/da/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

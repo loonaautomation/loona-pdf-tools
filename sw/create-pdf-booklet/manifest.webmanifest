@@ -2,7 +2,7 @@
   "name": "Loona Tengeneza Kijitabu cha PDF bure mtandaoni",
   "short_name": "Tengeneza Kijitabu cha PDF bure mtandaoni",
   "description": "Tengeneza PDF ya kijitabu inayoweza kuchapishwa bure mtandaoni: kurasa hupangwa kwa mpangilio wa kweli wa kijitabu kwenye laha za mlalo - chapisha pande mbili, kunja, bana kwa pini. Kurasa tupu huongezwa kufikia idadi inayogawanyika kwa nne kiotomatiki.",
-  "id": "/loona-pdf-tools/sw/create-pdf-booklet/",
+  "id": "/sw/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

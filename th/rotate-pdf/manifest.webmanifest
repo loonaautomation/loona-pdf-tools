@@ -2,7 +2,7 @@
   "name": "Loona หมุน PDF ออนไลน์ฟรี",
   "short_name": "หมุน PDF ออนไลน์ฟรี",
   "description": "หมุนหน้า PDF ฟรีออนไลน์ 90, 180 หรือ 270 องศา - ทุกหน้าหรือช่วงที่เลือก - แล้วบันทึกไฟล์ที่แก้ไข ไม่ต้องสมัคร มันเกิดขึ้นในเบราว์เซอร์ของคุณ",
-  "id": "/loona-pdf-tools/th/rotate-pdf/",
+  "id": "/th/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

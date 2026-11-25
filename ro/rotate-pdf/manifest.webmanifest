@@ -2,7 +2,7 @@
   "name": "Loona Rotește PDF online gratuit",
   "short_name": "Rotește PDF online gratuit",
   "description": "Rotește gratuit online pagini PDF cu 90, 180 sau 270 de grade - toate paginile sau un interval ales - și salvează fișierul corectat. Fără înregistrare; se întâmplă în browserul tău.",
-  "id": "/loona-pdf-tools/ro/rotate-pdf/",
+  "id": "/ro/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

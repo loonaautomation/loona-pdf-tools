@@ -2,7 +2,7 @@
   "name": "Loona Penukar PDF dalam talian percuma",
   "short_name": "Penukar PDF dalam talian percuma",
   "description": "Setiap penukar PDF dalam satu tempat: imej, CSV, JSON, HTML dan Markdown kepada PDF — dan PDF kembali kepada imej, teks, HTML dan Markdown. Percuma, dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/pdf-converters/",
+  "id": "/ms/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

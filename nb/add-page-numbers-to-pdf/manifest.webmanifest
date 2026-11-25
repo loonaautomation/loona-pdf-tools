@@ -2,7 +2,7 @@
   "name": "Loona Legg til sidetall på nett gratis",
   "short_name": "Legg til sidetall på nett gratis",
   "description": "Legg til sidetall i en PDF gratis på nett. Velg stil (1, Side 1, 1 av 10), plassering og startnummer. Ingen registrering; nummereringen gjøres privat i nettleseren din.",
-  "id": "/loona-pdf-tools/nb/add-page-numbers-to-pdf/",
+  "id": "/nb/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

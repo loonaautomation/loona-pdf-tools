@@ -2,7 +2,7 @@
   "name": "Loona Сжать PDF",
   "short_name": "Loona Сжать PDF",
   "description": "Сжимайте файлы PDF бесплатно онлайн и уменьшайте их для электронной почты или загрузок. Выберите сжатие потока без потерь или сильное сжатие изображений. Конфиденциально, в вашем браузере.",
-  "id": "/loona-pdf-tools/ru/compress-pdf/",
+  "id": "/ru/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

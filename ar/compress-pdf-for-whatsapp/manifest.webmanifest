@@ -2,7 +2,7 @@
   "name": "Loona ضغط PDF لواتساب – أقل من 16 MB، مجانًا",
   "short_name": "ضغط PDF لواتساب – أقل من 16 MB، مجانًا",
   "description": "اضغط ملف PDF إلى 16 MB أو أقل، مجانًا في متصفحك. تجرب الأداة إعادة حفظ دون فقدان أولًا، ثم تخفض جودة العرض تدريجيًا حتى يناسب ملفك — وتبلغ عن النتيجة الدقيقة.",
-  "id": "/loona-pdf-tools/ar/compress-pdf-for-whatsapp/",
+  "id": "/ar/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

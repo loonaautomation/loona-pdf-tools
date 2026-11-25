@@ -2,7 +2,7 @@
   "name": "Loona แปลง PDF เป็น JPG ออนไลน์ฟรี",
   "short_name": "แปลง PDF เป็น JPG ออนไลน์ฟรี",
   "description": "แปลงหน้า PDF เป็นรูปภาพ JPG ฟรีออนไลน์ เลือกคุณภาพมาตรฐาน สูง หรือพิมพ์ แล้วดาวน์โหลดแต่ละหน้าเป็น JPG ไม่ต้องสมัคร การแปลงทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-pdf-tools/th/pdf-to-jpg/",
+  "id": "/th/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

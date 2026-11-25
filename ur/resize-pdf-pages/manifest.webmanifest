@@ -2,7 +2,7 @@
   "name": "Loona PDF صفحات کا سائز بدلیں آن لائن مفت",
   "short_name": "PDF صفحات کا سائز بدلیں آن لائن مفت",
   "description": "PDF صفحات کا سائز آن لائن مفت بدلیں: ہر صفحے کو A4، US Letter یا Legal میں تبدیل کریں، یا فیصد کے حساب سے اسکیل کریں، مواد فٹ ہونے کے لیے اسکیل اور درمیان میں رکھا گیا۔ آپ کے براؤزر میں چلتا ہے - کچھ بھی اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-pdf-tools/ur/resize-pdf-pages/",
+  "id": "/ur/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

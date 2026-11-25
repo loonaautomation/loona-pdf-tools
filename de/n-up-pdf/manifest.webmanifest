@@ -2,7 +2,7 @@
   "name": "Loona N-up PDF Online kostenlos",
   "short_name": "N-up PDF Online kostenlos",
   "description": "Mehrere PDF-Seiten kostenlos online auf ein Blatt legen: 2-up-, 4-up-, 6-up- oder 9-up-Layouts auf A4 oder Letter, in Lesereihenfolge. Spart Papier für Handouts und Entwürfe. Im Browser, nichts hochgeladen.",
-  "id": "/loona-pdf-tools/de/n-up-pdf/",
+  "id": "/de/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

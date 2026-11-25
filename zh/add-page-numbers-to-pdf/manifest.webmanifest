@@ -2,7 +2,7 @@
   "name": "Loona 添加页码 在线免费",
   "short_name": "添加页码 在线免费",
   "description": "在线免费为 PDF 添加页码。选择样式（1、第 1 页、1 / 10）、位置和起始编号。无需注册；编号在您的浏览器中私密完成。",
-  "id": "/loona-pdf-tools/zh/add-page-numbers-to-pdf/",
+  "id": "/zh/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

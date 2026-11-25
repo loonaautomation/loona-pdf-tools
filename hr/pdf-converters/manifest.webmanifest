@@ -2,7 +2,7 @@
   "name": "Loona Pretvarači PDF-a besplatno na mreži",
   "short_name": "Pretvarači PDF-a besplatno na mreži",
   "description": "Svaki pretvarač PDF-a na jednom mjestu: slike, CSV, JSON, HTML i Markdown u PDF — i PDF natrag u slike, tekst, HTML i Markdown. Besplatno, u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/pdf-converters/",
+  "id": "/hr/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

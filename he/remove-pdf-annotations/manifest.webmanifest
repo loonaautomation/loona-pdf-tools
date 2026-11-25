@@ -2,7 +2,7 @@
   "name": "Loona הסרת הערות מ-PDF מקוון בחינם",
   "short_name": "הסרת הערות מ-PDF מקוון בחינם",
   "description": "הסירו הערות מ-PDF בחינם באינטרנט: הערות, הדגשות, פתקיות דביקות, חותמות וסימונים מוסרים בעוד תוכן העמוד נשאר לא נגע. בדפדפן, שום דבר לא מועלה.",
-  "id": "/loona-pdf-tools/he/remove-pdf-annotations/",
+  "id": "/he/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

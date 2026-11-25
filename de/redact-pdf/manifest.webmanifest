@@ -2,7 +2,7 @@
   "name": "Loona PDF schwärzen Online kostenlos",
   "short_name": "PDF schwärzen Online kostenlos",
   "description": "Ein PDF kostenlos online schwärzen: Schwarze Boxen über Namen, Nummern oder Fotos zeichnen und sie dauerhaft einbrennen - der verborgene Inhalt wird entfernt, nicht nur überdeckt. Zu 100 % in Ihrem Browser, nichts hochgeladen.",
-  "id": "/loona-pdf-tools/de/redact-pdf/",
+  "id": "/de/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

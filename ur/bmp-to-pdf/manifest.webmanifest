@@ -2,7 +2,7 @@
   "name": "Loona BMP سے PDF کنورٹر",
   "short_name": "BMP سے PDF کنورٹر",
   "description": "BMP تصاویر کو PDF میں آن لائن، مفت، اپنے براؤزر میں تبدیل کریں۔ فی صفحہ ایک تصویر، تصویر کے مطابق فٹ یا A4/Letter صفحات۔ نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-pdf-tools/ur/bmp-to-pdf/",
+  "id": "/ur/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

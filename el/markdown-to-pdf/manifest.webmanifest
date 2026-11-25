@@ -2,7 +2,7 @@
   "name": "Loona Markdown σε PDF Online Δωρεάν",
   "short_name": "Markdown σε PDF Online Δωρεάν",
   "description": "Μετατρέψτε Markdown σε ένα μορφοποιημένο PDF online, δωρεάν στο πρόγραμμα περιήγησής σας. Επικεφαλίδες, λίστες, κώδικας και σύνδεσμοι αποδίδονται με ζωντανή προεπισκόπηση. Χωρίς μεταφόρτωση.",
-  "id": "/loona-pdf-tools/el/markdown-to-pdf/",
+  "id": "/el/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

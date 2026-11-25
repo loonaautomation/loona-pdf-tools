@@ -2,7 +2,7 @@
   "name": "Loona CSV σε PDF Online Δωρεάν",
   "short_name": "CSV σε PDF Online Δωρεάν",
   "description": "Μετατρέψτε δεδομένα CSV σε έναν καθαρό, σελιδοποιημένο πίνακα PDF online, δωρεάν στο πρόγραμμα περιήγησής σας. Έντονη επαναλαμβανόμενη γραμμή κεφαλίδας, προσαρμοσμένες στήλες. Χωρίς μεταφόρτωση.",
-  "id": "/loona-pdf-tools/el/csv-to-pdf/",
+  "id": "/el/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konverter PDF ke Markdown online gratis",
   "short_name": "Konverter PDF ke Markdown online gratis",
   "description": "Konversi PDF ke Markdown secara online, gratis di browser Anda. Teks diekstrak dengan struktur heading yang terdeteksi dari ukuran font. Tanpa unggahan, tanpa pendaftaran.",
-  "id": "/loona-pdf-tools/id/pdf-to-markdown/",
+  "id": "/id/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

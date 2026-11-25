@@ -2,7 +2,7 @@
   "name": "Loona Veličine stranica PDF-a i podaci besplatno na mreži",
   "short_name": "Veličine stranica PDF-a i podaci besplatno na mreži",
   "description": "Provjerite veličine stranica PDF-a besplatno na mreži: dimenzije svake stranice u točkama, milimetrima i inčima, njezina najbliža standardna veličina (A4, Letter...), rotacija, te naslov, autor i verzija PDF-a. Ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/pdf-page-sizes/",
+  "id": "/hr/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

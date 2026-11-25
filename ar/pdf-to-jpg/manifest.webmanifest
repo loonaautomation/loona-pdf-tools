@@ -2,7 +2,7 @@
   "name": "Loona تحويل PDF إلى JPG عبر الإنترنت مجانًا",
   "short_name": "تحويل PDF إلى JPG عبر الإنترنت مجانًا",
   "description": "حوّل صفحات PDF إلى صور JPG مجانًا عبر الإنترنت. اختر جودة قياسية أو عالية أو للطباعة ونزّل كل صفحة كـJPG. دون تسجيل؛ يعمل التحويل في متصفحك.",
-  "id": "/loona-pdf-tools/ar/pdf-to-jpg/",
+  "id": "/ar/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

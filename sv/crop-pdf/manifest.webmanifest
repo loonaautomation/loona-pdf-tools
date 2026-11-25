@@ -2,7 +2,7 @@
   "name": "Loona Beskär PDF online gratis",
   "short_name": "Beskär PDF online gratis",
   "description": "Beskär PDF-sidor gratis online: trimma vita marginaler eller skär kanter med punkter eller procent på varje sida eller ett intervall. Sidans beskärningsruta ställs in exakt i din webbläsare - ingenting laddas upp.",
-  "id": "/loona-pdf-tools/sv/crop-pdf/",
+  "id": "/sv/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

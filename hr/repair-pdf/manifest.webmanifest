@@ -2,7 +2,7 @@
   "name": "Loona Popravi PDF besplatno na mreži",
   "short_name": "Popravi PDF besplatno na mreži",
   "description": "Popravite oštećeni PDF besplatno na mreži: ponovno gradi pokvarene tablice unakrsnih referenci i ponovno sprema čistu kopiju, s ponovnom izgradnjom iz slika stranica kao posljednjim sredstvom. Poštena ograničenja navedena. 100% u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/repair-pdf/",
+  "id": "/hr/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona הוספת סימן מים ל-PDF מקוון בחינם",
   "short_name": "הוספת סימן מים ל-PDF מקוון בחינם",
   "description": "הוסיפו סימן מים טקסטואלי ל-PDF בחינם באינטרנט. הגדירו את הטקסט, הגודל, השקיפות, הזווית והצבע - במרכז או כאריחים. ללא הרשמה; הוספת סימן המים פועלת בפרטיות בדפדפן.",
-  "id": "/loona-pdf-tools/he/add-watermark-to-pdf/",
+  "id": "/he/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

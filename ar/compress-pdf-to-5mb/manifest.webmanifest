@@ -2,7 +2,7 @@
   "name": "Loona ضغط PDF إلى 5 MB عبر الإنترنت – مجانًا، هدف مضمون",
   "short_name": "ضغط PDF إلى 5 MB عبر الإنترنت – مجانًا، هدف مضمون",
   "description": "اضغط ملف PDF إلى 5 MB أو أقل، مجانًا في متصفحك. تجرب الأداة إعادة حفظ دون فقدان أولًا، ثم تخفض جودة العرض تدريجيًا حتى يناسب ملفك — وتبلغ عن النتيجة الدقيقة.",
-  "id": "/loona-pdf-tools/ar/compress-pdf-to-5mb/",
+  "id": "/ar/compress-pdf-to-5mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

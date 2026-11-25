@@ -2,7 +2,7 @@
   "name": "Loona Poista PDF-sivuja verkossa ilmaiseksi",
   "short_name": "Poista PDF-sivuja verkossa ilmaiseksi",
   "description": "Poista sivuja PDF:stä ilmaiseksi verkossa. Kirjoita poistettavat sivunumerot - kuten 2, 4-6 - ja lataa puhdistettu tiedosto. Ei rekisteröitymistä; kaikki pysyy selaimessasi.",
-  "id": "/loona-pdf-tools/fi/delete-pdf-pages/",
+  "id": "/fi/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF na PNG online za darmo",
   "short_name": "PDF na PNG online za darmo",
   "description": "Konwertuj strony PDF na obrazy PNG za darmo online w rozdzielczości do 3x, z zachowaną przezroczystością. Pobierz każdą stronę osobno. Prywatnie, w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/pdf-to-png/",
+  "id": "/pl/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

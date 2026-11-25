@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor מקוון בחינם",
   "short_name": "Loona PDF Editor",
   "description": "ערכו קובצי PDF בחינם באינטרנט עם Loona PDF Editor: הוסיפו טקסט, תמונות, צורות והדגשות, כסו טעויות במחיקון לבן, ציירו או הקלידו חתימה, ואז הורידו את ה-PDF המוגמר. הכול פועל בדפדפן שלכם - הקובץ לעולם אינו עוזב את המכשיר. ללא הרשמה, ללא מגבלת עמודים, ללא סימני מים.",
-  "id": "/loona-pdf-tools/he/pdf-editor/",
+  "id": "/he/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

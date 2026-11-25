@@ -2,7 +2,7 @@
   "name": "Loona Muokkaa PDF:n tietoja verkossa ilmaiseksi",
   "short_name": "Muokkaa PDF:n tietoja verkossa ilmaiseksi",
   "description": "Näe ja muokkaa PDF-metatietoja ilmaiseksi verkossa - otsikkoa, tekijää, aihetta ja avainsanoja - ja näe sivumäärä ja tiedostokoko. Ei rekisteröitymistä; metatietojen muokkaus toimii selaimessa.",
-  "id": "/loona-pdf-tools/fi/edit-pdf-info/",
+  "id": "/fi/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

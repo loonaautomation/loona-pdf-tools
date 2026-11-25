@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji HTML kwenda PDF bure mtandaoni",
   "short_name": "Kibadilishaji HTML kwenda PDF bure mtandaoni",
   "description": "Badilisha HTML kwenda PDF mtandaoni, bure, kwa kutumia injini ya kivinjari chako&#x27; yenyewe ya kuchapisha-kwenda-PDF — usaidizi kamili wa CSS, hakuna upakiaji, hakuna alama za maji.",
-  "id": "/loona-pdf-tools/sw/html-to-pdf/",
+  "id": "/sw/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vertaa PDF-tiedostoja verkossa ilmaiseksi",
   "short_name": "Vertaa PDF-tiedostoja verkossa ilmaiseksi",
   "description": "Vertaa kahta PDF-tiedostoa ilmaiseksi verkossa ja näe täsmälleen, mikä teksti muuttui, sivu sivulta. Poistetut ja lisätyt rivit korostetaan vierekkäin. Ei rekisteröitymistä; vertailu toimii yksityisesti selaimessasi.",
-  "id": "/loona-pdf-tools/fi/compare-pdf/",
+  "id": "/fi/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Fjern PDF-merknader på nett gratis",
   "short_name": "Fjern PDF-merknader på nett gratis",
   "description": "Fjern merknader fra en PDF gratis på nett: kommentarer, uthevinger, gule lapper, stempler og markeringer fjernes mens sideinnholdet forblir urørt. I nettleseren, ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/remove-pdf-annotations/",
+  "id": "/nb/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

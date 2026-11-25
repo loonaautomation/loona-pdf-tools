@@ -2,7 +2,7 @@
   "name": "Loona Thêm đầu trang & chân trang trực tuyến miễn phí",
   "short_name": "Thêm đầu trang & chân trang trực tuyến miễn phí",
   "description": "Thêm đầu trang và chân trang vào mọi trang PDF miễn phí trực tuyến: văn bản tùy chỉnh, số trang với định dạng Trang X / Y, căn chỉnh và cỡ chữ - tất cả trong trình duyệt của bạn, không tải lên gì cả.",
-  "id": "/loona-pdf-tools/vi/add-header-footer-to-pdf/",
+  "id": "/vi/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

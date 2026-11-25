@@ -2,7 +2,7 @@
   "name": "Loona PDF-ből WebP online ingyen",
   "short_name": "PDF-ből WebP online ingyen",
   "description": "Alakítson PDF-oldalakat WebP képekké ingyen, online: kisebbek, mint a JPG és a PNG weboldalakhoz, a böngészőjében, az Ön által választott felbontásban megjelenítve. Semmi nem töltődik fel, regisztráció nélkül.",
-  "id": "/loona-pdf-tools/hu/pdf-to-webp/",
+  "id": "/hu/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF u PNG besplatno na mreži",
   "short_name": "PDF u PNG besplatno na mreži",
   "description": "Pretvorite stranice PDF-a u PNG slike besplatno na mreži u razlučivosti do 3x, uz očuvanu prozirnost. Svaku stranicu preuzmite zasebno. Privatno, u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/pdf-to-png/",
+  "id": "/hr/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

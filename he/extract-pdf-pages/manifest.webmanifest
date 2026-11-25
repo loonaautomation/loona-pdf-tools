@@ -2,7 +2,7 @@
   "name": "Loona חילוץ עמודי PDF מקוון בחינם",
   "short_name": "חילוץ עמודי PDF מקוון בחינם",
   "description": "חלצו עמודים נבחרים מ-PDF בחינם באינטרנט. הזינו עמודים כמו 3, 5-8 והורידו אותם כ-PDF חדש וקטן יותר. ללא הרשמה; החילוץ פועל בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/extract-pdf-pages/",
+  "id": "/he/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

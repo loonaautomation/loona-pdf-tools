@@ -2,7 +2,7 @@
   "name": "Loona Convertor PDF în Excel",
   "short_name": "Loona Convertor PDF în Excel",
   "description": "Convertiți tabele PDF în foi de calcul Excel (.xlsx) gratuit în browserul dvs. Previzualizați și corectați fiecare celulă înainte de descărcare. Fără încărcare, fără înregistrare — fișierul dvs. nu părăsește niciodată dispozitivul.",
-  "id": "/loona-pdf-tools/ro/pdf-to-excel/",
+  "id": "/ro/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

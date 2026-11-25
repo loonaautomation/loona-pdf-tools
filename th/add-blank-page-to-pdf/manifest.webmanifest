@@ -2,7 +2,7 @@
   "name": "Loona เพิ่มหน้าว่างลงใน PDF ออนไลน์ฟรี",
   "short_name": "เพิ่มหน้าว่างลงใน PDF ออนไลน์ฟรี",
   "description": "แทรกหน้าว่างลงใน PDF ฟรีออนไลน์: ที่จุดเริ่มต้น ที่จุดสิ้นสุด หรือหลังหน้าใดก็ได้ ให้ตรงกับขนาดหน้าของเอกสาร A4 หรือ Letter ทันที ในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลดใด ๆ",
-  "id": "/loona-pdf-tools/th/add-blank-page-to-pdf/",
+  "id": "/th/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

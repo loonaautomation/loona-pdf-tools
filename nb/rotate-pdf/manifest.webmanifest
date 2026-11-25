@@ -2,7 +2,7 @@
   "name": "Loona Roter PDF på nett gratis",
   "short_name": "Roter PDF på nett gratis",
   "description": "Roter PDF-sider gratis på nett med 90, 180 eller 270 grader - alle sider eller et valgt område - og lagre den korrigerte filen. Ingen registrering; det skjer i nettleseren din.",
-  "id": "/loona-pdf-tools/nb/rotate-pdf/",
+  "id": "/nb/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

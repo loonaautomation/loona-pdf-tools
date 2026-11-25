@@ -2,7 +2,7 @@
   "name": "Loona تدوير PDF عبر الإنترنت مجانًا",
   "short_name": "تدوير PDF عبر الإنترنت مجانًا",
   "description": "دوّر صفحات PDF مجانًا عبر الإنترنت بمقدار 90 أو 180 أو 270 درجة — كل الصفحات أو نطاق مختار — واحفظ الملف المصحح. دون تسجيل؛ يحدث ذلك في متصفحك.",
-  "id": "/loona-pdf-tools/ar/rotate-pdf/",
+  "id": "/ar/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

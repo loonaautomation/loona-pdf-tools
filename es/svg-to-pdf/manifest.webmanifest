@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de SVG a PDF",
   "short_name": "Convertidor de SVG a PDF",
   "description": "Convierte imágenes SVG en un PDF en línea, gratis, en tu navegador. Una imagen por página, páginas ajustadas a la imagen o A4/Letter. Sin subida, sin registro.",
-  "id": "/loona-pdf-tools/es/svg-to-pdf/",
+  "id": "/es/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

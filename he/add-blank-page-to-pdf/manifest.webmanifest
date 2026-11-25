@@ -2,7 +2,7 @@
   "name": "Loona הוספת עמוד ריק ל-PDF מקוון בחינם",
   "short_name": "הוספת עמוד ריק ל-PDF מקוון בחינם",
   "description": "הכניסו עמודים ריקים ל-PDF בחינם באינטרנט: בהתחלה, בסוף, או אחרי כל עמוד, בהתאמה לגודל העמוד של המסמך, A4 או Letter. מיד, בדפדפן שלכם, שום דבר לא מועלה.",
-  "id": "/loona-pdf-tools/he/add-blank-page-to-pdf/",
+  "id": "/he/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

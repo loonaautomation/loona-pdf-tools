@@ -2,7 +2,7 @@
   "name": "Loona PDF صفحات نکالیں آن لائن مفت",
   "short_name": "PDF صفحات نکالیں آن لائن مفت",
   "description": "منتخب صفحات PDF سے آن لائن مفت نکالیں۔ صفحات درج کریں جیسے 3, 5-8 اور انہیں نئی، چھوٹی PDF کے طور پر ڈاؤن لوڈ کریں۔ سائن اپ نہیں؛ نکالنا آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-pdf-tools/ur/extract-pdf-pages/",
+  "id": "/ur/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

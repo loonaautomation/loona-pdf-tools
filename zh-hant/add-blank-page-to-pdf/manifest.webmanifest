@@ -2,7 +2,7 @@
   "name": "Loona 為 PDF 新增空白頁 線上免費",
   "short_name": "為 PDF 新增空白頁 線上免費",
   "description": "線上免費將空白頁插入 PDF：在開頭、末尾或任何頁面之後，匹配文件的頁面大小、A4 或 Letter。即時，在您的瀏覽器中完成，不上傳任何內容。",
-  "id": "/loona-pdf-tools/zh-hant/add-blank-page-to-pdf/",
+  "id": "/zh-hant/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

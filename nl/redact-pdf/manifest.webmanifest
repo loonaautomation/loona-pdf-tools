@@ -2,7 +2,7 @@
   "name": "Loona PDF redigeren online gratis",
   "short_name": "PDF redigeren online gratis",
   "description": "Redigeer een PDF gratis online: teken zwarte vakken over namen, nummers of foto's en brand ze permanent in - de verborgen inhoud wordt verwijderd, niet alleen bedekt. 100% in je browser, niets geüpload.",
-  "id": "/loona-pdf-tools/nl/redact-pdf/",
+  "id": "/nl/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

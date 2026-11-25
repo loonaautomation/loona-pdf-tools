@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Υπογραφής Online Δωρεάν",
   "short_name": "Γεννήτρια Υπογραφής Online Δωρεάν",
   "description": "Δημιουργήστε μια εικόνα υπογραφής δωρεάν online: σχεδιάστε τη, πληκτρολογήστε το όνομά σας σε στυλ χειρογράφου ή κάντε μια φωτογραφία της υπογραφής σας διαφανή. Κατεβάστε ένα καθαρό διαφανές PNG - χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-pdf-tools/el/signature-generator/",
+  "id": "/el/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

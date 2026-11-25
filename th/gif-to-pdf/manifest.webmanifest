@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง GIF เป็น PDF ออนไลน์ฟรี",
   "short_name": "ตัวแปลง GIF เป็น PDF ออนไลน์ฟรี",
   "description": "แปลงรูปภาพ GIF เป็น PDF ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ หนึ่งรูปต่อหน้า หน้าแบบพอดีกับรูปภาพหรือ A4/Letter ไม่ต้องอัปโหลด ไม่ต้องสมัคร",
-  "id": "/loona-pdf-tools/th/gif-to-pdf/",
+  "id": "/th/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

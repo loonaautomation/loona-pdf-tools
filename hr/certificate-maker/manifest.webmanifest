@@ -2,7 +2,7 @@
   "name": "Loona Izrađivač certifikata besplatno na mreži",
   "short_name": "Izrađivač certifikata besplatno na mreži",
   "description": "Besplatni izrađivač certifikata: osmislite certifikat za ispis na pretpremijeri uživo, zatim preuzmite A4 PDF ili PNG spreman za ispis. Izradite jedan certifikat ili stotine skupno s popisa imena. Bez registracije, bez vodenog žiga, a sve se odvija privatno u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/certificate-maker/",
+  "id": "/hr/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

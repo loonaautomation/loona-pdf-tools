@@ -2,7 +2,7 @@
   "name": "Loona เซ็น PDF ออนไลน์ฟรี",
   "short_name": "เซ็น PDF ออนไลน์ฟรี",
   "description": "เซ็น PDF ฟรีออนไลน์ วาดลายเซ็นของคุณหรืออัปโหลดรูปภาพของมัน จัดตำแหน่งด้วยตัวอย่างสด และดาวน์โหลด PDF ที่เซ็นแล้ว เป็นส่วนตัว ไม่มีการอัปโหลดใด ๆ",
-  "id": "/loona-pdf-tools/th/sign-pdf/",
+  "id": "/th/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

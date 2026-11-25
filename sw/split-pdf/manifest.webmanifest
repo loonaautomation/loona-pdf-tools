@@ -2,7 +2,7 @@
   "name": "Loona Gawanya PDF bure mtandaoni",
   "short_name": "Gawanya PDF bure mtandaoni",
   "description": "Gawanya PDF kuwa faili tofauti bure mtandaoni. Toa kila ukurasa kama PDF yake yenyewe au gawanya kwa masafa ya kurasa. Hakuna kujisajili, na faili lako halitoki kamwe kwenye kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/split-pdf/",
+  "id": "/sw/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

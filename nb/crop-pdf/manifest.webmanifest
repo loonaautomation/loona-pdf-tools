@@ -2,7 +2,7 @@
   "name": "Loona Beskjær PDF på nett gratis",
   "short_name": "Beskjær PDF på nett gratis",
   "description": "Beskjær PDF-sider gratis på nett: trim hvite marger eller kutt kanter med punkter eller prosent på hver side eller ett område. Sidens beskjæringsboks settes nøyaktig i nettleseren din - ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/crop-pdf/",
+  "id": "/nb/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

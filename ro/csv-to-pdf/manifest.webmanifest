@@ -2,7 +2,7 @@
   "name": "Loona Convertor CSV în PDF online gratuit",
   "short_name": "Convertor CSV în PDF online gratuit",
   "description": "Convertește date CSV într-un tabel PDF curat și paginat online, gratuit în browserul tău. Rând de antet aldin care se repetă, coloane potrivite. Fără încărcare.",
-  "id": "/loona-pdf-tools/ro/csv-to-pdf/",
+  "id": "/ro/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

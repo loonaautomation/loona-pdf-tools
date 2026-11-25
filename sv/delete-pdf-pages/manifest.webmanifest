@@ -2,7 +2,7 @@
   "name": "Loona Ta bort PDF-sidor online gratis",
   "short_name": "Ta bort PDF-sidor online gratis",
   "description": "Ta bort sidor från en PDF gratis online. Skriv sidnumren som ska tas bort - som 2, 4-6 - och ladda ner den rensade filen. Ingen registrering; allt stannar i din webbläsare.",
-  "id": "/loona-pdf-tools/sv/delete-pdf-pages/",
+  "id": "/sv/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

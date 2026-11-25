@@ -2,7 +2,7 @@
   "name": "Loona דחיסת PDF לגודל מסוים – 20 KB עד 16 MB",
   "short_name": "דחיסת PDF לגודל מסוים – 20 KB עד 16 MB",
   "description": "דחסו PDF ליעד מדויק: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — ועוד הגדרות קבועות לדוא",
-  "id": "/loona-pdf-tools/he/compress-pdf-to-size/",
+  "id": "/he/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

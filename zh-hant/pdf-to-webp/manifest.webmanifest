@@ -2,7 +2,7 @@
   "name": "Loona PDF 轉 WebP 線上免費",
   "short_name": "PDF 轉 WebP 線上免費",
   "description": "線上免費將 PDF 頁面轉換為 WebP 圖片：比 JPG 和 PNG 更小，適合網站，在您的瀏覽器中以您選擇的解析度渲染。不上傳，無需註冊。",
-  "id": "/loona-pdf-tools/zh-hant/pdf-to-webp/",
+  "id": "/zh-hant/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

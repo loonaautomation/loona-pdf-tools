@@ -2,7 +2,7 @@
   "name": "Loona Kopf- und Fußzeile zu PDF hinzufügen",
   "short_name": "Kopf- und Fußzeile zu PDF",
   "description": "Kopf- und Fußzeile kostenlos online zu jeder PDF-Seite hinzufügen: eigener Text, Seitenzahlen in Formaten wie Seite X von Y, Ausrichtung und Schriftgröße - alles in Ihrem Browser, nichts hochgeladen.",
-  "id": "/loona-pdf-tools/de/add-header-footer-to-pdf/",
+  "id": "/de/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

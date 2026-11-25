@@ -2,7 +2,7 @@
   "name": "Loona محوّل PDF إلى Excel",
   "short_name": "محوّل PDF إلى Excel",
   "description": "حوّل جداول PDF إلى جداول بيانات Excel (.xlsx) مجانًا في متصفحك. عاين كل خلية وأصلحها قبل التنزيل. دون رفع ودون تسجيل — لا يغادر ملفك جهازك أبدًا.",
-  "id": "/loona-pdf-tools/ar/pdf-to-excel/",
+  "id": "/ar/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

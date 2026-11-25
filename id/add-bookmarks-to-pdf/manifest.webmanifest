@@ -2,7 +2,7 @@
   "name": "Loona Tambah Bookmark ke PDF online gratis",
   "short_name": "Tambah Bookmark ke PDF online gratis",
   "description": "Tambahkan bookmark (kerangka yang dapat diklik) ke PDF gratis secara online: daftarkan judul bab beserta nomor halamannya dan unduh PDF dengan kerangka navigasi yang sesungguhnya. Di browser, tanpa ada yang diunggah.",
-  "id": "/loona-pdf-tools/id/add-bookmarks-to-pdf/",
+  "id": "/id/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

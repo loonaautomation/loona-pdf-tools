@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Word .docx دستاویز کو صاف، پڑھنے کے قابل PDF میں آن لائن تبدیل کریں، اپنے براؤزر میں مفت۔ عنوانات، فہرستیں، جداول اور تصاویر ساتھ منتقل ہوتی ہیں۔ آپ کی فائل کبھی اپ لوڈ نہیں ہوتی — تبدیلی مکمل طور پر آپ کی ڈیوائس پر ہوتی ہے۔",
-  "id": "/loona-pdf-tools/ur/word-to-pdf/",
+  "id": "/ur/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

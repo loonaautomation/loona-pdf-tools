@@ -2,7 +2,7 @@
   "name": "Loona Spoji PDF besplatno na mreži",
   "short_name": "Spoji PDF besplatno na mreži",
   "description": "Spojite PDF datoteke u jedan dokument besplatno na mreži. Spojite više PDF-ova, povucite ih za promjenu redoslijeda, bez potrebne registracije. Datoteke se obrađuju privatno u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/merge-pdf/",
+  "id": "/hr/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

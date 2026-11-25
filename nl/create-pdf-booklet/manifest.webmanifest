@@ -2,7 +2,7 @@
   "name": "Loona PDF-boekje maken online gratis",
   "short_name": "PDF-boekje maken online gratis",
   "description": "Maak gratis online een printbare boekjes-PDF: pagina's worden in echte boekjesvolgorde op liggende vellen gelegd - print dubbelzijdig, vouw, niet. Lege pagina's vullen automatisch aan tot een veelvoud van vier.",
-  "id": "/loona-pdf-tools/nl/create-pdf-booklet/",
+  "id": "/nl/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

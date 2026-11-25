@@ -2,7 +2,7 @@
   "name": "Loona PDF से चित्र निकालें ऑनलाइन मुफ़्त",
   "short_name": "PDF से चित्र निकालें ऑनलाइन मुफ़्त",
   "description": "PDF में एम्बेड किए गए मूल चित्र मुफ़्त ऑनलाइन निकालें: फ़ोटो और ग्राफ़िक्स उनके संग्रहीत रिज़ॉल्यूशन पर PNG फ़ाइलों के रूप में निकाले जाते हैं - स्क्रीनशॉट नहीं। 100% आपके ब्राउज़र में, कुछ भी अपलोड नहीं।",
-  "id": "/loona-pdf-tools/hi/extract-images-from-pdf/",
+  "id": "/hi/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDFを分割 オンライン無料",
   "short_name": "PDFを分割 オンライン無料",
   "description": "PDFを個別のファイルに無料でオンライン分割。すべてのページを独自のPDFとして抽出するか、ページ範囲で分割できます。登録不要で、ファイルがブラウザの外に出ることは決してありません。",
-  "id": "/loona-pdf-tools/ja/split-pdf/",
+  "id": "/ja/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

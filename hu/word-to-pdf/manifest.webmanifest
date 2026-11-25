@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Alakítson át egy Word .docx dokumentumot tiszta, olvasható PDF-fé online, ingyen a böngészőjében. A címsorok, listák, táblázatok és képek átkerülnek. A fájlja soha nem töltődik fel — az átalakítás teljes egészében az eszközén történik.",
-  "id": "/loona-pdf-tools/hu/word-to-pdf/",
+  "id": "/hu/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

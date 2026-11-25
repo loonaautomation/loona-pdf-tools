@@ -2,7 +2,7 @@
   "name": "Loona Tilføj tom side til PDF online gratis",
   "short_name": "Tilføj tom side til PDF online gratis",
   "description": "Indsæt gratis tomme sider i en PDF online: i begyndelsen, til sidst eller efter enhver side, matchende dokumentets sidestørrelse, A4 eller Letter. Øjeblikkeligt, i din browser, intet uploades.",
-  "id": "/loona-pdf-tools/da/add-blank-page-to-pdf/",
+  "id": "/da/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

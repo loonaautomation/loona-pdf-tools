@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi PDF trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi PDF trực tuyến miễn phí",
   "description": "Mọi công cụ chuyển đổi PDF ở một nơi: hình ảnh, CSV, JSON, HTML và Markdown sang PDF — và PDF trở lại thành hình ảnh, văn bản, HTML và Markdown. Miễn phí, trong trình duyệt của bạn.",
-  "id": "/loona-pdf-tools/vi/pdf-converters/",
+  "id": "/vi/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

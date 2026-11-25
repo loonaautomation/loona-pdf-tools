@@ -2,7 +2,7 @@
   "name": "Loona GIF till PDF-konverterare online gratis",
   "short_name": "GIF till PDF-konverterare online gratis",
   "description": "Konvertera GIF-bilder till en PDF online, gratis, i din webbläsare. En bild per sida, anpassa-till-bild- eller A4/Letter-sidor. Ingen uppladdning, ingen registrering.",
-  "id": "/loona-pdf-tools/sv/gif-to-pdf/",
+  "id": "/sv/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

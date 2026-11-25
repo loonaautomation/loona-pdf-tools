@@ -2,7 +2,7 @@
   "name": "Loona HTML naar PDF-converter online gratis",
   "short_name": "HTML naar PDF-converter online gratis",
   "description": "Converteer HTML online naar PDF, gratis, met de eigen print-naar-PDF-engine van je browser — volledige CSS-ondersteuning, geen upload, geen watermerken.",
-  "id": "/loona-pdf-tools/nl/html-to-pdf/",
+  "id": "/nl/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

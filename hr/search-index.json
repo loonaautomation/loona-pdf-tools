@@ -1,7 +1,7 @@
 [
  {
   "n": "Spoji PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/merge-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/merge-pdf/",
   "s": "Loona PDF Tools",
   "d": "Spojite nekoliko PDF datoteka u jedan dokument, redoslijedom koji odaberete.",
   "k": "merge pdf merge pdf combine join multiple files into one together spojite nekoliko pdf datoteka u jedan dokument redoslijedom koji odaberete",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Razdvoji PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/split-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/split-pdf/",
   "s": "Loona PDF Tools",
   "d": "Razdvojite PDF na pojedinačne stranice ili prilagođene raspone stranica.",
   "k": "split pdf split pdf separate divide cutter ranges extract pages razdvojite pdf na pojedinacne stranice ili prilagođene raspone stranica",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Sažmi PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/compress-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/compress-pdf/",
   "s": "Loona PDF Tools",
   "d": "Smanjite PDF za e-poštu, WhatsApp ili ograničenja prijenosa - dva poštena načina.",
   "k": "compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload smanjite pdf za e postu whatsapp ili ogranicenja prijenosa dva postena nacina",
@@ -28,7 +28,7 @@
  },
  {
   "n": "JPG u PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/jpg-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/jpg-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Pretvorite JPG fotografije i skenove u jedan uredan PDF - A4, Letter ili stranice prilagođene slici.",
   "k": "jpg to pdf jpg to pdf jpeg photo image picture scan convert pretvorite jpg fotografije i skenove u jedan uredan pdf a4 letter ili stranice prilagođene slici",
@@ -37,7 +37,7 @@
  },
  {
   "n": "PDF u JPG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-to-jpg/",
+  "u": "https://pdf.loonaautomation.com/hr/pdf-to-jpg/",
   "s": "Loona PDF Tools",
   "d": "Pretvorite svaku stranicu PDF-a u visokokvalitetnu JPG sliku koju možete dijeliti bilo gdje.",
   "k": "pdf to jpg pdf to jpg jpeg image picture convert pages extract pretvorite svaku stranicu pdf a u visokokvalitetnu jpg sliku koju mozete dijeliti bilo gdje",
@@ -46,7 +46,7 @@
  },
  {
   "n": "PNG u PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/png-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/png-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Spojite PNG snimke zaslona i grafike u jedan čisti PDF dokument.",
   "k": "png to pdf png to pdf image picture screenshot convert photo spojite png snimke zaslona i grafike u jedan cisti pdf dokument",
@@ -55,7 +55,7 @@
  },
  {
   "n": "PDF u PNG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-to-png/",
+  "u": "https://pdf.loonaautomation.com/hr/pdf-to-png/",
   "s": "Loona PDF Tools",
   "d": "Pretvorite stranice PDF-a u oštre PNG slike — uz doista očuvanu prozirnost.",
   "k": "pdf to png pdf to png image transparent convert picture pretvorite stranice pdf a u ostre png slike uz doista ocuvanu prozirnost",
@@ -64,7 +64,7 @@
  },
  {
   "n": "PDF u tekst",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-to-text/",
+  "u": "https://pdf.loonaautomation.com/hr/pdf-to-text/",
   "s": "Loona PDF Tools",
   "d": "Izvucite sav čitljiv tekst iz PDF-a kako biste ga mogli kopirati, uređivati i ponovno koristiti.",
   "k": "pdf to text pdf to text extract txt words copy plain text file izvucite sav citljiv tekst iz pdf a kako biste ga mogli kopirati uređivati i ponovno koristiti",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Tekst u PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/text-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/text-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Upišite ili zalijepite tekst i preuzmite ga kao uredan PDF dokument za ispis.",
   "k": "text to pdf text to pdf txt write type document make create upisite ili zalijepite tekst i preuzmite ga kao uredan pdf dokument za ispis",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Excel u PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/excel-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/excel-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Pretvorite .xlsx, .xls i CSV proračunske tablice u čiste PDF tablice - svaki list, bez prijenosa.",
   "k": "excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert pretvorite xlsx xls i csv proracunske tablice u ciste pdf tablice svaki list bez prijenosa",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Zakreni PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/rotate-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/rotate-pdf/",
   "s": "Loona PDF Tools",
   "d": "Trajno popravite stranice PDF-a okrenute bočno ili naopako, u vašem pregledniku.",
   "k": "rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees trajno popravite stranice pdf a okrenute bocno ili naopako u vasem pregledniku",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Izbriši stranice PDF-a",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/delete-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/hr/delete-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Uklonite prazne, duplicirane ili neželjene stranice i zadržite vitkiji dokument.",
   "k": "delete pdf pages delete pdf pages remove unwanted blank duplicate pages uklonite prazne duplicirane ili nezeljene stranice i zadrzite vitkiji dokument",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Izdvoji stranice PDF-a",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/extract-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/hr/extract-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Zadržite samo stranice koje vam trebaju - poput stranice 3 i 5-8 - kao potpuno novi PDF.",
   "k": "extract pdf pages extract pdf pages keep select pages range new document pull zadrzite samo stranice koje vam trebaju poput stranice 3 i 5 8 kao potpuno novi pdf",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Organiziraj PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/organize-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/organize-pdf/",
   "s": "Loona PDF Tools",
   "d": "Pogledajte svaku stranicu kao minijaturu - vucite za promjenu redoslijeda, zakrenite stranice postavljene bočno, izbrišite stranice koje vam ne trebaju.",
   "k": "organize pdf organize pdf reorder rearrange sort thumbnails drag move pages pogledajte svaku stranicu kao minijaturu vucite za promjenu redoslijeda zakrenite stranice postavljene bocno izbrisite stranice koje vam ne trebaju",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Izrađivač certifikata",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/certificate-maker/",
+  "u": "https://pdf.loonaautomation.com/hr/certificate-maker/",
   "s": "Loona PDF Tools",
   "d": "Oblikujte certifikate za ispis na pretpregledu uživo — jedan po jedan ili stotine skupno s popisa imena.",
   "k": "certificate maker certificate maker award diploma design bulk names printable oblikujte certifikate za ispis na pretpregledu uzivo jedan po jedan ili stotine skupno s popisa imena",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Dodaj brojeve stranica",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/add-page-numbers-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/add-page-numbers-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Pečatirajte brojeve stranica u svom stilu i položaju na svakoj stranici PDF-a.",
   "k": "add page numbers add page numbers to pdf numbering stamp folio pagination pages pecatirajte brojeve stranica u svom stilu i polozaju na svakoj stranici pdf a",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Dodaj vodeni žig",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/add-watermark-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/add-watermark-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Pečatirajte tekst poput POVJERLJIVO ili naziva vaše škole preko svake stranice.",
   "k": "add watermark add watermark to pdf stamp confidential overlay text brand pages pecatirajte tekst poput povjerljivo ili naziva vase skole preko svake stranice",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Potpiši PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/sign-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/sign-pdf/",
   "s": "Loona PDF Tools",
   "d": "Nacrtajte ili prenesite svoj potpis i postavite ga točno na mjesto kojem pripada.",
   "k": "sign pdf sign pdf signature draw sign document electronic signature nacrtajte ili prenesite svoj potpis i postavite ga tocno na mjesto kojem pripada",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Uredi podatke PDF-a",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/edit-pdf-info/",
+  "u": "https://pdf.loonaautomation.com/hr/edit-pdf-info/",
   "s": "Loona PDF Tools",
   "d": "Pogledajte i promijenite skriveni naslov, autora, predmet i ključne riječi PDF-a.",
   "k": "edit pdf info edit pdf info metadata title author subject keywords properties info pogledajte i promijenite skriveni naslov autora predmet i kljucne rijeci pdf a",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Ispuni PDF obrazac",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/fill-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/hr/fill-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Otvorite PDF obrazac za ispunjavanje, upišite u njegova polja i preuzmite dovršenu kopiju - uređivu ili izravnanu.",
   "k": "fill pdf form fill pdf form form fields fillable complete fill type otvorite pdf obrazac za ispunjavanje upisite u njegova polja i preuzmite dovrsenu kopiju uređivu ili izravnanu",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Usporedi PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/compare-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/compare-pdf/",
   "s": "Loona PDF Tools",
   "d": "Pogledajte točno koji se tekst promijenio između dviju verzija PDF-a, stranicu po stranicu, s istaknutim razlikama.",
   "k": "compare pdf compare pdf diff differences two versions side by side changes pogledajte tocno koji se tekst promijenio između dviju verzija pdf a stranicu po stranicu s istaknutim razlikama",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Generator potpisa",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/signature-generator/",
+  "u": "https://pdf.loonaautomation.com/hr/signature-generator/",
   "s": "Loona PDF Tools",
   "d": "Izradite prozirni PNG svog potpisa — crtanjem, upisivanjem ili uklanjanjem bijele pozadine fotografije.",
   "k": "signature generator signature generator draw signature create sign name handwritten izradite prozirni png svog potpisa crtanjem upisivanjem ili uklanjanjem bijele pozadine fotografije",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Zatamni PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/redact-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/redact-pdf/",
   "s": "Loona PDF Tools",
   "d": "Trajno zatamnite osjetljiva područja - ugrađeno u sliku stranice, nikad samo pokriveno.",
   "k": "redact pdf redact pdf black out hide sensitive permanent remove text censor trajno zatamnite osjetljiva podrucja ugrađeno u sliku stranice nikad samo pokriveno",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Izradi obrazac PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/create-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/hr/create-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Dodajte prava tekstualna polja koja se mogu ispuniti i potvrdne okvire u bilo koji ravni PDF.",
   "k": "create pdf form create pdf form fillable form fields maker creator build dodajte prava tekstualna polja koja se mogu ispuniti i potvrdne okvire u bilo koji ravni pdf",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Izravnaj PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/flatten-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/flatten-pdf/",
   "s": "Loona PDF Tools",
   "d": "Upišite odgovore iz obrasca u stranice tako da se više ne mogu uređivati ili ponovno izgradite stranice kao slike.",
   "k": "flatten pdf flatten pdf flatten form annotations layers lock upisite odgovore iz obrasca u stranice tako da se vise ne mogu uređivati ili ponovno izgradite stranice kao slike",
@@ -226,7 +226,7 @@
  },
  {
   "n": "PDF u sivu skalu",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-to-grayscale/",
+  "u": "https://pdf.loonaautomation.com/hr/pdf-to-grayscale/",
   "s": "Loona PDF Tools",
   "d": "Pretvorite svaku stranicu u nijanse sive za jeftiniji ispis i čist jednobojni izgled.",
   "k": "pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert pretvorite svaku stranicu u nijanse sive za jeftiniji ispis i cist jednobojni izgled",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Dodaj zaglavlje i podnožje",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/add-header-footer-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/add-header-footer-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Pečatirajte tekst zaglavlja i podnožja na svakoj stranici, s ugrađenim brojevima Stranica X od Y.",
   "k": "add header footer add header footer to pdf header footer stamp text top bottom pages pecatirajte tekst zaglavlja i podnozja na svakoj stranici s ugrađenim brojevima stranica x od y",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Popravi PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/repair-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/repair-pdf/",
   "s": "Loona PDF Tools",
   "d": "Popravite strukturna oštećenja - pokvarene indekse i zaostali otpad - i spremite čistu kopiju.",
   "k": "repair pdf repair pdf fix corrupted damaged broken recover restore popravite strukturna ostecenja pokvarene indekse i zaostali otpad i spremite cistu kopiju",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Obreži PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/crop-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/crop-pdf/",
   "s": "Loona PDF Tools",
   "d": "Obrežite bijele margine ili režite rubove stranica točkama, postotkom ili milimetrima.",
   "k": "crop pdf crop pdf trim margins cut white borders pages obrezite bijele margine ili rezite rubove stranica tockama postotkom ili milimetrima",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Promijeni veličinu stranica PDF-a",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/resize-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/hr/resize-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Promijenite svaku stranicu na A4, Letter ili Legal, prilagođavajući sadržaj da stane.",
   "k": "resize pdf pages resize pdf pages page size a4 letter dimensions resize change promijenite svaku stranicu na a4 letter ili legal prilagođavajuci sadrzaj da stane",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Obrni stranice PDF-a",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/reverse-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/hr/reverse-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Okrenite PDF obrnutog redoslijeda tako da posljednja stranica postane prva.",
   "k": "reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front okrenite pdf obrnutog redoslijeda tako da posljednja stranica postane prva",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Ukloni napomene PDF-a",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/remove-pdf-annotations/",
+  "u": "https://pdf.loonaautomation.com/hr/remove-pdf-annotations/",
   "s": "Loona PDF Tools",
   "d": "Uklonite komentare, isticanja, ljepljive bilješke i pečate, a sadržaj stranice ostaje netaknut.",
   "k": "remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations uklonite komentare isticanja ljepljive biljeske i pecate a sadrzaj stranice ostaje netaknut",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Veličine stranica PDF-a i podaci",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-page-sizes/",
+  "u": "https://pdf.loonaautomation.com/hr/pdf-page-sizes/",
   "s": "Loona PDF Tools",
   "d": "Pogledajte točnu veličinu svake stranice u točkama, milimetrima i inčima, plus podatke o dokumentu.",
   "k": "pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure pogledajte tocnu velicinu svake stranice u tockama milimetrima i incima plus podatke o dokumentu",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Dodaj oznake u PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/add-bookmarks-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/add-bookmarks-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Dugom PDF-u dodajte obris poglavlja i odjeljaka na koji se može kliknuti.",
   "k": "add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation dugom pdf u dodajte obris poglavlja i odjeljaka na koji se moze kliknuti",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Izdvoji slike iz PDF-a",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/extract-images-from-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/extract-images-from-pdf/",
   "s": "Loona PDF Tools",
   "d": "Izvucite izvorne ugrađene fotografije i grafike iz PDF-a kao PNG datoteke.",
   "k": "extract images from pdf extract images from pdf get pictures photos images out extract save izvucite izvorne ugrađene fotografije i grafike iz pdf a kao png datoteke",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Dodaj praznu stranicu u PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/add-blank-page-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/add-blank-page-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Umetnite prazne stranice na početak, kraj ili nakon bilo koje stranice, veličine prilagođene dokumentu.",
   "k": "add blank page to pdf add blank page to pdf insert blank empty page add new umetnite prazne stranice na pocetak kraj ili nakon bilo koje stranice velicine prilagođene dokumentu",
@@ -325,7 +325,7 @@
  },
  {
   "n": "PDF u WebP",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-to-webp/",
+  "u": "https://pdf.loonaautomation.com/hr/pdf-to-webp/",
   "s": "Loona PDF Tools",
   "d": "Pretvorite stranice PDF-a u WebP slike — manje od JPG-a za web stranice, pri kvaliteti koju odaberete.",
   "k": "pdf to webp pdf to webp webp image convert picture pretvorite stranice pdf a u webp slike manje od jpg a za web stranice pri kvaliteti koju odaberete",
@@ -334,7 +334,7 @@
  },
  {
   "n": "PDF s više stranica po listu",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/n-up-pdf/",
+  "u": "https://pdf.loonaautomation.com/hr/n-up-pdf/",
   "s": "Loona PDF Tools",
   "d": "Stavite 2, 4, 6 ili 9 stranica na jedan list redoslijedom čitanja i uštedite papir na materijalima za dijeljenje.",
   "k": "n up pdf n up pdf n-up multiple pages per sheet impose tiles print stavite 2 4 6 ili 9 stranica na jedan list redoslijedom citanja i ustedite papir na materijalima za dijeljenje",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Izradi knjižicu PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/create-pdf-booklet/",
+  "u": "https://pdf.loonaautomation.com/hr/create-pdf-booklet/",
   "s": "Loona PDF Tools",
   "d": "Postavite stranice u pravi redoslijed knjižice - ispišite obostrano, presavijte, spojite klamericom.",
   "k": "create pdf booklet create pdf booklet booklet book fold impose print saddle stitch postavite stranice u pravi redoslijed knjizice ispisite obostrano presavijte spojite klamericom",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Ukloni prazne stranice",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/remove-blank-pages/",
+  "u": "https://pdf.loonaautomation.com/hr/remove-blank-pages/",
   "s": "Loona PDF Tools",
   "d": "Otkrivajte gotovo prazne stranice analizom piksela i uklanjajte ih, uz iskrenu pokrivenost po stranicama.",
   "k": "remove blank pages remove blank pages delete empty blank pages clean remove automatically otkrivajte gotovo prazne stranice analizom piksela i uklanjajte ih uz iskrenu pokrivenost po stranicama",
@@ -361,11 +361,11 @@
  },
  {
   "n": "PDF u Excel",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-to-excel/",
+  "u": "https://pdf.loonaautomation.com/hr/pdf-to-excel/",
   "s": "Loona PDF Tools",
   "d": "Izdvojite PDF tablice u Excel (.xlsx) proračunske tablice koje možete uređivati - pregledajte i ispravite svaku ćeliju, bez prijenosa.",
   "k": "pdf u excel pdf to excel converter xlsx izdvojite pdf tablice u excel (.xlsx) proračunske tablice koje možete uređivati   pregledajte i ispravite svaku ćeliju, bez prijenosa. pdf to excel pretvarač pdf u excel",
   "p": 110,
   "c": "Tool"
  }
-,{"n":"Word to PDF","u":"https://loonaautomation.github.io/loona-pdf-tools/hr/word-to-pdf/","s":"Loona PDF Tools","d":"Pretvorite Word .docx dokumente u čiste, čitljive PDF-ove - naslovi, popisi, tablice i slike sačuvani, bez prijenosa.","k":"word to pdf word to pdf docx doc word document microsoft convert pretvorite word docx dokumente u ciste citljive pdf ove naslovi popisi tablice i slike sacuvani bez prijenosa","p":140,"c":"Tool"},{"n":"Loona PDF Editor","u":"https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-editor/","s":"Loona PDF Tools","d":"Uredite PDF na mreži: dodajte tekst, slike, oblike i potpise, prekrijte pogreške izbjeljivačem i preuzmite gotovu datoteku.","k":"pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Uredite PDF na mreži: dodajte tekst, slike, oblike i potpise, prekrijte pogreške izbjeljivačem i preuzmite gotovu datoteku.","p":141,"c":"Tool"},{"n": "PDF u Word", "u": "https://loonaautomation.github.io/loona-pdf-tools/hr/pdf-to-word/", "s": "Loona PDF Tools", "d": "Pretvorite tekstualni PDF u Word dokument (.docx) koji se može uređivati - naslovi, popisi i jednostavne tablice, bez prijenosa.", "k": "pdf to word pdf to word docx word document convert pretvorite tekstualni pdf u word dokument docx koji se može uređivati naslovi popisi i jednostavne tablice bez prijenosa", "p": 142, "c": "Tool"}]
+,{"n":"Word to PDF","u":"https://pdf.loonaautomation.com/hr/word-to-pdf/","s":"Loona PDF Tools","d":"Pretvorite Word .docx dokumente u čiste, čitljive PDF-ove - naslovi, popisi, tablice i slike sačuvani, bez prijenosa.","k":"word to pdf word to pdf docx doc word document microsoft convert pretvorite word docx dokumente u ciste citljive pdf ove naslovi popisi tablice i slike sacuvani bez prijenosa","p":140,"c":"Tool"},{"n":"Loona PDF Editor","u":"https://pdf.loonaautomation.com/hr/pdf-editor/","s":"Loona PDF Tools","d":"Uredite PDF na mreži: dodajte tekst, slike, oblike i potpise, prekrijte pogreške izbjeljivačem i preuzmite gotovu datoteku.","k":"pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Uredite PDF na mreži: dodajte tekst, slike, oblike i potpise, prekrijte pogreške izbjeljivačem i preuzmite gotovu datoteku.","p":141,"c":"Tool"},{"n": "PDF u Word", "u": "https://pdf.loonaautomation.com/hr/pdf-to-word/", "s": "Loona PDF Tools", "d": "Pretvorite tekstualni PDF u Word dokument (.docx) koji se može uređivati - naslovi, popisi i jednostavne tablice, bez prijenosa.", "k": "pdf to word pdf to word docx word document convert pretvorite tekstualni pdf u word dokument docx koji se može uređivati naslovi popisi i jednostavne tablice bez prijenosa", "p": 142, "c": "Tool"}]

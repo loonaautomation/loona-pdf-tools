@@ -2,7 +2,7 @@
   "name": "Loona 編輯 PDF 資訊 線上免費",
   "short_name": "編輯 PDF 資訊 線上免費",
   "description": "線上免費檢視和編輯 PDF 後設資料——標題、作者、主題和關鍵詞——並檢視頁數和檔案大小。無需註冊；後設資料編輯在瀏覽器中執行。",
-  "id": "/loona-pdf-tools/zh-hant/edit-pdf-info/",
+  "id": "/zh-hant/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

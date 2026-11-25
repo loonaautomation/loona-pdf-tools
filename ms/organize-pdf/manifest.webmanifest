@@ -2,7 +2,7 @@
   "name": "Loona Susun PDF dalam talian percuma",
   "short_name": "Susun PDF dalam talian percuma",
   "description": "Susun halaman PDF percuma dalam talian: seret lakaran kecil untuk menyusun semula halaman, putar halaman yang menyenget dan padam halaman yang tidak anda perlukan. Tiada pendaftaran. Fail diproses secara peribadi dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/organize-pdf/",
+  "id": "/ms/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

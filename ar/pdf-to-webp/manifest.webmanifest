@@ -2,7 +2,7 @@
   "name": "Loona تحويل PDF إلى WebP عبر الإنترنت مجانًا",
   "short_name": "تحويل PDF إلى WebP عبر الإنترنت مجانًا",
   "description": "حوّل صفحات PDF إلى صور WebP مجانًا عبر الإنترنت: أصغر من JPG وPNG للمواقع الإلكترونية، تُعرض بالدقة التي تختارها في متصفحك. دون رفع أي شيء، دون تسجيل.",
-  "id": "/loona-pdf-tools/ar/pdf-to-webp/",
+  "id": "/ar/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF u HTML besplatno na mreži",
   "short_name": "PDF u HTML besplatno na mreži",
   "description": "Pretvorite PDF u HTML na mreži, besplatno u svom pregledniku. Tekst se izdvaja uz strukturu naslova otkrivenu iz veličina fonta. Bez prijenosa, bez prijave.",
-  "id": "/loona-pdf-tools/hr/pdf-to-html/",
+  "id": "/hr/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

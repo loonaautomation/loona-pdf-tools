@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/pdf-to-grayscale/",
+  "id": "/en-gb/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

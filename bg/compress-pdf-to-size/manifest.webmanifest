@@ -2,7 +2,7 @@
   "name": "Loona Компресирай PDF до определен размер онлайн безплатно",
   "short_name": "Компресирай PDF до определен размер онлайн безплатно",
   "description": "Компресирайте PDF до точна цел: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — плюс готови настройки за имейл (10 MB) и WhatsApp (16 MB). Безплатно, във вашия браузър.",
-  "id": "/loona-pdf-tools/bg/compress-pdf-to-size/",
+  "id": "/bg/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

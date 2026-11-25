@@ -2,7 +2,7 @@
   "name": "Loona ממיר AVIF ל-PDF – בחינם, ללא העלאה",
   "short_name": "ממיר AVIF ל-PDF – בחינם, ללא העלאה",
   "description": "המירו תמונות AVIF ל-PDF באינטרנט, בחינם, בדפדפן שלכם. תמונה אחת בכל עמוד, עמודי התאמה לתמונה או A4/Letter. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/avif-to-pdf/",
+  "id": "/he/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

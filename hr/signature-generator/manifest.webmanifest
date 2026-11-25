@@ -2,7 +2,7 @@
   "name": "Loona Generator potpisa besplatno na mreži",
   "short_name": "Generator potpisa besplatno na mreži",
   "description": "Izradite sliku potpisa besplatno na mreži: nacrtajte ga, upišite svoje ime rukopisnim stilom ili fotografiju svog potpisa učinite prozirnom. Preuzmite čisti prozirni PNG — bez prijenosa, bez registracije.",
-  "id": "/loona-pdf-tools/hr/signature-generator/",
+  "id": "/hr/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

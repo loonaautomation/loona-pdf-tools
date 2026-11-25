@@ -2,7 +2,7 @@
   "name": "Loona Redact PDF Online - Free (True Burn-In Redaction)",
   "short_name": "Redact PDF Online - Free (True Burn-In Redaction)",
   "description": "Redact a PDF free online: draw black boxes over names, numbers or photos and burn them in permanently - the hidden content is removed, not just covered. 100% in your browser, nothing uploaded.",
-  "id": "/loona-pdf-tools/en-us/redact-pdf/",
+  "id": "/en-us/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

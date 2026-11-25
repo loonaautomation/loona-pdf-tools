@@ -2,7 +2,7 @@
   "name": "Loona Odstranit anotace PDF online zdarma",
   "short_name": "Odstranit anotace PDF online zdarma",
   "description": "Odstraňte poznámky z PDF zdarma online: komentáře, zvýraznění, lepicí poznámky, razítka a značkování se odstraní, zatímco obsah stránky zůstane nedotčen. V prohlížeči, nic se nenahrává.",
-  "id": "/loona-pdf-tools/cs/remove-pdf-annotations/",
+  "id": "/cs/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

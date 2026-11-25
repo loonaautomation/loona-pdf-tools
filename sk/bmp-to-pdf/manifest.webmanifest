@@ -2,7 +2,7 @@
   "name": "Loona Prevodník BMP do PDF online zadarmo",
   "short_name": "Prevodník BMP do PDF online zadarmo",
   "description": "Preveďte obrázky BMP do PDF online, zadarmo, vo vašom prehliadači. Jeden obrázok na stránku, stránky podľa obrázka alebo A4/Letter. Bez nahrávania, bez registrácie.",
-  "id": "/loona-pdf-tools/sk/bmp-to-pdf/",
+  "id": "/sk/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

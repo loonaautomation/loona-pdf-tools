@@ -2,7 +2,7 @@
   "name": "Loona Prevodník GIF do PDF online zadarmo",
   "short_name": "Prevodník GIF do PDF online zadarmo",
   "description": "Preveďte obrázky GIF do PDF online, zadarmo, vo vašom prehliadači. Jeden obrázok na stránku, stránky podľa obrázka alebo A4/Letter. Bez nahrávania, bez registrácie.",
-  "id": "/loona-pdf-tools/sk/gif-to-pdf/",
+  "id": "/sk/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

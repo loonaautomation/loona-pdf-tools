@@ -2,7 +2,7 @@
   "name": "Loona Teks kepada PDF dalam talian percuma",
   "short_name": "Teks kepada PDF dalam talian percuma",
   "description": "Tukar teks kepada PDF secara percuma dalam talian. Tampal teks anda, pilih saiz fon dan halaman A4 atau Letter, dan muat turun PDF yang bersih. Tanpa pendaftaran - dibuat secara peribadi dalam pelayar.",
-  "id": "/loona-pdf-tools/ms/text-to-pdf/",
+  "id": "/ms/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

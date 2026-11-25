@@ -2,7 +2,7 @@
   "name": "Loona PDF Tools",
   "short_name": "Loona PDF Tools",
   "description": "Ferramentas PDF online gratuitas - juntar, dividir, comprimir, converter, rodar, assinar e editar PDF. 100% grátis, sem registro, e os seus arquivos nunca saem do seu dispositivo.",
-  "id": "/loona-pdf-tools/pt-br/",
+  "id": "/pt-br/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

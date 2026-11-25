@@ -2,7 +2,7 @@
   "name": "Loona PDF simítása online ingyen",
   "short_name": "PDF simítása online ingyen",
   "description": "Simítson egy PDF-et ingyen, online: égesse be a kitölthető űrlapmezőket az oldalakba, hogy a válaszok többé ne legyenek szerkeszthetők, választható teljes képes újraépítéssel, amely mindent simít. Privát módon, a böngészőben, regisztráció nélkül.",
-  "id": "/loona-pdf-tools/hu/flatten-pdf/",
+  "id": "/hu/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

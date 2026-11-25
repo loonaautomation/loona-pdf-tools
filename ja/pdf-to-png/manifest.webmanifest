@@ -2,7 +2,7 @@
   "name": "Loona PDFをPNGに変換 オンライン無料",
   "short_name": "PDFをPNGに変換 オンライン無料",
   "description": "PDFページをPNG画像に無料でオンライン変換。最大3x解像度で、透明度も保持されます。各ページを別々にダウンロードできます。プライベートに、ブラウザ上で。",
-  "id": "/loona-pdf-tools/ja/pdf-to-png/",
+  "id": "/ja/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

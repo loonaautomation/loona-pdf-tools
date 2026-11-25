@@ -2,7 +2,7 @@
   "name": "Loona 署名ジェネレーター オンライン無料",
   "short_name": "署名ジェネレーター オンライン無料",
   "description": "署名画像を無料でオンライン作成：描く、手書き風スタイルで名前を入力する、または署名の写真を透明化します。きれいな透明PNGをダウンロードできます。アップロード不要、登録不要。",
-  "id": "/loona-pdf-tools/ja/signature-generator/",
+  "id": "/ja/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

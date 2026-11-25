@@ -2,7 +2,7 @@
   "name": "Loona WebP'ten PDF'ye Dönüştürücü",
   "short_name": "WebP'ten PDF'ye Dönüştürücü",
   "description": "WebP görüntülerini çevrimiçi, ücretsiz, tarayıcınızda bir PDF'ye dönüştürün. Sayfa başına bir görüntü, görüntüye sığdır veya A4/Letter sayfalar. Yükleme yok, kayıt yok.",
-  "id": "/loona-pdf-tools/tr/webp-to-pdf/",
+  "id": "/tr/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

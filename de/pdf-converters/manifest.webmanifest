@@ -2,7 +2,7 @@
   "name": "Loona PDF-Konverter",
   "short_name": "PDF-Konverter",
   "description": "Jeder PDF-Konverter an einem Ort: Bilder, CSV, JSON, HTML und Markdown in PDF — und PDF zurück in Bilder, Text, HTML und Markdown. Kostenlos, in Ihrem Browser.",
-  "id": "/loona-pdf-tools/de/pdf-converters/",
+  "id": "/de/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

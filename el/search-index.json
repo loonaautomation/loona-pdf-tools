@@ -1,7 +1,7 @@
 [
  {
   "n": "Συγχώνευση PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/merge-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/merge-pdf/",
   "s": "Loona PDF Tools",
   "d": "Συνδυάστε πολλά αρχεία PDF σε ένα έγγραφο, με τη σειρά που επιλέγετε.",
   "k": "merge pdf merge pdf combine join multiple files into one together συνδυαστε πολλα αρχεια pdf σε ενα εγγραφο με τη σειρα που επιλεγετε",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Διαχωρισμός PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/split-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/split-pdf/",
   "s": "Loona PDF Tools",
   "d": "Διαχωρίστε ένα PDF σε μεμονωμένες σελίδες ή προσαρμοσμένα εύρη σελίδων.",
   "k": "split pdf split pdf separate divide cutter ranges extract pages διαχωριστε ενα pdf σε μεμονωμενες σελιδες η προσαρμοσμενα ευρη σελιδων",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Συμπίεση PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/compress-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/compress-pdf/",
   "s": "Loona PDF Tools",
   "d": "Κάντε ένα PDF μικρότερο για email, WhatsApp ή όρια μεταφόρτωσης - δύο ειλικρινείς λειτουργίες.",
   "k": "compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload καντε ενα pdf μικροτερο για email whatsapp η ορια μεταφορτωσης δυο ειλικρινεις λειτουργιες",
@@ -28,7 +28,7 @@
  },
  {
   "n": "JPG σε PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/jpg-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/jpg-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Μετατρέψτε φωτογραφίες και σαρώσεις JPG σε ένα τακτοποιημένο PDF - σελίδες A4, Letter ή προσαρμογής-στην-εικόνα.",
   "k": "jpg to pdf jpg to pdf jpeg photo image picture scan convert μετατρεψτε φωτογραφιες και σαρωσεις jpg σε ενα τακτοποιημενο pdf σελιδες a4 letter η προσαρμογης στην εικονα",
@@ -37,7 +37,7 @@
  },
  {
   "n": "PDF σε JPG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/pdf-to-jpg/",
+  "u": "https://pdf.loonaautomation.com/el/pdf-to-jpg/",
   "s": "Loona PDF Tools",
   "d": "Μετατρέψτε κάθε σελίδα PDF σε μια εικόνα JPG υψηλής ποιότητας που μπορείτε να μοιραστείτε οπουδήποτε.",
   "k": "pdf to jpg pdf to jpg jpeg image picture convert pages extract μετατρεψτε καθε σελιδα pdf σε μια εικονα jpg υψηλης ποιοτητας που μπορειτε να μοιραστειτε οπουδηποτε",
@@ -46,7 +46,7 @@
  },
  {
   "n": "PNG σε PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/png-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/png-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Συνδυάστε στιγμιότυπα PNG και γραφικά σε ένα μόνο καθαρό έγγραφο PDF.",
   "k": "png to pdf png to pdf image picture screenshot convert photo συνδυαστε στιγμιοτυπα png και γραφικα σε ενα μονο καθαρο εγγραφο pdf",
@@ -55,7 +55,7 @@
  },
  {
   "n": "PDF σε PNG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/pdf-to-png/",
+  "u": "https://pdf.loonaautomation.com/el/pdf-to-png/",
   "s": "Loona PDF Tools",
   "d": "Μετατρέψτε σελίδες PDF σε ευκρινείς εικόνες PNG - με διατήρηση της πραγματικής διαφάνειας.",
   "k": "pdf to png pdf to png image transparent convert picture μετατρεψτε σελιδες pdf σε ευκρινεις εικονες png με διατηρηση της πραγματικης διαφανειας",
@@ -64,7 +64,7 @@
  },
  {
   "n": "PDF σε Κείμενο",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/pdf-to-text/",
+  "u": "https://pdf.loonaautomation.com/el/pdf-to-text/",
   "s": "Loona PDF Tools",
   "d": "Τραβήξτε όλο το αναγνώσιμο κείμενο από ένα PDF ώστε να μπορείτε να το αντιγράψετε, να το επεξεργαστείτε και να το επαναχρησιμοποιήσετε.",
   "k": "pdf to text pdf to text extract txt words copy plain text file τραβηξτε ολο το αναγνωσιμο κειμενο απο ενα pdf ωστε να μπορειτε να το αντιγραψετε να το επεξεργαστειτε και να το επαναχρησιμοποιησετε",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Κείμενο σε PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/text-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/text-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Πληκτρολογήστε ή επικολλήστε κείμενο και κατεβάστε το ως ένα τακτοποιημένο, εκτυπώσιμο έγγραφο PDF.",
   "k": "text to pdf text to pdf txt write type document make create πληκτρολογηστε η επικολληστε κειμενο και κατεβαστε το ως ενα τακτοποιημενο εκτυπωσιμο εγγραφο pdf",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Excel σε PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/excel-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/excel-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Μετατρέψτε υπολογιστικά φύλλα .xlsx, .xls και CSV σε καθαρούς πίνακες PDF - κάθε φύλλο, χωρίς μεταφόρτωση.",
   "k": "excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert μετατρεψτε υπολογιστικα φυλλα xlsx xls και csv σε καθαρους πινακες pdf καθε φυλλο χωρις μεταφορτωση",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Περιστροφή PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/rotate-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/rotate-pdf/",
   "s": "Loona PDF Tools",
   "d": "Διορθώστε πλάγιες ή ανάποδες σελίδες PDF μόνιμα, στο πρόγραμμα περιήγησής σας.",
   "k": "rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees διορθωστε πλαγιες η αναποδες σελιδες pdf μονιμα στο προγραμμα περιηγησης σας",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Διαγραφή Σελίδων PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/delete-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/el/delete-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Αφαιρέστε κενές, διπλές ή ανεπιθύμητες σελίδες και κρατήστε ένα πιο λιτό έγγραφο.",
   "k": "delete pdf pages delete pdf pages remove unwanted blank duplicate pages αφαιρεστε κενες διπλες η ανεπιθυμητες σελιδες και κρατηστε ενα πιο λιτο εγγραφο",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Εξαγωγή Σελίδων PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/extract-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/el/extract-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Κρατήστε μόνο τις σελίδες που χρειάζεστε - όπως τη σελίδα 3 και τις 5-8 - ως ένα ολοκαίνουργιο PDF.",
   "k": "extract pdf pages extract pdf pages keep select pages range new document pull κρατηστε μονο τις σελιδες που χρειαζεστε οπως τη σελιδα 3 και τις 5 8 ως ενα ολοκαινουργιο pdf",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Οργάνωση PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/organize-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/organize-pdf/",
   "s": "Loona PDF Tools",
   "d": "Δείτε κάθε σελίδα ως μικρογραφία - σύρετε για αναδιάταξη, περιστρέψτε πλάγιες σελίδες, διαγράψτε σελίδες που δεν χρειάζεστε.",
   "k": "organize pdf organize pdf reorder rearrange sort thumbnails drag move pages δειτε καθε σελιδα ως μικρογραφια συρετε για αναδιαταξη περιστρεψτε πλαγιες σελιδες διαγραψτε σελιδες που δεν χρειαζεστε",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Δημιουργός Πιστοποιητικών",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/certificate-maker/",
+  "u": "https://pdf.loonaautomation.com/el/certificate-maker/",
   "s": "Loona PDF Tools",
   "d": "Σχεδιάστε εκτυπώσιμα πιστοποιητικά σε ζωντανή προεπισκόπηση - ένα κάθε φορά, ή εκατοντάδες μαζικά από μια λίστα ονομάτων.",
   "k": "certificate maker certificate maker award diploma design bulk names printable σχεδιαστε εκτυπωσιμα πιστοποιητικα σε ζωντανη προεπισκοπηση ενα καθε φορα η εκατονταδες μαζικα απο μια λιστα ονοματων",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Προσθήκη Αριθμών Σελίδας",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/add-page-numbers-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/add-page-numbers-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Σφραγίστε αριθμούς σελίδας στο στυλ και τη θέση σας σε κάθε σελίδα ενός PDF.",
   "k": "add page numbers add page numbers to pdf numbering stamp folio pagination pages σφραγιστε αριθμους σελιδας στο στυλ και τη θεση σας σε καθε σελιδα ενος pdf",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Προσθήκη Υδατογραφήματος",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/add-watermark-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/add-watermark-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Σφραγίστε κείμενο όπως CONFIDENTIAL ή το όνομα του σχολείου σας σε κάθε σελίδα.",
   "k": "add watermark add watermark to pdf stamp confidential overlay text brand pages σφραγιστε κειμενο οπως confidential η το ονομα του σχολειου σας σε καθε σελιδα",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Υπογραφή PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/sign-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/sign-pdf/",
   "s": "Loona PDF Tools",
   "d": "Σχεδιάστε ή μεταφορτώστε την υπογραφή σας και τοποθετήστε την ακριβώς όπου ανήκει.",
   "k": "sign pdf sign pdf signature draw sign document electronic signature σχεδιαστε η μεταφορτωστε την υπογραφη σας και τοποθετηστε την ακριβως οπου ανηκει",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Επεξεργασία Πληροφοριών PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/edit-pdf-info/",
+  "u": "https://pdf.loonaautomation.com/el/edit-pdf-info/",
   "s": "Loona PDF Tools",
   "d": "Δείτε και αλλάξτε τον κρυφό τίτλο, συγγραφέα, θέμα και λέξεις-κλειδιά ενός PDF.",
   "k": "edit pdf info edit pdf info metadata title author subject keywords properties info δειτε και αλλαξτε τον κρυφο τιτλο συγγραφεα θεμα και λεξεις κλειδια ενος pdf",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Συμπλήρωση Φόρμας PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/fill-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/el/fill-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Ανοίξτε μια συμπληρώσιμη φόρμα PDF, πληκτρολογήστε στα πεδία της και κατεβάστε το ολοκληρωμένο αντίγραφο - επεξεργάσιμο, ή ισοπεδωμένο.",
   "k": "fill pdf form fill pdf form form fields fillable complete fill type ανοιξτε μια συμπληρωσιμη φορμα pdf πληκτρολογηστε στα πεδια της και κατεβαστε το ολοκληρωμενο αντιγραφο επεξεργασιμο η ισοπεδωμενο",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Σύγκριση PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/compare-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/compare-pdf/",
   "s": "Loona PDF Tools",
   "d": "Δείτε ακριβώς ποιο κείμενο άλλαξε μεταξύ δύο εκδόσεων ενός PDF, σελίδα προς σελίδα, με τις διαφορές επισημασμένες.",
   "k": "compare pdf compare pdf diff differences two versions side by side changes δειτε ακριβως ποιο κειμενο αλλαξε μεταξυ δυο εκδοσεων ενος pdf σελιδα προς σελιδα με τις διαφορες επισημασμενες",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Γεννήτρια Υπογραφής",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/signature-generator/",
+  "u": "https://pdf.loonaautomation.com/el/signature-generator/",
   "s": "Loona PDF Tools",
   "d": "Δημιουργήστε ένα διαφανές PNG της υπογραφής σας - σχεδιάστε τη, πληκτρολογήστε τη ή αφαιρέστε το λευκό φόντο μιας φωτογραφίας.",
   "k": "signature generator signature generator draw signature create sign name handwritten δημιουργηστε ενα διαφανες png της υπογραφης σας σχεδιαστε τη πληκτρολογηστε τη η αφαιρεστε το λευκο φοντο μιας φωτογραφιας",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Απόκρυψη PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/redact-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/redact-pdf/",
   "s": "Loona PDF Tools",
   "d": "Μαυρίστε μόνιμα ευαίσθητες περιοχές - καμένες μέσα στην εικόνα της σελίδας, ποτέ απλώς καλυμμένες.",
   "k": "redact pdf redact pdf black out hide sensitive permanent remove text censor μαυριστε μονιμα ευαισθητες περιοχες καμενες μεσα στην εικονα της σελιδας ποτε απλως καλυμμενες",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Δημιουργία Φόρμας PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/create-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/el/create-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Προσθέστε πραγματικά συμπληρώσιμα πεδία κειμένου και πλαίσια ελέγχου σε οποιοδήποτε επίπεδο PDF.",
   "k": "create pdf form create pdf form fillable form fields maker creator build προσθεστε πραγματικα συμπληρωσιμα πεδια κειμενου και πλαισια ελεγχου σε οποιοδηποτε επιπεδο pdf",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Ισοπέδωση PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/flatten-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/flatten-pdf/",
   "s": "Loona PDF Tools",
   "d": "Ενσωματώστε τις απαντήσεις φόρμας στις σελίδες ώστε να μην μπορούν πλέον να επεξεργαστούν, ή ανακατασκευάστε τις σελίδες ως εικόνες.",
   "k": "flatten pdf flatten pdf flatten form annotations layers lock ενσωματωστε τις απαντησεις φορμας στις σελιδες ωστε να μην μπορουν πλεον να επεξεργαστουν η ανακατασκευαστε τις σελιδες ως εικονες",
@@ -226,7 +226,7 @@
  },
  {
   "n": "PDF σε Κλίμακα του Γκρι",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/pdf-to-grayscale/",
+  "u": "https://pdf.loonaautomation.com/el/pdf-to-grayscale/",
   "s": "Loona PDF Tools",
   "d": "Μετατρέψτε κάθε σελίδα σε αποχρώσεις του γκρι για φθηνότερη εκτύπωση και καθαρή μονόχρωμη εμφάνιση.",
   "k": "pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert μετατρεψτε καθε σελιδα σε αποχρωσεις του γκρι για φθηνοτερη εκτυπωση και καθαρη μονοχρωμη εμφανιση",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Προσθήκη Κεφαλίδας & Υποσέλιδου",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/add-header-footer-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/add-header-footer-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Σφραγίστε κείμενο κεφαλίδας και υποσέλιδου σε κάθε σελίδα, με αριθμούς Σελίδα X από Y ενσωματωμένους.",
   "k": "add header footer add header footer to pdf header footer stamp text top bottom pages σφραγιστε κειμενο κεφαλιδας και υποσελιδου σε καθε σελιδα με αριθμους σελιδα x απο y ενσωματωμενους",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Επιδιόρθωση PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/repair-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/repair-pdf/",
   "s": "Loona PDF Tools",
   "d": "Διορθώστε δομική ζημιά - κατεστραμμένους δείκτες και σκουπίδια στο τέλος - και αποθηκεύστε ένα καθαρό αντίγραφο.",
   "k": "repair pdf repair pdf fix corrupted damaged broken recover restore διορθωστε δομικη ζημια κατεστραμμενους δεικτες και σκουπιδια στο τελος και αποθηκευστε ενα καθαρο αντιγραφο",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Περικοπή PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/crop-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/crop-pdf/",
   "s": "Loona PDF Tools",
   "d": "Κόψτε λευκά περιθώρια ή κόψτε ακμές σελίδας κατά πόντους, ποσοστό ή χιλιοστά.",
   "k": "crop pdf crop pdf trim margins cut white borders pages κοψτε λευκα περιθωρια η κοψτε ακμες σελιδας κατα ποντους ποσοστο η χιλιοστα",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Αλλαγή Μεγέθους Σελίδων PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/resize-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/el/resize-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Αλλάξτε κάθε σελίδα σε A4, Letter ή Legal, κλιμακώνοντας το περιεχόμενο ώστε να χωρέσει.",
   "k": "resize pdf pages resize pdf pages page size a4 letter dimensions resize change αλλαξτε καθε σελιδα σε a4 letter η legal κλιμακωνοντας το περιεχομενο ωστε να χωρεσει",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Αντιστροφή Σελίδων PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/reverse-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/el/reverse-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Αναστρέψτε ένα PDF ανάποδης σειράς ώστε η τελευταία σελίδα να γίνει η πρώτη.",
   "k": "reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front αναστρεψτε ενα pdf αναποδης σειρας ωστε η τελευταια σελιδα να γινει η πρωτη",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Αφαίρεση Σχολίων PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/remove-pdf-annotations/",
+  "u": "https://pdf.loonaautomation.com/el/remove-pdf-annotations/",
   "s": "Loona PDF Tools",
   "d": "Αφαιρέστε σχόλια, επισημάνσεις, αυτοκόλλητες σημειώσεις και σφραγίδες ενώ το περιεχόμενο σελίδας παραμένει ανέγγιχτο.",
   "k": "remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations αφαιρεστε σχολια επισημανσεις αυτοκολλητες σημειωσεις και σφραγιδες ενω το περιεχομενο σελιδας παραμενει ανεγγιχτο",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Μεγέθη Σελίδας PDF & Πληροφορίες",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/pdf-page-sizes/",
+  "u": "https://pdf.loonaautomation.com/el/pdf-page-sizes/",
   "s": "Loona PDF Tools",
   "d": "Δείτε το ακριβές μέγεθος κάθε σελίδας σε πόντους, χιλιοστά και ίντσες, συν πληροφορίες εγγράφου.",
   "k": "pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure δειτε το ακριβες μεγεθος καθε σελιδας σε ποντους χιλιοστα και ιντσες συν πληροφοριες εγγραφου",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Προσθήκη Σελιδοδεικτών σε PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/add-bookmarks-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/add-bookmarks-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Δώστε σε ένα μακρύ PDF μια δομή με δυνατότητα κλικ από κεφάλαια και ενότητες.",
   "k": "add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation δωστε σε ενα μακρυ pdf μια δομη με δυνατοτητα κλικ απο κεφαλαια και ενοτητες",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Εξαγωγή Εικόνων από PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/extract-images-from-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/extract-images-from-pdf/",
   "s": "Loona PDF Tools",
   "d": "Τραβήξτε τις πρωτότυπες ενσωματωμένες φωτογραφίες και γραφικά από ένα PDF ως αρχεία PNG.",
   "k": "extract images from pdf extract images from pdf get pictures photos images out extract save τραβηξτε τις πρωτοτυπες ενσωματωμενες φωτογραφιες και γραφικα απο ενα pdf ως αρχεια png",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Προσθήκη Κενής Σελίδας σε PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/add-blank-page-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/add-blank-page-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Εισαγάγετε κενές σελίδες στην αρχή, στο τέλος ή μετά από οποιαδήποτε σελίδα, με μέγεθος που ταιριάζει.",
   "k": "add blank page to pdf add blank page to pdf insert blank empty page add new εισαγαγετε κενες σελιδες στην αρχη στο τελος η μετα απο οποιαδηποτε σελιδα με μεγεθος που ταιριαζει",
@@ -325,7 +325,7 @@
  },
  {
   "n": "PDF σε WebP",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/pdf-to-webp/",
+  "u": "https://pdf.loonaautomation.com/el/pdf-to-webp/",
   "s": "Loona PDF Tools",
   "d": "Μετατρέψτε σελίδες PDF σε εικόνες WebP - μικρότερες από JPG για ιστότοπους, στην ποιότητα που επιλέγετε.",
   "k": "pdf to webp pdf to webp webp image convert picture μετατρεψτε σελιδες pdf σε εικονες webp μικροτερες απο jpg για ιστοτοπους στην ποιοτητα που επιλεγετε",
@@ -334,7 +334,7 @@
  },
  {
   "n": "N-up PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/n-up-pdf/",
+  "u": "https://pdf.loonaautomation.com/el/n-up-pdf/",
   "s": "Loona PDF Tools",
   "d": "Βάλτε 2, 4, 6 ή 9 σελίδες σε ένα φύλλο σε σειρά ανάγνωσης και εξοικονομήστε χαρτί σε φυλλάδια.",
   "k": "n up pdf n up pdf n-up multiple pages per sheet impose tiles print βαλτε 2 4 6 η 9 σελιδες σε ενα φυλλο σε σειρα αναγνωσης και εξοικονομηστε χαρτι σε φυλλαδια",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Δημιουργία Βιβλιαρίου PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/create-pdf-booklet/",
+  "u": "https://pdf.loonaautomation.com/el/create-pdf-booklet/",
   "s": "Loona PDF Tools",
   "d": "Επιβάλετε σελίδες σε πραγματική σειρά βιβλιαρίου - εκτυπώστε διπλής όψης, διπλώστε, συρράψτε.",
   "k": "create pdf booklet create pdf booklet booklet book fold impose print saddle stitch επιβαλετε σελιδες σε πραγματικη σειρα βιβλιαριου εκτυπωστε διπλης οψης διπλωστε συρραψτε",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Αφαίρεση Κενών Σελίδων",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/remove-blank-pages/",
+  "u": "https://pdf.loonaautomation.com/el/remove-blank-pages/",
   "s": "Loona PDF Tools",
   "d": "Ανιχνεύστε σχεδόν κενές σελίδες με ανάλυση εικονοστοιχείων και αφαιρέστε τις, με ειλικρινή κάλυψη ανά σελίδα.",
   "k": "remove blank pages remove blank pages delete empty blank pages clean remove automatically ανιχνευστε σχεδον κενες σελιδες με αναλυση εικονοστοιχειων και αφαιρεστε τις με ειλικρινη καλυψη ανα σελιδα",
@@ -361,11 +361,11 @@
  },
  {
   "n": "PDF σε Excel",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/el/pdf-to-excel/",
+  "u": "https://pdf.loonaautomation.com/el/pdf-to-excel/",
   "s": "Loona PDF Tools",
   "d": "Εξαγάγετε πίνακες PDF σε επεξεργάσιμα υπολογιστικά φύλλα Excel (.xlsx) - κάντε προεπισκόπηση και διορθώστε κάθε κελί, χωρίς μεταφόρτωση.",
   "k": "pdf σε excel pdf to excel converter xlsx εξαγάγετε πίνακες pdf σε επεξεργάσιμα υπολογιστικά φύλλα excel (.xlsx)   κάντε προεπισκόπηση και διορθώστε κάθε κελί, χωρίς μεταφόρτωση. pdf to excel μετατροπέας pdf σε excel",
   "p": 110,
   "c": "Tool"
  }
-,{"n":"Word to PDF","u":"https://loonaautomation.github.io/loona-pdf-tools/el/word-to-pdf/","s":"Loona PDF Tools","d":"Μετατρέψτε έγγραφα Word .docx σε καθαρά, ευανάγνωστα PDF - επικεφαλίδες, λίστες, πίνακες και εικόνες διατηρούνται, χωρίς μεταφόρτωση.","k":"word to pdf word to pdf docx doc word document microsoft convert μετατρέψτε έγγραφα word docx σε καθαρά ευανάγνωστα pdf επικεφαλίδες λίστες πίνακες και εικόνες διατηρούνται χωρίς μεταφόρτωση","p":140,"c":"Tool"},{"n":"PDF σε Word","u":"https://loonaautomation.github.io/loona-pdf-tools/el/pdf-to-word/","s":"Loona PDF Tools","d":"Μετατρέψτε PDF με κείμενο σε επεξεργάσιμα έγγραφα Word .docx - οι επικεφαλίδες, οι παράγραφοι, οι λίστες και οι απλοί πίνακες μεταφέρονται, χωρίς μεταφόρτωση.","k":"pdf σε word pdf to word pdf to word docx word document convert pdf word docx","p":141,"c":"Tool"},{"n":"Loona PDF Editor","u":"https://loonaautomation.github.io/loona-pdf-tools/el/pdf-editor/","s":"Loona PDF Tools","d":"Επεξεργαστείτε ένα PDF online: προσθέστε κείμενο, εικόνες, σχήματα και υπογραφές, καλύψτε λάθη με διορθωτικό και κατεβάστε το τελικό αρχείο.","k":"pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Επεξεργαστείτε ένα PDF online: προσθέστε κείμενο, εικόνες, σχήματα και υπογραφές, καλύψτε λάθη με διορθωτικό και κατεβάστε το τελικό αρχείο.","p":142,"c":"Tool"}]
+,{"n":"Word to PDF","u":"https://pdf.loonaautomation.com/el/word-to-pdf/","s":"Loona PDF Tools","d":"Μετατρέψτε έγγραφα Word .docx σε καθαρά, ευανάγνωστα PDF - επικεφαλίδες, λίστες, πίνακες και εικόνες διατηρούνται, χωρίς μεταφόρτωση.","k":"word to pdf word to pdf docx doc word document microsoft convert μετατρέψτε έγγραφα word docx σε καθαρά ευανάγνωστα pdf επικεφαλίδες λίστες πίνακες και εικόνες διατηρούνται χωρίς μεταφόρτωση","p":140,"c":"Tool"},{"n":"PDF σε Word","u":"https://pdf.loonaautomation.com/el/pdf-to-word/","s":"Loona PDF Tools","d":"Μετατρέψτε PDF με κείμενο σε επεξεργάσιμα έγγραφα Word .docx - οι επικεφαλίδες, οι παράγραφοι, οι λίστες και οι απλοί πίνακες μεταφέρονται, χωρίς μεταφόρτωση.","k":"pdf σε word pdf to word pdf to word docx word document convert pdf word docx","p":141,"c":"Tool"},{"n":"Loona PDF Editor","u":"https://pdf.loonaautomation.com/el/pdf-editor/","s":"Loona PDF Tools","d":"Επεξεργαστείτε ένα PDF online: προσθέστε κείμενο, εικόνες, σχήματα και υπογραφές, καλύψτε λάθη με διορθωτικό και κατεβάστε το τελικό αρχείο.","k":"pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Επεξεργαστείτε ένα PDF online: προσθέστε κείμενο, εικόνες, σχήματα και υπογραφές, καλύψτε λάθη με διορθωτικό και κατεβάστε το τελικό αρχείο.","p":142,"c":"Tool"}]

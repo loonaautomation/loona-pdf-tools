@@ -2,7 +2,7 @@
   "name": "Loona HTML sang PDF trực tuyến miễn phí",
   "short_name": "HTML sang PDF trực tuyến miễn phí",
   "description": "Chuyển đổi HTML sang PDF trực tuyến, miễn phí, dùng công cụ in-sang-PDF của chính trình duyệt của bạn — hỗ trợ CSS đầy đủ, không tải lên, không hình mờ.",
-  "id": "/loona-pdf-tools/vi/html-to-pdf/",
+  "id": "/vi/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

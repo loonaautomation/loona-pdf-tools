@@ -2,7 +2,7 @@
   "name": "Loona Převodník PDF do Wordu",
   "short_name": "Převodník PDF do Wordu",
   "description": "Převeďte textové PDF na upravitelný dokument Wordu (.docx) zdarma ve svém prohlížeči. Nadpisy, odstavce, seznamy i jednoduché tabulky se přenesou. Bez nahrávání, bez registrace — váš soubor nikdy neopustí vaše zařízení.",
-  "id": "/loona-pdf-tools/cs/pdf-to-word/",
+  "id": "/cs/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

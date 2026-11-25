@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'den WebP'ye",
   "short_name": "Çevrimiçi Ücretsiz PDF'den WebP'ye",
   "description": "PDF sayfalarını çevrimiçi ücretsiz olarak WebP görüntülerine dönüştürün: web siteleri için JPG ve PNG'den daha küçük, tarayıcınızda seçtiğiniz çözünürlükte oluşturulur. Hiçbir şey yüklenmez, kayıt gerekmez.",
-  "id": "/loona-pdf-tools/tr/pdf-to-webp/",
+  "id": "/tr/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

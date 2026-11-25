@@ -2,7 +2,7 @@
   "name": "Loona PDF na skalę szarości online za darmo",
   "short_name": "PDF na skalę szarości online za darmo",
   "description": "Konwertuj PDF na skalę szarości za darmo online: każda strona jest odbudowywana w odcieniach szarości – idealne do tańszego drukowania i czystego monochromatycznego wyglądu. Działa w 100% w Twojej przeglądarce; nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/pdf-to-grayscale/",
+  "id": "/pl/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de PDF a Markdown",
   "short_name": "Convertidor de PDF a Markdown",
   "description": "Convierte un PDF a Markdown en línea, gratis en tu navegador. El texto se extrae con la estructura de encabezados detectada a partir de los tamaños de fuente. Sin subida, sin registro.",
-  "id": "/loona-pdf-tools/es/pdf-to-markdown/",
+  "id": "/es/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimovat PDF na 500 KB online zdarma",
   "short_name": "Komprimovat PDF na 500 KB online zdarma",
   "description": "Komprimujte PDF na 500 KB nebo méně, zdarma ve vašem prohlížeči. Nástroj nejprve zkusí bezztrátové opětovné uložení, poté postupně snižuje kvalitu vykreslení, dokud se váš soubor nevejde — a oznámí přesný výsledek.",
-  "id": "/loona-pdf-tools/cs/compress-pdf-to-500kb/",
+  "id": "/cs/compress-pdf-to-500kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

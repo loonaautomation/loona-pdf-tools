@@ -2,7 +2,7 @@
   "name": "Loona PNG do PDF online zdarma",
   "short_name": "PNG do PDF online zdarma",
   "description": "Převeďte obrázky PNG do PDF zdarma online. Snímky obrazovky, loga a grafika se stanou jedním PDF se stránkami A4, Letter nebo přizpůsobenými. Soukromý převod v prohlížeči, bez registrace.",
-  "id": "/loona-pdf-tools/cs/png-to-pdf/",
+  "id": "/cs/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

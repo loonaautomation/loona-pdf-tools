@@ -2,7 +2,7 @@
   "name": "Loona Veľkosti stránok PDF a informácie online zadarmo",
   "short_name": "Veľkosti stránok PDF a informácie online zadarmo",
   "description": "Skontrolujte veľkosti stránok PDF zadarmo online: rozmery každej stránky v bodoch, milimetroch a palcoch, jej najbližšia štandardná veľkosť (A4, Letter...), otočenie, plus názov, autor a verzia PDF. Nič sa nenahráva.",
-  "id": "/loona-pdf-tools/sk/pdf-page-sizes/",
+  "id": "/sk/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

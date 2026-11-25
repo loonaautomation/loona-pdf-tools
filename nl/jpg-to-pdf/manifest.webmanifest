@@ -2,7 +2,7 @@
   "name": "Loona JPG naar PDF online gratis",
   "short_name": "JPG naar PDF online gratis",
   "description": "Converteer JPG-afbeeldingen gratis online naar een PDF. Combineer foto's tot één PDF met A4-, Letter- of passende pagina's, in jouw volgorde. Geen registratie - werkt privé in de browser.",
-  "id": "/loona-pdf-tools/nl/jpg-to-pdf/",
+  "id": "/nl/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

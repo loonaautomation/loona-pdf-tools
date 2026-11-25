@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/markdown-to-pdf/",
+  "id": "/en-gb/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

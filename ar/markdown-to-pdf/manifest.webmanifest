@@ -2,7 +2,7 @@
   "name": "Loona محوّل Markdown إلى PDF – مجاني، دون رفع",
   "short_name": "محوّل Markdown إلى PDF – مجاني، دون رفع",
   "description": "حوّل Markdown إلى PDF منسق عبر الإنترنت، مجانًا في متصفحك. تُعرض العناوين والقوائم والكود والروابط مع معاينة حية. دون رفع.",
-  "id": "/loona-pdf-tools/ar/markdown-to-pdf/",
+  "id": "/ar/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

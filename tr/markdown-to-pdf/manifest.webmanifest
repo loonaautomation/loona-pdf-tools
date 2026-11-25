@@ -2,7 +2,7 @@
   "name": "Loona Markdown'dan PDF'ye Dönüştürücü",
   "short_name": "Markdown'dan PDF'ye Dönüştürücü",
   "description": "Markdown'ı çevrimiçi, tarayıcınızda ücretsiz olarak biçimlendirilmiş bir PDF'ye dönüştürün. Başlıklar, listeler, kod ve bağlantılar canlı önizlemeyle oluşturulur. Yükleme yok.",
-  "id": "/loona-pdf-tools/tr/markdown-to-pdf/",
+  "id": "/tr/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

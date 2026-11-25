@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/bmp-to-pdf/",
+  "id": "/en-gb/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Merge PDF Online Free",
   "short_name": "Merge PDF Online Free",
   "description": "Merge PDF files into one document free online. Combine multiple PDFs, drag to reorder them, no sign-up needed. Files are processed privately in your browser.",
-  "id": "/loona-pdf-tools/merge-pdf/",
+  "id": "/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

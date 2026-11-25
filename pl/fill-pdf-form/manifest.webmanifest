@@ -2,7 +2,7 @@
   "name": "Loona Wypełnij formularz PDF online za darmo",
   "short_name": "Wypełnij formularz PDF online za darmo",
   "description": "Wypełnij wypełnialny formularz PDF za darmo online. Prześlij PDF, który ma pola formularza, wpisuj w jego pola tekstowe, pola wyboru, listy rozwijane i przyciski radiowe, a potem pobierz ukończony PDF. Bez rejestracji; wszystko działa prywatnie w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/fill-pdf-form/",
+  "id": "/pl/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

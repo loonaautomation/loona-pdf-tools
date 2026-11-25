@@ -2,7 +2,7 @@
   "name": "Loona HTML till PDF online gratis",
   "short_name": "HTML till PDF online gratis",
   "description": "Konvertera HTML till PDF online, gratis, med din webbläsares egen skriv-ut-till-PDF-motor — fullt CSS-stöd, ingen uppladdning, inga vattenstämplar.",
-  "id": "/loona-pdf-tools/sv/html-to-pdf/",
+  "id": "/sv/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JPG σε PDF Online Δωρεάν",
   "short_name": "JPG σε PDF Online Δωρεάν",
   "description": "Μετατρέψτε εικόνες JPG σε PDF δωρεάν online. Συνδυάστε φωτογραφίες σε ένα PDF με σελίδες A4, Letter ή προσαρμογής, με τη σειρά σας. Χωρίς εγγραφή - λειτουργεί ιδιωτικά στο πρόγραμμα περιήγησης.",
-  "id": "/loona-pdf-tools/el/jpg-to-pdf/",
+  "id": "/el/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

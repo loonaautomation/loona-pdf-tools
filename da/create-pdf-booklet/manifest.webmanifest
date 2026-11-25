@@ -2,7 +2,7 @@
   "name": "Loona Opret PDF-hæfte online gratis",
   "short_name": "Opret PDF-hæfte online gratis",
   "description": "Lav gratis en udskriftsklar hæfte-PDF online: sider udskydes i ægte hæfterækkefølge på liggende ark - udskriv dobbeltsidet, fold, hæft. Tomme sider fylder automatisk op til et multiplum af fire.",
-  "id": "/loona-pdf-tools/da/create-pdf-booklet/",
+  "id": "/da/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

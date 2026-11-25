@@ -2,7 +2,7 @@
   "name": "Loona PDFをグレースケールに変換 オンライン無料",
   "short_name": "PDFをグレースケールに変換 オンライン無料",
   "description": "PDFをグレースケールに無料でオンライン変換：すべてのページがグレーの濃淡で再構築されます。印刷コストの削減と、きれいなモノクロの見た目に最適です。ブラウザ上で100%実行され、アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/pdf-to-grayscale/",
+  "id": "/ja/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

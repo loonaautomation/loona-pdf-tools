@@ -2,7 +2,7 @@
   "name": "Loona PNG u PDF besplatno na mreži",
   "short_name": "PNG u PDF besplatno na mreži",
   "description": "Pretvorite PNG slike u PDF besplatno na mreži. Snimke zaslona, logotipi i grafike postaju jedan PDF sa stranicama A4, Letter ili prilagođenima. Pretvaranje privatno u pregledniku, bez registracije.",
-  "id": "/loona-pdf-tools/hr/png-to-pdf/",
+  "id": "/hr/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

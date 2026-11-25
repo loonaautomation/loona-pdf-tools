@@ -2,7 +2,7 @@
   "name": "Loona Извлечь страницы PDF",
   "short_name": "Loona Извлечь страницы PDF",
   "description": "Извлекайте выбранные страницы из PDF бесплатно онлайн. Укажите страницы, например 3, 5-8, и скачайте их как новый, меньший PDF. Без регистрации; извлечение выполняется в вашем браузере.",
-  "id": "/loona-pdf-tools/ru/extract-pdf-pages/",
+  "id": "/ru/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

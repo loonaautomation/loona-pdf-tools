@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/excel-to-pdf/",
+  "id": "/en-gb/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

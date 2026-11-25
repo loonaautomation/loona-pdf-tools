@@ -2,7 +2,7 @@
   "name": "Loona Komprimér PDF til 500 KB online gratis",
   "short_name": "Komprimér PDF til 500 KB online gratis",
   "description": "Komprimér en PDF til 500 KB eller derunder, gratis i din browser. Værktøjet prøver først en tabsløs gemning og skruer derefter gengivelseskvaliteten ned trin for trin, indtil din fil passer — og rapporterer det præcise resultat.",
-  "id": "/loona-pdf-tools/da/compress-pdf-to-500kb/",
+  "id": "/da/compress-pdf-to-500kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

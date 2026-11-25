@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/remove-blank-pages/",
+  "id": "/en-gb/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

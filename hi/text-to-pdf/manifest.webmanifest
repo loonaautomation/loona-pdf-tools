@@ -2,7 +2,7 @@
   "name": "Loona टेक्स्ट से PDF ऑनलाइन मुफ़्त",
   "short_name": "टेक्स्ट से PDF ऑनलाइन मुफ़्त",
   "description": "टेक्स्ट को मुफ़्त ऑनलाइन PDF में बदलें। अपना टेक्स्ट चिपकाएँ, फ़ॉन्ट आकार और A4 या Letter पृष्ठ चुनें, और साफ़ PDF डाउनलोड करें। कोई साइन-अप नहीं - निजी तौर पर ब्राउज़र में बनाया गया।",
-  "id": "/loona-pdf-tools/hi/text-to-pdf/",
+  "id": "/hi/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

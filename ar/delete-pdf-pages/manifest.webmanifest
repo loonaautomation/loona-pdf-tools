@@ -2,7 +2,7 @@
   "name": "Loona حذف صفحات PDF عبر الإنترنت مجانًا",
   "short_name": "حذف صفحات PDF عبر الإنترنت مجانًا",
   "description": "احذف صفحات من PDF مجانًا عبر الإنترنت. اكتب أرقام الصفحات المراد إزالتها — مثل 2، 4-6 — ونزّل الملف المنظّف. دون تسجيل؛ يبقى كل شيء في متصفحك.",
-  "id": "/loona-pdf-tools/ar/delete-pdf-pages/",
+  "id": "/ar/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

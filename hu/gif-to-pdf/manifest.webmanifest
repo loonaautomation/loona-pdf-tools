@@ -2,7 +2,7 @@
   "name": "Loona GIF-ből PDF online ingyen",
   "short_name": "GIF-ből PDF online ingyen",
   "description": "Alakítson GIF képeket PDF-fé online, ingyen, a böngészőjében. Oldalanként egy kép, képhez igazított vagy A4/Letter oldalak. Feltöltés és regisztráció nélkül.",
-  "id": "/loona-pdf-tools/hu/gif-to-pdf/",
+  "id": "/hu/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

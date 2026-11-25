@@ -2,7 +2,7 @@
   "name": "Loona Peitä PDF-sisältö verkossa ilmaiseksi",
   "short_name": "Peitä PDF-sisältö verkossa ilmaiseksi",
   "description": "Peitä PDF ilmaiseksi verkossa: piirrä mustia laatikoita nimien, numeroiden tai valokuvien päälle ja polta ne sisään pysyvästi - piilotettu sisältö poistetaan, ei vain peitetä. 100-prosenttisesti selaimessasi, mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/redact-pdf/",
+  "id": "/fi/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

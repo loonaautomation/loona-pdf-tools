@@ -2,7 +2,7 @@
   "name": "Loona PDF'den Markdown'a Dönüştürücü",
   "short_name": "PDF'den Markdown'a Dönüştürücü",
   "description": "Bir PDF'yi çevrimiçi, tarayıcınızda ücretsiz olarak Markdown'a dönüştürün. Metin, yazı tipi boyutlarından algılanan başlık yapısıyla çıkarılır. Yükleme yok, kayıt yok.",
-  "id": "/loona-pdf-tools/tr/pdf-to-markdown/",
+  "id": "/tr/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

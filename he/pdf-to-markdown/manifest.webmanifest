@@ -2,7 +2,7 @@
   "name": "Loona ממיר PDF ל-Markdown – בחינם, ללא העלאה",
   "short_name": "ממיר PDF ל-Markdown – בחינם, ללא העלאה",
   "description": "המירו PDF ל-Markdown באינטרנט, בחינם בדפדפן שלכם. טקסט מחולץ עם מבנה כותרות מזוהה מגדלי גופנים. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/pdf-to-markdown/",
+  "id": "/he/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

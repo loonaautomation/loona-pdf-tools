@@ -2,7 +2,7 @@
   "name": "Loona ממירי PDF – כל כלי ל-PDF &amp; מ-PDF",
   "short_name": "ממירי PDF – כל כלי ל-PDF &amp; מ-PDF",
   "description": "כל ממיר PDF במקום אחד: תמונות, CSV, JSON, HTML ו-Markdown ל-PDF — ו-PDF חזרה לתמונות, טקסט, HTML ו-Markdown. בחינם, בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/pdf-converters/",
+  "id": "/he/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

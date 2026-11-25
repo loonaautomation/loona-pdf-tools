@@ -2,7 +2,7 @@
   "name": "Loona Dodaj pustą stronę do PDF online za darmo",
   "short_name": "Dodaj pustą stronę do PDF online za darmo",
   "description": "Wstawiaj puste strony do PDF-a za darmo online: na początku, na końcu lub po dowolnej stronie, dopasowane do rozmiaru strony dokumentu, A4 lub Letter. Natychmiast, w Twojej przeglądarce, nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/add-blank-page-to-pdf/",
+  "id": "/pl/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

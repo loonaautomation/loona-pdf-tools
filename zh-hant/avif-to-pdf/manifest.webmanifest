@@ -2,7 +2,7 @@
   "name": "Loona AVIF 轉 PDF 轉換器 線上免費",
   "short_name": "AVIF 轉 PDF 轉換器 線上免費",
   "description": "線上免費在您的瀏覽器中將 AVIF 圖片轉換為 PDF。每頁一張圖片，適合圖片或 A4/Letter 頁面。不上傳，無需註冊。",
-  "id": "/loona-pdf-tools/zh-hant/avif-to-pdf/",
+  "id": "/zh-hant/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

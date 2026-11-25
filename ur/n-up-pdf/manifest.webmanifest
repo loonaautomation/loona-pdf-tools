@@ -2,7 +2,7 @@
   "name": "Loona N-up PDF آن لائن مفت",
   "short_name": "N-up PDF آن لائن مفت",
   "description": "کئی PDF صفحات ایک شیٹ پر آن لائن مفت رکھیں: 2-up، 4-up، 6-up یا 9-up لے آؤٹ A4 یا Letter پر، پڑھنے کی ترتیب میں۔ ہینڈ آؤٹ اور مسودوں کے لیے کاغذ بچاتا ہے۔ براؤزر میں، کچھ بھی اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-pdf-tools/ur/n-up-pdf/",
+  "id": "/ur/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF σε PNG Online Δωρεάν",
   "short_name": "PDF σε PNG Online Δωρεάν",
   "description": "Μετατρέψτε σελίδες PDF σε εικόνες PNG δωρεάν online σε ανάλυση έως 3x, με διατήρηση της διαφάνειας. Κατεβάστε κάθε σελίδα ξεχωριστά. Ιδιωτικά, στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/pdf-to-png/",
+  "id": "/el/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

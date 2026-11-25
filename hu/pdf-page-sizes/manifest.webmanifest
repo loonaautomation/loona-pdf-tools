@@ -2,7 +2,7 @@
   "name": "Loona PDF-oldalméretek és adatok online ingyen",
   "short_name": "PDF-oldalméretek és adatok online ingyen",
   "description": "Ellenőrizze egy PDF oldalméreteit ingyen, online: minden oldal méretei pontban, milliméterben és hüvelykben, a legközelebbi szabványmérete (A4, Letter...), a forgatása, plusz a cím, a szerző és a PDF-verzió. Feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/pdf-page-sizes/",
+  "id": "/hu/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

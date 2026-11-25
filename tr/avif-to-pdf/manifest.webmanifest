@@ -2,7 +2,7 @@
   "name": "Loona AVIF'ten PDF'ye Dönüştürücü",
   "short_name": "AVIF'ten PDF'ye Dönüştürücü",
   "description": "AVIF görüntülerini çevrimiçi, ücretsiz, tarayıcınızda bir PDF'ye dönüştürün. Sayfa başına bir görüntü, görüntüye sığdır veya A4/Letter sayfalar. Yükleme yok, kayıt yok.",
-  "id": "/loona-pdf-tools/tr/avif-to-pdf/",
+  "id": "/tr/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

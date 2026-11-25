@@ -2,7 +2,7 @@
   "name": "Loona PDF tömörítése online ingyen",
   "short_name": "PDF tömörítése online ingyen",
   "description": "Tömörítsen PDF-fájlokat ingyen, online, és kicsinyítse őket e-mailhez vagy feltöltésekhez. Válasszon veszteségmentes adatfolyam-tömörítést vagy erős képtömörítést. Privát módon, a böngészőjében.",
-  "id": "/loona-pdf-tools/hu/compress-pdf/",
+  "id": "/hu/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Excel-in-PDF-Konverter",
   "short_name": "Excel-in-PDF-Konverter",
   "description": "Konvertieren Sie Excel-Tabellen (.xlsx, .xls) und CSV-Dateien online in eine saubere, paginierte PDF-Tabelle – kostenlos in Ihrem Browser. Jedes Blatt wird zu einer Tabelle mit wiederholter Kopfzeile. Kein Upload.",
-  "id": "/loona-pdf-tools/de/excel-to-pdf/",
+  "id": "/de/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

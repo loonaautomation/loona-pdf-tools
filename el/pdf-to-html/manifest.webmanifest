@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας PDF σε HTML Online Δωρεάν",
   "short_name": "Μετατροπέας PDF σε HTML Online Δωρεάν",
   "description": "Μετατρέψτε ένα PDF σε HTML online, δωρεάν στο πρόγραμμα περιήγησής σας. Το κείμενο εξάγεται με δομή επικεφαλίδων που ανιχνεύεται από τα μεγέθη γραμματοσειρών. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-pdf-tools/el/pdf-to-html/",
+  "id": "/el/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

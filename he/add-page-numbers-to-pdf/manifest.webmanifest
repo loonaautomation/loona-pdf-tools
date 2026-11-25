@@ -2,7 +2,7 @@
   "name": "Loona הוספת מספרי עמודים ל-PDF מקוון בחינם",
   "short_name": "הוספת מספרי עמודים ל-PDF מקוון בחינם",
   "description": "הוסיפו מספרי עמודים ל-PDF בחינם באינטרנט. בחרו סגנון (1, עמוד 1, 1 מתוך 10), מיקום ומספר התחלה. ללא הרשמה; המיספור נעשה בפרטיות בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/add-page-numbers-to-pdf/",
+  "id": "/he/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

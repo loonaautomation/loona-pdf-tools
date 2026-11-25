@@ -2,7 +2,7 @@
   "name": "Loona Udtræk billeder fra PDF online gratis",
   "short_name": "Udtræk billeder fra PDF online gratis",
   "description": "Udtræk gratis de originale billeder indlejret i en PDF online: fotos og grafik trækkes ud ved deres gemte opløsning som PNG-filer - ikke skærmbilleder. 100 % i din browser, intet uploades.",
-  "id": "/loona-pdf-tools/da/extract-images-from-pdf/",
+  "id": "/da/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

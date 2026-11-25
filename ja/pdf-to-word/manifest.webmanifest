@@ -2,7 +2,7 @@
   "name": "Loona PDFをWordに変換 オンライン無料",
   "short_name": "PDFをWordに変換 オンライン無料",
   "description": "テキストベースのPDFを編集可能なWordドキュメント（.docx）にブラウザで無料変換。見出し、段落、リスト、シンプルな表が引き継がれます。アップロード不要、登録不要。",
-  "id": "/loona-pdf-tools/ja/pdf-to-word/",
+  "id": "/ja/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

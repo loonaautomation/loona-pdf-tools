@@ -2,7 +2,7 @@
   "name": "Loona PDF til HTML-konverter online gratis",
   "short_name": "PDF til HTML-konverter online gratis",
   "description": "Konvertér en PDF til HTML online, gratis i din browser. Tekst udtrækkes med overskriftsstruktur registreret ud fra skriftstørrelser. Ingen upload, ingen tilmelding.",
-  "id": "/loona-pdf-tools/da/pdf-to-html/",
+  "id": "/da/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

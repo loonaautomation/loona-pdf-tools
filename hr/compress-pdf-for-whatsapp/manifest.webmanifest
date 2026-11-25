@@ -2,7 +2,7 @@
   "name": "Loona Sažmi PDF za WhatsApp besplatno na mreži",
   "short_name": "Sažmi PDF za WhatsApp besplatno na mreži",
   "description": "Sažmite PDF na 16 MB ili manje, besplatno u svom pregledniku. Alat prvo pokušava ponovno spremanje bez gubitaka, zatim postupno snižava kvalitetu prikaza dok vaša datoteka ne stane — i izvještava o točnom rezultatu.",
-  "id": "/loona-pdf-tools/hr/compress-pdf-for-whatsapp/",
+  "id": "/hr/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

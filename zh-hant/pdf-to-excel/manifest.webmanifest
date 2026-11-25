@@ -2,7 +2,7 @@
   "name": "Loona PDF 轉 Excel 轉換器",
   "short_name": "PDF 轉 Excel 轉換器",
   "description": "Convert PDF tables to Excel (.xlsx) spreadsheets free in your browser. Preview and fix every cell before you download. No upload, no sign-up — your file never leaves your device.",
-  "id": "/loona-pdf-tools/zh-hant/pdf-to-excel/",
+  "id": "/zh-hant/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

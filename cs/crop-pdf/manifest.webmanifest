@@ -2,7 +2,7 @@
   "name": "Loona Oříznout PDF online zdarma",
   "short_name": "Oříznout PDF online zdarma",
   "description": "Ořízněte stránky PDF zdarma online: ořízněte bílé okraje nebo řežte hrany o body nebo procenta na každé stránce nebo v jednom rozsahu. Rámeček oříznutí stránky se nastaví přesně ve vašem prohlížeči - nic se nenahrává.",
-  "id": "/loona-pdf-tools/cs/crop-pdf/",
+  "id": "/cs/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

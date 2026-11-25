@@ -2,7 +2,7 @@
   "name": "Loona Gabungkan PDF online gratis",
   "short_name": "Gabungkan PDF online gratis",
   "description": "Gabungkan file PDF menjadi satu dokumen gratis secara online. Gabungkan beberapa PDF, seret untuk menyusun ulang, tanpa perlu pendaftaran. File diproses secara privat di browser Anda.",
-  "id": "/loona-pdf-tools/id/merge-pdf/",
+  "id": "/id/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

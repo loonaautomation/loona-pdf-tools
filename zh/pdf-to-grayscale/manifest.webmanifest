@@ -2,7 +2,7 @@
   "name": "Loona PDF 转灰度 在线免费",
   "short_name": "PDF 转灰度 在线免费",
   "description": "在线免费将 PDF 转换为灰度：每个页面以灰色调重建——非常适合更便宜的打印和干净的单色外观。100% 在您的浏览器中运行；不上传任何内容。",
-  "id": "/loona-pdf-tools/zh/pdf-to-grayscale/",
+  "id": "/zh/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

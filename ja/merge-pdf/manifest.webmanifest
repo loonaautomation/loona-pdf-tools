@@ -2,7 +2,7 @@
   "name": "Loona PDFを結合 オンライン無料",
   "short_name": "PDFを結合 オンライン無料",
   "description": "PDFファイルを一つのドキュメントに無料でオンライン結合。複数のPDFをまとめ、ドラッグで並べ替えでき、登録は不要です。ファイルはブラウザ内でプライベートに処理されます。",
-  "id": "/loona-pdf-tools/ja/merge-pdf/",
+  "id": "/ja/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

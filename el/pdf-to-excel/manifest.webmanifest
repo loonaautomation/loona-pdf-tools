@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας PDF σε Excel",
   "short_name": "Loona Μετατροπέας PDF σε Excel",
   "description": "Μετατρέψτε πίνακες PDF σε υπολογιστικά φύλλα Excel (.xlsx) δωρεάν στο πρόγραμμα περιήγησής σας. Κάντε προεπισκόπηση και διορθώστε κάθε κελί πριν από τη λήψη. Χωρίς μεταφόρτωση, χωρίς εγγραφή — το αρχείο σας δεν φεύγει ποτέ από τη συσκευή σας.",
-  "id": "/loona-pdf-tools/el/pdf-to-excel/",
+  "id": "/el/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

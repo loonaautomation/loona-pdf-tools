@@ -2,7 +2,7 @@
   "name": "Loona Ratakan PDF online gratis",
   "short_name": "Ratakan PDF online gratis",
   "description": "Ratakan PDF gratis secara online: sematkan kolom formulir yang dapat diisi ke dalam halaman sehingga jawaban tidak dapat diedit lagi, dengan pembangunan ulang gambar penuh opsional yang meratakan semuanya. Privat, di browser, tanpa pendaftaran.",
-  "id": "/loona-pdf-tools/id/flatten-pdf/",
+  "id": "/id/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

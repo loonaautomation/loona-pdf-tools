@@ -2,7 +2,7 @@
   "name": "Loona Текст в PDF",
   "short_name": "Loona Текст в PDF",
   "description": "Преобразуйте текст в PDF бесплатно онлайн. Вставьте свой текст, выберите размер шрифта и страницы A4 или Letter и скачайте аккуратный PDF. Без регистрации — создаётся конфиденциально в браузере.",
-  "id": "/loona-pdf-tools/ru/text-to-pdf/",
+  "id": "/ru/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

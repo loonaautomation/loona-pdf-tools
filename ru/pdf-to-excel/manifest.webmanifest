@@ -2,7 +2,7 @@
   "name": "Loona Конвертер PDF в Excel",
   "short_name": "Loona Конвертер PDF в Excel",
   "description": "Преобразуйте таблицы PDF в электронные таблицы Excel (.xlsx) бесплатно в вашем браузере. Просматривайте и исправляйте каждую ячейку перед скачиванием. Без загрузки на сервер и регистрации — ваш файл никогда не покидает ваше устройство.",
-  "id": "/loona-pdf-tools/ru/pdf-to-excel/",
+  "id": "/ru/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπείς PDF Online Δωρεάν",
   "short_name": "Μετατροπείς PDF Online Δωρεάν",
   "description": "Κάθε μετατροπέας PDF σε ένα μέρος: εικόνες, CSV, JSON, HTML και Markdown σε PDF — και PDF πίσω σε εικόνες, κείμενο, HTML και Markdown. Δωρεάν, στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/pdf-converters/",
+  "id": "/el/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

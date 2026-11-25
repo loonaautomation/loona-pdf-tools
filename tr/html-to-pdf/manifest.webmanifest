@@ -2,7 +2,7 @@
   "name": "Loona HTML'den PDF'ye Dönüştürücü",
   "short_name": "HTML'den PDF'ye Dönüştürücü",
   "description": "HTML'yi çevrimiçi, ücretsiz olarak, tarayıcınızın kendi PDF'ye yazdırma motorunu kullanarak PDF'ye dönüştürün; tam CSS desteği, yükleme yok, filigran yok.",
-  "id": "/loona-pdf-tools/tr/html-to-pdf/",
+  "id": "/tr/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

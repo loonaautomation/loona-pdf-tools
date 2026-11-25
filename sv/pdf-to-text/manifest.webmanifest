@@ -2,7 +2,7 @@
   "name": "Loona PDF till text online gratis",
   "short_name": "PDF till text online gratis",
   "description": "Extrahera text från en PDF gratis online. Få hela texten från varje sida att kopiera eller ladda ner som en TXT-fil. Ingen registrering, och din PDF lämnar aldrig din webbläsare.",
-  "id": "/loona-pdf-tools/sv/pdf-to-text/",
+  "id": "/sv/pdf-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

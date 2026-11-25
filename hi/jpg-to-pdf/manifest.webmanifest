@@ -2,7 +2,7 @@
   "name": "Loona JPG से PDF ऑनलाइन मुफ़्त",
   "short_name": "JPG से PDF ऑनलाइन मुफ़्त",
   "description": "JPG चित्रों को मुफ़्त ऑनलाइन PDF में बदलें। तस्वीरों को A4, Letter या फ़िट पृष्ठों के साथ, आपके क्रम में, एक PDF में जोड़ें। कोई साइन-अप नहीं - निजी तौर पर ब्राउज़र में काम करता है।",
-  "id": "/loona-pdf-tools/hi/jpg-to-pdf/",
+  "id": "/hi/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

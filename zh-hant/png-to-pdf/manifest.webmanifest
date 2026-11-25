@@ -2,7 +2,7 @@
   "name": "Loona PNG 轉 PDF 線上免費",
   "short_name": "PNG 轉 PDF 線上免費",
   "description": "線上免費將 PNG 圖片轉換為 PDF。截圖、標誌和圖形變成一份帶 A4、Letter 或適合頁面的 PDF。在瀏覽器中私密轉換，無需註冊。",
-  "id": "/loona-pdf-tools/zh-hant/png-to-pdf/",
+  "id": "/zh-hant/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

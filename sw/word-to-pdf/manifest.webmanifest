@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Badilisha hati ya Word .docx kuwa PDF safi na inayosomeka mtandaoni, bure katika kivinjari chako. Vichwa, orodha, majedwali na picha huhamishwa. Faili yako haipakiwi kamwe.",
-  "id": "/loona-pdf-tools/sw/word-to-pdf/",
+  "id": "/sw/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

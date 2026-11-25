@@ -2,7 +2,7 @@
   "name": "Loona חילוץ תמונות מ-PDF מקוון בחינם",
   "short_name": "חילוץ תמונות מ-PDF מקוון בחינם",
   "description": "חלצו את התמונות המקוריות המוטמעות ב-PDF בחינם באינטרנט: תמונות וגרפיקה נמשכות ברזולוציה המאוחסנת שלהן כקבצי PNG - לא צילומי מסך. 100% בדפדפן שלכם, שום דבר לא מועלה.",
-  "id": "/loona-pdf-tools/he/extract-images-from-pdf/",
+  "id": "/he/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

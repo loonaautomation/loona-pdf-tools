@@ -2,7 +2,7 @@
   "name": "Loona Kitengeneza Cheti Bure Mtandaoni bure mtandaoni",
   "short_name": "Kitengeneza Cheti Bure Mtandaoni bure mtandaoni",
   "description": "Kitengeneza cheti bure: buni cheti kinachoweza kuchapishwa kwenye onyesho la moja kwa moja, kisha pakua PDF ya A4 iliyo tayari kuchapishwa au PNG. Tengeneza cheti kimoja au mamia kwa wingi kutoka orodha ya majina. Hakuna kujisajili, hakuna alama ya maji, na kila kitu huendeshwa kwa faragha katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/certificate-maker/",
+  "id": "/sw/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

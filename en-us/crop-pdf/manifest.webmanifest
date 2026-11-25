@@ -2,7 +2,7 @@
   "name": "Loona Crop PDF Online - Free",
   "short_name": "Crop PDF Online - Free",
   "description": "Crop PDF pages free online: trim white margins or cut edges by points or percent on every page or one range. The page crop box is set precisely in your browser - nothing uploaded.",
-  "id": "/loona-pdf-tools/en-us/crop-pdf/",
+  "id": "/en-us/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

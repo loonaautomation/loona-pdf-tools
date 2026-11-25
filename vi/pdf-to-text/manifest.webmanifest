@@ -2,7 +2,7 @@
   "name": "Loona PDF sang văn bản trực tuyến miễn phí",
   "short_name": "PDF sang văn bản trực tuyến miễn phí",
   "description": "Trích xuất văn bản khỏi một PDF miễn phí trực tuyến. Lấy toàn văn của mọi trang để sao chép hoặc tải xuống dưới dạng tệp TXT. Không cần đăng ký, và PDF của bạn không bao giờ rời khỏi trình duyệt của bạn.",
-  "id": "/loona-pdf-tools/vi/pdf-to-text/",
+  "id": "/vi/pdf-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

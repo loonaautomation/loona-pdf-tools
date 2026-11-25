@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať PDF pre e-mail online zadarmo",
   "short_name": "Komprimovať PDF pre e-mail online zadarmo",
   "description": "Komprimujte PDF na 10 MB alebo menej, zadarmo vo vašom prehliadači. Nástroj najprv skúsi bezstratové opätovné uloženie a potom postupne znižuje kvalitu vykreslenia, kým sa váš súbor nezmestí — a oznámi presný výsledok.",
-  "id": "/loona-pdf-tools/sk/compress-pdf-for-email/",
+  "id": "/sk/compress-pdf-for-email/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

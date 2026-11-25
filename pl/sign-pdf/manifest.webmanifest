@@ -2,7 +2,7 @@
   "name": "Loona Podpisz PDF online za darmo",
   "short_name": "Podpisz PDF online za darmo",
   "description": "Podpisuj PDF za darmo online. Narysuj swój podpis lub prześlij jego obraz, umieść go z podglądem na żywo i pobierz podpisany PDF. Prywatnie – nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/sign-pdf/",
+  "id": "/pl/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

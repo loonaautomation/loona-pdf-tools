@@ -2,7 +2,7 @@
   "name": "Loona Dodaj vodeni žig u PDF besplatno na mreži",
   "short_name": "Dodaj vodeni žig u PDF besplatno na mreži",
   "description": "Dodajte tekstualni vodeni žig u PDF besplatno na mreži. Postavite tekst, veličinu, neprozirnost, kut i boju — u sredini ili u pločicama. Bez registracije; dodavanje vodenog žiga odvija se privatno u pregledniku.",
-  "id": "/loona-pdf-tools/hr/add-watermark-to-pdf/",
+  "id": "/hr/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

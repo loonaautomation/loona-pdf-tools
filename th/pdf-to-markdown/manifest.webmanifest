@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง PDF เป็น Markdown ออนไลน์ฟรี",
   "short_name": "ตัวแปลง PDF เป็น Markdown ออนไลน์ฟรี",
   "description": "แปลง PDF เป็น Markdown ออนไลน์ ฟรีในเบราว์เซอร์ของคุณ ข้อความถูกแยกโดยตรวจจับโครงสร้างหัวข้อจากขนาดฟอนต์ ไม่ต้องอัปโหลด ไม่ต้องสมัคร",
-  "id": "/loona-pdf-tools/th/pdf-to-markdown/",
+  "id": "/th/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

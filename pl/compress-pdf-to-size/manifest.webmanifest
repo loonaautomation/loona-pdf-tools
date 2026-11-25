@@ -2,7 +2,7 @@
   "name": "Loona Kompresuj PDF do wybranego rozmiaru online za darmo",
   "short_name": "Kompresuj PDF do wybranego rozmiaru online za darmo",
   "description": "Skompresuj PDF do dokładnego celu: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — plus ustawienia dla e-maila (10 MB) i WhatsApp (16 MB). Za darmo, w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/compress-pdf-to-size/",
+  "id": "/pl/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

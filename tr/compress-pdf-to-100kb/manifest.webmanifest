@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi PDF'yi 100 KB'ye Sıkıştır",
   "short_name": "Çevrimiçi PDF'yi 100 KB'ye Sıkıştır",
   "description": "Bir PDF'yi tarayıcınızda ücretsiz olarak 100 KB veya altına sıkıştırın. Araç önce kayıpsız bir yeniden kaydetmeyi dener, ardından dosyanız sığana kadar oluşturma kalitesini kademeli olarak düşürür ve tam sonucu bildirir.",
-  "id": "/loona-pdf-tools/tr/compress-pdf-to-100kb/",
+  "id": "/tr/compress-pdf-to-100kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

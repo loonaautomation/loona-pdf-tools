@@ -2,7 +2,7 @@
   "name": "Loona ExcelをPDFに変換 オンライン無料",
   "short_name": "ExcelをPDFに変換 オンライン無料",
   "description": "Excelスプレッドシート（.xlsx、.xls）とCSVファイルをオンラインで、きれいでページ分割されたPDF表に変換。ブラウザで無料。すべてのシートが、繰り返しヘッダー行のある表になります。アップロード不要。",
-  "id": "/loona-pdf-tools/ja/excel-to-pdf/",
+  "id": "/ja/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

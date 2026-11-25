@@ -2,7 +2,7 @@
   "name": "Loona PDFをExcelに変換",
   "short_name": "PDFをExcelに変換",
   "description": "Convert PDF tables to Excel (.xlsx) spreadsheets free in your browser. Preview and fix every cell before you download. No upload, no sign-up — your file never leaves your device.",
-  "id": "/loona-pdf-tools/ja/pdf-to-excel/",
+  "id": "/ja/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

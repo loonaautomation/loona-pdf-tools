@@ -2,7 +2,7 @@
   "name": "Loona PDF javítása online ingyen",
   "short_name": "PDF javítása online ingyen",
   "description": "Javítson meg egy sérült PDF-et ingyen, online: újjáépíti a törött kereszthivatkozási táblákat, és tiszta másolatot ment újra, végső megoldásként oldalképes újjáépítéssel. Őszinte korlátok feltüntetve. 100%-ban az Ön böngészőjében.",
-  "id": "/loona-pdf-tools/hu/repair-pdf/",
+  "id": "/hu/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

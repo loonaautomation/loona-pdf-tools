@@ -2,7 +2,7 @@
   "name": "Loona Excel سے PDF کنورٹر",
   "short_name": "Excel سے PDF کنورٹر",
   "description": "Excel اسپریڈشیٹس (.xlsx، .xls) اور CSV فائلوں کو صاف، صفحات والی PDF جدول میں آن لائن تبدیل کریں، اپنے براؤزر میں مفت۔ ہر شیٹ دہرائی جانے والی ہیڈر قطار کے ساتھ جدول بن جاتی ہے۔ نہ اپ لوڈ۔",
-  "id": "/loona-pdf-tools/ur/excel-to-pdf/",
+  "id": "/ur/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

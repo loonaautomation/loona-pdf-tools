@@ -2,7 +2,7 @@
   "name": "Loona GIF سے PDF کنورٹر",
   "short_name": "GIF سے PDF کنورٹر",
   "description": "GIF تصاویر کو PDF میں آن لائن، مفت، اپنے براؤزر میں تبدیل کریں۔ فی صفحہ ایک تصویر، تصویر کے مطابق فٹ یا A4/Letter صفحات۔ نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-pdf-tools/ur/gif-to-pdf/",
+  "id": "/ur/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

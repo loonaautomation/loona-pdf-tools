@@ -2,7 +2,7 @@
   "name": "Loona Vibadilishaji vya PDF bure mtandaoni",
   "short_name": "Vibadilishaji vya PDF bure mtandaoni",
   "description": "Kila kibadilishaji cha PDF mahali pamoja: picha, CSV, JSON, HTML na Markdown kwenda PDF — na PDF kurudi kwenye picha, maandishi, HTML na Markdown. Bure, katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/pdf-converters/",
+  "id": "/sw/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

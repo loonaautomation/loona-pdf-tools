@@ -2,7 +2,7 @@
   "name": "Loona Ongeza Alamisho kwenye PDF bure mtandaoni",
   "short_name": "Ongeza Alamisho kwenye PDF bure mtandaoni",
   "description": "Ongeza alamisho (muhtasari unaobofyeka) kwenye PDF bure mtandaoni: orodhesha vichwa vya sura pamoja na nambari zao za kurasa na upakue PDF yenye muhtasari halisi wa urambazaji. Kwenye kivinjari, hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/add-bookmarks-to-pdf/",
+  "id": "/sw/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

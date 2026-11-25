@@ -2,7 +2,7 @@
   "name": "Loona Extract PDF Pages Online Free",
   "short_name": "Extract PDF Pages Online Free",
   "description": "Extract selected pages from a PDF free online. Enter pages like 3, 5-8 and download them as a new, smaller PDF. No sign-up; extraction runs in your browser.",
-  "id": "/loona-pdf-tools/extract-pdf-pages/",
+  "id": "/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

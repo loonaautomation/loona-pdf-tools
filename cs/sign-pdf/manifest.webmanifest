@@ -2,7 +2,7 @@
   "name": "Loona Podepsat PDF online zdarma",
   "short_name": "Podepsat PDF online zdarma",
   "description": "Podepište PDF zdarma online. Nakreslete svůj podpis nebo nahrajte jeho obrázek, umístěte ho s živým náhledem a stáhněte podepsané PDF. Soukromě - nic se nenahrává.",
-  "id": "/loona-pdf-tools/cs/sign-pdf/",
+  "id": "/cs/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

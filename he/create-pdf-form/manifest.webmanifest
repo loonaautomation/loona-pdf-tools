@@ -2,7 +2,7 @@
   "name": "Loona יצירת טופס PDF מקוון בחינם",
   "short_name": "יצירת טופס PDF מקוון בחינם",
   "description": "הפכו כל PDF לטופס ניתן למילוי בחינם באינטרנט: הוסיפו שדות טקסט ותיבות סימון אמיתיים בדיוק היכן שאתם גוררים אותם, קראו לשדות, והורידו PDF AcroForm אמיתי שכל אחד יכול למלא. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/create-pdf-form/",
+  "id": "/he/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

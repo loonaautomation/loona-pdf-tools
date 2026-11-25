@@ -2,7 +2,7 @@
   "name": "Loona Excluir Páginas do PDF Online Grátis",
   "short_name": "Excluir Páginas do PDF",
   "description": "Excluir páginas de um PDF online grátis. Escreva os números de página a remover - como 2, 4-6 - e transfira o arquivo limpo. Sem registro; tudo fica no seu navegador.",
-  "id": "/loona-pdf-tools/pt-br/delete-pdf-pages/",
+  "id": "/pt-br/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

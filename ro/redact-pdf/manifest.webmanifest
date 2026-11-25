@@ -2,7 +2,7 @@
   "name": "Loona Redactează PDF online gratuit",
   "short_name": "Redactează PDF online gratuit",
   "description": "Redactează gratuit online un PDF: desenează casete negre peste nume, numere sau fotografii și încorporează-le definitiv - conținutul ascuns este eliminat, nu doar acoperit. 100% în browserul tău, fără să se încarce nimic.",
-  "id": "/loona-pdf-tools/ro/redact-pdf/",
+  "id": "/ro/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

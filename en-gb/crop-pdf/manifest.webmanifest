@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/crop-pdf/",
+  "id": "/en-gb/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

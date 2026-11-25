@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Halaman PDF online gratis",
   "short_name": "Ubah Ukuran Halaman PDF online gratis",
   "description": "Ubah ukuran halaman PDF gratis secara online: konversi setiap halaman ke A4, US Letter, atau Legal, atau skalakan berdasarkan persentase, dengan isi diskalakan agar muat dan dipusatkan. Berjalan di browser Anda - tanpa ada yang diunggah.",
-  "id": "/loona-pdf-tools/id/resize-pdf-pages/",
+  "id": "/id/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

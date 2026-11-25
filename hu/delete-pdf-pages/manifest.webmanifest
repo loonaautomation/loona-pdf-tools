@@ -2,7 +2,7 @@
   "name": "Loona PDF-oldalak törlése online ingyen",
   "short_name": "PDF-oldalak törlése online ingyen",
   "description": "Töröljön oldalakat egy PDF-ből ingyen, online. Írja be az eltávolítandó oldalszámokat – például 2, 4-6 –, és töltse le a megtisztított fájlt. Regisztráció nélkül; minden a böngészőjében marad.",
-  "id": "/loona-pdf-tools/hu/delete-pdf-pages/",
+  "id": "/hu/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

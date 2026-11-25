@@ -2,7 +2,7 @@
   "name": "Loona Penukar BMP kepada PDF dalam talian percuma",
   "short_name": "Penukar BMP kepada PDF dalam talian percuma",
   "description": "Tukar imej BMP kepada PDF dalam talian, secara percuma, dalam pelayar anda. Satu imej setiap halaman, halaman muat ke imej atau A4/Letter. Tiada muat naik, tiada pendaftaran.",
-  "id": "/loona-pdf-tools/ms/bmp-to-pdf/",
+  "id": "/ms/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

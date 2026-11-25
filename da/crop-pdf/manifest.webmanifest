@@ -2,7 +2,7 @@
   "name": "Loona Beskær PDF online gratis",
   "short_name": "Beskær PDF online gratis",
   "description": "Beskær gratis PDF-sider online: beskær hvide margener eller skær kanter i punkt eller procent på hver side eller ét interval. Sidens beskæringsboks indstilles præcist i din browser - intet uploades.",
-  "id": "/loona-pdf-tools/da/crop-pdf/",
+  "id": "/da/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON'dan PDF'ye Dönüştürücü",
   "short_name": "JSON'dan PDF'ye Dönüştürücü",
   "description": "JSON'u çevrimiçi, tarayıcınızda ücretsiz olarak okunabilir, sayfalandırılmış bir PDF'ye dönüştürün. Önce doğrulanır ve düzgün biçimlendirilir. Yükleme yok.",
-  "id": "/loona-pdf-tools/tr/json-to-pdf/",
+  "id": "/tr/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

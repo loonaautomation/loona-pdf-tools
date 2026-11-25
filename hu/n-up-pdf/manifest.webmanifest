@@ -2,7 +2,7 @@
   "name": "Loona N-up PDF online ingyen",
   "short_name": "N-up PDF online ingyen",
   "description": "Helyezzen több PDF-oldalt egy lapra ingyen, online: 2-up, 4-up, 6-up vagy 9-up elrendezés A4 vagy Letter méretben, olvasási sorrendben. Papírt takarít meg a kiosztandó anyagokon és piszkozatokon. Böngészőben, feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/n-up-pdf/",
+  "id": "/hu/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

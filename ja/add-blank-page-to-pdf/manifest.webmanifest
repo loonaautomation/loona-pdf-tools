@@ -2,7 +2,7 @@
   "name": "Loona PDFに空白ページを追加 オンライン無料",
   "short_name": "PDFに空白ページを追加 オンライン無料",
   "description": "PDFに空白ページを無料でオンライン挿入：先頭、末尾、または任意のページの後に、ドキュメントのページサイズ、A4、Letterに合わせて。即座に、ブラウザ上で、アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/add-blank-page-to-pdf/",
+  "id": "/ja/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

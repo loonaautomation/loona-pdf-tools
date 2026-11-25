@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى PDF – مجاني، دون رفع",
   "short_name": "محوّل JSON إلى PDF – مجاني، دون رفع",
   "description": "حوّل JSON إلى PDF مقروء مقسّم الصفحات عبر الإنترنت، مجانًا في متصفحك. يُتحقق منه ويُطبع بشكل منسق أولًا. دون رفع.",
-  "id": "/loona-pdf-tools/ar/json-to-pdf/",
+  "id": "/ar/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

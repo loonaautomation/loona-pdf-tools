@@ -2,7 +2,7 @@
   "name": "Loona PDF kepada PNG dalam talian percuma",
   "short_name": "PDF kepada PNG dalam talian percuma",
   "description": "Tukar halaman PDF kepada imej PNG secara percuma dalam talian sehingga resolusi 3x, dengan kelutsinar dikekalkan. Muat turun setiap halaman secara berasingan. Peribadi, dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/pdf-to-png/",
+  "id": "/ms/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

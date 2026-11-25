@@ -2,7 +2,7 @@
   "name": "Loona PDF abflachen Online kostenlos",
   "short_name": "PDF abflachen Online kostenlos",
   "description": "Ein PDF kostenlos online abflachen: Ausfüllbare Formularfelder in die Seiten einbetten, sodass Antworten nicht mehr bearbeitet werden können, mit optionalem vollständigem Bildneuaufbau, der alles abflacht. Privat, im Browser, ohne Anmeldung.",
-  "id": "/loona-pdf-tools/de/flatten-pdf/",
+  "id": "/de/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

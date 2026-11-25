@@ -2,7 +2,7 @@
   "name": "Loona PDF-annotaties verwijderen online gratis",
   "short_name": "PDF-annotaties verwijderen online gratis",
   "description": "Verwijder gratis online annotaties uit een PDF: opmerkingen, markeringen, plaknotities, stempels en markeringen worden verwijderd terwijl de pagina-inhoud onaangeroerd blijft. In de browser, niets geüpload.",
-  "id": "/loona-pdf-tools/nl/remove-pdf-annotations/",
+  "id": "/nl/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

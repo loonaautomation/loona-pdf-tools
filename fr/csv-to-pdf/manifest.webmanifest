@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur CSV en PDF",
   "short_name": "Convertisseur CSV en PDF",
   "description": "Convertissez des données CSV en un tableau PDF propre et paginé en ligne, gratuitement dans votre navigateur. Ligne d'en-tête en gras répétée, colonnes adaptées. Sans envoi.",
-  "id": "/loona-pdf-tools/fr/csv-to-pdf/",
+  "id": "/fr/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

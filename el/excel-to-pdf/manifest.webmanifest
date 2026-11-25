@@ -2,7 +2,7 @@
   "name": "Loona Excel σε PDF Online Δωρεάν",
   "short_name": "Excel σε PDF Online Δωρεάν",
   "description": "Μετατρέψτε υπολογιστικά φύλλα Excel (.xlsx, .xls) και αρχεία CSV σε έναν καθαρό, σελιδοποιημένο πίνακα PDF online, δωρεάν στο πρόγραμμα περιήγησής σας. Κάθε φύλλο γίνεται ένας πίνακας με επαναλαμβανόμενη γραμμή κεφαλίδας. Χωρίς μεταφόρτωση.",
-  "id": "/loona-pdf-tools/el/excel-to-pdf/",
+  "id": "/el/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

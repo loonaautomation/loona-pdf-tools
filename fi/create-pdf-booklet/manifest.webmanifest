@@ -2,7 +2,7 @@
   "name": "Loona Luo PDF-vihko verkossa ilmaiseksi",
   "short_name": "Luo PDF-vihko verkossa ilmaiseksi",
   "description": "Tee tulostettava vihko-PDF ilmaiseksi verkossa: sivut asemoidaan aitoon vihkojärjestykseen vaaka-arkeille - tulosta kaksipuolisesti, taita, nido. Tyhjät sivut täydentävät neljällä jaolliseen määrään automaattisesti.",
-  "id": "/loona-pdf-tools/fi/create-pdf-booklet/",
+  "id": "/fi/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

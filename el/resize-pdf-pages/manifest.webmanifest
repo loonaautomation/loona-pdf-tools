@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Σελίδων PDF Online Δωρεάν",
   "short_name": "Αλλαγή Μεγέθους Σελίδων PDF Online Δωρεάν",
   "description": "Αλλάξτε μέγεθος σελίδων PDF δωρεάν online: μετατρέψτε κάθε σελίδα σε A4, US Letter ή Legal, ή κλιμακώστε κατά ένα ποσοστό, με περιεχόμενο κλιμακωμένο για να χωρέσει και κεντραρισμένο. Λειτουργεί στο πρόγραμμα περιήγησής σας - τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-pdf-tools/el/resize-pdf-pages/",
+  "id": "/el/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

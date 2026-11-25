@@ -2,7 +2,7 @@
   "name": "Loona PDF a WebP en línea gratis",
   "short_name": "PDF a WebP en línea gratis",
   "description": "Convierte páginas PDF en imágenes WebP gratis en línea: más pequeñas que JPG y PNG para sitios web, renderizadas con la resolución que elijas en tu navegador. Sin subir nada, sin registro.",
-  "id": "/loona-pdf-tools/es/pdf-to-webp/",
+  "id": "/es/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

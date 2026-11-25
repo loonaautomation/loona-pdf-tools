@@ -2,7 +2,7 @@
   "name": "Loona PDF în WebP online gratuit",
   "short_name": "PDF în WebP online gratuit",
   "description": "Convertește gratuit online pagini PDF în imagini WebP: mai mici decât JPG și PNG pentru site-uri web, randate la rezoluția aleasă de tine în browserul tău. Fără să se încarce nimic, fără înregistrare.",
-  "id": "/loona-pdf-tools/ro/pdf-to-webp/",
+  "id": "/ro/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

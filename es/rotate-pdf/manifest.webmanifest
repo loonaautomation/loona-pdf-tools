@@ -2,7 +2,7 @@
   "name": "Loona Rotar PDF en línea gratis",
   "short_name": "Rotar PDF en línea gratis",
   "description": "Rota páginas PDF gratis en línea por 90, 180 o 270 grados (todas las páginas o un intervalo elegido) y guarda el archivo corregido. Sin registro; ocurre en tu navegador.",
-  "id": "/loona-pdf-tools/es/rotate-pdf/",
+  "id": "/es/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

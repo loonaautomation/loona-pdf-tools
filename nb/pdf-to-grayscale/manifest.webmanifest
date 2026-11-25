@@ -2,7 +2,7 @@
   "name": "Loona PDF til gråtoner på nett gratis",
   "short_name": "PDF til gråtoner på nett gratis",
   "description": "Konverter en PDF til gråtoner gratis på nett: hver side bygges på nytt i grånyanser - ideelt for billigere utskrift og et rent monokromt uttrykk. Kjører 100% i nettleseren din; ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/pdf-to-grayscale/",
+  "id": "/nb/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

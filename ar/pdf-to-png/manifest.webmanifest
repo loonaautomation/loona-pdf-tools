@@ -2,7 +2,7 @@
   "name": "Loona تحويل PDF إلى PNG عبر الإنترنت مجانًا",
   "short_name": "تحويل PDF إلى PNG عبر الإنترنت مجانًا",
   "description": "حوّل صفحات PDF إلى صور PNG مجانًا عبر الإنترنت بدقة تصل إلى 3x، مع الحفاظ على الشفافية. نزّل كل صفحة على حدة. خاص، في متصفحك.",
-  "id": "/loona-pdf-tools/ar/pdf-to-png/",
+  "id": "/ar/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

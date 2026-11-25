@@ -2,7 +2,7 @@
   "name": "Loona צנזור PDF מקוון בחינם",
   "short_name": "צנזור PDF מקוון בחינם",
   "description": "צנזרו PDF בחינם באינטרנט: ציירו תיבות שחורות מעל שמות, מספרים או תמונות ושרפו אותן לצמיתות - התוכן המוסתר מוסר, לא רק מכוסה. 100% בדפדפן שלכם, שום דבר לא מועלה.",
-  "id": "/loona-pdf-tools/he/redact-pdf/",
+  "id": "/he/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

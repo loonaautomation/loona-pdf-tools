@@ -2,7 +2,7 @@
   "name": "Loona PDF-muunnin HTML-muotoon verkossa ilmaiseksi",
   "short_name": "PDF-muunnin HTML-muotoon verkossa ilmaiseksi",
   "description": "Muunna PDF HTML:ksi verkossa, ilmaiseksi selaimessasi. Teksti puretaan, ja otsikkorakenne havaitaan fonttikokojen perusteella. Ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-pdf-tools/fi/pdf-to-html/",
+  "id": "/fi/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

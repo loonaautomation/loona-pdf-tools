@@ -2,7 +2,7 @@
   "name": "Loona 压平 PDF 在线免费",
   "short_name": "压平 PDF 在线免费",
   "description": "在线免费压平 PDF：将可填写的表单字段固化到页面中，使答案无法再编辑，并可选择完整图片重建以压平一切。在浏览器中私密进行，无需注册。",
-  "id": "/loona-pdf-tools/zh/flatten-pdf/",
+  "id": "/zh/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

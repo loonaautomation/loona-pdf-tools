@@ -2,7 +2,7 @@
   "name": "Loona Endre størrelse på PDF-sider på nett gratis",
   "short_name": "Endre størrelse på PDF-sider på nett gratis",
   "description": "Endre størrelse på PDF-sider gratis på nett: konverter hver side til A4, US Letter eller Legal, eller skaler med en prosent, med innholdet skalert til å passe og sentrert. Kjører i nettleseren din - ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/resize-pdf-pages/",
+  "id": "/nb/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

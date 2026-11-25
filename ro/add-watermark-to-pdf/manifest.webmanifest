@@ -2,7 +2,7 @@
   "name": "Loona Adaugă filigran online gratuit",
   "short_name": "Adaugă filigran online gratuit",
   "description": "Adaugă gratuit online un filigran text într-un PDF. Setează textul, dimensiunea, opacitatea, unghiul și culoarea - centrat sau în mozaic. Fără înregistrare; filigranarea rulează privat în browser.",
-  "id": "/loona-pdf-tools/ro/add-watermark-to-pdf/",
+  "id": "/ro/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwertery PDF online za darmo",
   "short_name": "Konwertery PDF online za darmo",
   "description": "Każdy konwerter PDF w jednym miejscu: obrazy, CSV, JSON, HTML i Markdown na PDF — oraz PDF z powrotem na obrazy, tekst, HTML i Markdown. Za darmo, w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/pdf-converters/",
+  "id": "/pl/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

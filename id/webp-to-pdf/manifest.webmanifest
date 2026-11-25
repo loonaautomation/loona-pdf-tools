@@ -2,7 +2,7 @@
   "name": "Loona Konverter WebP ke PDF online gratis",
   "short_name": "Konverter WebP ke PDF online gratis",
   "description": "Konversi gambar WebP ke PDF secara online, gratis, di browser Anda. Satu gambar per halaman, halaman pas-ke-gambar atau A4/Letter. Tanpa unggahan, tanpa pendaftaran.",
-  "id": "/loona-pdf-tools/id/webp-to-pdf/",
+  "id": "/id/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

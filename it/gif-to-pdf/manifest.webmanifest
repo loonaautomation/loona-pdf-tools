@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da GIF a PDF",
   "short_name": "Convertitore da GIF a PDF",
   "description": "Converti immagini GIF in un PDF online, gratuitamente, nel tuo browser. Un'immagine per pagina, pagine adatta all'immagine o A4/Letter. Nessun caricamento, nessuna registrazione.",
-  "id": "/loona-pdf-tools/it/gif-to-pdf/",
+  "id": "/it/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

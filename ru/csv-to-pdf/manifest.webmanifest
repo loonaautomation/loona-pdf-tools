@@ -2,7 +2,7 @@
   "name": "Loona Конвертер CSV в PDF",
   "short_name": "Loona Конвертер CSV в PDF",
   "description": "Преобразуйте данные CSV в аккуратную таблицу PDF с разбивкой на страницы онлайн, бесплатно в вашем браузере. Жирная повторяющаяся строка заголовка, подогнанные столбцы. Без загрузки.",
-  "id": "/loona-pdf-tools/ru/csv-to-pdf/",
+  "id": "/ru/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

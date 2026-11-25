@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp کے لیے PDF کمپریس کریں",
   "short_name": "WhatsApp کے لیے PDF کمپریس کریں",
   "description": "PDF کو 16 MB یا اس سے کم تک کمپریس کریں، اپنے براؤزر میں مفت۔ ٹول پہلے بغیر نقصان دوبارہ محفوظ کرنے کی کوشش کرتا ہے، پھر رینڈر معیار کو درجہ بدرجہ کم کرتا ہے جب تک آپ کی فائل فٹ نہ ہو جائے — اور درست نتیجہ بتاتا ہے۔",
-  "id": "/loona-pdf-tools/ur/compress-pdf-for-whatsapp/",
+  "id": "/ur/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

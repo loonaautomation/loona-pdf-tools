@@ -2,7 +2,7 @@
   "name": "Loona Pridať vodoznak do PDF online zadarmo",
   "short_name": "Pridať vodoznak do PDF online zadarmo",
   "description": "Pridajte textový vodoznak do PDF zadarmo online. Nastavte text, veľkosť, krytie, uhol a farbu - na stred alebo dlaždicovo. Bez registrácie; vodoznak sa vytvára súkromne v prehliadači.",
-  "id": "/loona-pdf-tools/sk/add-watermark-to-pdf/",
+  "id": "/sk/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

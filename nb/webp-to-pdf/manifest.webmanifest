@@ -2,7 +2,7 @@
   "name": "Loona WebP til PDF-konverter på nett gratis",
   "short_name": "WebP til PDF-konverter på nett gratis",
   "description": "Konverter WebP-bilder til en PDF på nett, gratis, i nettleseren din. Ett bilde per side, tilpass til bilde eller A4/Letter-sider. Ingen opplasting, ingen registrering.",
-  "id": "/loona-pdf-tools/nb/webp-to-pdf/",
+  "id": "/nb/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

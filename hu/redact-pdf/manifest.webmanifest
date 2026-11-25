@@ -2,7 +2,7 @@
   "name": "Loona PDF kifedése online ingyen",
   "short_name": "PDF kifedése online ingyen",
   "description": "Fedjen ki egy PDF-et ingyen, online: rajzoljon fekete dobozokat nevek, számok vagy fotók fölé, és égessen be őket véglegesen – a rejtett tartalom eltávolításra kerül, nem csak letakarásra. 100%-ban az Ön böngészőjében, feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/redact-pdf/",
+  "id": "/hu/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

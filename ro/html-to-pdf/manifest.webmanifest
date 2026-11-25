@@ -2,7 +2,7 @@
   "name": "Loona Convertor HTML în PDF online gratuit",
   "short_name": "Convertor HTML în PDF online gratuit",
   "description": "Convertește HTML în PDF online, gratuit, folosind propriul motor de imprimare în PDF al browserului tău — suport CSS complet, fără încărcare, fără filigrane.",
-  "id": "/loona-pdf-tools/ro/html-to-pdf/",
+  "id": "/ro/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

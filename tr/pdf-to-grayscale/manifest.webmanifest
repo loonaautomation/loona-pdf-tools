@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'yi Gri Tonlamaya",
   "short_name": "Çevrimiçi Ücretsiz PDF'yi Gri Tonlamaya",
   "description": "Bir PDF'yi çevrimiçi ücretsiz olarak gri tonlamaya dönüştürün: her sayfa gri tonlarında yeniden oluşturulur; daha ucuz baskı ve temiz tek renkli bir görünüm için idealdir. %100 tarayıcınızda çalışır; hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/pdf-to-grayscale/",
+  "id": "/tr/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

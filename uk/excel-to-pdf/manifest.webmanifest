@@ -2,7 +2,7 @@
   "name": "Loona Excel у PDF онлайн безкоштовно",
   "short_name": "Excel у PDF онлайн безкоштовно",
   "description": "Перетворюйте електронні таблиці Excel (.xlsx, .xls) і файли CSV на охайну таблицю PDF з розбиттям на сторінки онлайн, безкоштовно у своєму браузері. Кожен аркуш стає таблицею з рядком заголовка, що повторюється. Без передавання файлів.",
-  "id": "/loona-pdf-tools/uk/excel-to-pdf/",
+  "id": "/uk/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

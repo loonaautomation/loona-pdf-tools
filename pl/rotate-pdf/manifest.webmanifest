@@ -2,7 +2,7 @@
   "name": "Loona Obróć PDF online za darmo",
   "short_name": "Obróć PDF online za darmo",
   "description": "Obracaj strony PDF za darmo online o 90, 180 lub 270 stopni – wszystkie strony lub wybrany zakres – i zapisuj poprawiony plik. Bez rejestracji; dzieje się to w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/rotate-pdf/",
+  "id": "/pl/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dodaj zakładki do PDF online za darmo",
   "short_name": "Dodaj zakładki do PDF online za darmo",
   "description": "Dodaj zakładki (klikalny konspekt) do PDF za darmo online: wypisz tytuły rozdziałów wraz z numerami ich stron i pobierz PDF z prawdziwym konspektem nawigacji. W przeglądarce, nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/add-bookmarks-to-pdf/",
+  "id": "/pl/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

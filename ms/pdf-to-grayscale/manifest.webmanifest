@@ -2,7 +2,7 @@
   "name": "Loona PDF kepada Skala Kelabu dalam talian percuma",
   "short_name": "PDF kepada Skala Kelabu dalam talian percuma",
   "description": "Tukar PDF kepada skala kelabu secara percuma dalam talian: setiap halaman dibina semula dalam rona kelabu - sesuai untuk cetakan lebih murah dan rupa monokrom yang bersih. Berjalan 100% dalam pelayar anda; tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/pdf-to-grayscale/",
+  "id": "/ms/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

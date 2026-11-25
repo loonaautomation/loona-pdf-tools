@@ -2,7 +2,7 @@
   "name": "Loona Signaturgenerator på nett gratis",
   "short_name": "Signaturgenerator på nett gratis",
   "description": "Lag et signaturbilde gratis på nett: tegn det, skriv navnet ditt i en håndskriftstil, eller gjør et foto av signaturen din gjennomsiktig. Last ned en ren gjennomsiktig PNG - ingen opplasting, ingen registrering.",
-  "id": "/loona-pdf-tools/nb/signature-generator/",
+  "id": "/nb/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

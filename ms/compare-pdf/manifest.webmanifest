@@ -2,7 +2,7 @@
   "name": "Loona Bandingkan PDF dalam talian percuma",
   "short_name": "Bandingkan PDF dalam talian percuma",
   "description": "Bandingkan dua fail PDF secara percuma dalam talian dan lihat dengan tepat teks mana yang berubah, halaman demi halaman. Baris yang dibuang dan ditambah diserlahkan bersebelahan. Tanpa pendaftaran; perbandingan berjalan secara peribadi dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/compare-pdf/",
+  "id": "/ms/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

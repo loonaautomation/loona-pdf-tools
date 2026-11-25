@@ -2,7 +2,7 @@
   "name": "Loona Élőfej és élőláb hozzáadása online ingyen",
   "short_name": "Élőfej és élőláb hozzáadása online ingyen",
   "description": "Adjon élőfejet és élőlábat minden PDF-oldalhoz ingyen, online: egyéni szöveg, oldalszámok Page X of Y formátumokkal, igazítás és betűméret – mindez a böngészőjében, feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/add-header-footer-to-pdf/",
+  "id": "/hu/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

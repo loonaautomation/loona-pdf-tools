@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor dalam talian percuma",
   "short_name": "PDF Editor dalam talian percuma",
   "description": "Sunting fail PDF secara percuma dalam talian dengan Loona PDF Editor: tambah teks, imej, bentuk dan serlahan, tutup kesilapan dengan pemadam putih, lukis atau taip tandatangan, kemudian muat turun PDF anda yang siap. Semuanya berjalan dalam pelayar anda - fail anda tidak pernah meninggalkan peranti anda. Tiada pendaftaran, tiada had halaman, tiada tera air.",
-  "id": "/loona-pdf-tools/ms/pdf-editor/",
+  "id": "/ms/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

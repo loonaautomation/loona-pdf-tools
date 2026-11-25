@@ -2,7 +2,7 @@
   "name": "Loona Rotér PDF online gratis",
   "short_name": "Rotér PDF online gratis",
   "description": "Rotér gratis PDF-sider online med 90, 180 eller 270 grader - alle sider eller et valgt interval - og gem den rettede fil. Ingen tilmelding; det sker i din browser.",
-  "id": "/loona-pdf-tools/da/rotate-pdf/",
+  "id": "/da/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

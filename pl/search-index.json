@@ -1,7 +1,7 @@
 [
  {
   "n": "Scal PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/merge-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/merge-pdf/",
   "s": "Loona PDF Tools",
   "d": "Połącz kilka plików PDF w jeden dokument, w wybranej przez Ciebie kolejności.",
   "k": "merge pdf merge pdf combine join multiple files into one together połacz kilka plikow pdf w jeden dokument w wybranej przez ciebie kolejnosci",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Podziel PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/split-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/split-pdf/",
   "s": "Loona PDF Tools",
   "d": "Rozdziel PDF na pojedyncze strony lub niestandardowe zakresy stron.",
   "k": "split pdf split pdf separate divide cutter ranges extract pages rozdziel pdf na pojedyncze strony lub niestandardowe zakresy stron",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Kompresuj PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/compress-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/compress-pdf/",
   "s": "Loona PDF Tools",
   "d": "Zmniejsz PDF do e-maila, WhatsApp lub limitów przesyłania – dwa uczciwe tryby.",
   "k": "compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload zmniejsz pdf do e maila whatsapp lub limitow przesyłania dwa uczciwe tryby",
@@ -28,7 +28,7 @@
  },
  {
   "n": "JPG na PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/jpg-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/jpg-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Zamieniaj zdjęcia i skany JPG w jeden schludny PDF – strony A4, Letter lub dopasowane do obrazu.",
   "k": "jpg to pdf jpg to pdf jpeg photo image picture scan convert zamieniaj zdjecia i skany jpg w jeden schludny pdf strony a4 letter lub dopasowane do obrazu",
@@ -37,7 +37,7 @@
  },
  {
   "n": "PDF na JPG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-to-jpg/",
+  "u": "https://pdf.loonaautomation.com/pl/pdf-to-jpg/",
   "s": "Loona PDF Tools",
   "d": "Zamieniaj każdą stronę PDF w wysokiej jakości obraz JPG, który możesz udostępnić wszędzie.",
   "k": "pdf to jpg pdf to jpg jpeg image picture convert pages extract zamieniaj kazda strone pdf w wysokiej jakosci obraz jpg ktory mozesz udostepnic wszedzie",
@@ -46,7 +46,7 @@
  },
  {
   "n": "PNG na PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/png-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/png-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Połącz zrzuty ekranu PNG i grafiki w jeden czysty dokument PDF.",
   "k": "png to pdf png to pdf image picture screenshot convert photo połacz zrzuty ekranu png i grafiki w jeden czysty dokument pdf",
@@ -55,7 +55,7 @@
  },
  {
   "n": "PDF na PNG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-to-png/",
+  "u": "https://pdf.loonaautomation.com/pl/pdf-to-png/",
   "s": "Loona PDF Tools",
   "d": "Konwertuj strony PDF na ostre obrazy PNG – z zachowaną prawdziwą przezroczystością.",
   "k": "pdf to png pdf to png image transparent convert picture konwertuj strony pdf na ostre obrazy png z zachowana prawdziwa przezroczystoscia",
@@ -64,7 +64,7 @@
  },
  {
   "n": "PDF na tekst",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-to-text/",
+  "u": "https://pdf.loonaautomation.com/pl/pdf-to-text/",
   "s": "Loona PDF Tools",
   "d": "Wyciągnij cały czytelny tekst z PDF-a, abyś mógł go kopiować, edytować i ponownie używać.",
   "k": "pdf to text pdf to text extract txt words copy plain text file wyciagnij cały czytelny tekst z pdf a abys mogł go kopiowac edytowac i ponownie uzywac",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Tekst na PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/text-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/text-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Wpisz lub wklej tekst i pobierz go jako schludny, nadający się do druku dokument PDF.",
   "k": "text to pdf text to pdf txt write type document make create wpisz lub wklej tekst i pobierz go jako schludny nadajacy sie do druku dokument pdf",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Excel na PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/excel-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/excel-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Zamieniaj arkusze .xlsx, .xls i CSV w czyste tabele PDF – każdy arkusz, bez przesyłania.",
   "k": "excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert zamieniaj arkusze xlsx xls i csv w czyste tabele pdf kazdy arkusz bez przesyłania",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Obróć PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/rotate-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/rotate-pdf/",
   "s": "Loona PDF Tools",
   "d": "Napraw trwale strony PDF leżące bokiem lub do góry nogami, w swojej przeglądarce.",
   "k": "rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees napraw trwale strony pdf lezace bokiem lub do gory nogami w swojej przegladarce",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Usuń strony PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/delete-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/pl/delete-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Usuwaj puste, zduplikowane lub niechciane strony i zachowaj szczuplejszy dokument.",
   "k": "delete pdf pages delete pdf pages remove unwanted blank duplicate pages usuwaj puste zduplikowane lub niechciane strony i zachowaj szczuplejszy dokument",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Wyodrębnij strony PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/extract-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/pl/extract-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Zachowaj tylko strony, których potrzebujesz – jak strona 3 i 5-8 – jako całkiem nowy PDF.",
   "k": "extract pdf pages extract pdf pages keep select pages range new document pull zachowaj tylko strony ktorych potrzebujesz jak strona 3 i 5 8 jako całkiem nowy pdf",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Uporządkuj PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/organize-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/organize-pdf/",
   "s": "Loona PDF Tools",
   "d": "Zobacz każdą stronę jako miniaturę – przeciągaj, aby zmieniać kolejność, obracaj strony leżące bokiem, usuwaj strony, których nie potrzebujesz.",
   "k": "organize pdf organize pdf reorder rearrange sort thumbnails drag move pages zobacz kazda strone jako miniature przeciagaj aby zmieniac kolejnosc obracaj strony lezace bokiem usuwaj strony ktorych nie potrzebujesz",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Kreator certyfikatów",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/certificate-maker/",
+  "u": "https://pdf.loonaautomation.com/pl/certificate-maker/",
   "s": "Loona PDF Tools",
   "d": "Projektuj certyfikaty do druku na podglądzie na żywo – po jednym albo setki zbiorczo z listy nazwisk.",
   "k": "certificate maker certificate maker award diploma design bulk names printable projektuj certyfikaty do druku na podgladzie na zywo po jednym albo setki zbiorczo z listy nazwisk",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Dodaj numery stron",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/add-page-numbers-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/add-page-numbers-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Stempluj numery stron w swoim stylu i pozycji na każdej stronie PDF-a.",
   "k": "add page numbers add page numbers to pdf numbering stamp folio pagination pages stempluj numery stron w swoim stylu i pozycji na kazdej stronie pdf a",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Dodaj znak wodny",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/add-watermark-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/add-watermark-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Stempluj tekst jak CONFIDENTIAL lub nazwę Twojej szkoły na każdej stronie.",
   "k": "add watermark add watermark to pdf stamp confidential overlay text brand pages stempluj tekst jak confidential lub nazwe twojej szkoły na kazdej stronie",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Podpisz PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/sign-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/sign-pdf/",
   "s": "Loona PDF Tools",
   "d": "Narysuj lub prześlij swój podpis i umieść go dokładnie tam, gdzie jego miejsce.",
   "k": "sign pdf sign pdf signature draw sign document electronic signature narysuj lub przeslij swoj podpis i umiesc go dokładnie tam gdzie jego miejsce",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Edytuj informacje o PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/edit-pdf-info/",
+  "u": "https://pdf.loonaautomation.com/pl/edit-pdf-info/",
   "s": "Loona PDF Tools",
   "d": "Przeglądaj i zmieniaj ukryty tytuł, autora, temat i słowa kluczowe PDF-a.",
   "k": "edit pdf info edit pdf info metadata title author subject keywords properties info przegladaj i zmieniaj ukryty tytuł autora temat i słowa kluczowe pdf a",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Wypełnij formularz PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/fill-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/pl/fill-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Otwórz wypełnialny formularz PDF, wpisz w jego pola i pobierz ukończoną kopię – edytowalną lub spłaszczoną.",
   "k": "fill pdf form fill pdf form form fields fillable complete fill type otworz wypełnialny formularz pdf wpisz w jego pola i pobierz ukonczona kopie edytowalna lub spłaszczona",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Porównaj PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/compare-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/compare-pdf/",
   "s": "Loona PDF Tools",
   "d": "Zobacz dokładnie, który tekst zmienił się między dwiema wersjami PDF-a, strona po stronie, z wyróżnionymi różnicami.",
   "k": "compare pdf compare pdf diff differences two versions side by side changes zobacz dokładnie ktory tekst zmienił sie miedzy dwiema wersjami pdf a strona po stronie z wyroznionymi roznicami",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Generator podpisu",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/signature-generator/",
+  "u": "https://pdf.loonaautomation.com/pl/signature-generator/",
   "s": "Loona PDF Tools",
   "d": "Utwórz przezroczysty PNG swojego podpisu – narysuj go, wpisz lub usuń białe tło zdjęcia.",
   "k": "signature generator signature generator draw signature create sign name handwritten utworz przezroczysty png swojego podpisu narysuj go wpisz lub usun białe tło zdjecia",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Redaguj PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/redact-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/redact-pdf/",
   "s": "Loona PDF Tools",
   "d": "Trwale zaczerniaj wrażliwe obszary – wtopione w obraz strony, nigdy tylko przykryte.",
   "k": "redact pdf redact pdf black out hide sensitive permanent remove text censor trwale zaczerniaj wrazliwe obszary wtopione w obraz strony nigdy tylko przykryte",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Utwórz formularz PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/create-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/pl/create-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Dodaj prawdziwe wypełnialne pola tekstowe i pola wyboru do dowolnego płaskiego PDF-a.",
   "k": "create pdf form create pdf form fillable form fields maker creator build dodaj prawdziwe wypełnialne pola tekstowe i pola wyboru do dowolnego płaskiego pdf a",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Spłaszcz PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/flatten-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/flatten-pdf/",
   "s": "Loona PDF Tools",
   "d": "Wtop odpowiedzi formularza w strony, aby nie dało się ich już edytować, albo odbuduj strony jako obrazy.",
   "k": "flatten pdf flatten pdf flatten form annotations layers lock wtop odpowiedzi formularza w strony aby nie dało sie ich juz edytowac albo odbuduj strony jako obrazy",
@@ -226,7 +226,7 @@
  },
  {
   "n": "PDF na skalę szarości",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-to-grayscale/",
+  "u": "https://pdf.loonaautomation.com/pl/pdf-to-grayscale/",
   "s": "Loona PDF Tools",
   "d": "Konwertuj każdą stronę na odcienie szarości dla tańszego drukowania i czystego monochromatycznego wyglądu.",
   "k": "pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert konwertuj kazda strone na odcienie szarosci dla tanszego drukowania i czystego monochromatycznego wygladu",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Dodaj nagłówek i stopkę",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/add-header-footer-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/add-header-footer-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Stempluj tekst nagłówka i stopki na każdej stronie, z wbudowanymi numerami Strona X z Y.",
   "k": "add header footer add header footer to pdf header footer stamp text top bottom pages stempluj tekst nagłowka i stopki na kazdej stronie z wbudowanymi numerami strona x z y",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Napraw PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/repair-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/repair-pdf/",
   "s": "Loona PDF Tools",
   "d": "Napraw uszkodzenia strukturalne – zepsute indeksy i końcowe śmieci – i zapisz czystą kopię.",
   "k": "repair pdf repair pdf fix corrupted damaged broken recover restore napraw uszkodzenia strukturalne zepsute indeksy i koncowe smieci i zapisz czysta kopie",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Przytnij PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/crop-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/crop-pdf/",
   "s": "Loona PDF Tools",
   "d": "Przycinaj białe marginesy lub tnij krawędzie stron o punkty, procenty lub milimetry.",
   "k": "crop pdf crop pdf trim margins cut white borders pages przycinaj białe marginesy lub tnij krawedzie stron o punkty procenty lub milimetry",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Zmień rozmiar stron PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/resize-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/pl/resize-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Zmień każdą stronę na A4, Letter lub Legal, skalując treść, aby się dopasowała.",
   "k": "resize pdf pages resize pdf pages page size a4 letter dimensions resize change zmien kazda strone na a4 letter lub legal skalujac tresc aby sie dopasowała",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Odwróć strony PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/reverse-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/pl/reverse-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Odwróć PDF od końca tak, aby ostatnia strona stała się pierwszą.",
   "k": "reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front odwroc pdf od konca tak aby ostatnia strona stała sie pierwsza",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Usuń adnotacje PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/remove-pdf-annotations/",
+  "u": "https://pdf.loonaautomation.com/pl/remove-pdf-annotations/",
   "s": "Loona PDF Tools",
   "d": "Usuwaj komentarze, wyróżnienia, karteczki samoprzylepne i stemple, podczas gdy treść strony pozostaje nienaruszona.",
   "k": "remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations usuwaj komentarze wyroznienia karteczki samoprzylepne i stemple podczas gdy tresc strony pozostaje nienaruszona",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Rozmiary stron PDF i informacje",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-page-sizes/",
+  "u": "https://pdf.loonaautomation.com/pl/pdf-page-sizes/",
   "s": "Loona PDF Tools",
   "d": "Zobacz dokładny rozmiar każdej strony w punktach, milimetrach i calach oraz informacje o dokumencie.",
   "k": "pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure zobacz dokładny rozmiar kazdej strony w punktach milimetrach i calach oraz informacje o dokumencie",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Dodaj zakładki do PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/add-bookmarks-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/add-bookmarks-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Daj długiemu PDF-owi klikalny konspekt rozdziałów i sekcji.",
   "k": "add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation daj długiemu pdf owi klikalny konspekt rozdziałow i sekcji",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Wyodrębnij obrazy z PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/extract-images-from-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/extract-images-from-pdf/",
   "s": "Loona PDF Tools",
   "d": "Wyciągnij oryginalne osadzone zdjęcia i grafiki z PDF-a jako pliki PNG.",
   "k": "extract images from pdf extract images from pdf get pictures photos images out extract save wyciagnij oryginalne osadzone zdjecia i grafiki z pdf a jako pliki png",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Dodaj pustą stronę do PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/add-blank-page-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/add-blank-page-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Wstaw puste strony na początku, na końcu lub po dowolnej stronie, o dopasowanym rozmiarze.",
   "k": "add blank page to pdf add blank page to pdf insert blank empty page add new wstaw puste strony na poczatku na koncu lub po dowolnej stronie o dopasowanym rozmiarze",
@@ -325,7 +325,7 @@
  },
  {
   "n": "PDF na WebP",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-to-webp/",
+  "u": "https://pdf.loonaautomation.com/pl/pdf-to-webp/",
   "s": "Loona PDF Tools",
   "d": "Konwertuj strony PDF na obrazy WebP – mniejsze niż JPG na strony internetowe, w wybranej przez Ciebie jakości.",
   "k": "pdf to webp pdf to webp webp image convert picture konwertuj strony pdf na obrazy webp mniejsze niz jpg na strony internetowe w wybranej przez ciebie jakosci",
@@ -334,7 +334,7 @@
  },
  {
   "n": "N-up PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/n-up-pdf/",
+  "u": "https://pdf.loonaautomation.com/pl/n-up-pdf/",
   "s": "Loona PDF Tools",
   "d": "Umieść 2, 4, 6 lub 9 stron na jednym arkuszu w kolejności czytania i oszczędzaj papier na materiałach do rozdania.",
   "k": "n up pdf n up pdf n-up multiple pages per sheet impose tiles print umiesc 2 4 6 lub 9 stron na jednym arkuszu w kolejnosci czytania i oszczedzaj papier na materiałach do rozdania",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Utwórz broszurę PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/create-pdf-booklet/",
+  "u": "https://pdf.loonaautomation.com/pl/create-pdf-booklet/",
   "s": "Loona PDF Tools",
   "d": "Rozłóż strony w prawdziwej kolejności broszury – drukuj dwustronnie, złóż, zszyj.",
   "k": "create pdf booklet create pdf booklet booklet book fold impose print saddle stitch rozłoz strony w prawdziwej kolejnosci broszury drukuj dwustronnie złoz zszyj",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Usuń puste strony",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/remove-blank-pages/",
+  "u": "https://pdf.loonaautomation.com/pl/remove-blank-pages/",
   "s": "Loona PDF Tools",
   "d": "Wykrywaj prawie puste strony na podstawie analizy pikseli i usuwaj je, z uczciwym pokryciem dla każdej strony.",
   "k": "remove blank pages remove blank pages delete empty blank pages clean remove automatically wykrywaj prawie puste strony na podstawie analizy pikseli i usuwaj je z uczciwym pokryciem dla kazdej strony",
@@ -361,11 +361,11 @@
  },
  {
   "n": "PDF na Excel",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-to-excel/",
+  "u": "https://pdf.loonaautomation.com/pl/pdf-to-excel/",
   "s": "Loona PDF Tools",
   "d": "Wyodrębniaj tabele PDF do edytowalnych arkuszy Excel (.xlsx) - podglądaj i poprawiaj każdą komórkę, bez przesyłania.",
   "k": "pdf na excel pdf to excel converter xlsx wyodrębniaj tabele pdf do edytowalnych arkuszy excel (.xlsx)   podglądaj i poprawiaj każdą komórkę, bez przesyłania. pdf to excel konwerter pdf na excel",
   "p": 110,
   "c": "Tool"
  }
-,{"n":"Word to PDF","u":"https://loonaautomation.github.io/loona-pdf-tools/pl/word-to-pdf/","s":"Loona PDF Tools","d":"Konwertuj dokumenty Word (.docx) na czyste, czytelne pliki PDF – nagłówki, listy, tabele i obrazy zachowane, bez przesyłania.","k":"word to pdf word to pdf docx doc word document microsoft convert turn word docx documents into clean readable pdf headings lists tables and images kept no upload konwertuj dokumenty word docx na czyste czytelne pliki pdf nagłówki listy tabele i obrazy zachowane bez przesyłania","p":140,"c":"Tool"},{"n":"Loona PDF Editor","u":"https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-editor/","s":"Loona PDF Tools","d":"Edytuj PDF online: dodawaj tekst, obrazy, kształty i podpisy, zakrywaj błędy korektorem i pobierz gotowy plik.","k":"pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Edytuj PDF online: dodawaj tekst, obrazy, kształty i podpisy, zakrywaj błędy korektorem i pobierz gotowy plik.","p":141,"c":"Tool"},{"n": "PDF na Word", "u": "https://loonaautomation.github.io/loona-pdf-tools/pl/pdf-to-word/", "s": "Loona PDF Tools", "d": "Konwertuj tekstowy PDF na edytowalny dokument Word (.docx) – nagłówki, listy i proste tabele, bez przesyłania.", "k": "pdf to word pdf to word docx word document convert konwertuj tekstowy pdf na edytowalny dokument word docx nagłówki listy i proste tabele bez przesyłania", "p": 142, "c": "Tool"}]
+,{"n":"Word to PDF","u":"https://pdf.loonaautomation.com/pl/word-to-pdf/","s":"Loona PDF Tools","d":"Konwertuj dokumenty Word (.docx) na czyste, czytelne pliki PDF – nagłówki, listy, tabele i obrazy zachowane, bez przesyłania.","k":"word to pdf word to pdf docx doc word document microsoft convert turn word docx documents into clean readable pdf headings lists tables and images kept no upload konwertuj dokumenty word docx na czyste czytelne pliki pdf nagłówki listy tabele i obrazy zachowane bez przesyłania","p":140,"c":"Tool"},{"n":"Loona PDF Editor","u":"https://pdf.loonaautomation.com/pl/pdf-editor/","s":"Loona PDF Tools","d":"Edytuj PDF online: dodawaj tekst, obrazy, kształty i podpisy, zakrywaj błędy korektorem i pobierz gotowy plik.","k":"pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Edytuj PDF online: dodawaj tekst, obrazy, kształty i podpisy, zakrywaj błędy korektorem i pobierz gotowy plik.","p":141,"c":"Tool"},{"n": "PDF na Word", "u": "https://pdf.loonaautomation.com/pl/pdf-to-word/", "s": "Loona PDF Tools", "d": "Konwertuj tekstowy PDF na edytowalny dokument Word (.docx) – nagłówki, listy i proste tabele, bez przesyłania.", "k": "pdf to word pdf to word docx word document convert konwertuj tekstowy pdf na edytowalny dokument word docx nagłówki listy i proste tabele bez przesyłania", "p": 142, "c": "Tool"}]

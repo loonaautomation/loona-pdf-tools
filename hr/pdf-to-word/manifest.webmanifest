@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač PDF-a u Word",
   "short_name": "Pretvarač PDF-a u Word",
   "description": "Pretvorite tekstualni PDF u Word dokument (.docx) koji se može uređivati, besplatno u svom pregledniku. Naslovi, odlomci, popisi i jednostavne tablice prenose se. Bez prijenosa, bez registracije — vaša datoteka nikad ne napušta vaš uređaj.",
-  "id": "/loona-pdf-tools/hr/pdf-to-word/",
+  "id": "/hr/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

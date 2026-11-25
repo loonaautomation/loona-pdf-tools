@@ -2,7 +2,7 @@
   "name": "Loona PDF-formulier invullen online gratis",
   "short_name": "PDF-formulier invullen online gratis",
   "description": "Vul gratis online een invulbaar PDF-formulier in. Upload een PDF met formuliervelden, typ in de tekstvakken, selectievakjes, keuzelijsten en keuzerondjes, en download daarna de voltooide PDF. Geen registratie; alles gebeurt privé in je browser.",
-  "id": "/loona-pdf-tools/nl/fill-pdf-form/",
+  "id": "/nl/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

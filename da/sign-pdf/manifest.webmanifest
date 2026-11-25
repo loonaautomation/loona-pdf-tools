@@ -2,7 +2,7 @@
   "name": "Loona Underskriv PDF online gratis",
   "short_name": "Underskriv PDF online gratis",
   "description": "Underskriv gratis en PDF online. Tegn din underskrift, eller upload dens billede, placer den med en live forhåndsvisning, og download den underskrevne PDF. Privat - intet uploades.",
-  "id": "/loona-pdf-tools/da/sign-pdf/",
+  "id": "/da/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

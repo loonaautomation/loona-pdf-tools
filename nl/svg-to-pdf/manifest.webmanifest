@@ -2,7 +2,7 @@
   "name": "Loona SVG naar PDF-converter online gratis",
   "short_name": "SVG naar PDF-converter online gratis",
   "description": "Converteer SVG-afbeeldingen online naar een PDF, gratis, in je browser. Eén afbeelding per pagina, aanpassen aan afbeelding of A4/Letter-pagina's. Geen upload, geen registratie.",
-  "id": "/loona-pdf-tools/nl/svg-to-pdf/",
+  "id": "/nl/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

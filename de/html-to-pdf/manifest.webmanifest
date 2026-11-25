@@ -2,7 +2,7 @@
   "name": "Loona HTML-zu-PDF-Konverter",
   "short_name": "HTML-zu-PDF-Konverter",
   "description": "HTML online kostenlos in PDF konvertieren, mit der eigenen Druck-zu-PDF-Engine Ihres Browsers — volle CSS-Unterstützung, kein Upload, keine Wasserzeichen.",
-  "id": "/loona-pdf-tools/de/html-to-pdf/",
+  "id": "/de/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dodaj numery stron do PDF online za darmo",
   "short_name": "Dodaj numery stron do PDF online za darmo",
   "description": "Dodaj numery stron do PDF za darmo online. Wybierz styl (1, Strona 1, 1 z 10), pozycję i numer początkowy. Bez rejestracji; numerowanie odbywa się prywatnie w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/add-page-numbers-to-pdf/",
+  "id": "/pl/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

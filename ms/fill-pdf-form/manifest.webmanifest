@@ -2,7 +2,7 @@
   "name": "Loona Isi Borang PDF dalam talian percuma",
   "short_name": "Isi Borang PDF dalam talian percuma",
   "description": "Isi borang PDF boleh isi secara percuma dalam talian. Muat naik PDF yang mempunyai medan borang, taip ke dalam kotak teks, kotak tanda, senarai juntai bawah dan butang radionya, kemudian muat turun PDF yang lengkap. Tanpa pendaftaran; semuanya berjalan secara peribadi dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/fill-pdf-form/",
+  "id": "/ms/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

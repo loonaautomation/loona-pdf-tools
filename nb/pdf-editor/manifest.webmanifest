@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor på nett gratis",
   "short_name": "Loona PDF Editor",
   "description": "Rediger PDF-filer gratis på nett med Loona PDF Editor: legg til tekst, bilder, former og uthevinger, dekk feil med whiteout, tegn eller skriv en signatur, og last ned den ferdige PDF-en. Alt kjører i nettleseren din - filen forlater aldri enheten din. Ingen registrering, ingen sidegrenser, ingen vannmerker.",
-  "id": "/loona-pdf-tools/nb/pdf-editor/",
+  "id": "/nb/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

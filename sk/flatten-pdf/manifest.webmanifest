@@ -2,7 +2,7 @@
   "name": "Loona Sploštiť PDF online zadarmo",
   "short_name": "Sploštiť PDF online zadarmo",
   "description": "Sploštite PDF zadarmo online: vpečte vyplniteľné polia formulára do stránok, aby sa odpovede už nedali upravovať, s voliteľnou úplnou prestavbou na obrázky, ktorá sploští všetko. Súkromne, v prehliadači, bez registrácie.",
-  "id": "/loona-pdf-tools/sk/flatten-pdf/",
+  "id": "/sk/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

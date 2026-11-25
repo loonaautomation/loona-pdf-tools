@@ -2,7 +2,7 @@
   "name": "Loona ขนาดหน้า PDF และข้อมูล ออนไลน์ฟรี",
   "short_name": "ขนาดหน้า PDF และข้อมูล ออนไลน์ฟรี",
   "description": "ตรวจสอบขนาดหน้า PDF ฟรีออนไลน์: ขนาดของทุกหน้าเป็นพอยต์ มิลลิเมตร และนิ้ว ขนาดมาตรฐานที่ใกล้ที่สุด (A4, Letter...) การหมุน บวกชื่อเรื่อง ผู้แต่ง และเวอร์ชัน PDF ไม่มีการอัปโหลดใด ๆ",
-  "id": "/loona-pdf-tools/th/pdf-page-sizes/",
+  "id": "/th/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

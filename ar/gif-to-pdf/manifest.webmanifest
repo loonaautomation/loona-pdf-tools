@@ -2,7 +2,7 @@
   "name": "Loona محوّل GIF إلى PDF – مجاني، دون رفع",
   "short_name": "محوّل GIF إلى PDF – مجاني، دون رفع",
   "description": "حوّل صور GIF إلى PDF عبر الإنترنت، مجانًا، في متصفحك. صورة واحدة في كل صفحة، صفحات بملاءمة الصورة أو A4/Letter. دون رفع، دون تسجيل.",
-  "id": "/loona-pdf-tools/ar/gif-to-pdf/",
+  "id": "/ar/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

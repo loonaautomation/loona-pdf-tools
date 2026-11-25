@@ -2,7 +2,7 @@
   "name": "Loona محوّل Excel إلى PDF – مجاني، دون رفع",
   "short_name": "محوّل Excel إلى PDF – مجاني، دون رفع",
   "description": "حوّل جداول Excel (.xlsx، .xls) وملفات CSV إلى جدول PDF نظيف مقسّم الصفحات عبر الإنترنت، مجانًا في متصفحك. تصبح كل ورقة جدولًا بصف ترويسة متكرر. دون رفع.",
-  "id": "/loona-pdf-tools/ar/excel-to-pdf/",
+  "id": "/ar/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

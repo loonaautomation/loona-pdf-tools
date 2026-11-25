@@ -2,7 +2,7 @@
   "name": "Loona JSON kepada PDF dalam talian percuma",
   "short_name": "JSON kepada PDF dalam talian percuma",
   "description": "Tukar JSON kepada PDF yang boleh dibaca dan berpaginasi dalam talian, secara percuma dalam pelayar anda. Disahkan dan dicetak kemas terlebih dahulu. Tiada muat naik.",
-  "id": "/loona-pdf-tools/ms/json-to-pdf/",
+  "id": "/ms/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

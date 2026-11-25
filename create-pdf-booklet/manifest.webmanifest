@@ -2,7 +2,7 @@
   "name": "Loona Create PDF Booklet Online Free",
   "short_name": "Create PDF Booklet Online Free",
   "description": "Make a printable booklet PDF free online: pages are imposed in true booklet order on landscape sheets - print double-sided, fold, staple. Blank pages pad to a multiple of four automatically.",
-  "id": "/loona-pdf-tools/create-pdf-booklet/",
+  "id": "/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

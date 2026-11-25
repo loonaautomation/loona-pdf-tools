@@ -2,7 +2,7 @@
   "name": "Loona Dodaj knjižne oznake u PDF besplatno na mreži",
   "short_name": "Dodaj knjižne oznake u PDF besplatno na mreži",
   "description": "Dodajte oznake (sadržaj na koji se može kliknuti) u PDF besplatno na mreži: navedite naslove poglavlja s njihovim brojevima stranica i preuzmite PDF s pravim navigacijskim sadržajem. U pregledniku, ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/add-bookmarks-to-pdf/",
+  "id": "/hr/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Snu PDF-sider på nett gratis",
   "short_name": "Snu PDF-sider på nett gratis",
   "description": "Snu siderekkefølgen i en PDF gratis på nett - siste side blir først. Perfekt for å fikse bak-frem-skanninger. Øyeblikkelig, i nettleseren din, ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/reverse-pdf-pages/",
+  "id": "/nb/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

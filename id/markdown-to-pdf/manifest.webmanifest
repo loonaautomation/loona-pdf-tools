@@ -2,7 +2,7 @@
   "name": "Loona Markdown ke PDF online gratis",
   "short_name": "Markdown ke PDF online gratis",
   "description": "Konversi Markdown ke PDF bergaya secara online, gratis di browser Anda. Heading, daftar, kode, dan tautan dirender dengan pratinjau langsung. Tanpa unggahan.",
-  "id": "/loona-pdf-tools/id/markdown-to-pdf/",
+  "id": "/id/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

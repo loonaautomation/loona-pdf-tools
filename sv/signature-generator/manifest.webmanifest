@@ -2,7 +2,7 @@
   "name": "Loona Signaturgenerator online gratis",
   "short_name": "Signaturgenerator online gratis",
   "description": "Skapa en signaturbild gratis online: rita den, skriv ditt namn i en handskriftsstil, eller gör ett foto av din signatur transparent. Ladda ner en ren transparent PNG - ingen uppladdning, ingen registrering.",
-  "id": "/loona-pdf-tools/sv/signature-generator/",
+  "id": "/sv/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

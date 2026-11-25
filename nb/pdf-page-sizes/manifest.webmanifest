@@ -2,7 +2,7 @@
   "name": "Loona PDF-sidestørrelser & info på nett gratis",
   "short_name": "PDF-sidestørrelser & info på nett gratis",
   "description": "Sjekk sidestørrelsene til en PDF gratis på nett: hver sides mål i punkter, millimeter og tommer, nærmeste standardstørrelse (A4, Letter...), rotasjon, pluss tittel, forfatter og PDF-versjon. Ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/pdf-page-sizes/",
+  "id": "/nb/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

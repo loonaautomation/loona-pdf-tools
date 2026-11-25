@@ -2,7 +2,7 @@
   "name": "Loona Vytvořit brožuru PDF online zdarma",
   "short_name": "Vytvořit brožuru PDF online zdarma",
   "description": "Vytvořte tisknutelnou brožuru PDF zdarma online: stránky se seřadí ve skutečném pořadí brožury na listy na šířku - tiskněte oboustranně, přeložte, sešijte. Prázdné stránky se automaticky doplní na násobek čtyř.",
-  "id": "/loona-pdf-tools/cs/create-pdf-booklet/",
+  "id": "/cs/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF-muunnin Excel-muotoon",
   "short_name": "Loona PDF-muunnin Excel-muotoon",
   "description": "Muunna PDF-taulukot Excel (.xlsx) -laskentataulukoiksi ilmaiseksi selaimessasi. Esikatsele ja korjaa jokainen solu ennen lataamista. Ei lähetystä palvelimelle, ei rekisteröitymistä — tiedostosi ei koskaan poistu laitteeltasi.",
-  "id": "/loona-pdf-tools/fi/pdf-to-excel/",
+  "id": "/fi/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

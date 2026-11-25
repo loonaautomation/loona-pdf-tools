@@ -2,7 +2,7 @@
   "name": "Loona CSV till PDF online gratis",
   "short_name": "CSV till PDF online gratis",
   "description": "Konvertera CSV-data till en ren, paginerad PDF-tabell online, gratis i din webbläsare. Fet upprepad rubrikrad, anpassade kolumner. Ingen uppladdning.",
-  "id": "/loona-pdf-tools/sv/csv-to-pdf/",
+  "id": "/sv/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

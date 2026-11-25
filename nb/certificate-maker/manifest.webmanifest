@@ -2,7 +2,7 @@
   "name": "Loona Sertifikatmaker på nett gratis",
   "short_name": "Sertifikatmaker på nett gratis",
   "description": "Gratis sertifikatmaker: design et utskrivbart sertifikat på en direkte forhåndsvisning, og last deretter ned en utskriftsklar A4-PDF eller PNG. Lag ett sertifikat eller hundrevis i masse fra en navneliste. Ingen registrering, intet vannmerke, og alt kjører privat i nettleseren din.",
-  "id": "/loona-pdf-tools/nb/certificate-maker/",
+  "id": "/nb/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

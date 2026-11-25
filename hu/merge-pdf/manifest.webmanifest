@@ -2,7 +2,7 @@
   "name": "Loona PDF egyesítése online ingyen",
   "short_name": "PDF egyesítése online ingyen",
   "description": "Egyesítsen PDF-fájlokat egyetlen dokumentummá ingyen, online. Vonjon össze több PDF-et, húzással rendezze át őket, regisztráció nem szükséges. A fájlok privát módon, a böngészőjében dolgozódnak fel.",
-  "id": "/loona-pdf-tools/hu/merge-pdf/",
+  "id": "/hu/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF to JPG Online Free",
   "short_name": "PDF to JPG Online Free",
   "description": "Convert PDF pages to JPG images free online. Pick standard, high or print quality and download each page as a JPG. No sign-up; conversion runs in your browser.",
-  "id": "/loona-pdf-tools/pdf-to-jpg/",
+  "id": "/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

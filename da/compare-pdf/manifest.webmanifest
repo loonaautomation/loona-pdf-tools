@@ -2,7 +2,7 @@
   "name": "Loona Sammenlign PDF online gratis",
   "short_name": "Sammenlign PDF online gratis",
   "description": "Sammenlign gratis to PDF-filer online, og se præcis hvilken tekst der ændrede sig, side for side. Fjernede og tilføjede linjer fremhæves side om side. Ingen tilmelding; sammenligningen kører privat i din browser.",
-  "id": "/loona-pdf-tools/da/compare-pdf/",
+  "id": "/da/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

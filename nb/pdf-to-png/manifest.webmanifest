@@ -2,7 +2,7 @@
   "name": "Loona PDF til PNG på nett gratis",
   "short_name": "PDF til PNG på nett gratis",
   "description": "Konverter PDF-sider til PNG-bilder gratis på nett i opptil 3x oppløsning, med gjennomsiktigheten bevart. Last ned hver side for seg. Privat, i nettleseren din.",
-  "id": "/loona-pdf-tools/nb/pdf-to-png/",
+  "id": "/nb/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

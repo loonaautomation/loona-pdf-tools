@@ -2,7 +2,7 @@
   "name": "Loona Usporiadať PDF online zadarmo",
   "short_name": "Usporiadať PDF online zadarmo",
   "description": "Usporiadajte stránky PDF zadarmo online: presúvajte miniatúry na zmenu poradia stránok, otáčajte stránky nabok a odstraňujte stránky, ktoré nepotrebujete. Bez registrácie. Súbory sa spracúvajú súkromne vo vašom prehliadači.",
-  "id": "/loona-pdf-tools/sk/organize-pdf/",
+  "id": "/sk/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

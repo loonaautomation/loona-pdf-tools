@@ -2,7 +2,7 @@
   "name": "Loona 壓平 PDF 線上免費",
   "short_name": "壓平 PDF 線上免費",
   "description": "線上免費壓平 PDF：將可填寫的表單欄位固化到頁面中，使答案無法再編輯，並可選擇完整圖片重建以壓平一切。在瀏覽器中私密進行，無需註冊。",
-  "id": "/loona-pdf-tools/zh-hant/flatten-pdf/",
+  "id": "/zh-hant/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

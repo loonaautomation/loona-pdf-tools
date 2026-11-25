@@ -2,7 +2,7 @@
   "name": "Loona WebPからPDFへの変換ツール オンライン無料",
   "short_name": "WebPからPDFへの変換ツール オンライン無料",
   "description": "WebP画像をPDFにオンライン変換、無料、ブラウザ上で。一ページに一画像、画像に合わせるかA4/Letterページ。アップロード不要、登録不要。",
-  "id": "/loona-pdf-tools/ja/webp-to-pdf/",
+  "id": "/ja/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

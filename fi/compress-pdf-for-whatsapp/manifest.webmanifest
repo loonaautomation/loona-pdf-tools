@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa PDF WhatsAppia varten verkossa ilmaiseksi",
   "short_name": "Pakkaa PDF WhatsAppia varten verkossa ilmaiseksi",
   "description": "Pakkaa PDF kokoon 16 MB tai alle, ilmaiseksi selaimessasi. Työkalu kokeilee ensin häviötöntä uudelleentallennusta ja alentaa sitten renderöintilaatua asteittain, kunnes tiedostosi mahtuu — ja ilmoittaa tarkan tuloksen.",
-  "id": "/loona-pdf-tools/fi/compress-pdf-for-whatsapp/",
+  "id": "/fi/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

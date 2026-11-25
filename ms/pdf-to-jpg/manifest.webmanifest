@@ -2,7 +2,7 @@
   "name": "Loona PDF kepada JPG dalam talian percuma",
   "short_name": "PDF kepada JPG dalam talian percuma",
   "description": "Tukar halaman PDF kepada imej JPG secara percuma dalam talian. Pilih kualiti piawai, tinggi atau cetak dan muat turun setiap halaman sebagai JPG. Tanpa pendaftaran; penukaran berjalan dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/pdf-to-jpg/",
+  "id": "/ms/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

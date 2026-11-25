@@ -2,7 +2,7 @@
   "name": "Loona Mampatkan PDF kepada 50 KB dalam talian percuma",
   "short_name": "Mampatkan PDF kepada 50 KB dalam talian percuma",
   "description": "Mampatkan PDF kepada 50 KB atau kurang, secara percuma dalam pelayar anda. Alat ini mencuba simpanan semula tanpa kehilangan dahulu, kemudian menurunkan kualiti paparan langkah demi langkah sehingga fail anda muat — dan melaporkan hasil yang tepat.",
-  "id": "/loona-pdf-tools/ms/compress-pdf-to-50kb/",
+  "id": "/ms/compress-pdf-to-50kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

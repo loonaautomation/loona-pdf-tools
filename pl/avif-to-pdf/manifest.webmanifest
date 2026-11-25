@@ -2,7 +2,7 @@
   "name": "Loona Konwerter AVIF na PDF online za darmo",
   "short_name": "Konwerter AVIF na PDF online za darmo",
   "description": "Konwertuj obrazy AVIF na PDF online, za darmo, w swojej przeglądarce. Jeden obraz na stronę, strony dopasowane do obrazu lub A4/Letter. Bez przesyłania, bez rejestracji.",
-  "id": "/loona-pdf-tools/pl/avif-to-pdf/",
+  "id": "/pl/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

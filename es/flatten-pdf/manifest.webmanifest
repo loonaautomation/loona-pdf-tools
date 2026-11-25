@@ -2,7 +2,7 @@
   "name": "Loona Aplanar PDF en línea gratis",
   "short_name": "Aplanar PDF en línea gratis",
   "description": "Aplana un PDF gratis en línea: integra los campos de formulario rellenables en las páginas para que las respuestas ya no puedan editarse, con una reconstrucción completa opcional como imagen que lo aplana todo. Privado, en el navegador, sin registro.",
-  "id": "/loona-pdf-tools/es/flatten-pdf/",
+  "id": "/es/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

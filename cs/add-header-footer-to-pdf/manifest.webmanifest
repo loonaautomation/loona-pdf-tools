@@ -2,7 +2,7 @@
   "name": "Loona Přidat záhlaví a zápatí do PDF online zdarma",
   "short_name": "Přidat záhlaví a zápatí do PDF online zdarma",
   "description": "Přidejte záhlaví a zápatí na každou stránku PDF zdarma online: vlastní text, čísla stránek ve formátech Stránka X z Y, zarovnání a velikost písma - vše ve vašem prohlížeči, nic se nenahrává.",
-  "id": "/loona-pdf-tools/cs/add-header-footer-to-pdf/",
+  "id": "/cs/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

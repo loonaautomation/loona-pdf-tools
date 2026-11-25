@@ -2,7 +2,7 @@
   "name": "Loona PDF vergelijken online gratis",
   "short_name": "PDF vergelijken online gratis",
   "description": "Vergelijk gratis online twee PDF-bestanden en zie precies welke tekst is veranderd, pagina per pagina. Verwijderde en toegevoegde regels worden naast elkaar gemarkeerd. Geen registratie; vergelijken gebeurt privé in je browser.",
-  "id": "/loona-pdf-tools/nl/compare-pdf/",
+  "id": "/nl/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF do odstínů šedi online zdarma",
   "short_name": "PDF do odstínů šedi online zdarma",
   "description": "Převeďte PDF do odstínů šedi zdarma online: každá stránka se znovu sestaví v odstínech šedi - ideální pro levnější tisk a čistý monochromatický vzhled. Běží 100 % ve vašem prohlížeči; nic se nenahrává.",
-  "id": "/loona-pdf-tools/cs/pdf-to-grayscale/",
+  "id": "/cs/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

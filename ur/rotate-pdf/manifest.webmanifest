@@ -2,7 +2,7 @@
   "name": "Loona PDF گھمائیں آن لائن مفت",
   "short_name": "PDF گھمائیں آن لائن مفت",
   "description": "PDF صفحات آن لائن مفت 90، 180 یا 270 درجے گھمائیں - تمام صفحات یا منتخب رینج - اور درست شدہ فائل محفوظ کریں۔ سائن اپ نہیں؛ یہ آپ کے براؤزر میں ہوتا ہے۔",
-  "id": "/loona-pdf-tools/ur/rotate-pdf/",
+  "id": "/ur/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

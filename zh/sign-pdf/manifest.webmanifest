@@ -2,7 +2,7 @@
   "name": "Loona 签署 PDF 在线免费",
   "short_name": "签署 PDF 在线免费",
   "description": "在线免费签署 PDF。绘制您的签名或上传其图片，用实时预览定位它，然后下载已签名的 PDF。私密——不上传任何内容。",
-  "id": "/loona-pdf-tools/zh/sign-pdf/",
+  "id": "/zh/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

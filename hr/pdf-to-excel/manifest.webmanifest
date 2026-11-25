@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač PDF u Excel",
   "short_name": "Loona Pretvarač PDF u Excel",
   "description": "Pretvorite PDF tablice u Excel (.xlsx) proračunske tablice besplatno u svom pregledniku. Pregledajte i ispravite svaku ćeliju prije preuzimanja. Bez prijenosa, bez registracije — vaša datoteka nikada ne napušta vaš uređaj.",
-  "id": "/loona-pdf-tools/hr/pdf-to-excel/",
+  "id": "/hr/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

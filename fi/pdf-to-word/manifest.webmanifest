@@ -2,7 +2,7 @@
   "name": "Loona PDF:stä Wordiksi verkossa ilmaiseksi",
   "short_name": "PDF:stä Wordiksi verkossa ilmaiseksi",
   "description": "Muunna tekstipohjainen PDF muokattavaksi Word-asiakirjaksi (.docx) ilmaiseksi selaimessasi. Otsikot, kappaleet, luettelot ja yksinkertaiset taulukot siirtyvät mukana. Ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-pdf-tools/fi/pdf-to-word/",
+  "id": "/fi/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

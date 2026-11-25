@@ -2,7 +2,7 @@
   "name": "Loona Inversează paginile PDF online gratuit",
   "short_name": "Inversează paginile PDF online gratuit",
   "description": "Inversează gratuit online ordinea paginilor unui PDF - ultima pagină devine prima. Perfect pentru repararea scanărilor inversate. Instant, în browserul tău, fără să se încarce nimic.",
-  "id": "/loona-pdf-tools/ro/reverse-pdf-pages/",
+  "id": "/ro/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

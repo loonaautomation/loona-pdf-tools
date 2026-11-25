@@ -2,7 +2,7 @@
   "name": "Loona חתימה על PDF מקוון בחינם",
   "short_name": "חתימה על PDF מקוון בחינם",
   "description": "חתמו על PDF בחינם באינטרנט. ציירו את החתימה שלכם או העלו את תמונתה, מקמו אותה עם תצוגה מקדימה חיה, והורידו את ה-PDF החתום. פרטי - שום דבר אינו מועלה.",
-  "id": "/loona-pdf-tools/he/sign-pdf/",
+  "id": "/he/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

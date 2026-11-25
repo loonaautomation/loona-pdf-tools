@@ -2,7 +2,7 @@
   "name": "Loona PDF 轉 PNG 線上免費",
   "short_name": "PDF 轉 PNG 線上免費",
   "description": "線上免費將 PDF 頁面轉換為 PNG 圖片，解析度最高可達 3 倍，並保留透明度。分別下載每個頁面。在您的瀏覽器中私密進行。",
-  "id": "/loona-pdf-tools/zh-hant/pdf-to-png/",
+  "id": "/zh-hant/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

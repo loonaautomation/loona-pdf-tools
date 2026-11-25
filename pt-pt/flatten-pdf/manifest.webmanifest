@@ -2,7 +2,7 @@
   "name": "Loona Achatar PDF Online Grátis",
   "short_name": "Achatar PDF Online Grátis",
   "description": "Achatar um PDF online grátis: incorpore os campos de formulário preenchíveis nas páginas para que as respostas já não possam ser editadas, com uma reconstrução completa opcional em imagem que achata tudo. Privado, no navegador, sem registo.",
-  "id": "/loona-pdf-tools/pt-pt/flatten-pdf/",
+  "id": "/pt-pt/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

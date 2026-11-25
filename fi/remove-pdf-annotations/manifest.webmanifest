@@ -2,7 +2,7 @@
   "name": "Loona Poista PDF-merkinnät verkossa ilmaiseksi",
   "short_name": "Poista PDF-merkinnät verkossa ilmaiseksi",
   "description": "Poista merkinnät PDF:stä ilmaiseksi verkossa: kommentit, korostukset, muistilaput, leimat ja merkinnät poistetaan, kun taas sivun sisältö pysyy koskemattomana. Selaimessa, mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/remove-pdf-annotations/",
+  "id": "/fi/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

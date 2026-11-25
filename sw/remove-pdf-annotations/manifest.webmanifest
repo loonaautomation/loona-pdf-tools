@@ -2,7 +2,7 @@
   "name": "Loona Ondoa Maelezo ya PDF bure mtandaoni",
   "short_name": "Ondoa Maelezo ya PDF bure mtandaoni",
   "description": "Ondoa maelezo kutoka PDF bure mtandaoni: maoni, mwangazio, maelezo yanayonata, mihuri na alama huondolewa huku maudhui ya ukurasa yakibaki bila kuguswa. Ndani ya kivinjari, hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/remove-pdf-annotations/",
+  "id": "/sw/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

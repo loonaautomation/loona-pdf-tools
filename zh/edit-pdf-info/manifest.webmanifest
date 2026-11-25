@@ -2,7 +2,7 @@
   "name": "Loona 编辑 PDF 信息 在线免费",
   "short_name": "编辑 PDF 信息 在线免费",
   "description": "在线免费查看和编辑 PDF 元数据——标题、作者、主题和关键词——并查看页数和文件大小。无需注册；元数据编辑在浏览器中运行。",
-  "id": "/loona-pdf-tools/zh/edit-pdf-info/",
+  "id": "/zh/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

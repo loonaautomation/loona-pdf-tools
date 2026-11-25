@@ -2,7 +2,7 @@
   "name": "Loona PDF to Word Converter",
   "short_name": "PDF to Word Converter",
   "description": "Μετατρέψτε ένα PDF με κείμενο σε ένα επεξεργάσιμο έγγραφο Word (.docx) δωρεάν στο πρόγραμμα περιήγησής σας. Οι επικεφαλίδες, οι παράγραφοι, οι λίστες και οι απλοί πίνακες μεταφέρονται. Χωρίς μεταφόρτωση, χωρίς εγγραφή — το αρχείο σας δεν φεύγει ποτέ από τη συσκευή σας.",
-  "id": "/loona-pdf-tools/el/pdf-to-word/",
+  "id": "/el/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

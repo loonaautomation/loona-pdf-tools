@@ -2,7 +2,7 @@
   "name": "Loona Izradi knjižicu PDF besplatno na mreži",
   "short_name": "Izradi knjižicu PDF besplatno na mreži",
   "description": "Izradite PDF knjižicu za ispis besplatno na mreži: stranice su postavljene u pravi redoslijed knjižice na vodoravnim listovima - ispišite obostrano, presavijte, spojite klamericom. Prazne stranice automatski dopunjavaju do višekratnika od četiri.",
-  "id": "/loona-pdf-tools/hr/create-pdf-booklet/",
+  "id": "/hr/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

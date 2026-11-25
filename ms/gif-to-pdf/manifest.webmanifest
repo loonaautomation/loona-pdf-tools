@@ -2,7 +2,7 @@
   "name": "Loona Penukar GIF kepada PDF dalam talian percuma",
   "short_name": "Penukar GIF kepada PDF dalam talian percuma",
   "description": "Tukar imej GIF kepada PDF dalam talian, secara percuma, dalam pelayar anda. Satu imej setiap halaman, halaman muat ke imej atau A4/Letter. Tiada muat naik, tiada pendaftaran.",
-  "id": "/loona-pdf-tools/ms/gif-to-pdf/",
+  "id": "/ms/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

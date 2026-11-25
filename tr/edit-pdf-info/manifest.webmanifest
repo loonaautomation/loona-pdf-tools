@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Bilgilerini Düzenle",
   "short_name": "Çevrimiçi Ücretsiz PDF Bilgilerini Düzenle",
   "description": "PDF meta verilerini çevrimiçi ücretsiz görüntüleyin ve düzenleyin (başlık, yazar, konu ve anahtar kelimeler) ve sayfa sayısını ve dosya boyutunu görün. Kayıt yok; meta veri düzenleme tarayıcıda çalışır.",
-  "id": "/loona-pdf-tools/tr/edit-pdf-info/",
+  "id": "/tr/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PNG σε PDF Online Δωρεάν",
   "short_name": "PNG σε PDF Online Δωρεάν",
   "description": "Μετατρέψτε εικόνες PNG σε PDF δωρεάν online. Στιγμιότυπα, λογότυπα και γραφικά γίνονται ένα PDF με σελίδες A4, Letter ή προσαρμογής. Ιδιωτική μετατροπή στο πρόγραμμα περιήγησης, χωρίς εγγραφή.",
-  "id": "/loona-pdf-tools/el/png-to-pdf/",
+  "id": "/el/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

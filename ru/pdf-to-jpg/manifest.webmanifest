@@ -2,7 +2,7 @@
   "name": "Loona PDF в JPG",
   "short_name": "Loona PDF в JPG",
   "description": "Преобразуйте страницы PDF в изображения JPG бесплатно онлайн. Выберите стандартное, высокое или печатное качество и скачайте каждую страницу как JPG. Без регистрации; преобразование выполняется в вашем браузере.",
-  "id": "/loona-pdf-tools/ru/pdf-to-jpg/",
+  "id": "/ru/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

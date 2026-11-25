@@ -2,7 +2,7 @@
   "name": "Loona Komprimér PDF online gratis",
   "short_name": "Komprimér PDF online gratis",
   "description": "Komprimér gratis PDF-filer online, og krymp dem til e-mail eller uploads. Vælg tabsløs streamkomprimering eller stærk billedkomprimering. Privat, i din browser.",
-  "id": "/loona-pdf-tools/da/compress-pdf/",
+  "id": "/da/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF to Grayscale Online - Free",
   "short_name": "PDF to Grayscale Online - Free",
   "description": "Convert a PDF to grayscale free online: every page is rebuilt in shades of gray - ideal for cheaper printing and a clean monochrome look. Runs 100% in your browser; nothing is uploaded.",
-  "id": "/loona-pdf-tools/en-us/pdf-to-grayscale/",
+  "id": "/en-us/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

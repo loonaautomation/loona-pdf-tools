@@ -2,7 +2,7 @@
   "name": "Loona HTML-ből PDF online ingyen",
   "short_name": "HTML-ből PDF online ingyen",
   "description": "Alakítson HTML-t PDF-fé online, ingyen, a böngészője&#x27; saját nyomtatás-PDF-be motorjával — teljes CSS-támogatás, feltöltés nélkül, vízjelek nélkül.",
-  "id": "/loona-pdf-tools/hu/html-to-pdf/",
+  "id": "/hu/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

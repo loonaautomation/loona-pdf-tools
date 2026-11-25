@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Convertește un document Word (.docx) într-un PDF curat și lizibil online, gratuit în browserul tău. Titlurile, listele, tabelele și imaginile sunt păstrate. Fișierul tău nu este încărcat niciodată — conversia are loc în întregime pe dispozitivul tău.",
-  "id": "/loona-pdf-tools/ro/word-to-pdf/",
+  "id": "/ro/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

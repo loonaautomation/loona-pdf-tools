@@ -2,7 +2,7 @@
   "name": "Loona PDF سے PNG آن لائن مفت",
   "short_name": "PDF سے PNG آن لائن مفت",
   "description": "PDF صفحات کو PNG تصاویر میں آن لائن مفت 3x تک ریزولوشن پر تبدیل کریں، شفافیت برقرار کے ساتھ۔ ہر صفحہ الگ ڈاؤن لوڈ کریں۔ نجی، آپ کے براؤزر میں۔",
-  "id": "/loona-pdf-tools/ur/pdf-to-png/",
+  "id": "/ur/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

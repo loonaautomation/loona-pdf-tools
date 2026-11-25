@@ -2,7 +2,7 @@
   "name": "Loona PDF-muunnin Markdown-muotoon verkossa ilmaiseksi",
   "short_name": "PDF-muunnin Markdown-muotoon verkossa ilmaiseksi",
   "description": "Muunna PDF Markdowniksi verkossa, ilmaiseksi selaimessasi. Teksti puretaan, ja otsikkorakenne havaitaan fonttikokojen perusteella. Ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-pdf-tools/fi/pdf-to-markdown/",
+  "id": "/fi/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

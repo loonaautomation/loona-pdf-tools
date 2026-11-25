@@ -2,7 +2,7 @@
   "name": "Loona Pura PDF-sivuja verkossa ilmaiseksi",
   "short_name": "Pura PDF-sivuja verkossa ilmaiseksi",
   "description": "Pura valitut sivut PDF:stä ilmaiseksi verkossa. Syötä sivut kuten 3, 5-8 ja lataa ne uutena, pienempänä PDF:nä. Ei rekisteröitymistä; purkaminen toimii selaimessasi.",
-  "id": "/loona-pdf-tools/fi/extract-pdf-pages/",
+  "id": "/fi/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

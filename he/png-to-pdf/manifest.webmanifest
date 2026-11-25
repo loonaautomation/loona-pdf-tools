@@ -2,7 +2,7 @@
   "name": "Loona PNG ל-PDF מקוון בחינם",
   "short_name": "PNG ל-PDF מקוון בחינם",
   "description": "המירו תמונות PNG ל-PDF בחינם באינטרנט. צילומי מסך, לוגואים וגרפיקה הופכים ל-PDF אחד עם עמודי A4, Letter או התאמה. המרה פרטית בדפדפן, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/png-to-pdf/",
+  "id": "/he/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Sayfalarını Çıkar",
   "short_name": "Çevrimiçi Ücretsiz PDF Sayfalarını Çıkar",
   "description": "Bir PDF'den seçili sayfaları çevrimiçi ücretsiz çıkarın. 3, 5-8 gibi sayfaları girin ve onları yeni, daha küçük bir PDF olarak indirin. Kayıt gerekmez; çıkarma tarayıcınızda çalışır.",
-  "id": "/loona-pdf-tools/tr/extract-pdf-pages/",
+  "id": "/tr/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

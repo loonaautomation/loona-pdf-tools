@@ -2,7 +2,7 @@
   "name": "Loona PNG kepada PDF dalam talian percuma",
   "short_name": "PNG kepada PDF dalam talian percuma",
   "description": "Tukar imej PNG kepada PDF secara percuma dalam talian. Tangkapan skrin, logo dan grafik menjadi satu PDF dengan halaman A4, Letter atau muat. Penukaran peribadi dalam pelayar, tiada pendaftaran.",
-  "id": "/loona-pdf-tools/ms/png-to-pdf/",
+  "id": "/ms/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

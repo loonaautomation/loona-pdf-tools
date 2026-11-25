@@ -2,7 +2,7 @@
   "name": "Loona Napraw PDF online za darmo",
   "short_name": "Napraw PDF online za darmo",
   "description": "Naprawiaj uszkodzony PDF za darmo online: odbudowuje zepsute tabele odnośników i zapisuje ponownie czystą kopię, z odbudową obrazu strony jako ostatnią deską ratunku. Uczciwe ograniczenia podane. W 100% w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/repair-pdf/",
+  "id": "/pl/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -1,7 +1,7 @@
 [
  {
   "n": "Slå sammen PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/merge-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/merge-pdf/",
   "s": "Loona PDF Tools",
   "d": "Kombiner flere PDF-filer til ett dokument, i rekkefølgen du velger.",
   "k": "merge pdf merge pdf combine join multiple files into one together kombiner flere pdf filer til ett dokument i rekkefølgen du velger",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Del opp PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/split-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/split-pdf/",
   "s": "Loona PDF Tools",
   "d": "Del en PDF opp i enkeltsider eller egendefinerte sideområder.",
   "k": "split pdf split pdf separate divide cutter ranges extract pages del en pdf opp i enkeltsider eller egendefinerte sideomrader",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Komprimer PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/compress-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/compress-pdf/",
   "s": "Loona PDF Tools",
   "d": "Gjør en PDF mindre for e-post, WhatsApp eller opplastingsgrenser - to ærlige moduser.",
   "k": "compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload gjør en pdf mindre for e post whatsapp eller opplastingsgrenser to ærlige moduser",
@@ -28,7 +28,7 @@
  },
  {
   "n": "JPG til PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/jpg-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/jpg-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Gjør JPG-foto og -skanninger om til én ryddig PDF - A4-, Letter- eller tilpass-til-bilde-sider.",
   "k": "jpg to pdf jpg to pdf jpeg photo image picture scan convert gjør jpg foto og skanninger om til en ryddig pdf a4 letter eller tilpass til bilde sider",
@@ -37,7 +37,7 @@
  },
  {
   "n": "PDF til JPG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-to-jpg/",
+  "u": "https://pdf.loonaautomation.com/nb/pdf-to-jpg/",
   "s": "Loona PDF Tools",
   "d": "Gjør hver PDF-side om til et JPG-bilde av høy kvalitet som du kan dele hvor som helst.",
   "k": "pdf to jpg pdf to jpg jpeg image picture convert pages extract gjør hver pdf side om til et jpg bilde av høy kvalitet som du kan dele hvor som helst",
@@ -46,7 +46,7 @@
  },
  {
   "n": "PNG til PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/png-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/png-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Kombiner PNG-skjermbilder og grafikk til ett enkelt, ryddig PDF-dokument.",
   "k": "png to pdf png to pdf image picture screenshot convert photo kombiner png skjermbilder og grafikk til ett enkelt ryddig pdf dokument",
@@ -55,7 +55,7 @@
  },
  {
   "n": "PDF til PNG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-to-png/",
+  "u": "https://pdf.loonaautomation.com/nb/pdf-to-png/",
   "s": "Loona PDF Tools",
   "d": "Konverter PDF-sider til skarpe PNG-bilder - med ekte gjennomsiktighet bevart.",
   "k": "pdf to png pdf to png image transparent convert picture konverter pdf sider til skarpe png bilder med ekte gjennomsiktighet bevart",
@@ -64,7 +64,7 @@
  },
  {
   "n": "PDF til tekst",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-to-text/",
+  "u": "https://pdf.loonaautomation.com/nb/pdf-to-text/",
   "s": "Loona PDF Tools",
   "d": "Hent all lesbar tekst ut av en PDF slik at du kan kopiere, redigere og gjenbruke den.",
   "k": "pdf to text pdf to text extract txt words copy plain text file hent all lesbar tekst ut av en pdf slik at du kan kopiere redigere og gjenbruke den",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Tekst til PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/text-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/text-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Skriv eller lim inn tekst og last den ned som et pent, utskrivbart PDF-dokument.",
   "k": "text to pdf text to pdf txt write type document make create skriv eller lim inn tekst og last den ned som et pent utskrivbart pdf dokument",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Excel til PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/excel-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/excel-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Gjør .xlsx-, .xls- og CSV-regneark om til rene PDF-tabeller - hvert ark, ingen opplasting.",
   "k": "excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert gjør xlsx xls og csv regneark om til rene pdf tabeller hvert ark ingen opplasting",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Roter PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/rotate-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/rotate-pdf/",
   "s": "Loona PDF Tools",
   "d": "Fiks PDF-sider som ligger sidelengs eller opp ned permanent, i nettleseren din.",
   "k": "rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees fiks pdf sider som ligger sidelengs eller opp ned permanent i nettleseren din",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Slett PDF-sider",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/delete-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/nb/delete-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Fjern tomme, dupliserte eller uønskede sider og behold et slankere dokument.",
   "k": "delete pdf pages delete pdf pages remove unwanted blank duplicate pages fjern tomme dupliserte eller uønskede sider og behold et slankere dokument",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Hent ut PDF-sider",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/extract-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/nb/extract-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Behold bare sidene du trenger - som side 3 og 5-8 - som en helt ny PDF.",
   "k": "extract pdf pages extract pdf pages keep select pages range new document pull behold bare sidene du trenger som side 3 og 5 8 som en helt ny pdf",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Organiser PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/organize-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/organize-pdf/",
   "s": "Loona PDF Tools",
   "d": "Se hver side som et miniatyrbilde - dra for å omorganisere, roter sider som ligger sidelengs, slett sider du ikke trenger.",
   "k": "organize pdf organize pdf reorder rearrange sort thumbnails drag move pages se hver side som et miniatyrbilde dra for a omorganisere roter sider som ligger sidelengs slett sider du ikke trenger",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Sertifikatmaker",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/certificate-maker/",
+  "u": "https://pdf.loonaautomation.com/nb/certificate-maker/",
   "s": "Loona PDF Tools",
   "d": "Design utskrivbare sertifikater på en direkte forhåndsvisning - ett om gangen, eller hundrevis i masse fra en navneliste.",
   "k": "certificate maker certificate maker award diploma design bulk names printable design utskrivbare sertifikater pa en direkte forhandsvisning ett om gangen eller hundrevis i masse fra en navneliste",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Legg til sidetall",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/add-page-numbers-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/add-page-numbers-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Stempel sidetall i din stil og plassering på hver side av en PDF.",
   "k": "add page numbers add page numbers to pdf numbering stamp folio pagination pages stempel sidetall i din stil og plassering pa hver side av en pdf",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Legg til vannmerke",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/add-watermark-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/add-watermark-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Stempel tekst som FORTROLIG eller skolenavnet ditt på hver side.",
   "k": "add watermark add watermark to pdf stamp confidential overlay text brand pages stempel tekst som fortrolig eller skolenavnet ditt pa hver side",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Signer PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/sign-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/sign-pdf/",
   "s": "Loona PDF Tools",
   "d": "Tegn eller last opp signaturen din og plasser den nøyaktig der den hører hjemme.",
   "k": "sign pdf sign pdf signature draw sign document electronic signature tegn eller last opp signaturen din og plasser den nøyaktig der den hører hjemme",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Rediger PDF-informasjon",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/edit-pdf-info/",
+  "u": "https://pdf.loonaautomation.com/nb/edit-pdf-info/",
   "s": "Loona PDF Tools",
   "d": "Se og endre en PDF-s skjulte tittel, forfatter, emne og nøkkelord.",
   "k": "edit pdf info edit pdf info metadata title author subject keywords properties info se og endre en pdf s skjulte tittel forfatter emne og nøkkelord",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Fyll ut PDF-skjema",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/fill-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/nb/fill-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Åpne et utfyllbart PDF-skjema, skriv i feltene og last ned den utfylte kopien - redigerbar, eller flatet ut.",
   "k": "fill pdf form fill pdf form form fields fillable complete fill type apne et utfyllbart pdf skjema skriv i feltene og last ned den utfylte kopien redigerbar eller flatet ut",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Sammenlign PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/compare-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/compare-pdf/",
   "s": "Loona PDF Tools",
   "d": "Se nøyaktig hvilken tekst som endret seg mellom to versjoner av en PDF, side for side, med forskjeller uthevet.",
   "k": "compare pdf compare pdf diff differences two versions side by side changes se nøyaktig hvilken tekst som endret seg mellom to versjoner av en pdf side for side med forskjeller uthevet",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Signaturgenerator",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/signature-generator/",
+  "u": "https://pdf.loonaautomation.com/nb/signature-generator/",
   "s": "Loona PDF Tools",
   "d": "Lag en gjennomsiktig PNG av signaturen din - tegn den, skriv den, eller fjern den hvite bakgrunnen fra et foto.",
   "k": "signature generator signature generator draw signature create sign name handwritten lag en gjennomsiktig png av signaturen din tegn den skriv den eller fjern den hvite bakgrunnen fra et foto",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Sladd PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/redact-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/redact-pdf/",
   "s": "Loona PDF Tools",
   "d": "Svert sensitive områder permanent - brent inn i sidebildet, aldri bare dekket.",
   "k": "redact pdf redact pdf black out hide sensitive permanent remove text censor svert sensitive omrader permanent brent inn i sidebildet aldri bare dekket",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Lag PDF-skjema",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/create-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/nb/create-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Legg til virkelige utfyllbare tekstfelt og avkrysningsbokser i en hvilken som helst flat PDF.",
   "k": "create pdf form create pdf form fillable form fields maker creator build legg til virkelige utfyllbare tekstfelt og avkrysningsbokser i en hvilken som helst flat pdf",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Flat ut PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/flatten-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/flatten-pdf/",
   "s": "Loona PDF Tools",
   "d": "Bak skjemasvarene inn i sidene slik at de ikke lenger kan redigeres, eller bygg sidene på nytt som bilder.",
   "k": "flatten pdf flatten pdf flatten form annotations layers lock bak skjemasvarene inn i sidene slik at de ikke lenger kan redigeres eller bygg sidene pa nytt som bilder",
@@ -226,7 +226,7 @@
  },
  {
   "n": "PDF til gråtoner",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-to-grayscale/",
+  "u": "https://pdf.loonaautomation.com/nb/pdf-to-grayscale/",
   "s": "Loona PDF Tools",
   "d": "Konverter hver side til grånyanser for billigere utskrift og et rent monokromt uttrykk.",
   "k": "pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert konverter hver side til granyanser for billigere utskrift og et rent monokromt uttrykk",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Legg til topptekst & bunntekst",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/add-header-footer-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/add-header-footer-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Stempel topptekst- og bunnteksttekst på hver side, med Side X av Y-tall innebygd.",
   "k": "add header footer add header footer to pdf header footer stamp text top bottom pages stempel topptekst og bunnteksttekst pa hver side med side x av y tall innebygd",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Reparer PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/repair-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/repair-pdf/",
   "s": "Loona PDF Tools",
   "d": "Fiks strukturell skade - ødelagte indekser og søppel på slutten - og lagre en ren kopi.",
   "k": "repair pdf repair pdf fix corrupted damaged broken recover restore fiks strukturell skade ødelagte indekser og søppel pa slutten og lagre en ren kopi",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Beskjær PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/crop-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/crop-pdf/",
   "s": "Loona PDF Tools",
   "d": "Trim hvite marger eller kutt sidekanter med punkter, prosent eller millimeter.",
   "k": "crop pdf crop pdf trim margins cut white borders pages trim hvite marger eller kutt sidekanter med punkter prosent eller millimeter",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Endre størrelse på PDF-sider",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/resize-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/nb/resize-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Endre hver side til A4, Letter eller Legal, med innholdet skalert til å passe.",
   "k": "resize pdf pages resize pdf pages page size a4 letter dimensions resize change endre hver side til a4 letter eller legal med innholdet skalert til a passe",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Snu PDF-sider",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/reverse-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/nb/reverse-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Snu en bak-frem-PDF slik at den siste siden blir den første.",
   "k": "reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front snu en bak frem pdf slik at den siste siden blir den første",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Fjern PDF-merknader",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/remove-pdf-annotations/",
+  "u": "https://pdf.loonaautomation.com/nb/remove-pdf-annotations/",
   "s": "Loona PDF Tools",
   "d": "Fjern kommentarer, uthevinger, gule lapper og stempler mens sideinnholdet forblir urørt.",
   "k": "remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations fjern kommentarer uthevinger gule lapper og stempler mens sideinnholdet forblir urørt",
@@ -289,7 +289,7 @@
  },
  {
   "n": "PDF-sidestørrelser & informasjon",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-page-sizes/",
+  "u": "https://pdf.loonaautomation.com/nb/pdf-page-sizes/",
   "s": "Loona PDF Tools",
   "d": "Se hver sides nøyaktige størrelse i punkter, millimeter og tommer, pluss dokumentinformasjon.",
   "k": "pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure se hver sides nøyaktige størrelse i punkter millimeter og tommer pluss dokumentinformasjon",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Legg til bokmerker i PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/add-bookmarks-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/add-bookmarks-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Gi en lang PDF en klikkbar disposisjon av kapitler og seksjoner.",
   "k": "add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation gi en lang pdf en klikkbar disposisjon av kapitler og seksjoner",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Hent bilder ut av PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/extract-images-from-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/extract-images-from-pdf/",
   "s": "Loona PDF Tools",
   "d": "Hent de originale innebygde fotoene og grafikken ut av en PDF som PNG-filer.",
   "k": "extract images from pdf extract images from pdf get pictures photos images out extract save hent de originale innebygde fotoene og grafikken ut av en pdf som png filer",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Legg til tom side i PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/add-blank-page-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/add-blank-page-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Sett inn tomme sider i starten, på slutten eller etter en hvilken som helst side, i tilpasset størrelse.",
   "k": "add blank page to pdf add blank page to pdf insert blank empty page add new sett inn tomme sider i starten pa slutten eller etter en hvilken som helst side i tilpasset størrelse",
@@ -325,7 +325,7 @@
  },
  {
   "n": "PDF til WebP",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-to-webp/",
+  "u": "https://pdf.loonaautomation.com/nb/pdf-to-webp/",
   "s": "Loona PDF Tools",
   "d": "Konverter PDF-sider til WebP-bilder - mindre enn JPG for nettsteder, i kvaliteten du velger.",
   "k": "pdf to webp pdf to webp webp image convert picture konverter pdf sider til webp bilder mindre enn jpg for nettsteder i kvaliteten du velger",
@@ -334,7 +334,7 @@
  },
  {
   "n": "N-opp PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/n-up-pdf/",
+  "u": "https://pdf.loonaautomation.com/nb/n-up-pdf/",
   "s": "Loona PDF Tools",
   "d": "Legg 2, 4, 6 eller 9 sider på ett ark i leserekkefølge og spar papir på utdelinger.",
   "k": "n up pdf n up pdf n-up multiple pages per sheet impose tiles print legg 2 4 6 eller 9 sider pa ett ark i leserekkefølge og spar papir pa utdelinger",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Lag PDF-hefte",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/create-pdf-booklet/",
+  "u": "https://pdf.loonaautomation.com/nb/create-pdf-booklet/",
   "s": "Loona PDF Tools",
   "d": "Legg ut sider i ekte hefterekkefølge - skriv ut tosidig, brett, stift.",
   "k": "create pdf booklet create pdf booklet booklet book fold impose print saddle stitch legg ut sider i ekte hefterekkefølge skriv ut tosidig brett stift",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Fjern tomme sider",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/remove-blank-pages/",
+  "u": "https://pdf.loonaautomation.com/nb/remove-blank-pages/",
   "s": "Loona PDF Tools",
   "d": "Oppdag nesten tomme sider med pikselanalyse og fjern dem, med ærlig dekning per side.",
   "k": "remove blank pages remove blank pages delete empty blank pages clean remove automatically oppdag nesten tomme sider med pikselanalyse og fjern dem med ærlig dekning per side",
@@ -361,12 +361,12 @@
  },
  {
   "n": "PDF til Excel",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-to-excel/",
+  "u": "https://pdf.loonaautomation.com/nb/pdf-to-excel/",
   "s": "Loona PDF Tools",
   "d": "Trekk ut PDF-tabeller til redigerbare Excel (.xlsx)-regneark - forhåndsvis og rett hver celle, ingen opplasting.",
   "k": "pdf til excel pdf to excel converter xlsx trekk ut pdf tabeller til redigerbare excel (.xlsx) regneark   forhåndsvis og rett hver celle, ingen opplasting. pdf to excel pdf til excel-konverter",
   "p": 110,
   "c": "Tool"
  }
-,{"n":"Word to PDF","u":"https://loonaautomation.github.io/loona-pdf-tools/nb/word-to-pdf/","s":"Loona PDF Tools","d":"Konverter Word-dokumenter (.docx) til rene, lesbare PDF-er - overskrifter, lister, tabeller og bilder bevart, ingen opplasting.","k":"word to pdf word to pdf docx doc word document microsoft convert turn word docx documents into clean readable pdf headings lists tables and images kept no upload konverter word dokumenter docx til rene lesbare pdf er overskrifter lister tabeller og bilder bevart ingen opplasting","p":140,"c":"Tool"},
-{"n": "Loona PDF Editor", "u": "https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-editor/", "s": "Loona PDF Tools", "d": "Rediger en PDF på nett: legg til tekst, bilder, former og signaturer, dekk feil med whiteout, og last ned den ferdige filen.", "k": "pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Rediger en PDF på nett: legg til tekst, bilder, former og signaturer, dekk feil med whiteout, og last ned den ferdige filen.", "p": 141, "c": "Tool"},{"n":"PDF til Word","u":"https://loonaautomation.github.io/loona-pdf-tools/nb/pdf-to-word/","s":"Loona PDF Tools","d":"Gjør tekstbaserte PDF-er om til redigerbare Word-dokumenter (.docx) - overskrifter, lister og enkle tabeller bevart, ingen opplasting.","k":"pdf to word pdf to word docx word document microsoft word convert gj r tekstbaserte pdf er om til redigerbare word dokumenter docx overskrifter lister og enkle tabeller bevart ingen opplasting","p":142,"c":"Tool"}]
+,{"n":"Word to PDF","u":"https://pdf.loonaautomation.com/nb/word-to-pdf/","s":"Loona PDF Tools","d":"Konverter Word-dokumenter (.docx) til rene, lesbare PDF-er - overskrifter, lister, tabeller og bilder bevart, ingen opplasting.","k":"word to pdf word to pdf docx doc word document microsoft convert turn word docx documents into clean readable pdf headings lists tables and images kept no upload konverter word dokumenter docx til rene lesbare pdf er overskrifter lister tabeller og bilder bevart ingen opplasting","p":140,"c":"Tool"},
+{"n": "Loona PDF Editor", "u": "https://pdf.loonaautomation.com/nb/pdf-editor/", "s": "Loona PDF Tools", "d": "Rediger en PDF på nett: legg til tekst, bilder, former og signaturer, dekk feil med whiteout, og last ned den ferdige filen.", "k": "pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Rediger en PDF på nett: legg til tekst, bilder, former og signaturer, dekk feil med whiteout, og last ned den ferdige filen.", "p": 141, "c": "Tool"},{"n":"PDF til Word","u":"https://pdf.loonaautomation.com/nb/pdf-to-word/","s":"Loona PDF Tools","d":"Gjør tekstbaserte PDF-er om til redigerbare Word-dokumenter (.docx) - overskrifter, lister og enkle tabeller bevart, ingen opplasting.","k":"pdf to word pdf to word docx word document microsoft word convert gj r tekstbaserte pdf er om til redigerbare word dokumenter docx overskrifter lister og enkle tabeller bevart ingen opplasting","p":142,"c":"Tool"}]

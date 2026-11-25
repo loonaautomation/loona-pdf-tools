@@ -2,7 +2,7 @@
   "name": "Loona Kompres PDF ke 20 KB online gratis",
   "short_name": "Kompres PDF ke 20 KB online gratis",
   "description": "Kompres PDF menjadi 20 KB atau kurang, gratis di browser Anda. Alat ini pertama mencoba penyimpanan ulang lossless, lalu menurunkan kualitas render langkah demi langkah hingga file Anda muat — dan melaporkan hasil persisnya.",
-  "id": "/loona-pdf-tools/id/compress-pdf-to-20kb/",
+  "id": "/id/compress-pdf-to-20kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

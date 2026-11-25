@@ -2,7 +2,7 @@
   "name": "Loona HTML ke PDF online gratis",
   "short_name": "HTML ke PDF online gratis",
   "description": "Konversi HTML ke PDF secara online, gratis, menggunakan mesin cetak-ke-PDF browser&#x27; Anda sendiri — dukungan CSS penuh, tanpa unggahan, tanpa watermark.",
-  "id": "/loona-pdf-tools/id/html-to-pdf/",
+  "id": "/id/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

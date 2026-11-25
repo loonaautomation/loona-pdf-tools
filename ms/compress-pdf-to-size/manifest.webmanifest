@@ -2,7 +2,7 @@
   "name": "Loona Mampatkan PDF kepada Saiz Tertentu dalam talian percuma",
   "short_name": "Mampatkan PDF kepada Saiz Tertentu dalam talian percuma",
   "description": "Mampatkan PDF kepada sasaran tepat: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — ditambah pratetap emel (10 MB) dan WhatsApp (16 MB). Percuma, dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/compress-pdf-to-size/",
+  "id": "/ms/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

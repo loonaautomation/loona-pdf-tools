@@ -2,7 +2,7 @@
   "name": "Loona PDF'den HTML'ye Dönüştürücü",
   "short_name": "PDF'den HTML'ye Dönüştürücü",
   "description": "Bir PDF'yi çevrimiçi, tarayıcınızda ücretsiz olarak HTML'ye dönüştürün. Metin, yazı tipi boyutlarından algılanan başlık yapısıyla çıkarılır. Yükleme yok, kayıt yok.",
-  "id": "/loona-pdf-tools/tr/pdf-to-html/",
+  "id": "/tr/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

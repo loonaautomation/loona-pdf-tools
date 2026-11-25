@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar stron PDF online za darmo",
   "short_name": "Zmień rozmiar stron PDF online za darmo",
   "description": "Zmieniaj rozmiar stron PDF za darmo online: konwertuj każdą stronę na A4, US Letter lub Legal albo skaluj o procent, z treścią skalowaną do dopasowania i centrowaną. Działa w Twojej przeglądarce – nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/resize-pdf-pages/",
+  "id": "/pl/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF में हेडर और फ़ुटर जोड़ें ऑनलाइन मुफ़्त",
   "short_name": "PDF में हेडर और फ़ुटर जोड़ें ऑनलाइन मुफ़्त",
   "description": "हर PDF पृष्ठ पर मुफ़्त ऑनलाइन हेडर और फ़ुटर जोड़ें: मनचाहा टेक्स्ट, Page X of Y प्रारूपों के साथ पृष्ठ संख्याएँ, संरेखण और फ़ॉन्ट आकार - सब आपके ब्राउज़र में, कुछ भी अपलोड नहीं।",
-  "id": "/loona-pdf-tools/hi/add-header-footer-to-pdf/",
+  "id": "/hi/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

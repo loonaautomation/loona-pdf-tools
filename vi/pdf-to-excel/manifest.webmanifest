@@ -2,7 +2,7 @@
   "name": "Loona PDF sang Excel",
   "short_name": "PDF sang Excel",
   "description": "Convert PDF tables to Excel (.xlsx) spreadsheets free in your browser. Preview and fix every cell before you download. No upload, no sign-up — your file never leaves your device.",
-  "id": "/loona-pdf-tools/vi/pdf-to-excel/",
+  "id": "/vi/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

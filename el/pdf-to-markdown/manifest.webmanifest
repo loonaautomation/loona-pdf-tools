@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας PDF σε Markdown Online Δωρεάν",
   "short_name": "Μετατροπέας PDF σε Markdown Online Δωρεάν",
   "description": "Μετατρέψτε ένα PDF σε Markdown online, δωρεάν στο πρόγραμμα περιήγησής σας. Το κείμενο εξάγεται με δομή επικεφαλίδων που ανιχνεύεται από τα μεγέθη γραμματοσειρών. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-pdf-tools/el/pdf-to-markdown/",
+  "id": "/el/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

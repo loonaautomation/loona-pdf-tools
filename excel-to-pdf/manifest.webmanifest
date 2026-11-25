@@ -2,7 +2,7 @@
   "name": "Loona Excel to PDF Converter",
   "short_name": "Excel to PDF Converter",
   "description": "Convert Excel spreadsheets (.xlsx, .xls) and CSV files to a clean, paginated PDF table online, free in your browser. Every sheet becomes a table with a repeating header row. No upload.",
-  "id": "/loona-pdf-tools/excel-to-pdf/",
+  "id": "/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

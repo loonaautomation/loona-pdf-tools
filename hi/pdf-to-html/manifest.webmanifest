@@ -2,7 +2,7 @@
   "name": "Loona PDF से HTML कन्वर्टर",
   "short_name": "PDF से HTML कन्वर्टर",
   "description": "PDF को ऑनलाइन, अपने ब्राउज़र में मुफ़्त, HTML में बदलें। फ़ॉन्ट आकारों से हेडिंग संरचना का पता लगाकर टेक्स्ट निकाला जाता है। कोई अपलोड नहीं, कोई साइनअप नहीं।",
-  "id": "/loona-pdf-tools/hi/pdf-to-html/",
+  "id": "/hi/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

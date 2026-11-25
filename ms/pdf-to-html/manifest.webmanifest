@@ -2,7 +2,7 @@
   "name": "Loona Penukar PDF kepada HTML dalam talian percuma",
   "short_name": "Penukar PDF kepada HTML dalam talian percuma",
   "description": "Tukar PDF kepada HTML dalam talian, secara percuma dalam pelayar anda. Teks diekstrak dengan struktur tajuk dikesan daripada saiz fon. Tiada muat naik, tiada pendaftaran.",
-  "id": "/loona-pdf-tools/ms/pdf-to-html/",
+  "id": "/ms/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

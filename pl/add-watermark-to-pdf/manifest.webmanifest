@@ -2,7 +2,7 @@
   "name": "Loona Dodaj znak wodny do PDF online za darmo",
   "short_name": "Dodaj znak wodny do PDF online za darmo",
   "description": "Dodaj tekstowy znak wodny do PDF za darmo online. Ustaw tekst, rozmiar, krycie, kąt i kolor – na środku lub kafelkowo. Bez rejestracji; znakowanie odbywa się prywatnie w przeglądarce.",
-  "id": "/loona-pdf-tools/pl/add-watermark-to-pdf/",
+  "id": "/pl/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

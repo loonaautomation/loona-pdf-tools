@@ -2,7 +2,7 @@
   "name": "Loona PDF szétválasztása online ingyen",
   "short_name": "PDF szétválasztása online ingyen",
   "description": "Válasszon szét egy PDF-et külön fájlokra ingyen, online. Nyerjen ki minden oldalt saját PDF-ként, vagy válasszon szét oldaltartományok szerint. Regisztráció nélkül, és a fájlja soha nem hagyja el a böngészőjét.",
-  "id": "/loona-pdf-tools/hu/split-pdf/",
+  "id": "/hu/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

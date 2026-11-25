@@ -2,7 +2,7 @@
   "name": "Loona Добавить номера страниц",
   "short_name": "Loona Добавить номера страниц",
   "description": "Добавьте номера страниц в PDF бесплатно онлайн. Выберите стиль (1, Страница 1, 1 из 10), положение и начальный номер. Без регистрации; нумерация выполняется конфиденциально в вашем браузере.",
-  "id": "/loona-pdf-tools/ru/add-page-numbers-to-pdf/",
+  "id": "/ru/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

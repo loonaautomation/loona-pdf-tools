@@ -2,7 +2,7 @@
   "name": "Loona Potpiši PDF besplatno na mreži",
   "short_name": "Potpiši PDF besplatno na mreži",
   "description": "Potpišite PDF besplatno na mreži. Nacrtajte svoj potpis ili prenesite njegovu sliku, postavite ga uz pretpremijeru uživo i preuzmite potpisani PDF. Privatno - ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/sign-pdf/",
+  "id": "/hr/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

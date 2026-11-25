@@ -2,7 +2,7 @@
   "name": "Loona PDF変換ツール オンライン無料",
   "short_name": "PDF変換ツール オンライン無料",
   "description": "すべてのPDF変換ツールを一か所に：画像、CSV、JSON、HTML、MarkdownからPDFへ。そしてPDFから画像、テキスト、HTML、Markdownへ。無料、ブラウザ上で。",
-  "id": "/loona-pdf-tools/ja/pdf-converters/",
+  "id": "/ja/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

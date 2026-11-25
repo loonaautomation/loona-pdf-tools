@@ -2,7 +2,7 @@
   "name": "Loona PDF میں خالی صفحہ شامل کریں آن لائن مفت",
   "short_name": "PDF میں خالی صفحہ شامل کریں آن لائن مفت",
   "description": "PDF میں خالی صفحات آن لائن مفت داخل کریں: شروع میں، آخر میں، یا کسی صفحے کے بعد، دستاویز کے صفحہ سائز سے مماثل، A4 یا Letter۔ فوری، آپ کے براؤزر میں، کچھ بھی اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-pdf-tools/ur/add-blank-page-to-pdf/",
+  "id": "/ur/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

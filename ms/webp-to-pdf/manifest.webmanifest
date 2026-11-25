@@ -2,7 +2,7 @@
   "name": "Loona Penukar WebP kepada PDF dalam talian percuma",
   "short_name": "Penukar WebP kepada PDF dalam talian percuma",
   "description": "Tukar imej WebP kepada PDF dalam talian, secara percuma, dalam pelayar anda. Satu imej setiap halaman, halaman muat ke imej atau A4/Letter. Tiada muat naik, tiada pendaftaran.",
-  "id": "/loona-pdf-tools/ms/webp-to-pdf/",
+  "id": "/ms/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Juntar PDF Online Grátis",
   "short_name": "Juntar PDF Online Grátis",
   "description": "Junte ficheiros PDF num único documento online grátis. Combine vários PDF, arraste para os reordenar, sem necessidade de registo. Os ficheiros são processados de forma privada no seu navegador.",
-  "id": "/loona-pdf-tools/pt/merge-pdf/",
+  "id": "/pt/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

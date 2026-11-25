@@ -2,7 +2,7 @@
   "name": "Loona PDF to PNG Online Free",
   "short_name": "PDF to PNG Online Free",
   "description": "Convert PDF pages to PNG images free online at up to 3x resolution, with transparency preserved. Download each page separately. Private, in your browser.",
-  "id": "/loona-pdf-tools/pdf-to-png/",
+  "id": "/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง SVG เป็น PDF ออนไลน์ฟรี",
   "short_name": "ตัวแปลง SVG เป็น PDF ออนไลน์ฟรี",
   "description": "แปลงรูปภาพ SVG เป็น PDF ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ หนึ่งรูปต่อหน้า หน้าแบบพอดีกับรูปภาพหรือ A4/Letter ไม่ต้องอัปโหลด ไม่ต้องสมัคร",
-  "id": "/loona-pdf-tools/th/svg-to-pdf/",
+  "id": "/th/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

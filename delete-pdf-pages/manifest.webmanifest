@@ -2,7 +2,7 @@
   "name": "Loona Delete PDF Pages Online Free",
   "short_name": "Delete PDF Pages Online Free",
   "description": "Delete pages from a PDF free online. Type the page numbers to remove - like 2, 4-6 - and download the cleaned file. No sign-up; it all stays in your browser.",
-  "id": "/loona-pdf-tools/delete-pdf-pages/",
+  "id": "/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

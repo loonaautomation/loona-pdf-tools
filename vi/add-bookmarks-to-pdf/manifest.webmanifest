@@ -2,7 +2,7 @@
   "name": "Loona Thêm dấu trang vào PDF trực tuyến miễn phí",
   "short_name": "Thêm dấu trang vào PDF trực tuyến miễn phí",
   "description": "Thêm dấu trang (một đề cương có thể nhấp) vào PDF miễn phí trực tuyến: liệt kê tiêu đề chương cùng số trang của chúng và tải xuống một tệp PDF có đề cương điều hướng thật. Trong trình duyệt, không tải lên gì cả.",
-  "id": "/loona-pdf-tools/vi/add-bookmarks-to-pdf/",
+  "id": "/vi/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

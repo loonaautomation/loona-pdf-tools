@@ -2,7 +2,7 @@
   "name": "Loona PDF sang JPG trực tuyến miễn phí",
   "short_name": "PDF sang JPG trực tuyến miễn phí",
   "description": "Chuyển đổi các trang PDF thành hình ảnh JPG miễn phí trực tuyến. Chọn chất lượng tiêu chuẩn, cao hoặc in ấn và tải xuống mỗi trang dưới dạng JPG. Không cần đăng ký; việc chuyển đổi chạy trong trình duyệt của bạn.",
-  "id": "/loona-pdf-tools/vi/pdf-to-jpg/",
+  "id": "/vi/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

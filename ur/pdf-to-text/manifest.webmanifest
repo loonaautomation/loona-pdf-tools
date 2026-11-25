@@ -2,7 +2,7 @@
   "name": "Loona PDF سے متن آن لائن مفت",
   "short_name": "PDF سے متن آن لائن مفت",
   "description": "PDF سے متن آن لائن مفت نکالیں۔ ہر صفحے کا مکمل متن کاپی کرنے یا TXT فائل کے طور پر ڈاؤن لوڈ کرنے کے لیے حاصل کریں۔ سائن اپ نہیں، اور آپ کی PDF آپ کے براؤزر سے کبھی باہر نہیں جاتی۔",
-  "id": "/loona-pdf-tools/ur/pdf-to-text/",
+  "id": "/ur/pdf-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

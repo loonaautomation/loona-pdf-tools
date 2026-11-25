@@ -2,7 +2,7 @@
   "name": "Loona Markdownból PDF online ingyen",
   "short_name": "Markdownból PDF online ingyen",
   "description": "Alakítson Markdownt formázott PDF-fé online, ingyen, a böngészőjében. Címsorok, listák, kód és hivatkozások élő előnézettel megjelenítve. Feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/markdown-to-pdf/",
+  "id": "/hu/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

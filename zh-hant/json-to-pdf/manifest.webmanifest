@@ -2,7 +2,7 @@
   "name": "Loona JSON 轉 PDF 線上免費",
   "short_name": "JSON 轉 PDF 線上免費",
   "description": "線上免費在您的瀏覽器中將 JSON 轉換為可讀、分頁的 PDF。先驗證並美化列印。不上傳。",
-  "id": "/loona-pdf-tools/zh-hant/json-to-pdf/",
+  "id": "/zh-hant/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

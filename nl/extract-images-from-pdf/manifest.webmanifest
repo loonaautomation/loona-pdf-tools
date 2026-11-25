@@ -2,7 +2,7 @@
   "name": "Loona Afbeeldingen uit PDF halen online gratis",
   "short_name": "Afbeeldingen uit PDF halen online gratis",
   "description": "Extraheer gratis online de originele afbeeldingen die in een PDF zijn ingesloten: foto's en afbeeldingen worden eruit gehaald op hun opgeslagen resolutie als PNG-bestanden - geen screenshots. 100% in je browser, niets geüpload.",
-  "id": "/loona-pdf-tools/nl/extract-images-from-pdf/",
+  "id": "/nl/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ממיר BMP ל-PDF – בחינם, ללא העלאה",
   "short_name": "ממיר BMP ל-PDF – בחינם, ללא העלאה",
   "description": "המירו תמונות BMP ל-PDF באינטרנט, בחינם, בדפדפן שלכם. תמונה אחת בכל עמוד, עמודי התאמה לתמונה או A4/Letter. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/bmp-to-pdf/",
+  "id": "/he/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

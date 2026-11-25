@@ -2,7 +2,7 @@
   "name": "Loona Prevodník HTML do PDF online zadarmo",
   "short_name": "Prevodník HTML do PDF online zadarmo",
   "description": "Preveďte HTML do PDF online, zadarmo, pomocou vlastného enginu vášho prehliadača na tlač do PDF — plná podpora CSS, bez nahrávania, bez vodoznakov.",
-  "id": "/loona-pdf-tools/sk/html-to-pdf/",
+  "id": "/sk/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

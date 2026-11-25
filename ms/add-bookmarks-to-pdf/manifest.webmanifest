@@ -2,7 +2,7 @@
   "name": "Loona Tambah Penanda Buku pada PDF dalam talian percuma",
   "short_name": "Tambah Penanda Buku pada PDF dalam talian percuma",
   "description": "Tambah penanda buku (rangka yang boleh diklik) pada PDF secara percuma dalam talian: senaraikan tajuk bab beserta nombor halamannya dan muat turun PDF dengan rangka navigasi sebenar. Dalam pelayar, tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/add-bookmarks-to-pdf/",
+  "id": "/ms/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

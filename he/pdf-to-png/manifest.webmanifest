@@ -2,7 +2,7 @@
   "name": "Loona PDF ל-PNG מקוון בחינם",
   "short_name": "PDF ל-PNG מקוון בחינם",
   "description": "המירו עמודי PDF לתמונות PNG בחינם באינטרנט ברזולוציה של עד פי 3, עם שקיפות נשמרת. הורידו כל עמוד בנפרד. פרטי, בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/pdf-to-png/",
+  "id": "/he/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

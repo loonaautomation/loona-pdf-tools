@@ -2,7 +2,7 @@
   "name": "Loona Zakreni PDF besplatno na mreži",
   "short_name": "Zakreni PDF besplatno na mreži",
   "description": "Zakrenite stranice PDF-a besplatno na mreži za 90, 180 ili 270 stupnjeva - sve stranice ili odabrani raspon - i spremite ispravljenu datoteku. Bez registracije; događa se u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/rotate-pdf/",
+  "id": "/hr/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

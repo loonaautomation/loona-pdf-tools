@@ -2,7 +2,7 @@
   "name": "Loona SVG у PDF онлайн безкоштовно",
   "short_name": "SVG у PDF онлайн безкоштовно",
   "description": "Перетворюйте зображення SVG на PDF онлайн, безкоштовно, у своєму браузері. Одне зображення на сторінку, сторінки за розміром зображення або A4/Letter. Без передавання файлів, без реєстрації.",
-  "id": "/loona-pdf-tools/uk/svg-to-pdf/",
+  "id": "/uk/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

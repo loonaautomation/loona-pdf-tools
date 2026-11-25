@@ -2,7 +2,7 @@
   "name": "Loona Conversores de PDF",
   "short_name": "Conversores de PDF",
   "description": "Cada conversor de PDF num único lugar: imagens, CSV, JSON, HTML e Markdown para PDF — e PDF de volta para imagens, texto, HTML e Markdown. Grátis, no seu navegador.",
-  "id": "/loona-pdf-tools/pt-br/pdf-converters/",
+  "id": "/pt-br/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

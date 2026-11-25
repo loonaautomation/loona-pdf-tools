@@ -2,7 +2,7 @@
   "name": "Loona Recortar PDF en línea gratis",
   "short_name": "Recortar PDF en línea gratis",
   "description": "Recorta páginas PDF gratis en línea: recorta márgenes blancos o corta bordes por puntos o porcentaje en cada página o en un intervalo. El cuadro de recorte de la página se fija con precisión en tu navegador: sin subir nada.",
-  "id": "/loona-pdf-tools/es/crop-pdf/",
+  "id": "/es/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

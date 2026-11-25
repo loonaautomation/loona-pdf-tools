@@ -2,7 +2,7 @@
   "name": "Loona PDF teilen Online kostenlos",
   "short_name": "PDF teilen Online kostenlos",
   "description": "Ein PDF kostenlos online in separate Dateien teilen. Jede Seite als eigenes PDF extrahieren oder nach Seitenbereichen teilen. Ohne Anmeldung, und Ihre Datei verlässt Ihren Browser nie.",
-  "id": "/loona-pdf-tools/de/split-pdf/",
+  "id": "/de/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

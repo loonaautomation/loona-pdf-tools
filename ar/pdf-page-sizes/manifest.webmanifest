@@ -2,7 +2,7 @@
   "name": "Loona فاحص حجم صفحات PDF عبر الإنترنت مجانًا",
   "short_name": "فاحص حجم صفحات PDF عبر الإنترنت مجانًا",
   "description": "تحقق من أحجام صفحات PDF مجانًا عبر الإنترنت: أبعاد كل صفحة بالنقاط والمليمترات والبوصات، وأقرب حجم قياسي لها (A4، Letter...)، والتدوير، زائد العنوان والمؤلف وإصدار PDF. دون رفع أي شيء.",
-  "id": "/loona-pdf-tools/ar/pdf-page-sizes/",
+  "id": "/ar/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

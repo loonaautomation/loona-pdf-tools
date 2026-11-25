@@ -2,7 +2,7 @@
   "name": "Loona Isi Formulir PDF online gratis",
   "short_name": "Isi Formulir PDF online gratis",
   "description": "Isi formulir PDF yang dapat diisi gratis secara online. Unggah PDF yang memiliki kolom formulir, ketik ke kotak teks, kotak centang, dropdown, dan tombol radionya, lalu unduh PDF yang telah dilengkapi. Tanpa pendaftaran; semuanya berjalan secara privat di browser Anda.",
-  "id": "/loona-pdf-tools/id/fill-pdf-form/",
+  "id": "/id/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

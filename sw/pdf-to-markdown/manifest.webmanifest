@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji PDF kwenda Markdown bure mtandaoni",
   "short_name": "Kibadilishaji PDF kwenda Markdown bure mtandaoni",
   "description": "Badilisha PDF kuwa Markdown mtandaoni, bure katika kivinjari chako. Maandishi hutolewa muundo wa vichwa ukitambuliwa kutoka ukubwa wa fonti. Hakuna upakiaji, hakuna kujisajili.",
-  "id": "/loona-pdf-tools/sw/pdf-to-markdown/",
+  "id": "/sw/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

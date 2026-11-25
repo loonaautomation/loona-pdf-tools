@@ -2,7 +2,7 @@
   "name": "Loona Buang Halaman Kosong dalam talian percuma",
   "short_name": "Buang Halaman Kosong dalam talian percuma",
   "description": "Buang halaman kosong daripada PDF percuma dalam talian: halaman dirender dan disemak piksel demi piksel, halaman hampir kosong disenaraikan dengan jujur bersama litupan dakwatnya, dan dibuang - halaman berkandungan kekal tidak disentuh. Dalam pelayar.",
-  "id": "/loona-pdf-tools/ms/remove-blank-pages/",
+  "id": "/ms/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

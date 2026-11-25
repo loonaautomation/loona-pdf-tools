@@ -2,7 +2,7 @@
   "name": "Loona PDFに署名 オンライン無料",
   "short_name": "PDFに署名 オンライン無料",
   "description": "PDFに無料でオンライン署名。署名を描くか、その画像をアップロードし、ライブプレビューで配置して、署名済みPDFをダウンロードできます。プライベート。アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/sign-pdf/",
+  "id": "/ja/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

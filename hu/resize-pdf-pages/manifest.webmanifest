@@ -2,7 +2,7 @@
   "name": "Loona PDF-oldalak átméretezése online ingyen",
   "short_name": "PDF-oldalak átméretezése online ingyen",
   "description": "Méretezze át a PDF-oldalakat ingyen, online: alakítson minden oldalt A4, US Letter vagy Legal méretűvé, vagy méretezzen százalékkal, a tartalom illeszkedően méretezve és középre igazítva. Az Ön böngészőjében fut – feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/resize-pdf-pages/",
+  "id": "/hu/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

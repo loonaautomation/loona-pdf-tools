@@ -2,7 +2,7 @@
   "name": "Loona PDF na JPG online za darmo",
   "short_name": "PDF na JPG online za darmo",
   "description": "Konwertuj strony PDF na obrazy JPG za darmo online. Wybierz jakość standardową, wysoką lub do druku i pobierz każdą stronę jako JPG. Bez rejestracji; konwersja odbywa się w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/pdf-to-jpg/",
+  "id": "/pl/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

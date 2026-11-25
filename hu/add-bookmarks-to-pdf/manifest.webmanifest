@@ -2,7 +2,7 @@
   "name": "Loona Könyvjelzők hozzáadása PDF-hez online ingyen",
   "short_name": "Könyvjelzők hozzáadása PDF-hez online ingyen",
   "description": "Adjon könyvjelzőket (kattintható vázlatot) egy PDF-hez ingyen, online: sorolja fel a fejezetcímeket az oldalszámaikkal, és töltsön le egy PDF-et valódi navigációs vázlattal. A böngészőben, feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/add-bookmarks-to-pdf/",
+  "id": "/hu/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

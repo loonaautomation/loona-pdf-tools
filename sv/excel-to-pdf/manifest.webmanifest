@@ -2,7 +2,7 @@
   "name": "Loona Excel till PDF online gratis",
   "short_name": "Excel till PDF online gratis",
   "description": "Konvertera Excel-kalkylblad (.xlsx, .xls) och CSV-filer till en ren, paginerad PDF-tabell online, gratis i din webbläsare. Varje ark blir en tabell med en upprepad rubrikrad. Ingen uppladdning.",
-  "id": "/loona-pdf-tools/sv/excel-to-pdf/",
+  "id": "/sv/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

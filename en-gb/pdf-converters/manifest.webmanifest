@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/pdf-converters/",
+  "id": "/en-gb/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

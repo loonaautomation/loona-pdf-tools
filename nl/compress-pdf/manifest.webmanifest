@@ -2,7 +2,7 @@
   "name": "Loona PDF comprimeren online gratis",
   "short_name": "PDF comprimeren online gratis",
   "description": "Comprimeer PDF-bestanden gratis online en verklein ze voor e-mail of uploads. Kies verliesvrije streamcompressie of sterke afbeeldingscompressie. Privé, in je browser.",
-  "id": "/loona-pdf-tools/nl/compress-pdf/",
+  "id": "/nl/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Poista tyhjät sivut verkossa ilmaiseksi",
   "short_name": "Poista tyhjät sivut verkossa ilmaiseksi",
   "description": "Poista tyhjät sivut PDF:stä ilmaiseksi verkossa: sivut hahmonnetaan ja tarkistetaan pikseli pikseliltä, lähes tyhjät sivut luetellaan rehellisesti musteen peittoineen ja poistetaan - sisältösivut pysyvät koskemattomina. Selaimessa.",
-  "id": "/loona-pdf-tools/fi/remove-blank-pages/",
+  "id": "/fi/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

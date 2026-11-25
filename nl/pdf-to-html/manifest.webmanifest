@@ -2,7 +2,7 @@
   "name": "Loona PDF naar HTML-converter online gratis",
   "short_name": "PDF naar HTML-converter online gratis",
   "description": "Converteer een PDF online naar HTML, gratis in je browser. Tekst wordt geëxtraheerd met kopstructuur gedetecteerd uit lettergroottes. Geen upload, geen registratie.",
-  "id": "/loona-pdf-tools/nl/pdf-to-html/",
+  "id": "/nl/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

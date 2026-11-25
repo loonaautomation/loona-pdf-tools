@@ -2,7 +2,7 @@
   "name": "Loona HTML у PDF онлайн безкоштовно",
   "short_name": "HTML у PDF онлайн безкоштовно",
   "description": "Перетворюйте HTML на PDF онлайн, безкоштовно, за допомогою власного механізму друку в PDF вашого браузера — повна підтримка CSS, без передавання файлів, без водяних знаків.",
-  "id": "/loona-pdf-tools/uk/html-to-pdf/",
+  "id": "/uk/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

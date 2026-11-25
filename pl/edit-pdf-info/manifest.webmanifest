@@ -2,7 +2,7 @@
   "name": "Loona Edytuj informacje o PDF online za darmo",
   "short_name": "Edytuj informacje o PDF online za darmo",
   "description": "Przeglądaj i edytuj metadane PDF za darmo online – tytuł, autor, temat i słowa kluczowe – oraz zobacz liczbę stron i rozmiar pliku. Bez rejestracji; edycja metadanych działa w przeglądarce.",
-  "id": "/loona-pdf-tools/pl/edit-pdf-info/",
+  "id": "/pl/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

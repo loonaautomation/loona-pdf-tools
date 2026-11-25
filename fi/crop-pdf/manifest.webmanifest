@@ -2,7 +2,7 @@
   "name": "Loona Rajaa PDF verkossa ilmaiseksi",
   "short_name": "Rajaa PDF verkossa ilmaiseksi",
   "description": "Rajaa PDF-sivuja ilmaiseksi verkossa: leikkaa valkoiset marginaalit tai reunat pisteinä tai prosentteina jokaiselta sivulta tai yhdeltä alueelta. Sivun rajauskehys asetetaan tarkasti selaimessasi - mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/crop-pdf/",
+  "id": "/fi/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

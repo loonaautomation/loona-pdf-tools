@@ -2,7 +2,7 @@
   "name": "Loona Comprimă PDF la 2 MB online gratuit",
   "short_name": "Comprimă PDF la 2 MB online gratuit",
   "description": "Comprimă un PDF la 2 MB sau mai puțin, gratuit în browserul tău. Instrumentul încearcă mai întâi o resalvare fără pierderi, apoi coboară treptat calitatea randării până când fișierul tău încape — și raportează rezultatul exact.",
-  "id": "/loona-pdf-tools/ro/compress-pdf-to-2mb/",
+  "id": "/ro/compress-pdf-to-2mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

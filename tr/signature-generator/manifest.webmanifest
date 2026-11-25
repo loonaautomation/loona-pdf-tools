@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz İmza Oluşturucu",
   "short_name": "Çevrimiçi Ücretsiz İmza Oluşturucu",
   "description": "Çevrimiçi ücretsiz bir imza görüntüsü oluşturun: çizin, adınızı bir el yazısı stilinde yazın veya imzanızın bir fotoğrafını şeffaf hâle getirin. Temiz, şeffaf bir PNG indirin; yükleme yok, kayıt yok.",
-  "id": "/loona-pdf-tools/tr/signature-generator/",
+  "id": "/tr/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Bir Word .docx belgesini çevrimiçi olarak, tarayıcınızda ücretsiz, temiz ve okunabilir bir PDF'ye dönüştürün. Başlıklar, listeler, tablolar ve resimler aktarılır. Dosyanız asla yüklenmez.",
-  "id": "/loona-pdf-tools/tr/word-to-pdf/",
+  "id": "/tr/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

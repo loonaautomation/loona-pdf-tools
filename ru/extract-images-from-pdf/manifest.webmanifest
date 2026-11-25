@@ -2,7 +2,7 @@
   "name": "Loona Извлечь изображения из PDF",
   "short_name": "Loona Извлечь изображения из PDF",
   "description": "Извлекайте исходные изображения, встроенные в PDF, бесплатно онлайн: фотографии и графика извлекаются с их сохранённым разрешением в виде файлов PNG, а не снимков экрана. На 100% в вашем браузере, ничего не загружается на сервер.",
-  "id": "/loona-pdf-tools/ru/extract-images-from-pdf/",
+  "id": "/ru/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

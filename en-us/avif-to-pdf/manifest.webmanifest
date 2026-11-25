@@ -2,7 +2,7 @@
   "name": "Loona AVIF to PDF Converter",
   "short_name": "AVIF to PDF Converter",
   "description": "Convert AVIF images to a PDF online, free, in your browser. One image per page, fit-to-image or A4/Letter pages. No upload, no signup.",
-  "id": "/loona-pdf-tools/en-us/avif-to-pdf/",
+  "id": "/en-us/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

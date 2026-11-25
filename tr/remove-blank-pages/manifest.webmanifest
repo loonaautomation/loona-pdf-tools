@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'den Boş Sayfaları",
   "short_name": "Çevrimiçi Ücretsiz PDF'den Boş Sayfaları",
   "description": "Bir PDF'den boş sayfaları çevrimiçi ücretsiz kaldırın: sayfalar oluşturulur ve piksel piksel denetlenir, neredeyse boş sayfalar mürekkep kapsamlarıyla dürüstçe listelenir ve kaldırılır; içerik sayfaları dokunulmadan kalır. Tarayıcıda.",
-  "id": "/loona-pdf-tools/tr/remove-blank-pages/",
+  "id": "/tr/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

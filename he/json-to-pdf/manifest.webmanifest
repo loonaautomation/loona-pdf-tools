@@ -2,7 +2,7 @@
   "name": "Loona ממיר JSON ל-PDF – בחינם, ללא העלאה",
   "short_name": "ממיר JSON ל-PDF – בחינם, ללא העלאה",
   "description": "המירו JSON ל-PDF קריא ומעומד באינטרנט, בחינם בדפדפן שלכם. מאומת ומעוצב יפה תחילה. ללא העלאה.",
-  "id": "/loona-pdf-tools/he/json-to-pdf/",
+  "id": "/he/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

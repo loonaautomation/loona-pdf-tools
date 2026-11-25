@@ -2,7 +2,7 @@
   "name": "Loona Prevodník AVIF do PDF online zadarmo",
   "short_name": "Prevodník AVIF do PDF online zadarmo",
   "description": "Preveďte obrázky AVIF do PDF online, zadarmo, vo vašom prehliadači. Jeden obrázok na stránku, stránky podľa obrázka alebo A4/Letter. Bez nahrávania, bez registrácie.",
-  "id": "/loona-pdf-tools/sk/avif-to-pdf/",
+  "id": "/sk/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

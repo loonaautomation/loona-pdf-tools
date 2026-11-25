@@ -2,7 +2,7 @@
   "name": "Loona Tilføj sidehoved & sidefod til PDF online gratis",
   "short_name": "Tilføj sidehoved & sidefod til PDF online gratis",
   "description": "Tilføj gratis et sidehoved og en sidefod til hver PDF-side online: brugerdefineret tekst, sidetal med Side X af Y-formater, justering og skriftstørrelse - alt sammen i din browser, intet uploades.",
-  "id": "/loona-pdf-tools/da/add-header-footer-to-pdf/",
+  "id": "/da/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

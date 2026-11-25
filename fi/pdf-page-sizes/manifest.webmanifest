@@ -2,7 +2,7 @@
   "name": "Loona PDF-sivukoot ja tiedot verkossa ilmaiseksi",
   "short_name": "PDF-sivukoot ja tiedot verkossa ilmaiseksi",
   "description": "Tarkista PDF:n sivukoot ilmaiseksi verkossa: jokaisen sivun mitat pisteinä, millimetreinä ja tuumina, sen lähin vakiokoko (A4, Letter...), kierto, sekä otsikko, tekijä ja PDF-versio. Mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/pdf-page-sizes/",
+  "id": "/fi/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

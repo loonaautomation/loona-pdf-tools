@@ -2,7 +2,7 @@
   "name": "Loona Szövegből PDF online ingyen",
   "short_name": "Szövegből PDF online ingyen",
   "description": "Alakítson szöveget PDF-fé ingyen, online. Illessze be a szövegét, válasszon betűméretet és A4 vagy Letter oldalakat, és töltsön le egy tiszta PDF-et. Regisztráció nélkül – privát módon, a böngészőben készül.",
-  "id": "/loona-pdf-tools/hu/text-to-pdf/",
+  "id": "/hu/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

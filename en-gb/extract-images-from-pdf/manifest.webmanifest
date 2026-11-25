@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/extract-images-from-pdf/",
+  "id": "/en-gb/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

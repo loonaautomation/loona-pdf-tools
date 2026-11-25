@@ -2,7 +2,7 @@
   "name": "Loona إضافة رأس وتذييل إلى PDF عبر الإنترنت مجانًا",
   "short_name": "إضافة رأس وتذييل إلى PDF عبر الإنترنت مجانًا",
   "description": "أضف رأسًا وتذييلًا إلى كل صفحة PDF مجانًا عبر الإنترنت: نص مخصص، وأرقام صفحات بصيغ «الصفحة X من Y»، ومحاذاة وحجم خط — كل ذلك في متصفحك، دون رفع أي شيء.",
-  "id": "/loona-pdf-tools/ar/add-header-footer-to-pdf/",
+  "id": "/ar/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

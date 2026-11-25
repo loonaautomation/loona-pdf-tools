@@ -2,7 +2,7 @@
   "name": "Loona Pisahkan PDF online gratis",
   "short_name": "Pisahkan PDF online gratis",
   "description": "Pisahkan PDF menjadi file terpisah gratis secara online. Ekstrak setiap halaman sebagai PDF-nya sendiri atau pisahkan berdasarkan rentang halaman. Tanpa pendaftaran, dan file Anda tidak pernah meninggalkan browser Anda.",
-  "id": "/loona-pdf-tools/id/split-pdf/",
+  "id": "/id/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

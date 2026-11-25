@@ -2,7 +2,7 @@
   "name": "Loona Excel kepada PDF dalam talian percuma",
   "short_name": "Excel kepada PDF dalam talian percuma",
   "description": "Tukar hamparan Excel (.xlsx, .xls) dan fail CSV kepada jadual PDF yang bersih dan berpaginasi dalam talian, secara percuma dalam pelayar anda. Setiap helaian menjadi jadual dengan baris pengepala berulang. Tiada muat naik.",
-  "id": "/loona-pdf-tools/ms/excel-to-pdf/",
+  "id": "/ms/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF aláírása online ingyen",
   "short_name": "PDF aláírása online ingyen",
   "description": "Írjon alá egy PDF-et ingyen, online. Rajzolja meg az aláírását vagy töltse fel a képét, helyezze el élő előnézettel, és töltse le az aláírt PDF-et. Privát – semmi nem töltődik fel.",
-  "id": "/loona-pdf-tools/hu/sign-pdf/",
+  "id": "/hu/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

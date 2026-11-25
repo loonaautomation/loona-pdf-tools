@@ -2,7 +2,7 @@
   "name": "Loona PDF til Excel-konverter",
   "short_name": "Loona PDF til Excel-konverter",
   "description": "Konverter PDF-tabeller til Excel (.xlsx)-regneark gratis i nettleseren din. Forhåndsvis og rett hver celle før du laster ned. Ingen opplasting, ingen registrering — filen din forlater aldri enheten din.",
-  "id": "/loona-pdf-tools/nb/pdf-to-excel/",
+  "id": "/nb/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

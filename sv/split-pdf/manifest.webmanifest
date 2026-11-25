@@ -2,7 +2,7 @@
   "name": "Loona Dela PDF online gratis",
   "short_name": "Dela PDF online gratis",
   "description": "Dela en PDF till separata filer gratis online. Extrahera varje sida som sin egen PDF eller dela efter sidintervall. Ingen registrering, och din fil lämnar aldrig din webbläsare.",
-  "id": "/loona-pdf-tools/sv/split-pdf/",
+  "id": "/sv/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

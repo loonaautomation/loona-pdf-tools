@@ -2,7 +2,7 @@
   "name": "Loona PDF ya N-up bure mtandaoni",
   "short_name": "PDF ya N-up bure mtandaoni",
   "description": "Weka kurasa nyingi za PDF kwenye laha moja bure mtandaoni: mipangilio ya 2-up, 4-up, 6-up au 9-up kwenye A4 au Letter, kwa mpangilio wa kusoma. Huokoa karatasi kwa karatasi za kugawa na rasimu. Ndani ya kivinjari, hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/n-up-pdf/",
+  "id": "/sw/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

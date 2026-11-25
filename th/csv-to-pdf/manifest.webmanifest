@@ -2,7 +2,7 @@
   "name": "Loona แปลง CSV เป็น PDF ออนไลน์ฟรี",
   "short_name": "แปลง CSV เป็น PDF ออนไลน์ฟรี",
   "description": "แปลงข้อมูล CSV เป็นตาราง PDF ที่สะอาดและแบ่งหน้าออนไลน์ ฟรีในเบราว์เซอร์ของคุณ แถวส่วนหัวตัวหนาที่ซ้ำทุกหน้า คอลัมน์ปรับพอดี ไม่ต้องอัปโหลด",
-  "id": "/loona-pdf-tools/th/csv-to-pdf/",
+  "id": "/th/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

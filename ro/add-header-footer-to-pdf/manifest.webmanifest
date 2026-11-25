@@ -2,7 +2,7 @@
   "name": "Loona Adaugă antet și subsol online gratuit",
   "short_name": "Adaugă antet și subsol online gratuit",
   "description": "Adaugă gratuit online un antet și un subsol pe fiecare pagină PDF: text personalizat, numere de pagină cu formate Pagina X din Y, aliniere și dimensiunea fontului - totul în browserul tău, fără să se încarce nimic.",
-  "id": "/loona-pdf-tools/ro/add-header-footer-to-pdf/",
+  "id": "/ro/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

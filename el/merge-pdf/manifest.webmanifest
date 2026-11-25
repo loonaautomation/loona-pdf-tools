@@ -2,7 +2,7 @@
   "name": "Loona Συγχώνευση PDF Online Δωρεάν",
   "short_name": "Συγχώνευση PDF Online Δωρεάν",
   "description": "Συγχωνεύστε αρχεία PDF σε ένα έγγραφο δωρεάν online. Συνδυάστε πολλά PDF, σύρετε για να τα αναδιατάξετε, χωρίς να απαιτείται εγγραφή. Τα αρχεία επεξεργάζονται ιδιωτικά στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/merge-pdf/",
+  "id": "/el/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

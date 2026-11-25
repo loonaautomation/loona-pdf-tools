@@ -2,7 +2,7 @@
   "name": "Loona JPG към PDF онлайн безплатно",
   "short_name": "JPG към PDF онлайн безплатно",
   "description": "Преобразувайте JPG изображения в PDF безплатно онлайн. Комбинирайте снимки в един PDF със страници А4, Letter или според изображението, в избрания от вас ред. Без регистрация - работи поверително в браузъра.",
-  "id": "/loona-pdf-tools/bg/jpg-to-pdf/",
+  "id": "/bg/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF 转 JPG 在线免费",
   "short_name": "PDF 转 JPG 在线免费",
   "description": "在线免费将 PDF 页面转换为 JPG 图片。选择标准、高或打印质量，并将每个页面下载为 JPG。无需注册；转换在您的浏览器中进行。",
-  "id": "/loona-pdf-tools/zh/pdf-to-jpg/",
+  "id": "/zh/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Συμπίεση PDF Online Δωρεάν",
   "short_name": "Συμπίεση PDF Online Δωρεάν",
   "description": "Συμπιέστε αρχεία PDF δωρεάν online και συρρικνώστε τα για email ή μεταφορτώσεις. Επιλέξτε συμπίεση ροής χωρίς απώλειες ή ισχυρή συμπίεση εικόνας. Ιδιωτικά, στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/compress-pdf/",
+  "id": "/el/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

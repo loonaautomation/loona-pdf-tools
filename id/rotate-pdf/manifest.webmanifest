@@ -2,7 +2,7 @@
   "name": "Loona Putar PDF online gratis",
   "short_name": "Putar PDF online gratis",
   "description": "Putar halaman PDF gratis secara online sebesar 90, 180, atau 270 derajat - semua halaman atau rentang pilihan - dan simpan file yang telah diperbaiki. Tanpa pendaftaran; ini terjadi di browser Anda.",
-  "id": "/loona-pdf-tools/id/rotate-pdf/",
+  "id": "/id/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

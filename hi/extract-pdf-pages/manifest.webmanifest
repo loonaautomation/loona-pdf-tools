@@ -2,7 +2,7 @@
   "name": "Loona PDF पृष्ठ निकालें ऑनलाइन मुफ़्त",
   "short_name": "PDF पृष्ठ निकालें ऑनलाइन मुफ़्त",
   "description": "PDF से पृष्ठ मुफ़्त ऑनलाइन निकालें। 3, 5-8 जैसे पृष्ठ दर्ज करें और उन्हें नई, छोटी PDF के रूप में डाउनलोड करें। कोई साइन-अप नहीं; निष्कर्षण आपके ब्राउज़र में चलता है।",
-  "id": "/loona-pdf-tools/hi/extract-pdf-pages/",
+  "id": "/hi/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

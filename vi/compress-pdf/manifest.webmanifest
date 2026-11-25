@@ -2,7 +2,7 @@
   "name": "Loona Nén PDF trực tuyến miễn phí",
   "short_name": "Nén PDF trực tuyến miễn phí",
   "description": "Nén tệp PDF miễn phí trực tuyến và thu nhỏ chúng cho email hoặc tải lên. Chọn nén luồng không mất dữ liệu hoặc nén hình ảnh mạnh. Riêng tư, trong trình duyệt của bạn.",
-  "id": "/loona-pdf-tools/vi/compress-pdf/",
+  "id": "/vi/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF 轉 JPG 線上免費",
   "short_name": "PDF 轉 JPG 線上免費",
   "description": "線上免費將 PDF 頁面轉換為 JPG 圖片。選擇標準、高或列印質量，並將每個頁面下載為 JPG。無需註冊；轉換在您的瀏覽器中進行。",
-  "id": "/loona-pdf-tools/zh-hant/pdf-to-jpg/",
+  "id": "/zh-hant/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

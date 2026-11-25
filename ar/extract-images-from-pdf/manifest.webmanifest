@@ -2,7 +2,7 @@
   "name": "Loona استخراج الصور من PDF عبر الإنترنت مجانًا",
   "short_name": "استخراج الصور من PDF عبر الإنترنت مجانًا",
   "description": "استخرج الصور الأصلية المضمّنة في PDF مجانًا عبر الإنترنت: تُسحب الصور الفوتوغرافية والرسوم بدقتها المخزنة كملفات PNG — لا لقطات شاشة. بنسبة 100% في متصفحك، دون رفع أي شيء.",
-  "id": "/loona-pdf-tools/ar/extract-images-from-pdf/",
+  "id": "/ar/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF u sivu skalu besplatno na mreži",
   "short_name": "PDF u sivu skalu besplatno na mreži",
   "description": "Pretvorite PDF u sive tonove besplatno na mreži: svaka se stranica ponovno gradi u nijansama sive — idealno za jeftiniji ispis i čist jednobojni izgled. Radi 100% u vašem pregledniku; ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/pdf-to-grayscale/",
+  "id": "/hr/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

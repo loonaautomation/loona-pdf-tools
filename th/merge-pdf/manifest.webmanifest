@@ -2,7 +2,7 @@
   "name": "Loona รวม PDF ออนไลน์ฟรี",
   "short_name": "รวม PDF ออนไลน์ฟรี",
   "description": "รวมไฟล์ PDF เป็นเอกสารเดียวฟรีออนไลน์ รวม PDF หลายไฟล์ ลากเพื่อจัดลำดับใหม่ ไม่ต้องสมัคร ไฟล์ถูกประมวลผลเป็นส่วนตัวในเบราว์เซอร์ของคุณ",
-  "id": "/loona-pdf-tools/th/merge-pdf/",
+  "id": "/th/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

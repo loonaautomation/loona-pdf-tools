@@ -2,7 +2,7 @@
   "name": "Loona JSON till PDF online gratis",
   "short_name": "JSON till PDF online gratis",
   "description": "Konvertera JSON till ett läsbart, paginerat PDF-dokument online, gratis i din webbläsare. Validerat och snyggt formaterat först. Ingen uppladdning.",
-  "id": "/loona-pdf-tools/sv/json-to-pdf/",
+  "id": "/sv/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

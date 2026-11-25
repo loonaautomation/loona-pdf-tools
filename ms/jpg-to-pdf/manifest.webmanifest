@@ -2,7 +2,7 @@
   "name": "Loona JPG kepada PDF dalam talian percuma",
   "short_name": "JPG kepada PDF dalam talian percuma",
   "description": "Tukar imej JPG kepada PDF secara percuma dalam talian. Gabungkan foto menjadi satu PDF dengan halaman A4, Letter atau muat, mengikut susunan anda. Tanpa pendaftaran - berjalan secara peribadi dalam pelayar.",
-  "id": "/loona-pdf-tools/ms/jpg-to-pdf/",
+  "id": "/ms/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

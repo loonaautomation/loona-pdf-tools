@@ -2,7 +2,7 @@
   "name": "Loona Markdown til PDF online gratis",
   "short_name": "Markdown til PDF online gratis",
   "description": "Konvertér Markdown til en stylet PDF online, gratis i din browser. Overskrifter, lister, kode og links gengivet med live forhåndsvisning. Ingen upload.",
-  "id": "/loona-pdf-tools/da/markdown-to-pdf/",
+  "id": "/da/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

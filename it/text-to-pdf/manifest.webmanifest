@@ -2,7 +2,7 @@
   "name": "Loona Da testo a PDF online gratuito",
   "short_name": "Da testo a PDF online gratuito",
   "description": "Converti gratuitamente online testo in un PDF. Incolla il tuo testo, scegli dimensione del carattere e pagine A4 o Letter e scarica un PDF pulito. Senza registrazione - creato in privato nel browser.",
-  "id": "/loona-pdf-tools/it/text-to-pdf/",
+  "id": "/it/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

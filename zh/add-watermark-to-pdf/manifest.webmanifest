@@ -2,7 +2,7 @@
   "name": "Loona 添加水印 在线免费",
   "short_name": "添加水印 在线免费",
   "description": "在线免费为 PDF 添加文字水印。设置文字、大小、不透明度、角度和颜色——居中或平铺。无需注册；加水印过程在浏览器中私密进行。",
-  "id": "/loona-pdf-tools/zh/add-watermark-to-pdf/",
+  "id": "/zh/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

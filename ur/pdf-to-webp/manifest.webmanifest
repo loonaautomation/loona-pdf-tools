@@ -2,7 +2,7 @@
   "name": "Loona PDF سے WebP آن لائن مفت",
   "short_name": "PDF سے WebP آن لائن مفت",
   "description": "PDF صفحات کو WebP تصاویر میں آن لائن مفت تبدیل کریں: ویب سائٹس کے لیے JPG اور PNG سے چھوٹی، آپ کے براؤزر میں آپ کی منتخب ریزولوشن پر بنائی گئی۔ کچھ بھی اپ لوڈ نہیں ہوتا، سائن اپ نہیں۔",
-  "id": "/loona-pdf-tools/ur/pdf-to-webp/",
+  "id": "/ur/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tambah Tera Air pada PDF dalam talian percuma",
   "short_name": "Tambah Tera Air pada PDF dalam talian percuma",
   "description": "Tambah tera air teks pada PDF secara percuma dalam talian. Tetapkan teks, saiz, kelegapan, sudut dan warna - di tengah atau berjubin. Tanpa pendaftaran; penandaan tera air berjalan secara peribadi dalam pelayar.",
-  "id": "/loona-pdf-tools/ms/add-watermark-to-pdf/",
+  "id": "/ms/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

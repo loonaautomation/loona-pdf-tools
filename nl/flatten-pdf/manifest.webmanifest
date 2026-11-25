@@ -2,7 +2,7 @@
   "name": "Loona PDF afvlakken online gratis",
   "short_name": "PDF afvlakken online gratis",
   "description": "Vlak een PDF gratis online af: bak invulbare formuliervelden in de pagina's zodat antwoorden niet langer bewerkt kunnen worden, met een optionele volledige heropbouw als afbeelding die alles afvlakt. Privé, in de browser, geen registratie.",
-  "id": "/loona-pdf-tools/nl/flatten-pdf/",
+  "id": "/nl/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Comparar Arquivos PDF Online Grátis",
   "short_name": "Comparar Arquivos PDF Online",
   "description": "Compare dois arquivos PDF online grátis e veja exatamente que texto mudou, página a página. As linhas removidas e acrescentadas são destacadas lado a lado. Sem registro; a comparação é executada de forma privada no seu navegador.",
-  "id": "/loona-pdf-tools/pt-br/compare-pdf/",
+  "id": "/pt-br/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

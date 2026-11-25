@@ -2,7 +2,7 @@
   "name": "Loona Tambah Halaman Kosong pada PDF dalam talian percuma",
   "short_name": "Tambah Halaman Kosong pada PDF dalam talian percuma",
   "description": "Sisipkan halaman kosong ke dalam PDF secara percuma dalam talian: pada permulaan, pada akhir, atau selepas mana-mana halaman, sepadan dengan saiz halaman dokumen, A4 atau Letter. Serta-merta, dalam pelayar anda, tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/add-blank-page-to-pdf/",
+  "id": "/ms/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

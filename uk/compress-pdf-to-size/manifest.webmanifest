@@ -2,7 +2,7 @@
   "name": "Loona Стиснути PDF до розміру онлайн безкоштовно",
   "short_name": "Стиснути PDF до розміру онлайн безкоштовно",
   "description": "Стисніть PDF до точної цілі: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — а також пресети для електронної пошти (10 MB) і WhatsApp (16 MB). Безкоштовно, у вашому браузері.",
-  "id": "/loona-pdf-tools/uk/compress-pdf-to-size/",
+  "id": "/uk/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

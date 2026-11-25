@@ -2,7 +2,7 @@
   "name": "Loona PDF füzet készítése online ingyen",
   "short_name": "PDF füzet készítése online ingyen",
   "description": "Készítsen nyomtatható füzet-PDF-et ingyen, online: az oldalak valódi füzetsorrendben, fekvő lapokon rendeződnek – nyomtasson kétoldalasan, hajtson, tűzzön. Az üres oldalak automatikusan néggyel osztható számra egészítenek ki.",
-  "id": "/loona-pdf-tools/hu/create-pdf-booklet/",
+  "id": "/hu/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

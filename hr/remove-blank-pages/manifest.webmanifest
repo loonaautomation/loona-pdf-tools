@@ -2,7 +2,7 @@
   "name": "Loona Ukloni prazne stranice besplatno na mreži",
   "short_name": "Ukloni prazne stranice besplatno na mreži",
   "description": "Uklonite prazne stranice iz PDF-a besplatno na mreži: stranice se renderiraju i provjeravaju piksel po piksel, gotovo prazne stranice pošteno se navode s njihovom pokrivenošću tintom i uklanjaju se - stranice sa sadržajem ostaju netaknute. U pregledniku.",
-  "id": "/loona-pdf-tools/hr/remove-blank-pages/",
+  "id": "/hr/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

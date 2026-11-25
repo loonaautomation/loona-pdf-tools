@@ -2,7 +2,7 @@
   "name": "Loona PDF میں صفحہ نمبر شامل کریں آن لائن مفت",
   "short_name": "PDF میں صفحہ نمبر شامل کریں آن لائن مفت",
   "description": "PDF میں صفحہ نمبر آن لائن مفت شامل کریں۔ انداز منتخب کریں (1، صفحہ 1، 1 از 10)، جگہ اور ابتدائی نمبر۔ سائن اپ نہیں؛ نمبر لگانا آپ کے براؤزر میں نجی طور پر ہوتا ہے۔",
-  "id": "/loona-pdf-tools/ur/add-page-numbers-to-pdf/",
+  "id": "/ur/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

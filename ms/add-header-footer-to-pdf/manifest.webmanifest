@@ -2,7 +2,7 @@
   "name": "Loona Tambah Pengepala & Pengaki pada PDF dalam talian percuma",
   "short_name": "Tambah Pengepala & Pengaki pada PDF dalam talian percuma",
   "description": "Tambahkan pengepala dan pengaki pada setiap halaman PDF secara percuma dalam talian: teks tersuai, nombor halaman dengan format Page X of Y, penjajaran dan saiz fon - semuanya dalam pelayar anda, tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/add-header-footer-to-pdf/",
+  "id": "/ms/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

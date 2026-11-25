@@ -2,7 +2,7 @@
   "name": "Loona Dimensiuni și informații despre paginile PDF online gratuit",
   "short_name": "Dimensiuni și informații despre paginile PDF online gratuit",
   "description": "Verifică gratuit online dimensiunile paginilor unui PDF: dimensiunile fiecărei pagini în puncte, milimetri și inci, dimensiunea ei standard cea mai apropiată (A4, Letter...), rotirea, plus titlul, autorul și versiunea PDF. Fără să se încarce nimic.",
-  "id": "/loona-pdf-tools/ro/pdf-page-sizes/",
+  "id": "/ro/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

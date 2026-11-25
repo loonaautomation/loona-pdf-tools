@@ -2,7 +2,7 @@
   "name": "Loona PDF पृष्ठों का आकार बदलें ऑनलाइन मुफ़्त",
   "short_name": "PDF पृष्ठों का आकार बदलें ऑनलाइन मुफ़्त",
   "description": "PDF पृष्ठ मुफ़्त ऑनलाइन आकार बदलें: हर पृष्ठ को A4, US Letter या Legal में बदलें, या प्रतिशत से स्केल करें, सामग्री फ़िट होने के लिए स्केल और केंद्रित। आपके ब्राउज़र में चलता है - कुछ भी अपलोड नहीं।",
-  "id": "/loona-pdf-tools/hi/resize-pdf-pages/",
+  "id": "/hi/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

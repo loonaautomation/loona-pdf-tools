@@ -2,7 +2,7 @@
   "name": "Loona Komprimer PDF for e-post på nett gratis",
   "short_name": "Komprimer PDF for e-post på nett gratis",
   "description": "Komprimer en PDF til 10 MB eller mindre, gratis i nettleseren din. Verktøyet prøver først en tapsfri lagring på nytt, og går deretter trinnvis ned i gjengivelseskvalitet til filen din passer — og rapporterer det nøyaktige resultatet.",
-  "id": "/loona-pdf-tools/nb/compress-pdf-for-email/",
+  "id": "/nb/compress-pdf-for-email/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

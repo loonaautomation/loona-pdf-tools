@@ -2,7 +2,7 @@
   "name": "Loona Konverter PDF ke HTML online gratis",
   "short_name": "Konverter PDF ke HTML online gratis",
   "description": "Konversi PDF ke HTML secara online, gratis di browser Anda. Teks diekstrak dengan struktur heading yang terdeteksi dari ukuran font. Tanpa unggahan, tanpa pendaftaran.",
-  "id": "/loona-pdf-tools/id/pdf-to-html/",
+  "id": "/id/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

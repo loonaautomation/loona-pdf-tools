@@ -2,7 +2,7 @@
   "name": "Loona PDF-pagina's verwijderen online gratis",
   "short_name": "PDF-pagina's verwijderen online gratis",
   "description": "Verwijder gratis online pagina's uit een PDF. Typ de te verwijderen paginanummers - zoals 2, 4-6 - en download het opgeschoonde bestand. Geen registratie; alles blijft in je browser.",
-  "id": "/loona-pdf-tools/nl/delete-pdf-pages/",
+  "id": "/nl/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

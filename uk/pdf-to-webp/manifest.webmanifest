@@ -2,7 +2,7 @@
   "name": "Loona PDF у WebP онлайн безкоштовно",
   "short_name": "PDF у WebP онлайн безкоштовно",
   "description": "Перетворюйте сторінки PDF на зображення WebP безкоштовно онлайн: менші за JPG і PNG для вебсайтів, відтворені з вибраною вами роздільною здатністю у вашому браузері. Нічого не передається на сервер, без реєстрації.",
-  "id": "/loona-pdf-tools/uk/pdf-to-webp/",
+  "id": "/uk/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

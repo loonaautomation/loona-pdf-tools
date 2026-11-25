@@ -2,7 +2,7 @@
   "name": "Loona Redigovat PDF online zdarma",
   "short_name": "Redigovat PDF online zdarma",
   "description": "Redigujte PDF zdarma online: nakreslete černé rámečky přes jména, čísla nebo fotografie a zapečte je trvale - skrytý obsah se odstraní, ne jen zakryje. 100 % ve vašem prohlížeči, nic se nenahrává.",
-  "id": "/loona-pdf-tools/cs/redact-pdf/",
+  "id": "/cs/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

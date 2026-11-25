@@ -2,7 +2,7 @@
   "name": "Loona GIFからPDFへの変換ツール オンライン無料",
   "short_name": "GIFからPDFへの変換ツール オンライン無料",
   "description": "GIF画像をPDFにオンライン変換、無料、ブラウザ上で。一ページに一画像、画像に合わせるかA4/Letterページ。アップロード不要、登録不要。",
-  "id": "/loona-pdf-tools/ja/gif-to-pdf/",
+  "id": "/ja/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

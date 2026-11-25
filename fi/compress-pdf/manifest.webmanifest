@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa PDF verkossa ilmaiseksi",
   "short_name": "Pakkaa PDF verkossa ilmaiseksi",
   "description": "Pakkaa PDF-tiedostoja ilmaiseksi verkossa ja pienennä niitä sähköpostia tai latauksia varten. Valitse häviötön virtojen pakkaus tai vahva kuvien pakkaus. Yksityisesti, selaimessasi.",
-  "id": "/loona-pdf-tools/fi/compress-pdf/",
+  "id": "/fi/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

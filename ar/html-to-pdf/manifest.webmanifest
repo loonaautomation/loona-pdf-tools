@@ -2,7 +2,7 @@
   "name": "Loona محوّل HTML إلى PDF – مجاني، محرك طباعة المتصفح",
   "short_name": "محوّل HTML إلى PDF – مجاني، محرك طباعة المتصفح",
   "description": "حوّل HTML إلى PDF عبر الإنترنت، مجانًا، باستخدام محرك الطباعة إلى PDF الخاص بمتصفحك — دعم CSS كامل، دون رفع، دون علامات مائية.",
-  "id": "/loona-pdf-tools/ar/html-to-pdf/",
+  "id": "/ar/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

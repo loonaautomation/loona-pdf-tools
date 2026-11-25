@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji Saini bure mtandaoni",
   "short_name": "Kizalishaji Saini bure mtandaoni",
   "description": "Tengeneza picha ya saini bure mtandaoni: ichore, andika jina lako kwa mtindo wa mwandiko wa mkono, au igeuze picha ya saini yako iwe yenye uwazi. Pakua PNG safi yenye uwazi - hakuna upakiaji, hakuna kujisajili.",
-  "id": "/loona-pdf-tools/sw/signature-generator/",
+  "id": "/sw/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

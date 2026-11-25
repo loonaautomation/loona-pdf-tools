@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็น PDF ออนไลน์ฟรี",
   "short_name": "ตัวแปลง JSON เป็น PDF ออนไลน์ฟรี",
   "description": "แปลง JSON เป็น PDF ที่อ่านได้และแบ่งหน้าออนไลน์ ฟรีในเบราว์เซอร์ของคุณ ตรวจสอบและจัดรูปแบบสวยงามก่อน ไม่ต้องอัปโหลด",
-  "id": "/loona-pdf-tools/th/json-to-pdf/",
+  "id": "/th/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

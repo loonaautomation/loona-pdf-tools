@@ -2,7 +2,7 @@
   "name": "Loona PDF naar grijstinten online gratis",
   "short_name": "PDF naar grijstinten online gratis",
   "description": "Converteer een PDF gratis online naar grijstinten: elke pagina wordt opnieuw opgebouwd in grijstinten - ideaal voor goedkoper printen en een nette monochrome uitstraling. Werkt 100% in je browser; er wordt niets geüpload.",
-  "id": "/loona-pdf-tools/nl/pdf-to-grayscale/",
+  "id": "/nl/pdf-to-grayscale/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

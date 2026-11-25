@@ -2,7 +2,7 @@
   "name": "Loona Otočit PDF online zdarma",
   "short_name": "Otočit PDF online zdarma",
   "description": "Otáčejte stránky PDF zdarma online o 90, 180 nebo 270 stupňů - všechny stránky nebo zvolený rozsah - a uložte opravený soubor. Bez registrace; děje se to ve vašem prohlížeči.",
-  "id": "/loona-pdf-tools/cs/rotate-pdf/",
+  "id": "/cs/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

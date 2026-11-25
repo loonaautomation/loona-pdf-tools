@@ -2,7 +2,7 @@
   "name": "Loona Extrage pagini din PDF online gratuit",
   "short_name": "Extrage pagini din PDF online gratuit",
   "description": "Extrage gratuit online pagini selectate dintr-un PDF. Introdu pagini precum 3, 5-8 și descarcă-le ca PDF nou, mai mic. Fără înregistrare; extragerea rulează în browserul tău.",
-  "id": "/loona-pdf-tools/ro/extract-pdf-pages/",
+  "id": "/ro/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

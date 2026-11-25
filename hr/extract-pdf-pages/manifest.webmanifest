@@ -2,7 +2,7 @@
   "name": "Loona Izdvoji stranice PDF-a besplatno na mreži",
   "short_name": "Izdvoji stranice PDF-a besplatno na mreži",
   "description": "Izdvojite odabrane stranice iz PDF-a besplatno na mreži. Unesite stranice poput 3, 5-8 i preuzmite ih kao novi, manji PDF. Bez registracije; izdvajanje se odvija u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/extract-pdf-pages/",
+  "id": "/hr/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

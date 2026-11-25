@@ -2,7 +2,7 @@
   "name": "Loona PDF कन्वर्टर",
   "short_name": "PDF कन्वर्टर",
   "description": "हर PDF कन्वर्टर एक ही जगह: चित्र, CSV, JSON, HTML और Markdown से PDF — और PDF वापस चित्र, टेक्स्ट, HTML और Markdown में। मुफ़्त, आपके ब्राउज़र में।",
-  "id": "/loona-pdf-tools/hi/pdf-converters/",
+  "id": "/hi/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

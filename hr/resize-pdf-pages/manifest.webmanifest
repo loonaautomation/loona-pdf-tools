@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu stranica PDF-a besplatno na mreži",
   "short_name": "Promijeni veličinu stranica PDF-a besplatno na mreži",
   "description": "Promijenite veličinu stranica PDF-a besplatno na mreži: pretvorite svaku stranicu u A4, US Letter ili Legal, ili skalirajte postotkom, sa sadržajem skaliranim da stane i centriranim. Radi u vašem pregledniku - ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/resize-pdf-pages/",
+  "id": "/hr/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

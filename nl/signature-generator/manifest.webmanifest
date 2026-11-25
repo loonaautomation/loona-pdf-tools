@@ -2,7 +2,7 @@
   "name": "Loona Handtekeninggenerator online gratis",
   "short_name": "Handtekeninggenerator online gratis",
   "description": "Maak gratis online een handtekeningafbeelding: teken hem, typ je naam in een handschriftstijl, of maak een foto van je handtekening transparant. Download een nette transparante PNG - geen upload, geen registratie.",
-  "id": "/loona-pdf-tools/nl/signature-generator/",
+  "id": "/nl/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

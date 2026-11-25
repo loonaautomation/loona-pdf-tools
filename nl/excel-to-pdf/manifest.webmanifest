@@ -2,7 +2,7 @@
   "name": "Loona Excel naar PDF-converter online gratis",
   "short_name": "Excel naar PDF-converter online gratis",
   "description": "Converteer Excel-spreadsheets (.xlsx, .xls) en CSV-bestanden online naar een nette, gepagineerde PDF-tabel, gratis in je browser. Elk blad wordt een tabel met een herhalende kopregel. Geen upload.",
-  "id": "/loona-pdf-tools/nl/excel-to-pdf/",
+  "id": "/nl/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor عبر الإنترنت مجانًا",
   "short_name": "Loona PDF Editor",
   "description": "حرّر ملفات PDF مجانًا عبر الإنترنت باستخدام Loona PDF Editor: أضف نصًا وصورًا وأشكالًا وتمييزات، وغطِّ الأخطاء بالممحاة البيضاء، وارسم توقيعًا أو اكتبه، ثم نزّل ملف PDF الجاهز. كل شيء يعمل في متصفحك - ملفك لا يغادر جهازك أبدًا. دون تسجيل، ودون حدود للصفحات، ودون علامات مائية.",
-  "id": "/loona-pdf-tools/ar/pdf-editor/",
+  "id": "/ar/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

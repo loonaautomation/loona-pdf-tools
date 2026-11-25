@@ -2,7 +2,7 @@
   "name": "Loona PDFページを抽出 オンライン無料",
   "short_name": "PDFページを抽出 オンライン無料",
   "description": "PDFから選んだページを無料でオンライン抽出。「3, 5-8」のようにページを入力し、新しく小さなPDFとしてダウンロードできます。登録不要。抽出はブラウザで実行されます。",
-  "id": "/loona-pdf-tools/ja/extract-pdf-pages/",
+  "id": "/ja/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

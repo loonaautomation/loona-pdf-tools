@@ -2,7 +2,7 @@
   "name": "Loona Konwerter PDF na HTML online za darmo",
   "short_name": "Konwerter PDF na HTML online za darmo",
   "description": "Konwertuj PDF na HTML online, za darmo w swojej przeglądarce. Tekst jest wyodrębniany ze strukturą nagłówków wykrywaną na podstawie rozmiarów czcionek. Bez przesyłania, bez rejestracji.",
-  "id": "/loona-pdf-tools/pl/pdf-to-html/",
+  "id": "/pl/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

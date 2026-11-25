@@ -2,7 +2,7 @@
   "name": "Loona Tekst til PDF online gratis",
   "short_name": "Tekst til PDF online gratis",
   "description": "Konvertér gratis tekst til en PDF online. Indsæt din tekst, vælg skriftstørrelse og A4- eller Letter-sider, og download en ren PDF. Ingen tilmelding - lavet privat i browseren.",
-  "id": "/loona-pdf-tools/da/text-to-pdf/",
+  "id": "/da/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

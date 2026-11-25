@@ -2,7 +2,7 @@
   "name": "Loona CSV kepada PDF dalam talian percuma",
   "short_name": "CSV kepada PDF dalam talian percuma",
   "description": "Tukar data CSV kepada jadual PDF yang bersih dan berpaginasi dalam talian, secara percuma dalam pelayar anda. Baris pengepala tebal berulang, lajur dipadankan. Tiada muat naik.",
-  "id": "/loona-pdf-tools/ms/csv-to-pdf/",
+  "id": "/ms/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

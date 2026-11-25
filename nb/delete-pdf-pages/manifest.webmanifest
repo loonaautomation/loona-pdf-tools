@@ -2,7 +2,7 @@
   "name": "Loona Slett PDF-sider på nett gratis",
   "short_name": "Slett PDF-sider på nett gratis",
   "description": "Slett sider fra en PDF gratis på nett. Skriv sidetallene som skal fjernes - som 2, 4-6 - og last ned den rensede filen. Ingen registrering; alt forblir i nettleseren din.",
-  "id": "/loona-pdf-tools/nb/delete-pdf-pages/",
+  "id": "/nb/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

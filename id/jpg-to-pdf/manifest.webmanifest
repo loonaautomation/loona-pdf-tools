@@ -2,7 +2,7 @@
   "name": "Loona JPG ke PDF online gratis",
   "short_name": "JPG ke PDF online gratis",
   "description": "Konversi gambar JPG ke PDF gratis secara online. Gabungkan foto menjadi satu PDF dengan halaman A4, Letter, atau pas, dalam urutan Anda. Tanpa pendaftaran - berjalan secara privat di browser.",
-  "id": "/loona-pdf-tools/id/jpg-to-pdf/",
+  "id": "/id/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

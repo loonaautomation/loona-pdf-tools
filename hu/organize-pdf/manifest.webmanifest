@@ -2,7 +2,7 @@
   "name": "Loona PDF rendezése online ingyen",
   "short_name": "PDF rendezése online ingyen",
   "description": "Rendezzen PDF-oldalakat ingyen, online: húzza a bélyegképeket az oldalak átrendezéséhez, forgassa az oldalra fordult oldalakat, és törölje a nem szükséges oldalakat. Regisztráció nélkül. A fájlok privát módon, a böngészőjében dolgozódnak fel.",
-  "id": "/loona-pdf-tools/hu/organize-pdf/",
+  "id": "/hu/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

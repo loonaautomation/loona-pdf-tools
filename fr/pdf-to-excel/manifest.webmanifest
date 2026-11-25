@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur PDF en Excel",
   "short_name": "Convertisseur PDF en Excel",
   "description": "Convertissez des tableaux PDF en feuilles de calcul Excel (.xlsx) gratuitement dans votre navigateur. Prévisualisez et corrigez chaque cellule avant de télécharger. Sans envoi, sans inscription — votre fichier ne quitte jamais votre appareil.",
-  "id": "/loona-pdf-tools/fr/pdf-to-excel/",
+  "id": "/fr/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

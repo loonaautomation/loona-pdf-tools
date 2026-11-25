@@ -2,7 +2,7 @@
   "name": "Loona Spłaszcz PDF online za darmo",
   "short_name": "Spłaszcz PDF online za darmo",
   "description": "Spłaszcz PDF za darmo online: wtop wypełnialne pola formularza w strony, aby odpowiedzi nie dało się już edytować, z opcjonalną pełną odbudową obrazu, która spłaszcza wszystko. Prywatnie, w przeglądarce, bez rejestracji.",
-  "id": "/loona-pdf-tools/pl/flatten-pdf/",
+  "id": "/pl/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

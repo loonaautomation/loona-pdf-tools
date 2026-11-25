@@ -2,7 +2,7 @@
   "name": "Loona Tạo tập sách PDF trực tuyến miễn phí",
   "short_name": "Tạo tập sách PDF trực tuyến miễn phí",
   "description": "Tạo một PDF tập sách có thể in miễn phí trực tuyến: các trang được sắp theo đúng thứ tự tập sách trên các tờ ngang - in hai mặt, gập, dập ghim. Các trang trống đệm đến bội số của bốn tự động.",
-  "id": "/loona-pdf-tools/vi/create-pdf-booklet/",
+  "id": "/vi/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

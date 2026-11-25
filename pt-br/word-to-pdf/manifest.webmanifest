@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Converta um documento Word (.docx) em um PDF limpo e legível online, grátis no seu navegador. Títulos, listas, tabelas e imagens são mantidos. Seu arquivo nunca é enviado — a conversão acontece inteiramente no seu dispositivo.",
-  "id": "/loona-pdf-tools/pt-br/word-to-pdf/",
+  "id": "/pt-br/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

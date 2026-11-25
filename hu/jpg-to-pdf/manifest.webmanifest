@@ -2,7 +2,7 @@
   "name": "Loona JPG-ből PDF online ingyen",
   "short_name": "JPG-ből PDF online ingyen",
   "description": "Alakítson JPG képeket PDF-fé ingyen, online. Egyesítsen fotókat egyetlen PDF-be A4, Letter vagy igazított oldalakkal, a saját sorrendjében. Regisztráció nélkül – privát módon, a böngészőben működik.",
-  "id": "/loona-pdf-tools/hu/jpg-to-pdf/",
+  "id": "/hu/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

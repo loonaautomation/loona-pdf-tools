@@ -2,7 +2,7 @@
   "name": "Loona Thêm hình mờ trực tuyến miễn phí",
   "short_name": "Thêm hình mờ trực tuyến miễn phí",
   "description": "Thêm hình mờ văn bản vào PDF miễn phí trực tuyến. Đặt văn bản, kích thước, độ mờ, góc và màu - ở giữa hoặc lát gạch. Không cần đăng ký; việc đóng hình mờ chạy riêng tư trong trình duyệt.",
-  "id": "/loona-pdf-tools/vi/add-watermark-to-pdf/",
+  "id": "/vi/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

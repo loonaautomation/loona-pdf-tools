@@ -2,7 +2,7 @@
   "name": "Loona PDF kepada WebP dalam talian percuma",
   "short_name": "PDF kepada WebP dalam talian percuma",
   "description": "Tukar halaman PDF kepada imej WebP secara percuma dalam talian: lebih kecil daripada JPG dan PNG untuk laman web, dipaparkan pada resolusi pilihan anda dalam pelayar anda. Tiada apa-apa dimuat naik, tiada pendaftaran.",
-  "id": "/loona-pdf-tools/ms/pdf-to-webp/",
+  "id": "/ms/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

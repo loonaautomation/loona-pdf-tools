@@ -2,7 +2,7 @@
   "name": "Loona Chỉnh sửa thông tin PDF trực tuyến miễn phí",
   "short_name": "Chỉnh sửa thông tin PDF trực tuyến miễn phí",
   "description": "Xem và chỉnh sửa siêu dữ liệu PDF miễn phí trực tuyến - tiêu đề, tác giả, chủ đề và từ khóa - và xem số trang cùng kích thước tệp. Không cần đăng ký; việc chỉnh sửa siêu dữ liệu chạy trong trình duyệt.",
-  "id": "/loona-pdf-tools/vi/edit-pdf-info/",
+  "id": "/vi/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

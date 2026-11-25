@@ -2,7 +2,7 @@
   "name": "Loona Markdown kepada PDF dalam talian percuma",
   "short_name": "Markdown kepada PDF dalam talian percuma",
   "description": "Tukar Markdown kepada PDF bergaya dalam talian, secara percuma dalam pelayar anda. Tajuk, senarai, kod dan pautan dipaparkan dengan pratonton langsung. Tiada muat naik.",
-  "id": "/loona-pdf-tools/ms/markdown-to-pdf/",
+  "id": "/ms/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

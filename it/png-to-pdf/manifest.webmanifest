@@ -2,7 +2,7 @@
   "name": "Loona Da PNG a PDF online gratuito",
   "short_name": "Da PNG a PDF online gratuito",
   "description": "Converti gratuitamente online immagini PNG in un PDF. Screenshot, loghi e grafica diventano un unico PDF con pagine A4, Letter o adatte. Conversione privata nel browser, senza registrazione.",
-  "id": "/loona-pdf-tools/it/png-to-pdf/",
+  "id": "/it/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF para Texto Online Grátis",
   "short_name": "PDF para Texto Online Grátis",
   "description": "Extrair texto de um PDF online grátis. Obtenha o texto completo de cada página para copiar ou transferir como um ficheiro TXT. Sem registo, e o seu PDF nunca sai do seu navegador.",
-  "id": "/loona-pdf-tools/pt-pt/pdf-to-text/",
+  "id": "/pt-pt/pdf-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

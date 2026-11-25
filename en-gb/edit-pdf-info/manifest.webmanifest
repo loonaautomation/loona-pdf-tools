@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/edit-pdf-info/",
+  "id": "/en-gb/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

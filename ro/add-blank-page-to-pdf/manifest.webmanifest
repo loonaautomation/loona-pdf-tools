@@ -2,7 +2,7 @@
   "name": "Loona Adaugă o pagină goală în PDF online gratuit",
   "short_name": "Adaugă o pagină goală în PDF online gratuit",
   "description": "Inserează gratuit online pagini goale într-un PDF: la început, la sfârșit sau după orice pagină, potrivind dimensiunea paginii documentului, A4 sau Letter. Instant, în browserul tău, fără să se încarce nimic.",
-  "id": "/loona-pdf-tools/ro/add-blank-page-to-pdf/",
+  "id": "/ro/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

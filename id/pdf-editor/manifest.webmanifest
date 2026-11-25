@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor online gratis",
   "short_name": "PDF Editor online gratis",
   "description": "Edit file PDF gratis secara online dengan Loona PDF Editor: tambahkan teks, gambar, bentuk, dan sorotan, tutupi kesalahan dengan whiteout, gambar atau ketik tanda tangan, lalu unduh PDF Anda yang sudah jadi. Semuanya berjalan di browser Anda - file Anda tidak pernah meninggalkan perangkat Anda. Tanpa pendaftaran, tanpa batas halaman, tanpa watermark.",
-  "id": "/loona-pdf-tools/id/pdf-editor/",
+  "id": "/id/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

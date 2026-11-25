@@ -2,7 +2,7 @@
   "name": "Loona 添加页眉和页脚 在线免费",
   "short_name": "添加页眉和页脚 在线免费",
   "description": "在线免费为每个 PDF 页面添加页眉和页脚：自定义文字、带“第 X 页，共 Y 页”格式的页码、对齐方式和字体大小——全部在您的浏览器中完成，不上传任何内容。",
-  "id": "/loona-pdf-tools/zh/add-header-footer-to-pdf/",
+  "id": "/zh/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

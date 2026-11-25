@@ -2,7 +2,7 @@
   "name": "Loona BMP till PDF-konverterare online gratis",
   "short_name": "BMP till PDF-konverterare online gratis",
   "description": "Konvertera BMP-bilder till en PDF online, gratis, i din webbläsare. En bild per sida, anpassa-till-bild- eller A4/Letter-sidor. Ingen uppladdning, ingen registrering.",
-  "id": "/loona-pdf-tools/sv/bmp-to-pdf/",
+  "id": "/sv/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

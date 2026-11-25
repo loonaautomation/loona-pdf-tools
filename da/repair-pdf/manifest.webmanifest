@@ -2,7 +2,7 @@
   "name": "Loona Reparér PDF online gratis",
   "short_name": "Reparér PDF online gratis",
   "description": "Reparér gratis en beskadiget PDF online: genopbygger ødelagte krydsreferencetabeller og gemmer en ren kopi igen med en sidebilledgenopbygning som sidste udvej. Ærlige begrænsninger angivet. 100 % i din browser.",
-  "id": "/loona-pdf-tools/da/repair-pdf/",
+  "id": "/da/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

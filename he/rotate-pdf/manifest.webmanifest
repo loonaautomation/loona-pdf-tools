@@ -2,7 +2,7 @@
   "name": "Loona סיבוב PDF מקוון בחינם",
   "short_name": "סיבוב PDF מקוון בחינם",
   "description": "סובבו עמודי PDF בחינם באינטרנט ב-90, 180 או 270 מעלות - כל העמודים או טווח נבחר - ושמרו את הקובץ המתוקן. ללא הרשמה; זה קורה בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/rotate-pdf/",
+  "id": "/he/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

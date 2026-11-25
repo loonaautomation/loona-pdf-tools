@@ -2,7 +2,7 @@
   "name": "Loona PDF کمپریس کریں آن لائن مفت",
   "short_name": "PDF کمپریس کریں آن لائن مفت",
   "description": "PDF فائلیں آن لائن مفت کمپریس کریں اور ای میل یا اپ لوڈ کے لیے انہیں سکیڑیں۔ بغیر نقصان اسٹریم کمپریشن یا مضبوط تصویری کمپریشن منتخب کریں۔ نجی، آپ کے براؤزر میں۔",
-  "id": "/loona-pdf-tools/ur/compress-pdf/",
+  "id": "/ur/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

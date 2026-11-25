@@ -2,7 +2,7 @@
   "name": "Loona השוואת קבצי PDF מקוון בחינם",
   "short_name": "השוואת קבצי PDF מקוון בחינם",
   "description": "השוו שני קבצי PDF בחינם באינטרנט וראו בדיוק איזה טקסט השתנה, עמוד אחר עמוד. שורות שהוסרו ונוספו מודגשות זו לצד זו. ללא הרשמה; ההשוואה פועלת בפרטיות בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/compare-pdf/",
+  "id": "/he/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF-konvertálók online ingyen",
   "short_name": "PDF-konvertálók online ingyen",
   "description": "Minden PDF-konvertáló egy helyen: képek, CSV, JSON, HTML és Markdown PDF-be — és a PDF vissza képekké, szöveggé, HTML-lé és Markdownná. Ingyen, a böngészőjében.",
-  "id": "/loona-pdf-tools/hu/pdf-converters/",
+  "id": "/hu/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Aggiungere filigrana al PDF online",
   "short_name": "Aggiungere filigrana al PDF",
   "description": "Aggiungi una filigrana di testo a un PDF gratuitamente online. Imposta testo, dimensione, opacità, angolo e colore - centrata o a mosaico. Senza registrazione; la filigrana viene applicata in privato nel browser.",
-  "id": "/loona-pdf-tools/it/add-watermark-to-pdf/",
+  "id": "/it/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

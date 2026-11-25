@@ -2,7 +2,7 @@
   "name": "Loona WebP to PDF Converter",
   "short_name": "WebP to PDF Converter",
   "description": "Convert WebP images to a PDF online, free, in your browser. One image per page, fit-to-image or A4/Letter pages. No upload, no signup.",
-  "id": "/loona-pdf-tools/en-us/webp-to-pdf/",
+  "id": "/en-us/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

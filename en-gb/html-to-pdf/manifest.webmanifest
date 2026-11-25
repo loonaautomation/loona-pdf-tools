@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/html-to-pdf/",
+  "id": "/en-gb/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

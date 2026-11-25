@@ -2,7 +2,7 @@
   "name": "Loona PDF-ből JPG online ingyen",
   "short_name": "PDF-ből JPG online ingyen",
   "description": "Alakítson PDF-oldalakat JPG képekké ingyen, online. Válasszon normál, magas vagy nyomtatási minőséget, és töltsön le minden oldalt JPG-ként. Regisztráció nélkül; az átalakítás a böngészőjében fut.",
-  "id": "/loona-pdf-tools/hu/pdf-to-jpg/",
+  "id": "/hu/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

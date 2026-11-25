@@ -2,7 +2,7 @@
   "name": "Loona Reparar PDF Online Grátis",
   "short_name": "Reparar PDF Online Grátis",
   "description": "Reparar um PDF danificado online grátis: reconstrói tabelas de referências cruzadas danificadas e volta a gravar uma cópia limpa, com uma reconstrução a partir das imagens das páginas como último recurso. Limites honestos indicados. 100% no seu navegador.",
-  "id": "/loona-pdf-tools/pt-pt/repair-pdf/",
+  "id": "/pt-pt/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

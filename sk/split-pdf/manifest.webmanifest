@@ -2,7 +2,7 @@
   "name": "Loona Rozdeliť PDF online zadarmo",
   "short_name": "Rozdeliť PDF online zadarmo",
   "description": "Rozdeľte PDF do samostatných súborov zadarmo online. Extrahujte každú stránku ako vlastné PDF alebo rozdeľte podľa rozsahov stránok. Bez registrácie a váš súbor nikdy neopustí váš prehliadač.",
-  "id": "/loona-pdf-tools/sk/split-pdf/",
+  "id": "/sk/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

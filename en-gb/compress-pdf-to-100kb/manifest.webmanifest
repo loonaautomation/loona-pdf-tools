@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/compress-pdf-to-100kb/",
+  "id": "/en-gb/compress-pdf-to-100kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

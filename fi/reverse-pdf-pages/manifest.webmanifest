@@ -2,7 +2,7 @@
   "name": "Loona Käännä PDF-sivujen järjestys verkossa ilmaiseksi",
   "short_name": "Käännä PDF-sivujen järjestys verkossa ilmaiseksi",
   "description": "Käännä PDF:n sivujärjestys ilmaiseksi verkossa - viimeisestä sivusta tulee ensimmäinen. Täydellinen väärinpäin olevien skannausten korjaamiseen. Välitön, selaimessasi, mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/reverse-pdf-pages/",
+  "id": "/fi/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

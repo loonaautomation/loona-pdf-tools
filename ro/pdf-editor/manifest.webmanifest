@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor online gratuit",
   "short_name": "Loona PDF Editor",
   "description": "Editează fișiere PDF gratuit online cu Loona PDF Editor: adaugă text, imagini, forme și evidențieri, acoperă greșelile cu alb de corectură, desenează sau tastează o semnătură și descarcă PDF-ul finalizat. Totul rulează în browserul tău — fișierul tău nu părăsește niciodată dispozitivul. Fără înregistrare, fără limite de pagini, fără filigran.",
-  "id": "/loona-pdf-tools/ro/pdf-editor/",
+  "id": "/ro/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

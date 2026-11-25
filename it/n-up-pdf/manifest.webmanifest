@@ -2,7 +2,7 @@
   "name": "Loona PDF N-up online gratuito",
   "short_name": "PDF N-up online gratuito",
   "description": "Metti gratuitamente online più pagine PDF su un unico foglio: layout 2-up, 4-up, 6-up o 9-up su A4 o Letter, in ordine di lettura. Risparmia carta per dispense e bozze. Nel browser, senza caricare nulla.",
-  "id": "/loona-pdf-tools/it/n-up-pdf/",
+  "id": "/it/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

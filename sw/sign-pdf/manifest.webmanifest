@@ -2,7 +2,7 @@
   "name": "Loona Saini PDF bure mtandaoni",
   "short_name": "Saini PDF bure mtandaoni",
   "description": "Saini PDF bure mtandaoni. Chora saini yako au pakia picha yake, iweke kwa onyesho la moja kwa moja, na upakue PDF iliyosainiwa. Kwa faragha - hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/sign-pdf/",
+  "id": "/sw/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

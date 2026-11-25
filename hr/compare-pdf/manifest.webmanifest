@@ -2,7 +2,7 @@
   "name": "Loona Usporedi PDF besplatno na mreži",
   "short_name": "Usporedi PDF besplatno na mreži",
   "description": "Usporedite dvije PDF datoteke besplatno na mreži i pogledajte točno koji se tekst promijenio, stranicu po stranicu. Uklonjeni i dodani reci istaknuti su jedan pokraj drugoga. Bez registracije; usporedba se odvija privatno u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/compare-pdf/",
+  "id": "/hr/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

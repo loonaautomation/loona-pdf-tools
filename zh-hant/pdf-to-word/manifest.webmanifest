@@ -2,7 +2,7 @@
   "name": "Loona PDF 轉 Word 線上免費",
   "short_name": "PDF 轉 Word 線上免費",
   "description": "在您的瀏覽器中免費將基於文字的 PDF 轉換為可編輯的 Word 文件（.docx）。標題、段落、清單和簡單表格都會保留。不上傳，無需註冊。",
-  "id": "/loona-pdf-tools/zh-hant/pdf-to-word/",
+  "id": "/zh-hant/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

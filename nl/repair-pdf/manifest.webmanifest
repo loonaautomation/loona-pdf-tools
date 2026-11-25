@@ -2,7 +2,7 @@
   "name": "Loona PDF-reparatie online gratis",
   "short_name": "PDF-reparatie online gratis",
   "description": "Repareer gratis online een beschadigde PDF: bouwt gebroken kruisverwijzingstabellen opnieuw op en slaat een schone kopie opnieuw op, met een heropbouw als pagina-afbeelding als laatste redmiddel. Eerlijke beperkingen vermeld. 100% in je browser.",
-  "id": "/loona-pdf-tools/nl/repair-pdf/",
+  "id": "/nl/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

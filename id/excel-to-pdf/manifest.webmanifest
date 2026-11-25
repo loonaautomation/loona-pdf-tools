@@ -2,7 +2,7 @@
   "name": "Loona Excel ke PDF online gratis",
   "short_name": "Excel ke PDF online gratis",
   "description": "Konversi spreadsheet Excel (.xlsx, .xls) dan file CSV ke tabel PDF yang bersih dan berpaginasi secara online, gratis di browser Anda. Setiap lembar menjadi tabel dengan baris header berulang. Tanpa unggahan.",
-  "id": "/loona-pdf-tools/id/excel-to-pdf/",
+  "id": "/id/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

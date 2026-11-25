@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa PDF kokoon 50 KB verkossa ilmaiseksi",
   "short_name": "Pakkaa PDF kokoon 50 KB verkossa ilmaiseksi",
   "description": "Pakkaa PDF kokoon 50 KB tai alle, ilmaiseksi selaimessasi. Työkalu kokeilee ensin häviötöntä uudelleentallennusta ja alentaa sitten renderöintilaatua asteittain, kunnes tiedostosi mahtuu — ja ilmoittaa tarkan tuloksen.",
-  "id": "/loona-pdf-tools/fi/compress-pdf-to-50kb/",
+  "id": "/fi/compress-pdf-to-50kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

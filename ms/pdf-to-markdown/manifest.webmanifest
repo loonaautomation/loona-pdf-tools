@@ -2,7 +2,7 @@
   "name": "Loona Penukar PDF kepada Markdown dalam talian percuma",
   "short_name": "Penukar PDF kepada Markdown dalam talian percuma",
   "description": "Tukar PDF kepada Markdown dalam talian, secara percuma dalam pelayar anda. Teks diekstrak dengan struktur tajuk dikesan daripada saiz fon. Tiada muat naik, tiada pendaftaran.",
-  "id": "/loona-pdf-tools/ms/pdf-to-markdown/",
+  "id": "/ms/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

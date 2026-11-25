@@ -2,7 +2,7 @@
   "name": "Loona PDF سے تصاویر نکالیں آن لائن مفت",
   "short_name": "PDF سے تصاویر نکالیں آن لائن مفت",
   "description": "PDF میں شامل اصل تصاویر آن لائن مفت نکالیں: تصاویر اور گرافکس ان کی محفوظ ریزولوشن پر PNG فائلوں کے طور پر باہر نکالے جاتے ہیں - اسکرین شاٹس نہیں۔ 100% آپ کے براؤزر میں، کچھ بھی اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-pdf-tools/ur/extract-images-from-pdf/",
+  "id": "/ur/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

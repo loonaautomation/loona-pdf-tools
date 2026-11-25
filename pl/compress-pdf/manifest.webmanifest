@@ -2,7 +2,7 @@
   "name": "Loona Kompresuj PDF online za darmo",
   "short_name": "Kompresuj PDF online za darmo",
   "description": "Kompresuj pliki PDF za darmo online i zmniejszaj je do e-maila lub przesyłania. Wybierz bezstratną kompresję strumieni lub mocną kompresję obrazów. Prywatnie, w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/compress-pdf/",
+  "id": "/pl/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

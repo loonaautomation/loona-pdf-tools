@@ -2,7 +2,7 @@
   "name": "Loona PNG til PDF online gratis",
   "short_name": "PNG til PDF online gratis",
   "description": "Konvertér gratis PNG-billeder til en PDF online. Skærmbilleder, logoer og grafik bliver til én PDF med A4-, Letter- eller tilpassede sider. Privat konvertering i browseren, ingen tilmelding.",
-  "id": "/loona-pdf-tools/da/png-to-pdf/",
+  "id": "/da/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

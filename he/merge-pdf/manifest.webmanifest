@@ -2,7 +2,7 @@
   "name": "Loona מיזוג PDF מקוון בחינם",
   "short_name": "מיזוג PDF מקוון בחינם",
   "description": "מזגו קבצי PDF למסמך אחד בחינם באינטרנט. שלבו כמה קבצי PDF, גררו כדי לסדר אותם מחדש, ללא צורך בהרשמה. קבצים מעובדים בפרטיות בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/merge-pdf/",
+  "id": "/he/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

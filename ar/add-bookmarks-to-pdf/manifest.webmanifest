@@ -2,7 +2,7 @@
   "name": "Loona إضافة إشارات مرجعية إلى PDF عبر الإنترنت مجانًا",
   "short_name": "إضافة إشارات مرجعية إلى PDF عبر الإنترنت مجانًا",
   "description": "أضف إشارات مرجعية (مخططًا قابلًا للنقر) إلى PDF مجانًا عبر الإنترنت: ادرج عناوين الفصول مع أرقام صفحاتها ونزّل ملف PDF بمخطط تنقل حقيقي. داخل المتصفح، دون رفع أي شيء.",
-  "id": "/loona-pdf-tools/ar/add-bookmarks-to-pdf/",
+  "id": "/ar/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

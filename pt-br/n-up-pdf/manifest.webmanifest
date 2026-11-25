@@ -2,7 +2,7 @@
   "name": "Loona PDF N-up Online Grátis",
   "short_name": "PDF N-up Online Grátis",
   "description": "Colocar várias páginas PDF numa folha online grátis: esquemas de 2, 4, 6 ou 9 por folha em A4 ou Letter, por ordem de leitura. Poupa papel para folhetos e rascunhos. No navegador, sem carregar nada.",
-  "id": "/loona-pdf-tools/pt-br/n-up-pdf/",
+  "id": "/pt-br/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

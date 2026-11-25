@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da Excel a PDF",
   "short_name": "Convertitore da Excel a PDF",
   "description": "Converti fogli di calcolo Excel (.xlsx, .xls) e file CSV in una tabella PDF pulita e paginata online, gratis nel tuo browser. Ogni foglio diventa una tabella con una riga di intestazione ripetuta. Nessun caricamento.",
-  "id": "/loona-pdf-tools/it/excel-to-pdf/",
+  "id": "/it/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

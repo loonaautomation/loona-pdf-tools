@@ -2,7 +2,7 @@
   "name": "Loona Komprimovat PDF online zdarma",
   "short_name": "Komprimovat PDF online zdarma",
   "description": "Komprimujte soubory PDF zdarma online a zmenšete je pro e-mail nebo nahrávání. Zvolte bezztrátovou kompresi proudů nebo silnou kompresi obrázků. Soukromě, ve vašem prohlížeči.",
-  "id": "/loona-pdf-tools/cs/compress-pdf/",
+  "id": "/cs/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

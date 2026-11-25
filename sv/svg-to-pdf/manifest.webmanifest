@@ -2,7 +2,7 @@
   "name": "Loona SVG till PDF online gratis",
   "short_name": "SVG till PDF online gratis",
   "description": "Konvertera SVG-bilder till en PDF online, gratis, i din webbläsare. En bild per sida, anpassa-till-bild- eller A4/Letter-sidor. Ingen uppladdning, ingen registrering.",
-  "id": "/loona-pdf-tools/sv/svg-to-pdf/",
+  "id": "/sv/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

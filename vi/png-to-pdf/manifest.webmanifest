@@ -2,7 +2,7 @@
   "name": "Loona PNG sang PDF trực tuyến miễn phí",
   "short_name": "PNG sang PDF trực tuyến miễn phí",
   "description": "Chuyển đổi hình ảnh PNG thành PDF miễn phí trực tuyến. Ảnh chụp màn hình, logo và đồ họa trở thành một PDF với trang A4, Letter hoặc trang vừa ảnh. Chuyển đổi riêng tư trong trình duyệt, không đăng ký.",
-  "id": "/loona-pdf-tools/vi/png-to-pdf/",
+  "id": "/vi/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

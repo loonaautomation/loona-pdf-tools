@@ -2,7 +2,7 @@
   "name": "Loona PDF vágása online ingyen",
   "short_name": "PDF vágása online ingyen",
   "description": "Vágjon PDF-oldalakat ingyen, online: vágja le a fehér margókat vagy az éleket pontokban vagy százalékban minden oldalon vagy egy tartományban. Az oldal vágódoboza pontosan a böngészőjében állítódik be – feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/crop-pdf/",
+  "id": "/hu/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

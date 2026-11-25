@@ -2,7 +2,7 @@
   "name": "Loona 簽署 PDF 線上免費",
   "short_name": "簽署 PDF 線上免費",
   "description": "線上免費簽署 PDF。繪製您的簽名或上傳其圖片，用實時預覽定位它，然後下載已簽名的 PDF。私密——不上傳任何內容。",
-  "id": "/loona-pdf-tools/zh-hant/sign-pdf/",
+  "id": "/zh-hant/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

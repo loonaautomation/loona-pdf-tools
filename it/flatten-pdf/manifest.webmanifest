@@ -2,7 +2,7 @@
   "name": "Loona Appiattire PDF online gratuito",
   "short_name": "Appiattire PDF online gratuito",
   "description": "Appiattisci gratuitamente online un PDF: incorpora i campi modulo compilabili nelle pagine in modo che le risposte non possano più essere modificate, con una ricostruzione completa come immagine opzionale che appiattisce tutto. Privato, nel browser, senza registrazione.",
-  "id": "/loona-pdf-tools/it/flatten-pdf/",
+  "id": "/it/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

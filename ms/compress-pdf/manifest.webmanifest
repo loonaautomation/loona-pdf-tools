@@ -2,7 +2,7 @@
   "name": "Loona Mampatkan PDF dalam talian percuma",
   "short_name": "Mampatkan PDF dalam talian percuma",
   "description": "Mampatkan fail PDF secara percuma dalam talian dan kecilkannya untuk emel atau muat naik. Pilih pemampatan strim tanpa kehilangan atau pemampatan imej yang kuat. Peribadi, dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/compress-pdf/",
+  "id": "/ms/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

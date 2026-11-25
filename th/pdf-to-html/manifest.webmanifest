@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง PDF เป็น HTML ออนไลน์ฟรี",
   "short_name": "ตัวแปลง PDF เป็น HTML ออนไลน์ฟรี",
   "description": "แปลง PDF เป็น HTML ออนไลน์ ฟรีในเบราว์เซอร์ของคุณ ข้อความถูกแยกโดยตรวจจับโครงสร้างหัวข้อจากขนาดฟอนต์ ไม่ต้องอัปโหลด ไม่ต้องสมัคร",
-  "id": "/loona-pdf-tools/th/pdf-to-html/",
+  "id": "/th/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

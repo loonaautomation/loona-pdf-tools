@@ -2,7 +2,7 @@
   "name": "Loona PDF ordenen online gratis",
   "short_name": "PDF ordenen online gratis",
   "description": "Orden PDF-pagina's gratis online: sleep miniaturen om pagina's opnieuw te ordenen, roteer zijwaartse pagina's en verwijder pagina's die je niet nodig hebt. Geen registratie. Bestanden worden privé verwerkt in je browser.",
-  "id": "/loona-pdf-tools/nl/organize-pdf/",
+  "id": "/nl/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

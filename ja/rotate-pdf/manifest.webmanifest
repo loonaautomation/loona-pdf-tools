@@ -2,7 +2,7 @@
   "name": "Loona PDFを回転 オンライン無料",
   "short_name": "PDFを回転 オンライン無料",
   "description": "PDFページを90、180、270度で無料にオンライン回転。すべてのページ、または選んだ範囲です。修正したファイルを保存できます。登録不要。ブラウザで起こります。",
-  "id": "/loona-pdf-tools/ja/rotate-pdf/",
+  "id": "/ja/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

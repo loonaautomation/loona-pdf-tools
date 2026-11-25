@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Sertifikat online gratis",
   "short_name": "Pembuat Sertifikat online gratis",
   "description": "Pembuat sertifikat gratis: desain sertifikat yang dapat dicetak pada pratinjau langsung, lalu unduh PDF A4 atau PNG siap cetak. Buat satu sertifikat atau ratusan secara massal dari daftar nama. Tanpa pendaftaran, tanpa watermark, dan semuanya berjalan secara privat di browser Anda.",
-  "id": "/loona-pdf-tools/id/certificate-maker/",
+  "id": "/id/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

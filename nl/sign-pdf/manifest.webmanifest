@@ -2,7 +2,7 @@
   "name": "Loona PDF ondertekenen online gratis",
   "short_name": "PDF ondertekenen online gratis",
   "description": "Onderteken een PDF gratis online. Teken je handtekening of upload zijn afbeelding, positioneer hem met een live voorbeeld en download de ondertekende PDF. Privé - er wordt niets geüpload.",
-  "id": "/loona-pdf-tools/nl/sign-pdf/",
+  "id": "/nl/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

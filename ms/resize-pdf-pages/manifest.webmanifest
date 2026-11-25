@@ -2,7 +2,7 @@
   "name": "Loona Ubah Saiz Halaman PDF dalam talian percuma",
   "short_name": "Ubah Saiz Halaman PDF dalam talian percuma",
   "description": "Ubah saiz halaman PDF percuma dalam talian: tukarkan setiap halaman kepada A4, US Letter atau Legal, atau skalakan mengikut peratusan, dengan kandungan diskalakan supaya muat dan dipusatkan. Berjalan dalam pelayar anda - tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/resize-pdf-pages/",
+  "id": "/ms/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

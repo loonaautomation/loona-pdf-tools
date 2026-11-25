@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi Excel sang PDF trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi Excel sang PDF trực tuyến miễn phí",
   "description": "Chuyển đổi bảng tính Excel (.xlsx, .xls) và tệp CSV thành một bảng PDF sạch, được phân trang trực tuyến, miễn phí trong trình duyệt của bạn. Mỗi trang tính trở thành một bảng với hàng tiêu đề lặp lại. Không tải lên.",
-  "id": "/loona-pdf-tools/vi/excel-to-pdf/",
+  "id": "/vi/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

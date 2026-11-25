@@ -2,7 +2,7 @@
   "name": "Loona CSV u PDF besplatno na mreži",
   "short_name": "CSV u PDF besplatno na mreži",
   "description": "Pretvorite CSV podatke u čistu tablicu PDF-a s brojanjem stranica na mreži, besplatno u svom pregledniku. Podebljani redak zaglavlja koji se ponavlja, prilagođeni stupci. Bez prijenosa.",
-  "id": "/loona-pdf-tools/hr/csv-to-pdf/",
+  "id": "/hr/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

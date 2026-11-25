@@ -2,7 +2,7 @@
   "name": "Loona Semnează PDF online gratuit",
   "short_name": "Semnează PDF online gratuit",
   "description": "Semnează gratuit online un PDF. Desenează-ți semnătura sau încarcă imaginea ei, așaz-o cu o previzualizare live și descarcă PDF-ul semnat. Privat - nu se încarcă nimic.",
-  "id": "/loona-pdf-tools/ro/sign-pdf/",
+  "id": "/ro/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

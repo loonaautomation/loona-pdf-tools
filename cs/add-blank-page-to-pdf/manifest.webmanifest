@@ -2,7 +2,7 @@
   "name": "Loona Přidat prázdnou stránku do PDF online zdarma",
   "short_name": "Přidat prázdnou stránku do PDF online zdarma",
   "description": "Vložte prázdné stránky do PDF zdarma online: na začátek, na konec, nebo za kteroukoli stránku, v souladu s velikostí stránky dokumentu, A4 nebo Letter. Okamžitě, ve vašem prohlížeči, nic se nenahrává.",
-  "id": "/loona-pdf-tools/cs/add-blank-page-to-pdf/",
+  "id": "/cs/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

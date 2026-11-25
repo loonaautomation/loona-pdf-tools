@@ -2,7 +2,7 @@
   "name": "Loona PDF to Word Converter",
   "short_name": "PDF to Word Converter",
   "description": "Tukar PDF berasaskan teks kepada dokumen Word (.docx) yang boleh disunting secara percuma dalam pelayar anda. Pengepala, perenggan, senarai dan jadual ringkas turut dibawa. Tiada muat naik, tiada pendaftaran — fail anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-pdf-tools/ms/pdf-to-word/",
+  "id": "/ms/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

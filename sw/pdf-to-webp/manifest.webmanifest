@@ -2,7 +2,7 @@
   "name": "Loona PDF kwenda WebP bure mtandaoni",
   "short_name": "PDF kwenda WebP bure mtandaoni",
   "description": "Badilisha kurasa za PDF kuwa picha za WebP bure mtandaoni: ndogo kuliko JPG na PNG kwa tovuti, huonyeshwa kwa mwonekano uliouchagua katika kivinjari chako. Hakuna kinachopakiwa, hakuna kujisajili.",
-  "id": "/loona-pdf-tools/sw/pdf-to-webp/",
+  "id": "/sw/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

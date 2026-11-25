@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/remove-pdf-annotations/",
+  "id": "/en-gb/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

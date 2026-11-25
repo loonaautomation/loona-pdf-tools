@@ -2,7 +2,7 @@
   "name": "Loona Penukar AVIF kepada PDF dalam talian percuma",
   "short_name": "Penukar AVIF kepada PDF dalam talian percuma",
   "description": "Tukar imej AVIF kepada PDF dalam talian, secara percuma, dalam pelayar anda. Satu imej setiap halaman, halaman muat ke imej atau A4/Letter. Tiada muat naik, tiada pendaftaran.",
-  "id": "/loona-pdf-tools/ms/avif-to-pdf/",
+  "id": "/ms/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF comprimeren voor WhatsApp online gratis",
   "short_name": "PDF comprimeren voor WhatsApp online gratis",
   "description": "Comprimeer een PDF tot 16 MB of kleiner, gratis in je browser. De tool probeert eerst verliesvrij opnieuw op te slaan en verlaagt daarna stapsgewijs de renderkwaliteit tot je bestand past — en rapporteert het exacte resultaat.",
-  "id": "/loona-pdf-tools/nl/compress-pdf-for-whatsapp/",
+  "id": "/nl/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

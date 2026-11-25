@@ -2,7 +2,7 @@
   "name": "Loona Conversor de PDF para HTML",
   "short_name": "Conversor de PDF para HTML",
   "description": "Converter um PDF para HTML online, grátis no seu navegador. O texto é extraído com a estrutura de títulos detetada a partir dos tamanhos de letra. Sem carregamentos, sem registro.",
-  "id": "/loona-pdf-tools/pt-br/pdf-to-html/",
+  "id": "/pt-br/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

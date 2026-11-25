@@ -2,7 +2,7 @@
   "name": "Loona Sloučit PDF online zdarma",
   "short_name": "Sloučit PDF online zdarma",
   "description": "Sloučte soubory PDF do jednoho dokumentu zdarma online. Spojte více PDF, přetažením je přeřadíte, bez nutnosti registrace. Soubory se zpracovávají soukromě ve vašem prohlížeči.",
-  "id": "/loona-pdf-tools/cs/merge-pdf/",
+  "id": "/cs/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

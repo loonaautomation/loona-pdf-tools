@@ -2,7 +2,7 @@
   "name": "Loona Tekst naar PDF online gratis",
   "short_name": "Tekst naar PDF online gratis",
   "description": "Converteer tekst gratis online naar een PDF. Plak je tekst, kies lettergrootte en A4- of Letter-pagina's, en download een nette PDF. Geen registratie - privé gemaakt in de browser.",
-  "id": "/loona-pdf-tools/nl/text-to-pdf/",
+  "id": "/nl/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF tömörítése WhatsApphoz online ingyen",
   "short_name": "PDF tömörítése WhatsApphoz online ingyen",
   "description": "Tömörítsen egy PDF-et 16 MB-ra vagy az alá, ingyen, a böngészőjében. Az eszköz először veszteségmentes újramentéssel próbálkozik, majd lépésenként csökkenti a renderelési minőséget, amíg a fájlja bele nem fér — és jelenti a pontos eredményt.",
-  "id": "/loona-pdf-tools/hu/compress-pdf-for-whatsapp/",
+  "id": "/hu/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

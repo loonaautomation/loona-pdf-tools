@@ -2,7 +2,7 @@
   "name": "Loona PDF в PNG",
   "short_name": "Loona PDF в PNG",
   "description": "Преобразуйте страницы PDF в изображения PNG бесплатно онлайн с разрешением до 3x, с сохранением прозрачности. Скачивайте каждую страницу отдельно. Конфиденциально, в вашем браузере.",
-  "id": "/loona-pdf-tools/ru/pdf-to-png/",
+  "id": "/ru/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwerter GIF na PDF online za darmo",
   "short_name": "Konwerter GIF na PDF online za darmo",
   "description": "Konwertuj obrazy GIF na PDF online, za darmo, w swojej przeglądarce. Jeden obraz na stronę, strony dopasowane do obrazu lub A4/Letter. Bez przesyłania, bez rejestracji.",
-  "id": "/loona-pdf-tools/pl/gif-to-pdf/",
+  "id": "/pl/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

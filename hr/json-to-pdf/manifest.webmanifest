@@ -2,7 +2,7 @@
   "name": "Loona JSON u PDF besplatno na mreži",
   "short_name": "JSON u PDF besplatno na mreži",
   "description": "Pretvorite JSON u čitljiv PDF dokument s brojanjem stranica na mreži, besplatno u svom pregledniku. Prvo provjereno i lijepo ispisano. Bez prijenosa.",
-  "id": "/loona-pdf-tools/hr/json-to-pdf/",
+  "id": "/hr/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

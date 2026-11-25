@@ -2,7 +2,7 @@
   "name": "Loona PDF-konverterare online gratis",
   "short_name": "PDF-konverterare online gratis",
   "description": "Varje PDF-konverterare på ett ställe: bilder, CSV, JSON, HTML och Markdown till PDF — och PDF tillbaka till bilder, text, HTML och Markdown. Gratis, i din webbläsare.",
-  "id": "/loona-pdf-tools/sv/pdf-converters/",
+  "id": "/sv/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SVG-ből PDF online ingyen",
   "short_name": "SVG-ből PDF online ingyen",
   "description": "Alakítson SVG képeket PDF-fé online, ingyen, a böngészőjében. Oldalanként egy kép, képhez igazított vagy A4/Letter oldalak. Feltöltés és regisztráció nélkül.",
-  "id": "/loona-pdf-tools/hu/svg-to-pdf/",
+  "id": "/hu/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

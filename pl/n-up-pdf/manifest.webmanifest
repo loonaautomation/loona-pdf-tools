@@ -2,7 +2,7 @@
   "name": "Loona N-up PDF online za darmo",
   "short_name": "N-up PDF online za darmo",
   "description": "Umieszczaj wiele stron PDF na jednym arkuszu za darmo online: układy 2-up, 4-up, 6-up lub 9-up na A4 lub Letter, w kolejności czytania. Oszczędza papier na materiały do rozdania i szkice. W przeglądarce, nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/n-up-pdf/",
+  "id": "/pl/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

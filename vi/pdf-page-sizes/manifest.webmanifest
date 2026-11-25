@@ -2,7 +2,7 @@
   "name": "Loona Kích thước trang PDF & thông tin trực tuyến miễn phí",
   "short_name": "Kích thước trang PDF & thông tin trực tuyến miễn phí",
   "description": "Kiểm tra kích thước trang của một PDF miễn phí trực tuyến: kích thước mọi trang theo point, milimét và inch, kích thước tiêu chuẩn gần nhất của nó (A4, Letter...), độ xoay, cộng với tiêu đề, tác giả và phiên bản PDF. Không tải lên gì cả.",
-  "id": "/loona-pdf-tools/vi/pdf-page-sizes/",
+  "id": "/vi/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

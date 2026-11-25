@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'den PNG'ye",
   "short_name": "Çevrimiçi Ücretsiz PDF'den PNG'ye",
   "description": "PDF sayfalarını çevrimiçi ücretsiz olarak 3x'e kadar çözünürlükte, şeffaflık korunarak PNG görüntülerine dönüştürün. Her sayfayı ayrı indirin. Gizli, tarayıcınızda.",
-  "id": "/loona-pdf-tools/tr/pdf-to-png/",
+  "id": "/tr/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

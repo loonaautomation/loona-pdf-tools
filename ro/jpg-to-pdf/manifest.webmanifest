@@ -2,7 +2,7 @@
   "name": "Loona JPG în PDF online gratuit",
   "short_name": "JPG în PDF online gratuit",
   "description": "Convertește gratuit online imagini JPG într-un PDF. Combină fotografii într-un singur PDF cu pagini A4, Letter sau potrivite, în ordinea ta. Fără înregistrare - funcționează privat în browser.",
-  "id": "/loona-pdf-tools/ro/jpg-to-pdf/",
+  "id": "/ro/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

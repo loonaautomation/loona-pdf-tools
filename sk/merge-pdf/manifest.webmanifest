@@ -2,7 +2,7 @@
   "name": "Loona Zlúčiť PDF online zadarmo",
   "short_name": "Zlúčiť PDF online zadarmo",
   "description": "Zlúčte súbory PDF do jedného dokumentu zadarmo online. Skombinujte viacero PDF, presúvaním zmeňte ich poradie, bez potreby registrácie. Súbory sa spracúvajú súkromne vo vašom prehliadači.",
-  "id": "/loona-pdf-tools/sk/merge-pdf/",
+  "id": "/sk/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

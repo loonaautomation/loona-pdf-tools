@@ -2,7 +2,7 @@
   "name": "Loona ضغط PDF إلى 50 KB عبر الإنترنت – مجانًا، هدف مضمون",
   "short_name": "ضغط PDF إلى 50 KB عبر الإنترنت – مجانًا، هدف مضمون",
   "description": "اضغط ملف PDF إلى 50 KB أو أقل، مجانًا في متصفحك. تجرب الأداة إعادة حفظ دون فقدان أولًا، ثم تخفض جودة العرض تدريجيًا حتى يناسب ملفك — وتبلغ عن النتيجة الدقيقة.",
-  "id": "/loona-pdf-tools/ar/compress-pdf-to-50kb/",
+  "id": "/ar/compress-pdf-to-50kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

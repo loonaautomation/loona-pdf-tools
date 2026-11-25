@@ -2,7 +2,7 @@
   "name": "Loona Sažmi PDF na 500 KB besplatno na mreži",
   "short_name": "Sažmi PDF na 500 KB besplatno na mreži",
   "description": "Sažmite PDF na 500 KB ili manje, besplatno u svom pregledniku. Alat prvo pokušava ponovno spremanje bez gubitaka, zatim postupno snižava kvalitetu prikaza dok vaša datoteka ne stane — i izvještava o točnom rezultatu.",
-  "id": "/loona-pdf-tools/hr/compress-pdf-to-500kb/",
+  "id": "/hr/compress-pdf-to-500kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

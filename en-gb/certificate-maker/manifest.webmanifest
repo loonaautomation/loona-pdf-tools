@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/certificate-maker/",
+  "id": "/en-gb/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

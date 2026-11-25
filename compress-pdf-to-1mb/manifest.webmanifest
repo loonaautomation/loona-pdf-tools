@@ -2,7 +2,7 @@
   "name": "Loona Compress PDF to 1 MB Online",
   "short_name": "Compress PDF to 1 MB Online",
   "description": "Compress a PDF to 1 MB or under, free in your browser. The tool tries a lossless re-save first, then steps down render quality until your file fits — and reports the exact result.",
-  "id": "/loona-pdf-tools/compress-pdf-to-1mb/",
+  "id": "/compress-pdf-to-1mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

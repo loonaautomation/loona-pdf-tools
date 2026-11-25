@@ -2,7 +2,7 @@
   "name": "Loona JSON σε PDF Online Δωρεάν",
   "short_name": "JSON σε PDF Online Δωρεάν",
   "description": "Μετατρέψτε JSON σε ένα ευανάγνωστο, σελιδοποιημένο PDF online, δωρεάν στο πρόγραμμα περιήγησής σας. Πρώτα επικυρωμένο και όμορφα εκτυπωμένο. Χωρίς μεταφόρτωση.",
-  "id": "/loona-pdf-tools/el/json-to-pdf/",
+  "id": "/el/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

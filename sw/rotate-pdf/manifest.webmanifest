@@ -2,7 +2,7 @@
   "name": "Loona Zungusha PDF bure mtandaoni",
   "short_name": "Zungusha PDF bure mtandaoni",
   "description": "Zungusha kurasa za PDF bure mtandaoni kwa digrii 90, 180 au 270 - kurasa zote au masafa yaliyochaguliwa - na uhifadhi faili lililorekebishwa. Hakuna kujisajili; hutokea katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/rotate-pdf/",
+  "id": "/sw/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

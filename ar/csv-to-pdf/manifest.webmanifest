@@ -2,7 +2,7 @@
   "name": "Loona محوّل CSV إلى PDF – مجاني، دون رفع",
   "short_name": "محوّل CSV إلى PDF – مجاني، دون رفع",
   "description": "حوّل بيانات CSV إلى جدول PDF نظيف مقسّم الصفحات عبر الإنترنت، مجانًا في متصفحك. صف ترويسة عريض متكرر، وأعمدة مضبوطة. دون رفع.",
-  "id": "/loona-pdf-tools/ar/csv-to-pdf/",
+  "id": "/ar/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

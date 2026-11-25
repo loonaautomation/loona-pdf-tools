@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Preveďte dokument Word .docx na čistý, čitateľný PDF online, zadarmo vo vašom prehliadači. Nadpisy, zoznamy, tabuľky a obrázky sa prenesú. Váš súbor sa nikdy nenahráva.",
-  "id": "/loona-pdf-tools/sk/word-to-pdf/",
+  "id": "/sk/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

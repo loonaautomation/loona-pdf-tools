@@ -2,7 +2,7 @@
   "name": "Loona Tengeneza Fomu ya PDF bure mtandaoni",
   "short_name": "Tengeneza Fomu ya PDF bure mtandaoni",
   "description": "Geuza PDF yoyote kuwa fomu inayoweza kujazwa bure mtandaoni: ongeza sehemu halisi za maandishi na visanduku vya kuteua hasa mahali unapoviburuta, ipe sehemu majina, na upakue PDF ya kweli ya AcroForm ambayo yeyote anaweza kuijaza. Hakuna upakiaji, hakuna kujisajili.",
-  "id": "/loona-pdf-tools/sw/create-pdf-form/",
+  "id": "/sw/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

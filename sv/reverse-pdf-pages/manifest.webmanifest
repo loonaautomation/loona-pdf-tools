@@ -2,7 +2,7 @@
   "name": "Loona Vänd ordningen på PDF-sidor online gratis",
   "short_name": "Vänd ordningen på PDF-sidor online gratis",
   "description": "Vänd sidordningen i en PDF gratis online - sista sidan blir första. Perfekt för att fixa bakvända skanningar. Direkt, i din webbläsare, ingenting laddas upp.",
-  "id": "/loona-pdf-tools/sv/reverse-pdf-pages/",
+  "id": "/sv/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

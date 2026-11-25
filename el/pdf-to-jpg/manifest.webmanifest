@@ -2,7 +2,7 @@
   "name": "Loona PDF σε JPG Online Δωρεάν",
   "short_name": "PDF σε JPG Online Δωρεάν",
   "description": "Μετατρέψτε σελίδες PDF σε εικόνες JPG δωρεάν online. Διαλέξτε τυπική, υψηλή ή ποιότητα εκτύπωσης και κατεβάστε κάθε σελίδα ως JPG. Χωρίς εγγραφή· η μετατροπή εκτελείται στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/pdf-to-jpg/",
+  "id": "/el/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Izdvoji slike iz PDF-a besplatno na mreži",
   "short_name": "Izdvoji slike iz PDF-a besplatno na mreži",
   "description": "Izdvojite izvorne slike ugrađene u PDF besplatno na mreži: fotografije i grafike izvlače se u pohranjenoj razlučivosti kao PNG datoteke - ne snimke zaslona. 100% u vašem pregledniku, ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/extract-images-from-pdf/",
+  "id": "/hr/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

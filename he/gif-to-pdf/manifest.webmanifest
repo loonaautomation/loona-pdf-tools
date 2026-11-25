@@ -2,7 +2,7 @@
   "name": "Loona ממיר GIF ל-PDF – בחינם, ללא העלאה",
   "short_name": "ממיר GIF ל-PDF – בחינם, ללא העלאה",
   "description": "המירו תמונות GIF ל-PDF באינטרנט, בחינם, בדפדפן שלכם. תמונה אחת בכל עמוד, עמודי התאמה לתמונה או A4/Letter. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/gif-to-pdf/",
+  "id": "/he/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง PDF ออนไลน์ฟรี",
   "short_name": "ตัวแปลง PDF ออนไลน์ฟรี",
   "description": "ตัวแปลง PDF ทุกตัวในที่เดียว: รูปภาพ, CSV, JSON, HTML และ Markdown เป็น PDF และ PDF กลับเป็นรูปภาพ ข้อความ HTML และ Markdown ฟรี ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-pdf-tools/th/pdf-converters/",
+  "id": "/th/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

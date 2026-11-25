@@ -2,7 +2,7 @@
   "name": "Loona Usuń adnotacje PDF online za darmo",
   "short_name": "Usuń adnotacje PDF online za darmo",
   "description": "Usuwaj adnotacje z PDF-a za darmo online: komentarze, wyróżnienia, karteczki samoprzylepne, stemple i oznaczenia są usuwane, podczas gdy treść strony pozostaje nienaruszona. W przeglądarce, nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/remove-pdf-annotations/",
+  "id": "/pl/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

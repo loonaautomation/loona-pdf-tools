@@ -2,7 +2,7 @@
   "name": "Loona Tilføj vandmærke til PDF online gratis",
   "short_name": "Tilføj vandmærke til PDF online gratis",
   "description": "Tilføj gratis et tekstvandmærke til en PDF online. Indstil tekst, størrelse, opacitet, vinkel og farve - centreret eller fliselagt. Ingen tilmelding; vandmærkningen kører privat i browseren.",
-  "id": "/loona-pdf-tools/da/add-watermark-to-pdf/",
+  "id": "/da/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

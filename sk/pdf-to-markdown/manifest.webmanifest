@@ -2,7 +2,7 @@
   "name": "Loona Prevodník PDF do Markdownu online zadarmo",
   "short_name": "Prevodník PDF do Markdownu online zadarmo",
   "description": "Preveďte PDF do Markdownu online, zadarmo vo vašom prehliadači. Text sa extrahuje so štruktúrou nadpisov rozpoznanou z veľkostí písma. Bez nahrávania, bez registrácie.",
-  "id": "/loona-pdf-tools/sk/pdf-to-markdown/",
+  "id": "/sk/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

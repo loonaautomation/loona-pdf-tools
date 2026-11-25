@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/flatten-pdf/",
+  "id": "/en-gb/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

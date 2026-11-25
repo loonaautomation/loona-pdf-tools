@@ -2,7 +2,7 @@
   "name": "Loona Edit PDF Info Online Free",
   "short_name": "Edit PDF Info Online Free",
   "description": "View and edit PDF metadata free online - title, author, subject and keywords - and see page count and file size. No sign-up; metadata editing runs in-browser.",
-  "id": "/loona-pdf-tools/edit-pdf-info/",
+  "id": "/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

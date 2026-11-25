@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi PDF sang Word trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi PDF sang Word trực tuyến miễn phí",
   "description": "Chuyển đổi PDF dạng văn bản thành tài liệu Word (.docx) có thể chỉnh sửa, miễn phí trong trình duyệt của bạn. Tiêu đề, đoạn văn, danh sách và bảng đơn giản được mang sang. Không tải lên, không cần đăng ký.",
-  "id": "/loona-pdf-tools/vi/pdf-to-word/",
+  "id": "/vi/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

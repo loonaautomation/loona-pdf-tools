@@ -2,7 +2,7 @@
   "name": "Loona PDF u WebP besplatno na mreži",
   "short_name": "PDF u WebP besplatno na mreži",
   "description": "Pretvorite stranice PDF-a u WebP slike besplatno na mreži: manje od JPG-a i PNG-a za web stranice, prikazano u razlučivosti koju odaberete u svom pregledniku. Ništa se ne prenosi, bez registracije.",
-  "id": "/loona-pdf-tools/hr/pdf-to-webp/",
+  "id": "/hr/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

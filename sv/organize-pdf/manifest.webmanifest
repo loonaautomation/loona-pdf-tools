@@ -2,7 +2,7 @@
   "name": "Loona Organisera PDF online gratis",
   "short_name": "Organisera PDF online gratis",
   "description": "Organisera PDF-sidor gratis online: dra miniatyrer för att omordna sidor, rotera sidor i sidled och ta bort sidor du inte behöver. Ingen registrering. Filer bearbetas privat i din webbläsare.",
-  "id": "/loona-pdf-tools/sv/organize-pdf/",
+  "id": "/sv/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

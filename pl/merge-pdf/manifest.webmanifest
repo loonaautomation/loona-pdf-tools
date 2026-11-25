@@ -2,7 +2,7 @@
   "name": "Loona Scal PDF online za darmo",
   "short_name": "Scal PDF online za darmo",
   "description": "Scalaj pliki PDF w jeden dokument za darmo online. Łącz wiele PDF-ów, przeciągaj, aby zmienić ich kolejność, bez potrzeby rejestracji. Pliki są przetwarzane prywatnie w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/merge-pdf/",
+  "id": "/pl/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kikagua Ukubwa wa Kurasa za PDF bure mtandaoni",
   "short_name": "Kikagua Ukubwa wa Kurasa za PDF bure mtandaoni",
   "description": "Angalia ukubwa wa kurasa za PDF bure mtandaoni: vipimo vya kila ukurasa kwa pointi, milimita na inchi, ukubwa wake wa kawaida ulio karibu zaidi (A4, Letter...), mzunguko, pamoja na kichwa, mwandishi na toleo la PDF. Hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/pdf-page-sizes/",
+  "id": "/sw/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

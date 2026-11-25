@@ -2,7 +2,7 @@
   "name": "Loona Compress PDF for WhatsApp",
   "short_name": "Compress PDF for WhatsApp",
   "description": "Compress a PDF to 16 MB or under, free in your browser. The tool tries a lossless re-save first, then steps down render quality until your file fits — and reports the exact result.",
-  "id": "/loona-pdf-tools/compress-pdf-for-whatsapp/",
+  "id": "/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

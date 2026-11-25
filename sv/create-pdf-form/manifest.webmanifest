@@ -2,7 +2,7 @@
   "name": "Loona Skapa PDF-formulär online gratis",
   "short_name": "Skapa PDF-formulär online gratis",
   "description": "Förvandla vilken PDF som helst till ett ifyllbart formulär gratis online: lägg till riktiga textfält och kryssrutor exakt där du drar dem, namnge fälten, och ladda ner en äkta AcroForm-PDF som vem som helst kan fylla i. Ingen uppladdning, ingen registrering.",
-  "id": "/loona-pdf-tools/sv/create-pdf-form/",
+  "id": "/sv/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

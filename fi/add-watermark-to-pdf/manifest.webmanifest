@@ -2,7 +2,7 @@
   "name": "Loona Lisää vesileima PDF:ään verkossa ilmaiseksi",
   "short_name": "Lisää vesileima PDF:ään verkossa ilmaiseksi",
   "description": "Lisää tekstivesileima PDF:ään ilmaiseksi verkossa. Aseta teksti, koko, läpinäkyvyys, kulma ja väri - keskelle tai laatoitettuna. Ei rekisteröitymistä; vesileimaus toimii yksityisesti selaimessa.",
-  "id": "/loona-pdf-tools/fi/add-watermark-to-pdf/",
+  "id": "/fi/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

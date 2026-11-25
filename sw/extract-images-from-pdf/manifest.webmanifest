@@ -2,7 +2,7 @@
   "name": "Loona Toa Picha kutoka PDF bure mtandaoni",
   "short_name": "Toa Picha kutoka PDF bure mtandaoni",
   "description": "Toa picha asili zilizopachikwa katika PDF bure mtandaoni: picha na michoro hutolewa kwa mwonekano wake uliohifadhiwa kama faili za PNG - si picha za skrini. 100% katika kivinjari chako, hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/extract-images-from-pdf/",
+  "id": "/sw/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

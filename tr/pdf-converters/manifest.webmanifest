@@ -2,7 +2,7 @@
   "name": "Loona PDF Dönüştürücüler",
   "short_name": "PDF Dönüştürücüler",
   "description": "Her PDF dönüştürücü tek bir yerde: görüntüler, CSV, JSON, HTML ve Markdown'dan PDF'ye; PDF'den de görüntülere, metne, HTML'ye ve Markdown'a. Ücretsiz, tarayıcınızda.",
-  "id": "/loona-pdf-tools/tr/pdf-converters/",
+  "id": "/tr/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

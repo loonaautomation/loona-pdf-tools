@@ -2,7 +2,7 @@
   "name": "Loona Kompresuj PDF do 50 KB online za darmo",
   "short_name": "Kompresuj PDF do 50 KB online za darmo",
   "description": "Skompresuj PDF do 50 KB lub mniej, za darmo w swojej przeglądarce. Narzędzie najpierw próbuje bezstratnego ponownego zapisu, potem stopniowo obniża jakość renderowania, aż plik się zmieści — i zgłasza dokładny wynik.",
-  "id": "/loona-pdf-tools/pl/compress-pdf-to-50kb/",
+  "id": "/pl/compress-pdf-to-50kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

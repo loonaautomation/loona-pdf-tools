@@ -2,7 +2,7 @@
   "name": "Loona 填写 PDF 表单 在线免费",
   "short_name": "填写 PDF 表单 在线免费",
   "description": "在线免费填写可填写的 PDF 表单。上传带有表单字段的 PDF，在其文本框、复选框、下拉菜单和单选按钮中输入，然后下载完成的 PDF。无需注册；一切都在您的浏览器中私密运行。",
-  "id": "/loona-pdf-tools/zh/fill-pdf-form/",
+  "id": "/zh/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

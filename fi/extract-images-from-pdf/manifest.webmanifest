@@ -2,7 +2,7 @@
   "name": "Loona Pura kuvat PDF:stä verkossa ilmaiseksi",
   "short_name": "Pura kuvat PDF:stä verkossa ilmaiseksi",
   "description": "Pura PDF:ään upotetut alkuperäiset kuvat ilmaiseksi verkossa: valokuvat ja grafiikat vedetään ulos niiden tallennetulla tarkkuudella PNG-tiedostoina - ei kuvakaappauksina. 100-prosenttisesti selaimessasi, mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/extract-images-from-pdf/",
+  "id": "/fi/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

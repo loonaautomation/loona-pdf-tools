@@ -2,7 +2,7 @@
   "name": "Loona Compress PDF to 100 KB",
   "short_name": "Compress PDF to 100 KB",
   "description": "Compress a PDF to 100 KB or under, free in your browser. The tool tries a lossless re-save first, then steps down render quality until your file fits — and reports the exact result.",
-  "id": "/loona-pdf-tools/en-us/compress-pdf-to-100kb/",
+  "id": "/en-us/compress-pdf-to-100kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

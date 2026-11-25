@@ -2,7 +2,7 @@
   "name": "Loona Perbaiki PDF online gratis",
   "short_name": "Perbaiki PDF online gratis",
   "description": "Perbaiki PDF rusak gratis secara online: membangun ulang tabel referensi silang yang rusak dan menyimpan kembali salinan bersih, dengan pembangunan ulang gambar halaman sebagai upaya terakhir. Batas dinyatakan dengan jujur. 100% di browser Anda.",
-  "id": "/loona-pdf-tools/id/repair-pdf/",
+  "id": "/id/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

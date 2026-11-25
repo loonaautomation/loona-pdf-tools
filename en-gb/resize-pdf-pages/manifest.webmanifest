@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/resize-pdf-pages/",
+  "id": "/en-gb/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

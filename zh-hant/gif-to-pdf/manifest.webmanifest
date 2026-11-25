@@ -2,7 +2,7 @@
   "name": "Loona GIF 轉 PDF 轉換器 線上免費",
   "short_name": "GIF 轉 PDF 轉換器 線上免費",
   "description": "線上免費在您的瀏覽器中將 GIF 圖片轉換為 PDF。每頁一張圖片，適合圖片或 A4/Letter 頁面。不上傳，無需註冊。",
-  "id": "/loona-pdf-tools/zh-hant/gif-to-pdf/",
+  "id": "/zh-hant/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

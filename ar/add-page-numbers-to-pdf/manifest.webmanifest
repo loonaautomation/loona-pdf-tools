@@ -2,7 +2,7 @@
   "name": "Loona إضافة أرقام الصفحات إلى PDF عبر الإنترنت مجانًا",
   "short_name": "إضافة أرقام الصفحات إلى PDF عبر الإنترنت مجانًا",
   "description": "أضف أرقام الصفحات إلى PDF مجانًا عبر الإنترنت. اختر النمط (1، الصفحة 1، 1 من 10) والموضع ورقم البداية. دون تسجيل؛ يتم الترقيم بخصوصية في متصفحك.",
-  "id": "/loona-pdf-tools/ar/add-page-numbers-to-pdf/",
+  "id": "/ar/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

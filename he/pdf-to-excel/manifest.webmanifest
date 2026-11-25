@@ -2,7 +2,7 @@
   "name": "Loona ממיר PDF ל-Excel",
   "short_name": "ממיר PDF ל-Excel",
   "description": "המירו טבלאות PDF לגיליונות Excel (.xlsx) בחינם בדפדפן שלכם. צפו בתצוגה מקדימה ותקנו כל תא לפני ההורדה. ללא העלאה, ללא הרשמה — הקובץ שלכם לעולם לא עוזב את המכשיר.",
-  "id": "/loona-pdf-tools/he/pdf-to-excel/",
+  "id": "/he/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

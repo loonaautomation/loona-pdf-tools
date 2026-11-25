@@ -2,7 +2,7 @@
   "name": "Loona Redaguj PDF online za darmo",
   "short_name": "Redaguj PDF online za darmo",
   "description": "Redaguj PDF za darmo online: rysuj czarne prostokąty nad nazwiskami, numerami lub zdjęciami i wtapiaj je trwale – ukryta treść jest usuwana, a nie tylko przykrywana. W 100% w Twojej przeglądarce, nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/redact-pdf/",
+  "id": "/pl/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

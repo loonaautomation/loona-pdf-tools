@@ -2,7 +2,7 @@
   "name": "Loona Fjern tomme sider på nett gratis",
   "short_name": "Fjern tomme sider på nett gratis",
   "description": "Fjern tomme sider fra en PDF gratis på nett: sider gjengis og sjekkes piksel for piksel, nesten tomme sider listes ærlig med blekkdekningen sin, og fjernes - innholdssider forblir urørte. I nettleseren.",
-  "id": "/loona-pdf-tools/nb/remove-blank-pages/",
+  "id": "/nb/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

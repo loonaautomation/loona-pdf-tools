@@ -2,7 +2,7 @@
   "name": "Loona Utwórz broszurę PDF online za darmo",
   "short_name": "Utwórz broszurę PDF online za darmo",
   "description": "Twórz broszurę PDF do druku za darmo online: strony są rozkładane w prawdziwej kolejności broszury na arkuszach poziomych – drukuj dwustronnie, złóż, zszyj. Puste strony uzupełniają do wielokrotności czterech automatycznie.",
-  "id": "/loona-pdf-tools/pl/create-pdf-booklet/",
+  "id": "/pl/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

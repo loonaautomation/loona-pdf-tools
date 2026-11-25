@@ -2,7 +2,7 @@
   "name": "Loona WebP naar PDF-converter online gratis",
   "short_name": "WebP naar PDF-converter online gratis",
   "description": "Converteer WebP-afbeeldingen online naar een PDF, gratis, in je browser. Eén afbeelding per pagina, aanpassen aan afbeelding of A4/Letter-pagina's. Geen upload, geen registratie.",
-  "id": "/loona-pdf-tools/nl/webp-to-pdf/",
+  "id": "/nl/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

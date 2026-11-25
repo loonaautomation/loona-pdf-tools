@@ -2,7 +2,7 @@
   "name": "Loona ממיר HTML ל-PDF – בחינם, מנוע הדפסת דפדפן",
   "short_name": "ממיר HTML ל-PDF – בחינם, מנוע הדפסת דפדפן",
   "description": "המירו HTML ל-PDF באינטרנט, בחינם, באמצעות מנוע ההדפסה ל-PDF של הדפדפן שלכם — תמיכת CSS מלאה, ללא העלאה, ללא סימני מים.",
-  "id": "/loona-pdf-tools/he/html-to-pdf/",
+  "id": "/he/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

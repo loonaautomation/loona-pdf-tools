@@ -2,7 +2,7 @@
   "name": "Loona Удалить аннотации PDF",
   "short_name": "Loona Удалить аннотации PDF",
   "description": "Удаляйте аннотации из PDF бесплатно онлайн: комментарии, выделения, стикеры, штампы и разметка удаляются, а содержимое страниц остаётся нетронутым. В браузере, ничего не загружается на сервер.",
-  "id": "/loona-pdf-tools/ru/remove-pdf-annotations/",
+  "id": "/ru/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDFを墨消し オンライン無料",
   "short_name": "PDFを墨消し オンライン無料",
   "description": "PDFを無料でオンライン墨消し：名前、番号、写真の上に黒いボックスを描き、永久に焼き込みます。隠れた内容は削除され、単に覆われるだけではありません。ブラウザ上で100%、アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/redact-pdf/",
+  "id": "/ja/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

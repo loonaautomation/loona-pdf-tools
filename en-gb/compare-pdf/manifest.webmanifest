@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/compare-pdf/",
+  "id": "/en-gb/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

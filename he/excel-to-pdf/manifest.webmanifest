@@ -2,7 +2,7 @@
   "name": "Loona ממיר Excel ל-PDF – בחינם, ללא העלאה",
   "short_name": "ממיר Excel ל-PDF – בחינם, ללא העלאה",
   "description": "המירו גיליונות Excel (.xlsx, .xls) וקבצי CSV לטבלת PDF נקייה ומעומדת באינטרנט, בחינם בדפדפן שלכם. כל גיליון הופך לטבלה עם שורת כותרת חוזרת. ללא העלאה.",
-  "id": "/loona-pdf-tools/he/excel-to-pdf/",
+  "id": "/he/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

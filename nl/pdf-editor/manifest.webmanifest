@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor online gratis",
   "short_name": "Loona PDF Editor",
   "description": "Bewerk PDF-bestanden gratis online met de Loona PDF Editor: voeg tekst, afbeeldingen, vormen en markeringen toe, bedek fouten met whiteout, teken of typ een handtekening en download daarna je voltooide PDF. Alles gebeurt in je browser - je bestand verlaat je apparaat nooit. Geen registratie, geen paginalimieten, geen watermerken.",
-  "id": "/loona-pdf-tools/nl/pdf-editor/",
+  "id": "/nl/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

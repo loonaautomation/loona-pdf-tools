@@ -2,7 +2,7 @@
   "name": "Loona แปลง Excel เป็น PDF ออนไลน์ฟรี",
   "short_name": "แปลง Excel เป็น PDF ออนไลน์ฟรี",
   "description": "แปลงสเปรดชีต Excel (.xlsx, .xls) และไฟล์ CSV เป็นตาราง PDF ที่สะอาดและแบ่งหน้าออนไลน์ ฟรีในเบราว์เซอร์ของคุณ ทุกชีตกลายเป็นตารางที่มีแถวส่วนหัวซ้ำ ไม่ต้องอัปโหลด",
-  "id": "/loona-pdf-tools/th/excel-to-pdf/",
+  "id": "/th/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

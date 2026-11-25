@@ -2,7 +2,7 @@
   "name": "Loona Dodaj nagłówek i stopkę do PDF online za darmo",
   "short_name": "Dodaj nagłówek i stopkę do PDF online za darmo",
   "description": "Dodaj nagłówek i stopkę do każdej strony PDF za darmo online: własny tekst, numery stron w formatach Strona X z Y, wyrównanie i rozmiar czcionki – wszystko w Twojej przeglądarce, nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/add-header-footer-to-pdf/",
+  "id": "/pl/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

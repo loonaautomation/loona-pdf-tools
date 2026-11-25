@@ -2,7 +2,7 @@
   "name": "Loona Ongeza Ukurasa Mtupu kwenye PDF bure mtandaoni",
   "short_name": "Ongeza Ukurasa Mtupu kwenye PDF bure mtandaoni",
   "description": "Ingiza kurasa tupu katika PDF bure mtandaoni: mwanzoni, mwishoni, au baada ya ukurasa wowote, zikilingana na ukubwa wa ukurasa wa hati, A4 au Letter. Mara moja, katika kivinjari chako, hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/add-blank-page-to-pdf/",
+  "id": "/sw/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

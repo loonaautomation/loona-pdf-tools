@@ -2,7 +2,7 @@
   "name": "Loona Aplatizează PDF online gratuit",
   "short_name": "Aplatizează PDF online gratuit",
   "description": "Aplatizează gratuit online un PDF: încorporează câmpurile completabile de formular în pagini, astfel încât răspunsurile să nu mai poată fi editate, cu o reconstrucție opțională completă ca imagine care aplatizează totul. Privat, în browser, fără înregistrare.",
-  "id": "/loona-pdf-tools/ro/flatten-pdf/",
+  "id": "/ro/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

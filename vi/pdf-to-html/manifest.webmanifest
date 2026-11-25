@@ -2,7 +2,7 @@
   "name": "Loona PDF sang HTML trực tuyến miễn phí",
   "short_name": "PDF sang HTML trực tuyến miễn phí",
   "description": "Chuyển đổi một PDF thành HTML trực tuyến, miễn phí trong trình duyệt của bạn. Văn bản được trích xuất với cấu trúc heading được phát hiện từ cỡ chữ. Không tải lên, không đăng ký.",
-  "id": "/loona-pdf-tools/vi/pdf-to-html/",
+  "id": "/vi/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Extrage imagini din PDF online gratuit",
   "short_name": "Extrage imagini din PDF online gratuit",
   "description": "Extrage gratuit online imaginile originale încorporate într-un PDF: fotografiile și graficile sunt scoase la rezoluția lor stocată, ca fișiere PNG - nu capturi de ecran. 100% în browserul tău, fără să se încarce nimic.",
-  "id": "/loona-pdf-tools/ro/extract-images-from-pdf/",
+  "id": "/ro/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

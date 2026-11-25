@@ -2,7 +2,7 @@
   "name": "Loona Izbriši stranice PDF-a besplatno na mreži",
   "short_name": "Izbriši stranice PDF-a besplatno na mreži",
   "description": "Brišite stranice iz PDF-a besplatno na mreži. Upišite brojeve stranica koje treba ukloniti — poput 2, 4-6 — i preuzmite očišćenu datoteku. Bez registracije; sve ostaje u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/delete-pdf-pages/",
+  "id": "/hr/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

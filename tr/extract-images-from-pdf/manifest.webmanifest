@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'den Görüntü Çıkar",
   "short_name": "Çevrimiçi Ücretsiz PDF'den Görüntü Çıkar",
   "description": "Bir PDF'ye gömülü orijinal görüntüleri çevrimiçi ücretsiz çıkarın: fotoğraflar ve grafikler, ekran görüntüsü değil, saklanan çözünürlüklerinde PNG dosyaları olarak alınır. %100 tarayıcınızda, hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/extract-images-from-pdf/",
+  "id": "/tr/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

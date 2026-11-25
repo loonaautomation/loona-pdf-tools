@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Pretvorite Word .docx dokument u čist, čitljiv PDF na mreži, besplatno u svom pregledniku. Naslovi, popisi, tablice i slike prenose se. Vaša se datoteka nikad ne prenosi — pretvorba se odvija u potpunosti na vašem uređaju.",
-  "id": "/loona-pdf-tools/hr/word-to-pdf/",
+  "id": "/hr/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

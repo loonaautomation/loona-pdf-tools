@@ -2,7 +2,7 @@
   "name": "Loona JSON у PDF онлайн безкоштовно",
   "short_name": "JSON у PDF онлайн безкоштовно",
   "description": "Перетворюйте JSON на читабельний PDF із розбиттям на сторінки онлайн, безкоштовно у своєму браузері. Спочатку перевірка та гарне форматування. Без передавання файлів.",
-  "id": "/loona-pdf-tools/uk/json-to-pdf/",
+  "id": "/uk/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

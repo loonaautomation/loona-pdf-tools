@@ -2,7 +2,7 @@
   "name": "Loona PDF tömörítése 100 KB-ra online ingyen",
   "short_name": "PDF tömörítése 100 KB-ra online ingyen",
   "description": "Tömörítsen egy PDF-et 100 KB-ra vagy az alá, ingyen, a böngészőjében. Az eszköz először veszteségmentes újramentéssel próbálkozik, majd lépésenként csökkenti a renderelési minőséget, amíg a fájlja bele nem fér — és jelenti a pontos eredményt.",
-  "id": "/loona-pdf-tools/hu/compress-pdf-to-100kb/",
+  "id": "/hu/compress-pdf-to-100kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

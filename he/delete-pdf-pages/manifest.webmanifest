@@ -2,7 +2,7 @@
   "name": "Loona מחיקת עמודי PDF מקוון בחינם",
   "short_name": "מחיקת עמודי PDF מקוון בחינם",
   "description": "מחקו עמודים מ-PDF בחינם באינטרנט. הקלידו את מספרי העמודים להסרה - כמו 2, 4-6 - והורידו את הקובץ הנקי. ללא הרשמה; הכול נשאר בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/delete-pdf-pages/",
+  "id": "/he/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

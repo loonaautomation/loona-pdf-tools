@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'ye Filigran Ekle",
   "short_name": "Çevrimiçi Ücretsiz PDF'ye Filigran Ekle",
   "description": "Çevrimiçi ücretsiz olarak bir PDF'ye metin filigranı ekleyin. Metni, boyutu, opaklığı, açıyı ve rengi ayarlayın; ortalanmış veya döşemeli. Kayıt gerekmez; filigran ekleme, tarayıcıda gizli olarak çalışır.",
-  "id": "/loona-pdf-tools/tr/add-watermark-to-pdf/",
+  "id": "/tr/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

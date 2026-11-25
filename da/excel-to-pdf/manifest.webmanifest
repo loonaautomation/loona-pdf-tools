@@ -2,7 +2,7 @@
   "name": "Loona Excel til PDF online gratis",
   "short_name": "Excel til PDF online gratis",
   "description": "Konvertér Excel-regneark (.xlsx, .xls) og CSV-filer til en ren PDF-tabel med sidetal online, gratis i din browser. Hvert ark bliver til en tabel med en gentaget overskriftsrække. Ingen upload.",
-  "id": "/loona-pdf-tools/da/excel-to-pdf/",
+  "id": "/da/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

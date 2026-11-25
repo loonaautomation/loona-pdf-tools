@@ -2,7 +2,7 @@
   "name": "Loona Διαγραφή Σελίδων PDF Online Δωρεάν",
   "short_name": "Διαγραφή Σελίδων PDF Online Δωρεάν",
   "description": "Διαγράψτε σελίδες από ένα PDF δωρεάν online. Πληκτρολογήστε τους αριθμούς σελίδων προς αφαίρεση - όπως 2, 4-6 - και κατεβάστε το καθαρισμένο αρχείο. Χωρίς εγγραφή· όλα παραμένουν στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/delete-pdf-pages/",
+  "id": "/el/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

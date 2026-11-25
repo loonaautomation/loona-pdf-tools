@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji GIF kwenda PDF bure mtandaoni",
   "short_name": "Kibadilishaji GIF kwenda PDF bure mtandaoni",
   "description": "Badilisha picha za GIF kuwa PDF mtandaoni, bure, katika kivinjari chako. Picha moja kwa kila ukurasa, kurasa za toshea-picha au A4/Letter. Hakuna upakiaji, hakuna kujisajili.",
-  "id": "/loona-pdf-tools/sw/gif-to-pdf/",
+  "id": "/sw/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

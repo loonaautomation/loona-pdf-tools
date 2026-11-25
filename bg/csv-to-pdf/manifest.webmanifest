@@ -2,7 +2,7 @@
   "name": "Loona CSV към PDF онлайн безплатно",
   "short_name": "CSV към PDF онлайн безплатно",
   "description": "Преобразувайте CSV данни в чиста PDF таблица със страници онлайн, безплатно във вашия браузър. Удебелен повтарящ се заглавен ред, напаснати колони. Без качване.",
-  "id": "/loona-pdf-tools/bg/csv-to-pdf/",
+  "id": "/bg/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

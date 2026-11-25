@@ -2,7 +2,7 @@
   "name": "Loona 建立 PDF 表單 線上免費",
   "short_name": "建立 PDF 表單 線上免費",
   "description": "線上免費將任何 PDF 變成可填寫表單：在您拖動的位置準確新增真正的文字欄位和核取方塊，命名這些欄位，並下載一份任何人都能填寫的真正 AcroForm PDF。不上傳，無需註冊。",
-  "id": "/loona-pdf-tools/zh-hant/create-pdf-form/",
+  "id": "/zh-hant/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

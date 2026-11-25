@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Преобразуйте документ Word .docx в чистый, читаемый PDF онлайн, бесплатно в вашем браузере. Заголовки, списки, таблицы и изображения переносятся. Ваш файл никогда не загружается.",
-  "id": "/loona-pdf-tools/ru/word-to-pdf/",
+  "id": "/ru/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

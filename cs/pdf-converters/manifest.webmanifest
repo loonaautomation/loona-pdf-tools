@@ -2,7 +2,7 @@
   "name": "Loona Převodníky PDF online zdarma",
   "short_name": "Převodníky PDF online zdarma",
   "description": "Každý převodník PDF na jednom místě: obrázky, CSV, JSON, HTML a Markdown do PDF — a PDF zpět do obrázků, textu, HTML a Markdownu. Zdarma, ve vašem prohlížeči.",
-  "id": "/loona-pdf-tools/cs/pdf-converters/",
+  "id": "/cs/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

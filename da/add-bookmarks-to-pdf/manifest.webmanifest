@@ -2,7 +2,7 @@
   "name": "Loona Tilføj bogmærker til PDF online gratis",
   "short_name": "Tilføj bogmærker til PDF online gratis",
   "description": "Tilføj gratis bogmærker (en klikbar disposition) til en PDF online: angiv kapiteloverskrifter med deres sidetal, og download en PDF med en ægte navigationsdisposition. I browseren, intet uploades.",
-  "id": "/loona-pdf-tools/da/add-bookmarks-to-pdf/",
+  "id": "/da/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Przytnij PDF online za darmo",
   "short_name": "Przytnij PDF online za darmo",
   "description": "Przycinaj strony PDF za darmo online: przycinaj białe marginesy lub tnij krawędzie o punkty lub procenty na każdej stronie albo w jednym zakresie. Pole przycinania strony jest ustawiane precyzyjnie w Twojej przeglądarce – nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/crop-pdf/",
+  "id": "/pl/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

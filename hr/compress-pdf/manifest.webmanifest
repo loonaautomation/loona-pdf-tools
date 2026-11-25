@@ -2,7 +2,7 @@
   "name": "Loona Sažmi PDF besplatno na mreži",
   "short_name": "Sažmi PDF besplatno na mreži",
   "description": "Sažimajte PDF datoteke besplatno na mreži i smanjite ih za e-poštu ili prijenose. Odaberite sažimanje toka bez gubitaka ili jako slikovno sažimanje. Privatno, u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/compress-pdf/",
+  "id": "/hr/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

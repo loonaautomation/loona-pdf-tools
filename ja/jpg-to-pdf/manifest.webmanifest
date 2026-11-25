@@ -2,7 +2,7 @@
   "name": "Loona JPGをPDFに変換 オンライン無料",
   "short_name": "JPGをPDFに変換 オンライン無料",
   "description": "JPG画像をPDFに無料でオンライン変換。写真を一つのPDFにまとめ、A4、Letter、合わせるページで、好きな順序にできます。登録不要。ブラウザ内でプライベートに動作します。",
-  "id": "/loona-pdf-tools/ja/jpg-to-pdf/",
+  "id": "/ja/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

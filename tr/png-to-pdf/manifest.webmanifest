@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PNG'den PDF'ye",
   "short_name": "Çevrimiçi Ücretsiz PNG'den PDF'ye",
   "description": "PNG görüntülerini çevrimiçi ücretsiz olarak bir PDF'ye dönüştürün. Ekran görüntüleri, logolar ve grafikler A4, Letter veya sığdırılmış sayfalarla tek bir PDF'ye dönüşür. Gizli tarayıcı içi dönüştürme, kayıt gerekmez.",
-  "id": "/loona-pdf-tools/tr/png-to-pdf/",
+  "id": "/tr/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

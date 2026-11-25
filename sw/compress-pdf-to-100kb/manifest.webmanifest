@@ -2,7 +2,7 @@
   "name": "Loona Bana PDF hadi 100 KB Mtandaoni bure mtandaoni",
   "short_name": "Bana PDF hadi 100 KB Mtandaoni bure mtandaoni",
   "description": "Bana PDF hadi 100 KB au chini yake, bure katika kivinjari chako. Zana hujaribu kwanza kuhifadhi upya bila kupoteza ubora, kisha hupunguza ubora wa uonyeshaji hatua kwa hatua hadi faili lako litoshee — na huripoti matokeo kamili.",
-  "id": "/loona-pdf-tools/sw/compress-pdf-to-100kb/",
+  "id": "/sw/compress-pdf-to-100kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

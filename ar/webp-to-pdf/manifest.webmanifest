@@ -2,7 +2,7 @@
   "name": "Loona محوّل WebP إلى PDF – مجاني، دون رفع",
   "short_name": "محوّل WebP إلى PDF – مجاني، دون رفع",
   "description": "حوّل صور WebP إلى PDF عبر الإنترنت، مجانًا، في متصفحك. صورة واحدة في كل صفحة، صفحات بملاءمة الصورة أو A4/Letter. دون رفع، دون تسجيل.",
-  "id": "/loona-pdf-tools/ar/webp-to-pdf/",
+  "id": "/ar/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator de semnături online gratuit",
   "short_name": "Generator de semnături online gratuit",
   "description": "Creează gratuit online o imagine a semnăturii: deseneaz-o, tastează-ți numele într-un stil de scris de mână sau fă transparentă o fotografie a semnăturii tale. Descarcă un PNG transparent curat - fără încărcare, fără înregistrare.",
-  "id": "/loona-pdf-tools/ro/signature-generator/",
+  "id": "/ro/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

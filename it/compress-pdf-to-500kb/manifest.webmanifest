@@ -2,7 +2,7 @@
   "name": "Loona Comprimere PDF a 500 KB online",
   "short_name": "Comprimere PDF a 500 KB online",
   "description": "Comprimi un PDF a 500 KB o meno, gratuitamente nel tuo browser. Lo strumento prova prima un salvataggio senza perdita, poi riduce gradualmente la qualità di rendering finché il file non rientra — e segnala il risultato esatto.",
-  "id": "/loona-pdf-tools/it/compress-pdf-to-500kb/",
+  "id": "/it/compress-pdf-to-500kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

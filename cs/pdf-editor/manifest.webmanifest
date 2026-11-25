@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor online zdarma",
   "short_name": "Loona PDF Editor",
   "description": "Upravujte soubory PDF zdarma online s Loona PDF Editor: přidávejte text, obrázky, tvary a zvýraznění, zakrývejte chyby bělítkem, kreslete nebo napište podpis a pak si stáhněte hotové PDF. Vše běží ve vašem prohlížeči - váš soubor nikdy neopustí vaše zařízení. Bez registrace, bez omezení stránek, bez vodoznaků.",
-  "id": "/loona-pdf-tools/cs/pdf-editor/",
+  "id": "/cs/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

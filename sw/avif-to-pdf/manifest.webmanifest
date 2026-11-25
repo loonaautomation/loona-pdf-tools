@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji AVIF kwenda PDF bure mtandaoni",
   "short_name": "Kibadilishaji AVIF kwenda PDF bure mtandaoni",
   "description": "Badilisha picha za AVIF kuwa PDF mtandaoni, bure, katika kivinjari chako. Picha moja kwa kila ukurasa, kurasa za toshea-picha au A4/Letter. Hakuna upakiaji, hakuna kujisajili.",
-  "id": "/loona-pdf-tools/sw/avif-to-pdf/",
+  "id": "/sw/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

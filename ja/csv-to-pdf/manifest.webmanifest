@@ -2,7 +2,7 @@
   "name": "Loona CSVをPDFに変換 オンライン無料",
   "short_name": "CSVをPDFに変換 オンライン無料",
   "description": "CSVデータをオンラインで、きれいでページ分割されたPDF表に変換。ブラウザで無料。太字の繰り返しヘッダー行と、調整された列。アップロード不要。",
-  "id": "/loona-pdf-tools/ja/csv-to-pdf/",
+  "id": "/ja/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

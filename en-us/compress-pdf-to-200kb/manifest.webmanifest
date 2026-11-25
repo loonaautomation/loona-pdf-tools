@@ -2,7 +2,7 @@
   "name": "Loona Compress PDF to 200 KB",
   "short_name": "Compress PDF to 200 KB",
   "description": "Compress a PDF to 200 KB or under, free in your browser. The tool tries a lossless re-save first, then steps down render quality until your file fits — and reports the exact result.",
-  "id": "/loona-pdf-tools/en-us/compress-pdf-to-200kb/",
+  "id": "/en-us/compress-pdf-to-200kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

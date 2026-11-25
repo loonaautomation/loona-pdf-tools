@@ -2,7 +2,7 @@
   "name": "Loona הוספת סימניות ל-PDF מקוון בחינם",
   "short_name": "הוספת סימניות ל-PDF מקוון בחינם",
   "description": "הוסיפו סימניות (מתאר ניתן ללחיצה) ל-PDF בחינם באינטרנט: פרטו כותרות פרקים עם מספרי העמודים שלהן והורידו PDF עם מתאר ניווט אמיתי. בדפדפן, שום דבר לא מועלה.",
-  "id": "/loona-pdf-tools/he/add-bookmarks-to-pdf/",
+  "id": "/he/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

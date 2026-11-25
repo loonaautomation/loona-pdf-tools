@@ -2,7 +2,7 @@
   "name": "Loona Convertor JSON în PDF online gratuit",
   "short_name": "Convertor JSON în PDF online gratuit",
   "description": "Convertește JSON într-un PDF lizibil și paginat online, gratuit în browserul tău. Mai întâi validat și tipărit frumos. Fără încărcare.",
-  "id": "/loona-pdf-tools/ro/json-to-pdf/",
+  "id": "/ro/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

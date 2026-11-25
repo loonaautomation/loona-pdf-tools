@@ -2,7 +2,7 @@
   "name": "Loona Porovnať PDF online zadarmo",
   "short_name": "Porovnať PDF online zadarmo",
   "description": "Porovnajte dva súbory PDF zadarmo online a pozrite si presne, ktorý text sa zmenil, stránku po stránke. Odstránené a pridané riadky sú zvýraznené vedľa seba. Bez registrácie; porovnanie beží súkromne vo vašom prehliadači.",
-  "id": "/loona-pdf-tools/sk/compare-pdf/",
+  "id": "/sk/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

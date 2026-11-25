@@ -2,7 +2,7 @@
   "name": "Loona Elimină paginile goale online gratuit",
   "short_name": "Elimină paginile goale online gratuit",
   "description": "Elimină gratuit online paginile goale dintr-un PDF: paginile sunt randate și verificate pixel cu pixel, paginile aproape goale sunt listate cinstit cu acoperirea lor cu cerneală și eliminate - paginile cu conținut rămân neatinse. În browser.",
-  "id": "/loona-pdf-tools/ro/remove-blank-pages/",
+  "id": "/ro/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

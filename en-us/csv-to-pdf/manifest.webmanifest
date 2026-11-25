@@ -2,7 +2,7 @@
   "name": "Loona CSV to PDF Converter",
   "short_name": "CSV to PDF Converter",
   "description": "Convert CSV data to a clean, paginated PDF table online, free in your browser. Bold repeating header row, fitted columns. No upload.",
-  "id": "/loona-pdf-tools/en-us/csv-to-pdf/",
+  "id": "/en-us/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

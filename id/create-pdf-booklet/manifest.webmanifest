@@ -2,7 +2,7 @@
   "name": "Loona Buat Buklet PDF online gratis",
   "short_name": "Buat Buklet PDF online gratis",
   "description": "Buat PDF buklet yang dapat dicetak gratis secara online: halaman diatur dalam urutan buklet yang sesungguhnya pada lembar lanskap - cetak dua sisi, lipat, staples. Halaman kosong ditambahkan hingga kelipatan empat secara otomatis.",
-  "id": "/loona-pdf-tools/id/create-pdf-booklet/",
+  "id": "/id/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

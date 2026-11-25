@@ -2,7 +2,7 @@
   "name": "Loona PDF-in-Excel-Konverter",
   "short_name": "PDF-in-Excel-Konverter",
   "description": "Wandeln Sie PDF-Tabellen kostenlos in Ihrem Browser in Excel-Tabellen (.xlsx) um. Prüfen und korrigieren Sie jede Zelle vor dem Download. Kein Upload, keine Anmeldung — Ihre Datei verlässt Ihr Gerät nie.",
-  "id": "/loona-pdf-tools/de/pdf-to-excel/",
+  "id": "/de/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

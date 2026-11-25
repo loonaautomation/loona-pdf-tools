@@ -2,7 +2,7 @@
   "name": "Loona แปลง HTML เป็น PDF ออนไลน์ฟรี",
   "short_name": "แปลง HTML เป็น PDF ออนไลน์ฟรี",
   "description": "แปลง HTML เป็น PDF ออนไลน์ ฟรี โดยใช้เอนจินพิมพ์เป็น PDF ของเบราว์เซอร์ของคุณเอง รองรับ CSS เต็มรูปแบบ ไม่ต้องอัปโหลด ไม่มีลายน้ำ",
-  "id": "/loona-pdf-tools/th/html-to-pdf/",
+  "id": "/th/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

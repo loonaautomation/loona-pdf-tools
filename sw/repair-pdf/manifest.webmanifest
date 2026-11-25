@@ -2,7 +2,7 @@
   "name": "Loona Rekebisha PDF bure mtandaoni",
   "short_name": "Rekebisha PDF bure mtandaoni",
   "description": "Rekebisha PDF iliyoharibika bure mtandaoni: hujenga upya majedwali ya marejeleo yaliyovunjika na huhifadhi upya nakala safi, kwa ujenzi upya wa picha za kurasa kama chaguo la mwisho. Vikomo vya uaminifu vimeelezwa. 100% katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/repair-pdf/",
+  "id": "/sw/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

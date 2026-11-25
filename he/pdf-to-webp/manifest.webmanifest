@@ -2,7 +2,7 @@
   "name": "Loona PDF ל-WebP מקוון בחינם",
   "short_name": "PDF ל-WebP מקוון בחינם",
   "description": "המירו עמודי PDF לתמונות WebP בחינם באינטרנט: קטנות מ-JPG ו-PNG לאתרים, מעובדות ברזולוציה שבחרתם בדפדפן שלכם. שום דבר לא מועלה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/pdf-to-webp/",
+  "id": "/he/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

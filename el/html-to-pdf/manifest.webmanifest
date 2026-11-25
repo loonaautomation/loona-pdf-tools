@@ -2,7 +2,7 @@
   "name": "Loona HTML σε PDF Online Δωρεάν",
   "short_name": "HTML σε PDF Online Δωρεάν",
   "description": "Μετατρέψτε HTML σε PDF online, δωρεάν, χρησιμοποιώντας τη μηχανή εκτύπωσης-σε-PDF του ίδιου του προγράμματος περιήγησής σας — πλήρης υποστήριξη CSS, χωρίς μεταφόρτωση, χωρίς υδατογραφήματα.",
-  "id": "/loona-pdf-tools/el/html-to-pdf/",
+  "id": "/el/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

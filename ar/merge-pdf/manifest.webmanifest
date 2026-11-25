@@ -2,7 +2,7 @@
   "name": "Loona دمج ملفات PDF عبر الإنترنت مجانًا",
   "short_name": "دمج ملفات PDF عبر الإنترنت مجانًا",
   "description": "ادمج ملفات PDF في مستند واحد مجانًا عبر الإنترنت. ادمج عدة ملفات PDF، واسحب لإعادة ترتيبها، دون حاجة إلى تسجيل. تُعالج الملفات بخصوصية في متصفحك.",
-  "id": "/loona-pdf-tools/ar/merge-pdf/",
+  "id": "/ar/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

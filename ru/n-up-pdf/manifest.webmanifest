@@ -2,7 +2,7 @@
   "name": "Loona N-up PDF",
   "short_name": "Loona N-up PDF",
   "description": "Размещайте несколько страниц PDF на одном листе бесплатно онлайн: макеты 2, 4, 6 или 9 на листе на A4 или Letter, в порядке чтения. Экономит бумагу для раздаточных материалов и черновиков. В браузере, ничего не загружается на сервер.",
-  "id": "/loona-pdf-tools/ru/n-up-pdf/",
+  "id": "/ru/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

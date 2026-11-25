@@ -2,7 +2,7 @@
   "name": "Loona Paginanummers toevoegen online gratis",
   "short_name": "Paginanummers toevoegen online gratis",
   "description": "Voeg gratis online paginanummers toe aan een PDF. Kies stijl (1, Pagina 1, 1 van 10), positie en startnummer. Geen registratie; nummeren gebeurt privé in je browser.",
-  "id": "/loona-pdf-tools/nl/add-page-numbers-to-pdf/",
+  "id": "/nl/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

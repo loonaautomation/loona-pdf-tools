@@ -2,7 +2,7 @@
   "name": "Loona Konverter GIF ke PDF online gratis",
   "short_name": "Konverter GIF ke PDF online gratis",
   "description": "Konversi gambar GIF ke PDF secara online, gratis, di browser Anda. Satu gambar per halaman, halaman pas-ke-gambar atau A4/Letter. Tanpa unggahan, tanpa pendaftaran.",
-  "id": "/loona-pdf-tools/id/gif-to-pdf/",
+  "id": "/id/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

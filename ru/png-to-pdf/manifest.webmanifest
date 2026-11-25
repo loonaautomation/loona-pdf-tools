@@ -2,7 +2,7 @@
   "name": "Loona PNG в PDF",
   "short_name": "Loona PNG в PDF",
   "description": "Преобразуйте изображения PNG в PDF бесплатно онлайн. Скриншоты, логотипы и графика становятся одним PDF со страницами A4, Letter или с подгонкой. Конфиденциальное преобразование в браузере, без регистрации.",
-  "id": "/loona-pdf-tools/ru/png-to-pdf/",
+  "id": "/ru/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Birleştir",
   "short_name": "Çevrimiçi Ücretsiz PDF Birleştir",
   "description": "PDF dosyalarını çevrimiçi ücretsiz olarak tek bir belgede birleştirin. Birden çok PDF'yi birleştirin, yeniden sıralamak için sürükleyin, kayıt gerekmez. Dosyalar tarayıcınızda gizlice işlenir.",
-  "id": "/loona-pdf-tools/tr/merge-pdf/",
+  "id": "/tr/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

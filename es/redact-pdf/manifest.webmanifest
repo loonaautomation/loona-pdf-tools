@@ -2,7 +2,7 @@
   "name": "Loona Censurar PDF en línea gratis",
   "short_name": "Censurar PDF en línea gratis",
   "description": "Censura un PDF gratis en línea: dibuja cuadros negros sobre nombres, números o fotos y quémalos permanentemente: el contenido oculto se elimina, no solo se cubre. Al 100% en tu navegador, sin subir nada.",
-  "id": "/loona-pdf-tools/es/redact-pdf/",
+  "id": "/es/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

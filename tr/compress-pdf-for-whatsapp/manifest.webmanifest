@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp için PDF Sıkıştır",
   "short_name": "WhatsApp için PDF Sıkıştır",
   "description": "Bir PDF'yi tarayıcınızda ücretsiz olarak 16 MB veya altına sıkıştırın. Araç önce kayıpsız bir yeniden kaydetmeyi dener, ardından dosyanız sığana kadar oluşturma kalitesini kademeli olarak düşürür ve tam sonucu bildirir.",
-  "id": "/loona-pdf-tools/tr/compress-pdf-for-whatsapp/",
+  "id": "/tr/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Järjestä PDF verkossa ilmaiseksi",
   "short_name": "Järjestä PDF verkossa ilmaiseksi",
   "description": "Järjestä PDF-sivuja ilmaiseksi verkossa: vedä pikkukuvia järjestääksesi sivut uudelleen, kierrä sivuttain olevat sivut ja poista sivut, joita et tarvitse. Ei rekisteröitymistä. Tiedostot käsitellään yksityisesti selaimessasi.",
-  "id": "/loona-pdf-tools/fi/organize-pdf/",
+  "id": "/fi/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

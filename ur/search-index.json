@@ -1,7 +1,7 @@
 [
  {
   "n": "PDF ملائیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/merge-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/merge-pdf/",
   "s": "Loona PDF Tools",
   "d": "کئی PDF فائلوں کو ایک دستاویز میں ملائیں، آپ کی منتخب کردہ ترتیب میں۔",
   "k": "merge pdf merge pdf combine join multiple files into one together کئی pdf فائلوں کو ایک دستاویز میں ملائیں آپ کی منتخب کردہ ترتیب میں",
@@ -10,7 +10,7 @@
  },
  {
   "n": "PDF تقسیم کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/split-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/split-pdf/",
   "s": "Loona PDF Tools",
   "d": "PDF کو انفرادی صفحات یا حسبِ ضرورت صفحہ رینجز میں الگ کریں۔",
   "k": "split pdf split pdf separate divide cutter ranges extract pages pdf کو انفرادی صفحات یا حسب ضرورت صفحہ رینجز میں الگ کریں",
@@ -19,7 +19,7 @@
  },
  {
   "n": "PDF کمپریس کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/compress-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/compress-pdf/",
   "s": "Loona PDF Tools",
   "d": "PDF کو ای میل، WhatsApp یا اپ لوڈ حدود کے لیے چھوٹا بنائیں - دو ایماندارانہ موڈ۔",
   "k": "compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload pdf کو ای میل whatsapp یا اپ لوڈ حدود کے لیے چھوٹا بنائیں دو ایماندارانہ موڈ",
@@ -28,7 +28,7 @@
  },
  {
   "n": "JPG سے PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/jpg-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/jpg-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "JPG تصاویر اور اسکین کو ایک صاف PDF میں بدلیں - A4، Letter یا تصویر فٹ صفحات۔",
   "k": "jpg to pdf jpg to pdf jpeg photo image picture scan convert jpg تصاویر اور اسکین کو ایک صاف pdf میں بدلیں a4 letter یا تصویر فٹ صفحات",
@@ -37,7 +37,7 @@
  },
  {
   "n": "PDF سے JPG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-to-jpg/",
+  "u": "https://pdf.loonaautomation.com/ur/pdf-to-jpg/",
   "s": "Loona PDF Tools",
   "d": "ہر PDF صفحے کو اعلیٰ معیار کی JPG تصویر میں بدلیں جو آپ کہیں بھی شیئر کر سکتے ہیں۔",
   "k": "pdf to jpg pdf to jpg jpeg image picture convert pages extract ہر pdf صفحے کو اعلی معیار کی jpg تصویر میں بدلیں جو آپ کہیں بھی شیئر کر سکتے ہیں",
@@ -46,7 +46,7 @@
  },
  {
   "n": "PNG سے PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/png-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/png-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "PNG اسکرین شاٹس اور گرافکس کو ایک صاف PDF دستاویز میں ملائیں۔",
   "k": "png to pdf png to pdf image picture screenshot convert photo png اسکرین شاٹس اور گرافکس کو ایک صاف pdf دستاویز میں ملائیں",
@@ -55,7 +55,7 @@
  },
  {
   "n": "PDF سے PNG",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-to-png/",
+  "u": "https://pdf.loonaautomation.com/ur/pdf-to-png/",
   "s": "Loona PDF Tools",
   "d": "PDF صفحات کو تیز PNG تصاویر میں تبدیل کریں - اصل شفافیت برقرار کے ساتھ۔",
   "k": "pdf to png pdf to png image transparent convert picture pdf صفحات کو تیز png تصاویر میں تبدیل کریں اصل شفافیت برقرار کے ساتھ",
@@ -64,7 +64,7 @@
  },
  {
   "n": "PDF سے متن",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-to-text/",
+  "u": "https://pdf.loonaautomation.com/ur/pdf-to-text/",
   "s": "Loona PDF Tools",
   "d": "PDF سے تمام پڑھنے کے قابل متن نکالیں تاکہ آپ اسے کاپی، ترمیم اور دوبارہ استعمال کر سکیں۔",
   "k": "pdf to text pdf to text extract txt words copy plain text file pdf سے تمام پڑھنے کے قابل متن نکالیں تاکہ آپ اسے کاپی ترمیم اور دوبارہ استعمال کر سکیں",
@@ -73,7 +73,7 @@
  },
  {
   "n": "متن سے PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/text-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/text-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "متن لکھیں یا چسپاں کریں اور اسے صاف، پرنٹ کے قابل PDF دستاویز کے طور پر ڈاؤن لوڈ کریں۔",
   "k": "text to pdf text to pdf txt write type document make create متن لکھیں یا چسپاں کریں اور اسے صاف پرنٹ کے قابل pdf دستاویز کے طور پر ڈاؤن لوڈ کریں",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Excel سے PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/excel-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/excel-to-pdf/",
   "s": "Loona PDF Tools",
   "d": ".xlsx، .xls اور CSV اسپریڈ شیٹ کو صاف PDF جداول میں بدلیں - ہر شیٹ، بغیر اپ لوڈ۔",
   "k": "excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert xlsx xls اور csv اسپریڈ شیٹ کو صاف pdf جداول میں بدلیں ہر شیٹ بغیر اپ لوڈ",
@@ -91,7 +91,7 @@
  },
  {
   "n": "PDF گھمائیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/rotate-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/rotate-pdf/",
   "s": "Loona PDF Tools",
   "d": "ٹیڑھے یا الٹے PDF صفحات کو مستقل طور پر درست کریں، اپنے براؤزر میں۔",
   "k": "rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees ٹیڑھے یا الٹے pdf صفحات کو مستقل طور پر درست کریں اپنے براؤزر میں",
@@ -100,7 +100,7 @@
  },
  {
   "n": "PDF صفحات حذف کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/delete-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/ur/delete-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "خالی، دہرے یا غیر مطلوبہ صفحات ہٹائیں اور دبلی دستاویز رکھیں۔",
   "k": "delete pdf pages delete pdf pages remove unwanted blank duplicate pages خالی دہرے یا غیر مطلوبہ صفحات ہٹائیں اور دبلی دستاویز رکھیں",
@@ -109,7 +109,7 @@
  },
  {
   "n": "PDF صفحات نکالیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/extract-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/ur/extract-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "صرف وہ صفحات رکھیں جن کی آپ کو ضرورت ہے - جیسے صفحہ 3 اور 5-8 - بالکل نئی PDF کے طور پر۔",
   "k": "extract pdf pages extract pdf pages keep select pages range new document pull صرف وہ صفحات رکھیں جن کی آپ کو ضرورت ہے جیسے صفحہ 3 اور 5 8 بالکل نئی pdf کے طور پر",
@@ -118,7 +118,7 @@
  },
  {
   "n": "PDF منظم کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/organize-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/organize-pdf/",
   "s": "Loona PDF Tools",
   "d": "ہر صفحے کو تھمب نیل کے طور پر دیکھیں - دوبارہ ترتیب دینے کے لیے گھسیٹیں، ٹیڑھے صفحات گھمائیں، غیر مطلوبہ صفحات حذف کریں۔",
   "k": "organize pdf organize pdf reorder rearrange sort thumbnails drag move pages ہر صفحے کو تھمب نیل کے طور پر دیکھیں دوبارہ ترتیب دینے کے لیے گھسیٹیں ٹیڑھے صفحات گھمائیں غیر مطلوبہ صفحات حذف کریں",
@@ -127,7 +127,7 @@
  },
  {
   "n": "سرٹیفکیٹ میکر",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/certificate-maker/",
+  "u": "https://pdf.loonaautomation.com/ur/certificate-maker/",
   "s": "Loona PDF Tools",
   "d": "قابلِ پرنٹ سرٹیفکیٹ براہ راست پیش منظر پر ڈیزائن کریں - ایک ایک کر کے، یا ناموں کی فہرست سے سینکڑوں بلک میں۔",
   "k": "certificate maker certificate maker award diploma design bulk names printable قابل پرنٹ سرٹیفکیٹ براہ راست پیش منظر پر ڈیزائن کریں ایک ایک کر کے یا ناموں کی فہرست سے سینکڑوں بلک میں",
@@ -136,7 +136,7 @@
  },
  {
   "n": "صفحہ نمبر شامل کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/add-page-numbers-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/add-page-numbers-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "PDF کے ہر صفحے پر اپنے اسٹائل اور جگہ میں صفحہ نمبر مہر کریں۔",
   "k": "add page numbers add page numbers to pdf numbering stamp folio pagination pages pdf کے ہر صفحے پر اپنے اسٹائل اور جگہ میں صفحہ نمبر مہر کریں",
@@ -145,7 +145,7 @@
  },
  {
   "n": "واٹر مارک شامل کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/add-watermark-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/add-watermark-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "CONFIDENTIAL جیسا متن یا اپنے اسکول کا نام ہر صفحے پر مہر کریں۔",
   "k": "add watermark add watermark to pdf stamp confidential overlay text brand pages confidential جیسا متن یا اپنے اسکول کا نام ہر صفحے پر مہر کریں",
@@ -154,7 +154,7 @@
  },
  {
   "n": "PDF پر دستخط کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/sign-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/sign-pdf/",
   "s": "Loona PDF Tools",
   "d": "اپنے دستخط بنائیں یا اپ لوڈ کریں اور اسے بالکل وہیں رکھیں جہاں اس کا مقام ہے۔",
   "k": "sign pdf sign pdf signature draw sign document electronic signature اپنے دستخط بنائیں یا اپ لوڈ کریں اور اسے بالکل وہیں رکھیں جہاں اس کا مقام ہے",
@@ -163,7 +163,7 @@
  },
  {
   "n": "PDF معلومات میں ترمیم کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/edit-pdf-info/",
+  "u": "https://pdf.loonaautomation.com/ur/edit-pdf-info/",
   "s": "Loona PDF Tools",
   "d": "PDF کا چھپا عنوان، مصنف، موضوع اور کلیدی الفاظ دیکھیں اور بدلیں۔",
   "k": "edit pdf info edit pdf info metadata title author subject keywords properties info pdf کا چھپا عنوان مصنف موضوع اور کلیدی الفاظ دیکھیں اور بدلیں",
@@ -172,7 +172,7 @@
  },
  {
   "n": "PDF فارم بھریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/fill-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/ur/fill-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "پُر کرنے کے قابل PDF فارم کھولیں، اس کی فیلڈز میں لکھیں اور مکمل شدہ کاپی ڈاؤن لوڈ کریں - قابلِ ترمیم، یا فلیٹن شدہ۔",
   "k": "fill pdf form fill pdf form form fields fillable complete fill type پ ر کرنے کے قابل pdf فارم کھولیں اس کی فیلڈز میں لکھیں اور مکمل شدہ کاپی ڈاؤن لوڈ کریں قابل ترمیم یا فلیٹن شدہ",
@@ -181,7 +181,7 @@
  },
  {
   "n": "PDF کا موازنہ کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/compare-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/compare-pdf/",
   "s": "Loona PDF Tools",
   "d": "بالکل دیکھیں کہ PDF کے دو نسخوں کے درمیان کون سا متن بدلا، صفحہ بہ صفحہ، فرق نمایاں کے ساتھ۔",
   "k": "compare pdf compare pdf diff differences two versions side by side changes بالکل دیکھیں کہ pdf کے دو نسخوں کے درمیان کون سا متن بدلا صفحہ بہ صفحہ فرق نمایاں کے ساتھ",
@@ -190,7 +190,7 @@
  },
  {
   "n": "دستخط جنریٹر",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/signature-generator/",
+  "u": "https://pdf.loonaautomation.com/ur/signature-generator/",
   "s": "Loona PDF Tools",
   "d": "اپنے دستخط کی شفاف PNG بنائیں - اسے بنائیں، لکھیں، یا تصویر کا سفید پس منظر ہٹائیں۔",
   "k": "signature generator signature generator draw signature create sign name handwritten اپنے دستخط کی شفاف png بنائیں اسے بنائیں لکھیں یا تصویر کا سفید پس منظر ہٹائیں",
@@ -199,7 +199,7 @@
  },
  {
   "n": "PDF ریڈیکٹ کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/redact-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/redact-pdf/",
   "s": "Loona PDF Tools",
   "d": "حساس حصوں کو مستقل طور پر سیاہ کریں - صفحہ تصویر میں جلائے گئے، کبھی صرف ڈھکے نہیں۔",
   "k": "redact pdf redact pdf black out hide sensitive permanent remove text censor حساس حصوں کو مستقل طور پر سیاہ کریں صفحہ تصویر میں جلائے گئے کبھی صرف ڈھکے نہیں",
@@ -208,7 +208,7 @@
  },
  {
   "n": "PDF فارم بنائیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/create-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/ur/create-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "کسی بھی ہموار PDF میں اصل پُر کرنے کے قابل متن فیلڈز اور چیک باکس شامل کریں۔",
   "k": "create pdf form create pdf form fillable form fields maker creator build کسی بھی ہموار pdf میں اصل پ ر کرنے کے قابل متن فیلڈز اور چیک باکس شامل کریں",
@@ -217,7 +217,7 @@
  },
  {
   "n": "PDF فلیٹن کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/flatten-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/flatten-pdf/",
   "s": "Loona PDF Tools",
   "d": "فارم کے جوابات صفحات میں پکا کر شامل کریں تاکہ انہیں پھر ترمیم نہ کیا جا سکے، یا صفحات کو تصاویر کے طور پر دوبارہ بنائیں۔",
   "k": "flatten pdf flatten pdf flatten form annotations layers lock فارم کے جوابات صفحات میں پکا کر شامل کریں تاکہ انہیں پھر ترمیم نہ کیا جا سکے یا صفحات کو تصاویر کے طور پر دوبارہ بنائیں",
@@ -226,7 +226,7 @@
  },
  {
   "n": "PDF سے گرے اسکیل",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-to-grayscale/",
+  "u": "https://pdf.loonaautomation.com/ur/pdf-to-grayscale/",
   "s": "Loona PDF Tools",
   "d": "سستی پرنٹنگ اور صاف یک رنگا انداز کے لیے ہر صفحے کو سرمئی رنگوں میں تبدیل کریں۔",
   "k": "pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert سستی پرنٹنگ اور صاف یک رنگا انداز کے لیے ہر صفحے کو سرمئی رنگوں میں تبدیل کریں",
@@ -235,7 +235,7 @@
  },
  {
   "n": "ہیڈر اور فوٹر شامل کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/add-header-footer-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/add-header-footer-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "ہر صفحے پر ہیڈر اور فوٹر متن مہر کریں، Page X of Y نمبر بلٹ ان کے ساتھ۔",
   "k": "add header footer add header footer to pdf header footer stamp text top bottom pages ہر صفحے پر ہیڈر اور فوٹر متن مہر کریں page x of y نمبر بلٹ ان کے ساتھ",
@@ -244,7 +244,7 @@
  },
  {
   "n": "PDF کی مرمت کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/repair-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/repair-pdf/",
   "s": "Loona PDF Tools",
   "d": "ڈھانچہ جاتی نقص درست کریں - ٹوٹے انڈیکس اور آخر کا کچرا - اور صاف کاپی محفوظ کریں۔",
   "k": "repair pdf repair pdf fix corrupted damaged broken recover restore ڈھانچہ جاتی نقص درست کریں ٹوٹے انڈیکس اور آخر کا کچرا اور صاف کاپی محفوظ کریں",
@@ -253,7 +253,7 @@
  },
  {
   "n": "PDF تراشیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/crop-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/crop-pdf/",
   "s": "Loona PDF Tools",
   "d": "سفید حاشیے تراشیں یا صفحہ کنارے پوائنٹس، فیصد یا ملی میٹر سے کاٹیں۔",
   "k": "crop pdf crop pdf trim margins cut white borders pages سفید حاشیے تراشیں یا صفحہ کنارے پوائنٹس فیصد یا ملی میٹر سے کاٹیں",
@@ -262,7 +262,7 @@
  },
  {
   "n": "PDF صفحات کا سائز بدلیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/resize-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/ur/resize-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "ہر صفحے کو A4، Letter یا Legal میں بدلیں، مواد کو فٹ ہونے کے لیے اسکیل کریں۔",
   "k": "resize pdf pages resize pdf pages page size a4 letter dimensions resize change ہر صفحے کو a4 letter یا legal میں بدلیں مواد کو فٹ ہونے کے لیے اسکیل کریں",
@@ -271,7 +271,7 @@
  },
  {
   "n": "PDF صفحات الٹیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/reverse-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/ur/reverse-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "الٹی ترتیب والی PDF کو پلٹیں تاکہ آخری صفحہ پہلا بن جائے۔",
   "k": "reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front الٹی ترتیب والی pdf کو پلٹیں تاکہ آخری صفحہ پہلا بن جائے",
@@ -280,7 +280,7 @@
  },
  {
   "n": "PDF تشریحات ہٹائیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/remove-pdf-annotations/",
+  "u": "https://pdf.loonaautomation.com/ur/remove-pdf-annotations/",
   "s": "Loona PDF Tools",
   "d": "تبصرے، ہائی لائٹس، اسٹکی نوٹ اور مہریں اتاریں جبکہ صفحہ مواد برقرار رہے۔",
   "k": "remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations تبصرے ہائی لائٹس اسٹکی نوٹ اور مہریں اتاریں جبکہ صفحہ مواد برقرار رہے",
@@ -289,7 +289,7 @@
  },
  {
   "n": "PDF صفحات کے سائز اور معلومات",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-page-sizes/",
+  "u": "https://pdf.loonaautomation.com/ur/pdf-page-sizes/",
   "s": "Loona PDF Tools",
   "d": "ہر صفحے کا درست سائز پوائنٹس، ملی میٹر اور انچ میں دیکھیں، علاوہ دستاویز معلومات۔",
   "k": "pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure ہر صفحے کا درست سائز پوائنٹس ملی میٹر اور انچ میں دیکھیں علاوہ دستاویز معلومات",
@@ -298,7 +298,7 @@
  },
  {
   "n": "PDF میں بک مارکس شامل کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/add-bookmarks-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/add-bookmarks-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "لمبی PDF کو ابواب اور حصوں کا کلک کے قابل خاکہ دیں۔",
   "k": "add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation لمبی pdf کو ابواب اور حصوں کا کلک کے قابل خاکہ دیں",
@@ -307,7 +307,7 @@
  },
  {
   "n": "PDF سے تصاویر نکالیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/extract-images-from-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/extract-images-from-pdf/",
   "s": "Loona PDF Tools",
   "d": "اصل شامل تصاویر اور گرافکس PDF سے PNG فائلوں کے طور پر نکالیں۔",
   "k": "extract images from pdf extract images from pdf get pictures photos images out extract save اصل شامل تصاویر اور گرافکس pdf سے png فائلوں کے طور پر نکالیں",
@@ -316,7 +316,7 @@
  },
  {
   "n": "PDF میں خالی صفحہ شامل کریں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/add-blank-page-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/add-blank-page-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "شروع، آخر، یا کسی صفحے کے بعد خالی صفحات داخل کریں، سائز سے مماثل۔",
   "k": "add blank page to pdf add blank page to pdf insert blank empty page add new شروع آخر یا کسی صفحے کے بعد خالی صفحات داخل کریں سائز سے مماثل",
@@ -325,7 +325,7 @@
  },
  {
   "n": "PDF سے WebP",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-to-webp/",
+  "u": "https://pdf.loonaautomation.com/ur/pdf-to-webp/",
   "s": "Loona PDF Tools",
   "d": "PDF صفحات کو WebP تصاویر میں تبدیل کریں - ویب سائٹس کے لیے JPG سے چھوٹی، آپ کے منتخب معیار پر۔",
   "k": "pdf to webp pdf to webp webp image convert picture pdf صفحات کو webp تصاویر میں تبدیل کریں ویب سائٹس کے لیے jpg سے چھوٹی آپ کے منتخب معیار پر",
@@ -334,7 +334,7 @@
  },
  {
   "n": "N-up PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/n-up-pdf/",
+  "u": "https://pdf.loonaautomation.com/ur/n-up-pdf/",
   "s": "Loona PDF Tools",
   "d": "2، 4، 6 یا 9 صفحات ایک شیٹ پر پڑھنے کی ترتیب میں رکھیں اور ہینڈ آؤٹ پر کاغذ بچائیں۔",
   "k": "n up pdf n up pdf n-up multiple pages per sheet impose tiles print 2 4 6 یا 9 صفحات ایک شیٹ پر پڑھنے کی ترتیب میں رکھیں اور ہینڈ آؤٹ پر کاغذ بچائیں",
@@ -343,7 +343,7 @@
  },
  {
   "n": "PDF بک لیٹ بنائیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/create-pdf-booklet/",
+  "u": "https://pdf.loonaautomation.com/ur/create-pdf-booklet/",
   "s": "Loona PDF Tools",
   "d": "صفحات کو اصل کتابچہ ترتیب میں رکھیں - دو طرفہ پرنٹ کریں، موڑیں، اسٹیپل کریں۔",
   "k": "create pdf booklet create pdf booklet booklet book fold impose print saddle stitch صفحات کو اصل کتابچہ ترتیب میں رکھیں دو طرفہ پرنٹ کریں موڑیں اسٹیپل کریں",
@@ -352,11 +352,11 @@
  },
  {
   "n": "خالی صفحات ہٹائیں",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/ur/remove-blank-pages/",
+  "u": "https://pdf.loonaautomation.com/ur/remove-blank-pages/",
   "s": "Loona PDF Tools",
   "d": "پکسل تجزیے سے قریب خالی صفحات پکڑیں اور انہیں ہٹائیں، ایماندارانہ فی صفحہ کوریج کے ساتھ۔",
   "k": "remove blank pages remove blank pages delete empty blank pages clean remove automatically پکسل تجزیے سے قریب خالی صفحات پکڑیں اور انہیں ہٹائیں ایماندارانہ فی صفحہ کوریج کے ساتھ",
   "p": 139,
   "c": "Tool"
  }
-,{"n":"PDF سے Excel","u":"https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-to-excel/","s":"Loona PDF Tools","d":"PDF ٹیبلز کو قابلِ ترمیم Excel (.xlsx) اسپریڈشیٹس میں نکالیں - ہر سیل کا پیش منظر دیکھیں اور درست کریں، کوئی اپ لوڈ نہیں۔","k":"pdf to excel pdf to excel converter xlsx spreadsheet table extract convert pdf to xlsx pdf ٹیبلز کو قابلِ ترمیم excel xlsx اسپریڈشیٹس میں نکالیں ہر سیل کا پیش منظر دیکھیں اور درست کریں، کوئی اپ لوڈ نہیں۔","p":110,"c":"Tool"},{"n":"Word to PDF","u":"https://loonaautomation.github.io/loona-pdf-tools/ur/word-to-pdf/","s":"Loona PDF Tools","d":"Word .docx دستاویزات کو صاف، پڑھنے کے قابل PDF میں بدلیں - عنوانات، فہرستیں، جداول اور تصاویر برقرار، بغیر اپ لوڈ۔","k":"word to pdf word to pdf docx doc word document microsoft convert word docx دستاویزات کو صاف پڑھنے کے قابل pdf میں بدلیں عنوانات فہرستیں جداول اور تصاویر برقرار بغیر اپ لوڈ","p":140,"c":"Tool"},{"n":"PDF سے Word","u":"https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-to-word/","s":"Loona PDF Tools","d":"متن پر مبنی PDF کو قابلِ ترمیم Word (.docx) دستاویزات میں بدلیں - پیراگراف، عنوانات، فہرستیں اور جداول، بغیر اپ لوڈ۔","k":"pdf to word pdf to word converter pdf to docx convert pdf to word doc docx editable word document no upload متن پر مبنی pdf کو قابلِ ترمیم word docx دستاویزات میں بدلیں پیراگراف، عنوانات، فہرستیں اور جداول، بغیر اپ لوڈ۔","p":141,"c":"Tool"},{"n":"Loona PDF Editor","u":"https://loonaautomation.github.io/loona-pdf-tools/ur/pdf-editor/","s":"Loona PDF Tools","d":"PDF آن لائن ترمیم کریں: متن، تصاویر، شکلیں اور دستخط شامل کریں، وائٹ آؤٹ سے غلطیاں ڈھکیں، پھر تیار فائل ڈاؤن لوڈ کریں۔","k":"pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file PDF آن لائن ترمیم کریں: متن، تصاویر، شکلیں اور دستخط شامل کریں، وائٹ آؤٹ سے غلطیاں ڈھکیں، پھر تیار فائل ڈاؤن لوڈ کریں۔","p":142,"c":"Tool"}]
+,{"n":"PDF سے Excel","u":"https://pdf.loonaautomation.com/ur/pdf-to-excel/","s":"Loona PDF Tools","d":"PDF ٹیبلز کو قابلِ ترمیم Excel (.xlsx) اسپریڈشیٹس میں نکالیں - ہر سیل کا پیش منظر دیکھیں اور درست کریں، کوئی اپ لوڈ نہیں۔","k":"pdf to excel pdf to excel converter xlsx spreadsheet table extract convert pdf to xlsx pdf ٹیبلز کو قابلِ ترمیم excel xlsx اسپریڈشیٹس میں نکالیں ہر سیل کا پیش منظر دیکھیں اور درست کریں، کوئی اپ لوڈ نہیں۔","p":110,"c":"Tool"},{"n":"Word to PDF","u":"https://pdf.loonaautomation.com/ur/word-to-pdf/","s":"Loona PDF Tools","d":"Word .docx دستاویزات کو صاف، پڑھنے کے قابل PDF میں بدلیں - عنوانات، فہرستیں، جداول اور تصاویر برقرار، بغیر اپ لوڈ۔","k":"word to pdf word to pdf docx doc word document microsoft convert word docx دستاویزات کو صاف پڑھنے کے قابل pdf میں بدلیں عنوانات فہرستیں جداول اور تصاویر برقرار بغیر اپ لوڈ","p":140,"c":"Tool"},{"n":"PDF سے Word","u":"https://pdf.loonaautomation.com/ur/pdf-to-word/","s":"Loona PDF Tools","d":"متن پر مبنی PDF کو قابلِ ترمیم Word (.docx) دستاویزات میں بدلیں - پیراگراف، عنوانات، فہرستیں اور جداول، بغیر اپ لوڈ۔","k":"pdf to word pdf to word converter pdf to docx convert pdf to word doc docx editable word document no upload متن پر مبنی pdf کو قابلِ ترمیم word docx دستاویزات میں بدلیں پیراگراف، عنوانات، فہرستیں اور جداول، بغیر اپ لوڈ۔","p":141,"c":"Tool"},{"n":"Loona PDF Editor","u":"https://pdf.loonaautomation.com/ur/pdf-editor/","s":"Loona PDF Tools","d":"PDF آن لائن ترمیم کریں: متن، تصاویر، شکلیں اور دستخط شامل کریں، وائٹ آؤٹ سے غلطیاں ڈھکیں، پھر تیار فائل ڈاؤن لوڈ کریں۔","k":"pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file PDF آن لائن ترمیم کریں: متن، تصاویر، شکلیں اور دستخط شامل کریں، وائٹ آؤٹ سے غلطیاں ڈھکیں، پھر تیار فائل ڈاؤن لوڈ کریں۔","p":142,"c":"Tool"}]

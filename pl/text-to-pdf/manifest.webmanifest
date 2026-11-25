@@ -2,7 +2,7 @@
   "name": "Loona Tekst na PDF online za darmo",
   "short_name": "Tekst na PDF online za darmo",
   "description": "Konwertuj tekst na PDF za darmo online. Wklej swój tekst, wybierz rozmiar czcionki oraz strony A4 lub Letter i pobierz czysty PDF. Bez rejestracji – tworzone prywatnie w przeglądarce.",
-  "id": "/loona-pdf-tools/pl/text-to-pdf/",
+  "id": "/pl/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

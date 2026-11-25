@@ -2,7 +2,7 @@
   "name": "Loona Inverser l'ordre des pages d'un PDF en",
   "short_name": "Inverser l'ordre des pages",
   "description": "Inverser l'ordre des pages d'un PDF gratuitement en ligne - la dernière page devient la première. Parfait pour corriger les scans à l'envers. Instantané, dans votre navigateur, rien n'est envoyé.",
-  "id": "/loona-pdf-tools/fr/reverse-pdf-pages/",
+  "id": "/fr/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Organizar PDF Online Grátis",
   "short_name": "Organizar PDF Online Grátis",
   "description": "Organizar páginas PDF online grátis: arraste miniaturas para reordenar páginas, rode páginas de lado e elimine páginas de que não precisa. Sem registo. Os ficheiros são processados de forma privada no seu navegador.",
-  "id": "/loona-pdf-tools/pt-pt/organize-pdf/",
+  "id": "/pt-pt/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

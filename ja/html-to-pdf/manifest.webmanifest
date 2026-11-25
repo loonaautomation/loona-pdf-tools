@@ -2,7 +2,7 @@
   "name": "Loona HTMLをPDFに変換 オンライン無料",
   "short_name": "HTMLをPDFに変換 オンライン無料",
   "description": "HTMLをPDFにオンライン変換、無料。ブラウザ標準の印刷PDFエンジンを使用します。CSS完全対応、アップロード不要、透かしなし。",
-  "id": "/loona-pdf-tools/ja/html-to-pdf/",
+  "id": "/ja/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

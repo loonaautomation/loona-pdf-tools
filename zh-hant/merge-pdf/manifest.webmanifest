@@ -2,7 +2,7 @@
   "name": "Loona 合併 PDF 線上免費",
   "short_name": "合併 PDF 線上免費",
   "description": "線上免費將 PDF 檔案合併為一份文件。合併多個 PDF，拖動重新排列，無需註冊。檔案在您的瀏覽器中私密處理。",
-  "id": "/loona-pdf-tools/zh-hant/merge-pdf/",
+  "id": "/zh-hant/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SVG से PDF कन्वर्टर",
   "short_name": "SVG से PDF कन्वर्टर",
   "description": "SVG चित्रों को ऑनलाइन, मुफ़्त, अपने ब्राउज़र में PDF में बदलें। प्रति पृष्ठ एक चित्र, फ़िट-टू-इमेज या A4/Letter पृष्ठ। कोई अपलोड नहीं, कोई साइनअप नहीं।",
-  "id": "/loona-pdf-tools/hi/svg-to-pdf/",
+  "id": "/hi/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

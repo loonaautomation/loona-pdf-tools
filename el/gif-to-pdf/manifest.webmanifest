@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας GIF σε PDF Online Δωρεάν",
   "short_name": "Μετατροπέας GIF σε PDF Online Δωρεάν",
   "description": "Μετατρέψτε εικόνες GIF σε PDF online, δωρεάν, στο πρόγραμμα περιήγησής σας. Μία εικόνα ανά σελίδα, σελίδες προσαρμογής στην εικόνα ή A4/Letter. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-pdf-tools/el/gif-to-pdf/",
+  "id": "/el/gif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

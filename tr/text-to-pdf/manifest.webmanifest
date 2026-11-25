@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz Metinden PDF'ye",
   "short_name": "Çevrimiçi Ücretsiz Metinden PDF'ye",
   "description": "Metni çevrimiçi ücretsiz olarak bir PDF'ye dönüştürün. Metninizi yapıştırın, yazı tipi boyutunu ve A4 veya Letter sayfaları seçin ve temiz bir PDF indirin. Kayıt gerekmez; tarayıcıda gizlice oluşturulur.",
-  "id": "/loona-pdf-tools/tr/text-to-pdf/",
+  "id": "/tr/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

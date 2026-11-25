@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz JPG'den PDF'ye",
   "short_name": "Çevrimiçi Ücretsiz JPG'den PDF'ye",
   "description": "JPG görüntülerini çevrimiçi ücretsiz olarak bir PDF'ye dönüştürün. Fotoğrafları A4, Letter veya sığdırılmış sayfalarla, sizin sıranızla tek bir PDF'de birleştirin. Kayıt gerekmez; tarayıcıda gizlice çalışır.",
-  "id": "/loona-pdf-tools/tr/jpg-to-pdf/",
+  "id": "/tr/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

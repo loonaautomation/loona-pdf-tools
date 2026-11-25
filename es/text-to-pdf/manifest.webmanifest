@@ -2,7 +2,7 @@
   "name": "Loona Texto a PDF en línea gratis",
   "short_name": "Texto a PDF en línea gratis",
   "description": "Convierte texto en un PDF gratis en línea. Pega tu texto, elige el tamaño de fuente y páginas A4 o Letter, y descarga un PDF limpio. Sin registro: creado de forma privada en el navegador.",
-  "id": "/loona-pdf-tools/es/text-to-pdf/",
+  "id": "/es/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

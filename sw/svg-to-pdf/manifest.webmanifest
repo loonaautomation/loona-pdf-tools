@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji SVG kwenda PDF bure mtandaoni",
   "short_name": "Kibadilishaji SVG kwenda PDF bure mtandaoni",
   "description": "Badilisha picha za SVG kuwa PDF mtandaoni, bure, katika kivinjari chako. Picha moja kwa kila ukurasa, kurasa za toshea-picha au A4/Letter. Hakuna upakiaji, hakuna kujisajili.",
-  "id": "/loona-pdf-tools/sw/svg-to-pdf/",
+  "id": "/sw/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

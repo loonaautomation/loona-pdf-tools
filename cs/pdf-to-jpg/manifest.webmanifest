@@ -2,7 +2,7 @@
   "name": "Loona PDF do JPG online zdarma",
   "short_name": "PDF do JPG online zdarma",
   "description": "Převeďte stránky PDF do obrázků JPG zdarma online. Vyberte standardní, vysokou nebo tiskovou kvalitu a stáhněte každou stránku jako JPG. Bez registrace; převod běží ve vašem prohlížeči.",
-  "id": "/loona-pdf-tools/cs/pdf-to-jpg/",
+  "id": "/cs/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

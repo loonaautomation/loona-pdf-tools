@@ -2,7 +2,7 @@
   "name": "Loona แปลง PDF เป็น Word ออนไลน์ฟรี",
   "short_name": "แปลง PDF เป็น Word ออนไลน์ฟรี",
   "description": "แปลง PDF แบบข้อความให้เป็นเอกสาร Word (.docx) ที่แก้ไขได้ ฟรีในเบราว์เซอร์ของคุณ หัวข้อ ย่อหน้า รายการ และตารางง่าย ๆ จะถูกนำไปด้วย ไม่ต้องอัปโหลด ไม่ต้องสมัคร",
-  "id": "/loona-pdf-tools/th/pdf-to-word/",
+  "id": "/th/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

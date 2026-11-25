@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi AVIF sang PDF trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi AVIF sang PDF trực tuyến miễn phí",
   "description": "Chuyển đổi hình ảnh AVIF thành PDF trực tuyến, miễn phí, trong trình duyệt của bạn. Một hình ảnh mỗi trang, trang vừa với hình ảnh hoặc A4/Letter. Không tải lên, không đăng ký.",
-  "id": "/loona-pdf-tools/vi/avif-to-pdf/",
+  "id": "/vi/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

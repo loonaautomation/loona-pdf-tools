@@ -2,7 +2,7 @@
   "name": "Loona PDF para JPG Online Grátis",
   "short_name": "PDF para JPG Online Grátis",
   "description": "Converter páginas PDF em imagens JPG online grátis. Escolha a qualidade padrão, alta ou de impressão e transfira cada página como JPG. Sem registo; a conversão é executada no seu navegador.",
-  "id": "/loona-pdf-tools/pt/pdf-to-jpg/",
+  "id": "/pt/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF से Word कन्वर्टर",
   "short_name": "PDF से Word कन्वर्टर",
   "description": "टेक्स्ट-आधारित PDF को अपने ब्राउज़र में मुफ़्त, संपादन योग्य Word दस्तावेज़ (.docx) में बदलें। शीर्षक, अनुच्छेद, सूचियाँ और सरल तालिकाएँ साथ आती हैं। कोई अपलोड नहीं, कोई साइन-अप नहीं।",
-  "id": "/loona-pdf-tools/hi/pdf-to-word/",
+  "id": "/hi/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

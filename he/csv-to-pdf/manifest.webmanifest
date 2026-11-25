@@ -2,7 +2,7 @@
   "name": "Loona ממיר CSV ל-PDF – בחינם, ללא העלאה",
   "short_name": "ממיר CSV ל-PDF – בחינם, ללא העלאה",
   "description": "המירו נתוני CSV לטבלת PDF נקייה ומעומדת באינטרנט, בחינם בדפדפן שלכם. שורת כותרת מודגשת חוזרת, עמודות מותאמות. ללא העלאה.",
-  "id": "/loona-pdf-tools/he/csv-to-pdf/",
+  "id": "/he/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

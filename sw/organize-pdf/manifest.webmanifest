@@ -2,7 +2,7 @@
   "name": "Loona Panga PDF bure mtandaoni",
   "short_name": "Panga PDF bure mtandaoni",
   "description": "Panga kurasa za PDF bure mtandaoni: buruta vijipicha kupanga upya kurasa, zungusha kurasa zilizolala na futa kurasa usizozihitaji. Hakuna kujisajili. Faili huchakatwa kwa faragha katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/organize-pdf/",
+  "id": "/sw/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

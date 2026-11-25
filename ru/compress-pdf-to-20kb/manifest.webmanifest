@@ -2,7 +2,7 @@
   "name": "Loona Сжать PDF до 20 KB",
   "short_name": "Loona Сжать PDF до 20 KB",
   "description": "Сожмите PDF до 20 KB или меньше, бесплатно в вашем браузере. Инструмент сначала пробует повторное сохранение без потерь, затем пошагово снижает качество отрисовки, пока ваш файл не уложится, — и сообщает точный результат.",
-  "id": "/loona-pdf-tools/ru/compress-pdf-to-20kb/",
+  "id": "/ru/compress-pdf-to-20kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

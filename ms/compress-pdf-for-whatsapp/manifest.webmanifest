@@ -2,7 +2,7 @@
   "name": "Loona Mampatkan PDF untuk WhatsApp dalam talian percuma",
   "short_name": "Mampatkan PDF untuk WhatsApp dalam talian percuma",
   "description": "Mampatkan PDF kepada 16 MB atau kurang, secara percuma dalam pelayar anda. Alat ini mencuba simpanan semula tanpa kehilangan dahulu, kemudian menurunkan kualiti paparan langkah demi langkah sehingga fail anda muat — dan melaporkan hasil yang tepat.",
-  "id": "/loona-pdf-tools/ms/compress-pdf-for-whatsapp/",
+  "id": "/ms/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona בודק גדלי עמודי PDF מקוון בחינם",
   "short_name": "בודק גדלי עמודי PDF מקוון בחינם",
   "description": "בדקו את גדלי העמודים של PDF בחינם באינטרנט: המידות של כל עמוד בנקודות, מילימטרים ואינצ'ים, גודלו הסטנדרטי הקרוב ביותר (A4, Letter...), סיבוב, ועוד כותרת, מחבר וגרסת PDF. שום דבר לא מועלה.",
-  "id": "/loona-pdf-tools/he/pdf-page-sizes/",
+  "id": "/he/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

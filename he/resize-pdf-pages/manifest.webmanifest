@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל עמודי PDF מקוון בחינם",
   "short_name": "שינוי גודל עמודי PDF מקוון בחינם",
   "description": "שנו גודל עמודי PDF בחינם באינטרנט: המירו כל עמוד ל-A4, US Letter או Legal, או שנו קנה מידה באחוז, עם תוכן משונה קנה מידה להתאמה וממורכז. פועל בדפדפן שלכם - שום דבר לא מועלה.",
-  "id": "/loona-pdf-tools/he/resize-pdf-pages/",
+  "id": "/he/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

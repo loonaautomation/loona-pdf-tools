@@ -2,7 +2,7 @@
   "name": "Loona Lag PDF-hefte på nett gratis",
   "short_name": "Lag PDF-hefte på nett gratis",
   "description": "Lag en utskrivbar hefte-PDF gratis på nett: sider legges ut i ekte hefterekkefølge på liggende ark - skriv ut tosidig, brett, stift. Tomme sider fyller ut til et multiplum av fire automatisk.",
-  "id": "/loona-pdf-tools/nb/create-pdf-booklet/",
+  "id": "/nb/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

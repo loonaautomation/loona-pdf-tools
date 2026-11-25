@@ -2,7 +2,7 @@
   "name": "Loona PDF kepada Teks dalam talian percuma",
   "short_name": "PDF kepada Teks dalam talian percuma",
   "description": "Ekstrak teks daripada PDF secara percuma dalam talian. Dapatkan teks penuh setiap halaman untuk disalin atau dimuat turun sebagai fail TXT. Tanpa pendaftaran, dan PDF anda tidak pernah meninggalkan pelayar anda.",
-  "id": "/loona-pdf-tools/ms/pdf-to-text/",
+  "id": "/ms/pdf-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

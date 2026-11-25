@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF İmzala",
   "short_name": "Çevrimiçi Ücretsiz PDF İmzala",
   "description": "Bir PDF'yi çevrimiçi ücretsiz imzalayın. İmzanızı çizin veya görüntüsünü yükleyin, canlı önizlemeyle konumlandırın ve imzalı PDF'yi indirin. Gizli; hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/sign-pdf/",
+  "id": "/tr/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

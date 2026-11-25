@@ -2,7 +2,7 @@
   "name": "Loona Конвертер Excel в PDF",
   "short_name": "Loona Конвертер Excel в PDF",
   "description": "Преобразуйте электронные таблицы Excel (.xlsx, .xls) и файлы CSV в аккуратную таблицу PDF с разбивкой на страницы онлайн, бесплатно в вашем браузере. Каждый лист становится таблицей с повторяющейся строкой заголовка. Без загрузки.",
-  "id": "/loona-pdf-tools/ru/excel-to-pdf/",
+  "id": "/ru/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

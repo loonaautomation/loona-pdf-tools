@@ -2,7 +2,7 @@
   "name": "Loona Signer PDF på nett gratis",
   "short_name": "Signer PDF på nett gratis",
   "description": "Signer en PDF gratis på nett. Tegn signaturen din eller last opp bildet av den, plasser den med en direkte forhåndsvisning, og last ned den signerte PDF-en. Privat - ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/sign-pdf/",
+  "id": "/nb/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 签名生成器 在线免费",
   "short_name": "签名生成器 在线免费",
   "description": "在线免费创建签名图片：绘制它、用手写风格输入您的姓名，或将签名照片变为透明。下载干净的透明 PNG——不上传，无需注册。",
-  "id": "/loona-pdf-tools/zh/signature-generator/",
+  "id": "/zh/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

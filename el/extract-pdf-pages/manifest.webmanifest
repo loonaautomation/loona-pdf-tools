@@ -2,7 +2,7 @@
   "name": "Loona Εξαγωγή Σελίδων PDF Online Δωρεάν",
   "short_name": "Εξαγωγή Σελίδων PDF Online Δωρεάν",
   "description": "Εξαγάγετε επιλεγμένες σελίδες από ένα PDF δωρεάν online. Εισαγάγετε σελίδες όπως 3, 5-8 και κατεβάστε τις ως ένα νέο, μικρότερο PDF. Χωρίς εγγραφή· η εξαγωγή εκτελείται στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/extract-pdf-pages/",
+  "id": "/el/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

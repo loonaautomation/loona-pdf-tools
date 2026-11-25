@@ -2,7 +2,7 @@
   "name": "Loona Kompres PDF ke Ukuran Tertentu online gratis",
   "short_name": "Kompres PDF ke Ukuran Tertentu online gratis",
   "description": "Kompres PDF ke target yang tepat: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — ditambah preset email (10 MB) dan WhatsApp (16 MB). Gratis, di browser Anda.",
-  "id": "/loona-pdf-tools/id/compress-pdf-to-size/",
+  "id": "/id/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

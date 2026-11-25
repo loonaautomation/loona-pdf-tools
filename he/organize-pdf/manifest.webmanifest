@@ -2,7 +2,7 @@
   "name": "Loona ארגון PDF מקוון בחינם",
   "short_name": "ארגון PDF מקוון בחינם",
   "description": "ארגנו עמודי PDF בחינם באינטרנט: גררו מיניאטורות כדי לסדר מחדש עמודים, סובבו עמודים על הצד ומחקו עמודים שאינכם צריכים. ללא הרשמה. קבצים מעובדים בפרטיות בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/organize-pdf/",
+  "id": "/he/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

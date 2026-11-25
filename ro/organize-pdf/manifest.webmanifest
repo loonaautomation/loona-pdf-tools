@@ -2,7 +2,7 @@
   "name": "Loona Organizează PDF online gratuit",
   "short_name": "Organizează PDF online gratuit",
   "description": "Organizează gratuit online pagini PDF: trage miniaturile pentru a reordona paginile, rotește paginile în lateral și șterge paginile de care nu ai nevoie. Fără înregistrare. Fișierele sunt procesate privat în browserul tău.",
-  "id": "/loona-pdf-tools/ro/organize-pdf/",
+  "id": "/ro/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

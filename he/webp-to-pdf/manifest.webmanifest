@@ -2,7 +2,7 @@
   "name": "Loona ממיר WebP ל-PDF – בחינם, ללא העלאה",
   "short_name": "ממיר WebP ל-PDF – בחינם, ללא העלאה",
   "description": "המירו תמונות WebP ל-PDF באינטרנט, בחינם, בדפדפן שלכם. תמונה אחת בכל עמוד, עמודי התאמה לתמונה או A4/Letter. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/webp-to-pdf/",
+  "id": "/he/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

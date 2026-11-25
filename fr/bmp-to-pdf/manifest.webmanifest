@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur BMP en PDF",
   "short_name": "Convertisseur BMP en PDF",
   "description": "Convertissez des images BMP en PDF en ligne, gratuitement, dans votre navigateur. Une image par page, pages adaptées à l'image ou A4/Letter. Sans envoi, sans inscription.",
-  "id": "/loona-pdf-tools/fr/bmp-to-pdf/",
+  "id": "/fr/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

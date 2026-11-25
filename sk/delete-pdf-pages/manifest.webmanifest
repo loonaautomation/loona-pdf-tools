@@ -2,7 +2,7 @@
   "name": "Loona Odstrániť stránky PDF online zadarmo",
   "short_name": "Odstrániť stránky PDF online zadarmo",
   "description": "Odstráňte stránky z PDF zadarmo online. Napíšte čísla stránok na odstránenie - napríklad 2, 4-6 - a stiahnite si vyčistený súbor. Bez registrácie; všetko zostane vo vašom prehliadači.",
-  "id": "/loona-pdf-tools/sk/delete-pdf-pages/",
+  "id": "/sk/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

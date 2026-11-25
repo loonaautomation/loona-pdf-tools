@@ -2,7 +2,7 @@
   "name": "Loona 空白ページを削除 オンライン無料",
   "short_name": "空白ページを削除 オンライン無料",
   "description": "PDFから空白ページを無料でオンライン削除：ページが描画され、ピクセルごとに確認され、ほぼ空のページはインク被覆率とともに正直に一覧表示され、削除されます。内容のあるページはそのままです。ブラウザ内で。",
-  "id": "/loona-pdf-tools/ja/remove-blank-pages/",
+  "id": "/ja/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

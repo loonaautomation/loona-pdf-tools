@@ -2,7 +2,7 @@
   "name": "Loona JSON से PDF कन्वर्टर",
   "short_name": "JSON से PDF कन्वर्टर",
   "description": "JSON को ऑनलाइन, अपने ब्राउज़र में मुफ़्त, पढ़ने योग्य, पृष्ठांकित PDF में बदलें। पहले सत्यापित और सुंदर-मुद्रित। कोई अपलोड नहीं।",
-  "id": "/loona-pdf-tools/hi/json-to-pdf/",
+  "id": "/hi/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

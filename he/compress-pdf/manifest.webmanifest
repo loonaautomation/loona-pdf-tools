@@ -2,7 +2,7 @@
   "name": "Loona דחיסת PDF מקוון בחינם",
   "short_name": "דחיסת PDF מקוון בחינם",
   "description": "דחסו קבצי PDF בחינם באינטרנט וכווצו אותם לדוא",
-  "id": "/loona-pdf-tools/he/compress-pdf/",
+  "id": "/he/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

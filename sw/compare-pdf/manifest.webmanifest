@@ -2,7 +2,7 @@
   "name": "Loona Linganisha Faili za PDF bure mtandaoni",
   "short_name": "Linganisha Faili za PDF bure mtandaoni",
   "description": "Linganisha faili mbili za PDF bure mtandaoni na uone hasa maandishi yapi yamebadilika, ukurasa baada ya ukurasa. Mistari iliyoondolewa na iliyoongezwa huangaziwa kando kwa kando. Hakuna kujisajili; ulinganishaji huendeshwa kwa faragha katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/compare-pdf/",
+  "id": "/sw/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

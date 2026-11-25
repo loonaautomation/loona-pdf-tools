@@ -2,7 +2,7 @@
   "name": "Loona PDF u Markdown besplatno na mreži",
   "short_name": "PDF u Markdown besplatno na mreži",
   "description": "Pretvorite PDF u Markdown na mreži, besplatno u svom pregledniku. Tekst se izdvaja uz strukturu naslova otkrivenu iz veličina fonta. Bez prijenosa, bez prijave.",
-  "id": "/loona-pdf-tools/hr/pdf-to-markdown/",
+  "id": "/hr/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

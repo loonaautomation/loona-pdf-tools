@@ -2,7 +2,7 @@
   "name": "Loona Resize PDF Pages Online Free",
   "short_name": "Resize PDF Pages Online Free",
   "description": "Resize PDF pages free online: convert every page to A4, US Letter or Legal, or scale by a percentage, with content scaled to fit and centred. Runs in your browser - nothing uploaded.",
-  "id": "/loona-pdf-tools/resize-pdf-pages/",
+  "id": "/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

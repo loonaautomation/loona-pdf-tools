@@ -2,7 +2,7 @@
   "name": "Loona PDF بک لیٹ بنائیں آن لائن مفت",
   "short_name": "PDF بک لیٹ بنائیں آن لائن مفت",
   "description": "قابلِ پرنٹ کتابچہ PDF آن لائن مفت بنائیں: صفحات لینڈ اسکیپ شیٹس پر اصل کتابچہ ترتیب میں رکھے جاتے ہیں - دو طرفہ پرنٹ کریں، موڑیں، اسٹیپل کریں۔ خالی صفحات خودکار طور پر چار کے ضرب تک بھرتے ہیں۔",
-  "id": "/loona-pdf-tools/ur/create-pdf-booklet/",
+  "id": "/ur/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

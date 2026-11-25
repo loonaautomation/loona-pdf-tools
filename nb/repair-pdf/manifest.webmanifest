@@ -2,7 +2,7 @@
   "name": "Loona PDF-reparasjon på nett gratis",
   "short_name": "PDF-reparasjon på nett gratis",
   "description": "Reparer en skadet PDF gratis på nett: bygger ødelagte kryssreferansetabeller på nytt og lagrer en ren kopi på nytt, med en sidebildeombygging som siste utvei. Ærlige begrensninger er oppgitt. 100% i nettleseren din.",
-  "id": "/loona-pdf-tools/nb/repair-pdf/",
+  "id": "/nb/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

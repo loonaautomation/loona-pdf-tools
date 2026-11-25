@@ -2,7 +2,7 @@
   "name": "Loona PDF N-up online gratis",
   "short_name": "PDF N-up online gratis",
   "description": "Letakkan beberapa halaman PDF pada satu lembar gratis secara online: tata letak 2-up, 4-up, 6-up, atau 9-up pada A4 atau Letter, dalam urutan baca. Menghemat kertas untuk handout dan draf. Di browser, tanpa ada yang diunggah.",
-  "id": "/loona-pdf-tools/id/n-up-pdf/",
+  "id": "/id/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

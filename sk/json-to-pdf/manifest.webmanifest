@@ -2,7 +2,7 @@
   "name": "Loona Prevodník JSON do PDF online zadarmo",
   "short_name": "Prevodník JSON do PDF online zadarmo",
   "description": "Preveďte JSON do čitateľného, stránkovaného PDF online, zadarmo vo vašom prehliadači. Najprv overené a pekne naformátované. Bez nahrávania.",
-  "id": "/loona-pdf-tools/sk/json-to-pdf/",
+  "id": "/sk/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

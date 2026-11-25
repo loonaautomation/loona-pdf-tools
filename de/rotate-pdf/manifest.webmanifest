@@ -2,7 +2,7 @@
   "name": "Loona PDF drehen Online kostenlos",
   "short_name": "PDF drehen Online kostenlos",
   "description": "PDF-Seiten kostenlos online um 90, 180 oder 270 Grad drehen - alle Seiten oder einen gewählten Bereich - und die korrigierte Datei speichern. Ohne Anmeldung; es geschieht in Ihrem Browser.",
-  "id": "/loona-pdf-tools/de/rotate-pdf/",
+  "id": "/de/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

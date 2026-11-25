@@ -2,7 +2,7 @@
   "name": "Loona Extrahera PDF-sidor online gratis",
   "short_name": "Extrahera PDF-sidor online gratis",
   "description": "Extrahera valda sidor från en PDF gratis online. Ange sidor som 3, 5-8 och ladda ner dem som en ny, mindre PDF. Ingen registrering; extraheringen körs i din webbläsare.",
-  "id": "/loona-pdf-tools/sv/extract-pdf-pages/",
+  "id": "/sv/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

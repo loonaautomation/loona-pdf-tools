@@ -2,7 +2,7 @@
   "name": "Loona Convertoare PDF online gratuit",
   "short_name": "Convertoare PDF online gratuit",
   "description": "Fiecare convertor PDF într-un singur loc: imagini, CSV, JSON, HTML și Markdown în PDF — și PDF înapoi în imagini, text, HTML și Markdown. Gratuit, în browserul tău.",
-  "id": "/loona-pdf-tools/ro/pdf-converters/",
+  "id": "/ro/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

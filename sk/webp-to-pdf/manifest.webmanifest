@@ -2,7 +2,7 @@
   "name": "Loona Prevodník WebP do PDF online zadarmo",
   "short_name": "Prevodník WebP do PDF online zadarmo",
   "description": "Preveďte obrázky WebP do PDF online, zadarmo, vo vašom prehliadači. Jeden obrázok na stránku, stránky podľa obrázka alebo A4/Letter. Bez nahrávania, bez registrácie.",
-  "id": "/loona-pdf-tools/sk/webp-to-pdf/",
+  "id": "/sk/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Xoay PDF trực tuyến miễn phí",
   "short_name": "Xoay PDF trực tuyến miễn phí",
   "description": "Xoay các trang PDF miễn phí trực tuyến theo 90, 180 hoặc 270 độ - tất cả các trang hoặc một khoảng được chọn - và lưu tệp đã sửa. Không cần đăng ký; nó diễn ra trong trình duyệt của bạn.",
-  "id": "/loona-pdf-tools/vi/rotate-pdf/",
+  "id": "/vi/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

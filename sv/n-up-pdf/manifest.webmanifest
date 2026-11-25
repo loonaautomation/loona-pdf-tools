@@ -2,7 +2,7 @@
   "name": "Loona N-up PDF online gratis",
   "short_name": "N-up PDF online gratis",
   "description": "Lägg flera PDF-sidor på ett ark gratis online: layouter med 2-up, 4-up, 6-up eller 9-up på A4 eller Letter, i läsordning. Sparar papper för kompendier och utkast. I webbläsaren, ingenting laddas upp.",
-  "id": "/loona-pdf-tools/sv/n-up-pdf/",
+  "id": "/sv/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

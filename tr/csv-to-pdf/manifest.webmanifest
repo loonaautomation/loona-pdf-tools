@@ -2,7 +2,7 @@
   "name": "Loona CSV'den PDF'ye Dönüştürücü",
   "short_name": "CSV'den PDF'ye Dönüştürücü",
   "description": "CSV verilerini çevrimiçi, tarayıcınızda ücretsiz olarak temiz, sayfalandırılmış bir PDF tablosuna dönüştürün. Kalın, tekrarlanan üst bilgi satırı, sığdırılmış sütunlar. Yükleme yok.",
-  "id": "/loona-pdf-tools/tr/csv-to-pdf/",
+  "id": "/tr/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

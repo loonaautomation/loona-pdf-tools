@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur JSON en PDF",
   "short_name": "Convertisseur JSON en PDF",
   "description": "Convertissez JSON en un PDF lisible et paginé en ligne, gratuitement dans votre navigateur. Validé et formaté proprement d'abord. Sans envoi.",
-  "id": "/loona-pdf-tools/fr/json-to-pdf/",
+  "id": "/fr/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

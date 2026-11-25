@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať PDF na 2 MB online zadarmo",
   "short_name": "Komprimovať PDF na 2 MB online zadarmo",
   "description": "Komprimujte PDF na 2 MB alebo menej, zadarmo vo vašom prehliadači. Nástroj najprv skúsi bezstratové opätovné uloženie a potom postupne znižuje kvalitu vykreslenia, kým sa váš súbor nezmestí — a oznámi presný výsledok.",
-  "id": "/loona-pdf-tools/sk/compress-pdf-to-2mb/",
+  "id": "/sk/compress-pdf-to-2mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

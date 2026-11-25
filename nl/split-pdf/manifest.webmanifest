@@ -2,7 +2,7 @@
   "name": "Loona PDF splitsen online gratis",
   "short_name": "PDF splitsen online gratis",
   "description": "Splits een PDF gratis online in afzonderlijke bestanden. Extraheer elke pagina als zijn eigen PDF of splits op paginabereiken. Geen registratie, en je bestand verlaat je browser nooit.",
-  "id": "/loona-pdf-tools/nl/split-pdf/",
+  "id": "/nl/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

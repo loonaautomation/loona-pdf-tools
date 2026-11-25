@@ -2,7 +2,7 @@
   "name": "Loona Porównaj PDF online za darmo",
   "short_name": "Porównaj PDF online za darmo",
   "description": "Porównaj dwa pliki PDF za darmo online i zobacz dokładnie, który tekst się zmienił, strona po stronie. Usunięte i dodane linie są wyróżnione obok siebie. Bez rejestracji; porównanie odbywa się prywatnie w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/compare-pdf/",
+  "id": "/pl/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

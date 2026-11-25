@@ -2,7 +2,7 @@
   "name": "Loona עריכת פרטי PDF מקוון בחינם",
   "short_name": "עריכת פרטי PDF מקוון בחינם",
   "description": "צפו וערכו מטא-נתוני PDF בחינם באינטרנט - כותרת, מחבר, נושא ומילות מפתח - וראו ספירת עמודים וגודל קובץ. ללא הרשמה; עריכת מטא-נתונים פועלת בדפדפן.",
-  "id": "/loona-pdf-tools/he/edit-pdf-info/",
+  "id": "/he/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

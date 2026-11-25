@@ -2,7 +2,7 @@
   "name": "Loona E-posta için PDF Sıkıştır",
   "short_name": "E-posta için PDF Sıkıştır",
   "description": "Bir PDF'yi tarayıcınızda ücretsiz olarak 10 MB veya altına sıkıştırın. Araç önce kayıpsız bir yeniden kaydetmeyi dener, ardından dosyanız sığana kadar oluşturma kalitesini kademeli olarak düşürür ve tam sonucu bildirir.",
-  "id": "/loona-pdf-tools/tr/compress-pdf-for-email/",
+  "id": "/tr/compress-pdf-for-email/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

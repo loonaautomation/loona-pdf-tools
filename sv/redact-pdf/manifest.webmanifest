@@ -2,7 +2,7 @@
   "name": "Loona Maskera PDF online gratis",
   "short_name": "Maskera PDF online gratis",
   "description": "Maskera en PDF gratis online: rita svarta rutor över namn, nummer eller foton och bränn in dem permanent - det dolda innehållet tas bort, inte bara täcks. Till 100% i din webbläsare, ingenting laddas upp.",
-  "id": "/loona-pdf-tools/sv/redact-pdf/",
+  "id": "/sv/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

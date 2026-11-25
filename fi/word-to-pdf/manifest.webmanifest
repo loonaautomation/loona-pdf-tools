@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Muunna Word .docx -asiakirja siistiksi, luettavaksi PDF:ksi verkossa, ilmaiseksi selaimessasi. Otsikot, luettelot, taulukot ja kuvat säilyvät. Tiedostoasi ei koskaan ladata palvelimelle — muunnos tapahtuu kokonaan laitteellasi.",
-  "id": "/loona-pdf-tools/fi/word-to-pdf/",
+  "id": "/fi/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Text în PDF online gratuit",
   "short_name": "Text în PDF online gratuit",
   "description": "Convertește gratuit online text într-un PDF. Lipește textul tău, alege dimensiunea fontului și pagini A4 sau Letter și descarcă un PDF curat. Fără înregistrare - făcut privat în browser.",
-  "id": "/loona-pdf-tools/ro/text-to-pdf/",
+  "id": "/ro/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

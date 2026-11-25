@@ -2,7 +2,7 @@
   "name": "Loona דחיסת PDF לדוא\"ל – מתחת ל-10 MB, בחינם",
   "short_name": "דחיסת PDF לדוא\"ל – מתחת ל-10 MB, בחינם",
   "description": "דחסו PDF ל-10 MB או פחות, בחינם בדפדפן שלכם. הכלי מנסה תחילה שמירה מחדש ללא אובדן, ואז מוריד את איכות העיבוד צעד אחר צעד עד שהקובץ שלכם מתאים — ומדווח על התוצאה המדויקת.",
-  "id": "/loona-pdf-tools/he/compress-pdf-for-email/",
+  "id": "/he/compress-pdf-for-email/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

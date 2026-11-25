@@ -2,7 +2,7 @@
   "name": "Loona Ongeza Kichwa na Kijachini kwenye PDF bure mtandaoni",
   "short_name": "Ongeza Kichwa na Kijachini kwenye PDF bure mtandaoni",
   "description": "Ongeza kichwa na kijachini kwenye kila ukurasa wa PDF bure mtandaoni: maandishi maalum, nambari za kurasa zenye miundo ya Ukurasa X kati ya Y, mpangilio na ukubwa wa fonti - vyote kwenye kivinjari chako, hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/add-header-footer-to-pdf/",
+  "id": "/sw/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

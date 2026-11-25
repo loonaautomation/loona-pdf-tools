@@ -2,7 +2,7 @@
   "name": "Loona Αντιστροφή Σειράς Σελίδων PDF Online Δωρεάν",
   "short_name": "Αντιστροφή Σειράς Σελίδων PDF Online Δωρεάν",
   "description": "Αντιστρέψτε τη σειρά σελίδων ενός PDF δωρεάν online - η τελευταία σελίδα γίνεται πρώτη. Τέλειο για τη διόρθωση σαρώσεων από πίσω προς τα εμπρός. Αμέσως, στο πρόγραμμα περιήγησής σας, τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-pdf-tools/el/reverse-pdf-pages/",
+  "id": "/el/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

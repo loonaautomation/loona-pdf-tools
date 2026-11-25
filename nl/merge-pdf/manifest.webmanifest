@@ -2,7 +2,7 @@
   "name": "Loona PDF samenvoegen online gratis",
   "short_name": "PDF samenvoegen online gratis",
   "description": "Voeg PDF-bestanden gratis online samen tot één document. Combineer meerdere PDF's, sleep om ze opnieuw te ordenen, geen registratie nodig. Bestanden worden privé verwerkt in je browser.",
-  "id": "/loona-pdf-tools/nl/merge-pdf/",
+  "id": "/nl/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

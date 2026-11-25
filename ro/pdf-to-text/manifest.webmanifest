@@ -2,7 +2,7 @@
   "name": "Loona PDF în Text online gratuit",
   "short_name": "PDF în Text online gratuit",
   "description": "Extrage gratuit online text dintr-un PDF. Obține textul complet al fiecărei pagini pentru copiere sau descărcare ca fișier TXT. Fără înregistrare, iar PDF-ul tău nu părăsește niciodată browserul tău.",
-  "id": "/loona-pdf-tools/ro/pdf-to-text/",
+  "id": "/ro/pdf-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

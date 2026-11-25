@@ -2,7 +2,7 @@
   "name": "Loona Fill PDF Form Online - Free",
   "short_name": "Fill PDF Form Online - Free",
   "description": "Fill a fillable PDF form free online. Upload a PDF that has form fields, type into its text boxes, checkboxes, dropdowns and radio buttons, then download the completed PDF. No sign-up; everything runs privately in your browser.",
-  "id": "/loona-pdf-tools/en-us/fill-pdf-form/",
+  "id": "/en-us/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

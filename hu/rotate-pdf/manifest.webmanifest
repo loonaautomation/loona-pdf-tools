@@ -2,7 +2,7 @@
   "name": "Loona PDF elforgatása online ingyen",
   "short_name": "PDF elforgatása online ingyen",
   "description": "Forgassa el a PDF-oldalakat ingyen, online 90, 180 vagy 270 fokkal – minden oldalt vagy egy választott tartományt –, és mentse a javított fájlt. Regisztráció nélkül; az Ön böngészőjében történik.",
-  "id": "/loona-pdf-tools/hu/rotate-pdf/",
+  "id": "/hu/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

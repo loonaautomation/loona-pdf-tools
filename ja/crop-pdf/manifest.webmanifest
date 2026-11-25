@@ -2,7 +2,7 @@
   "name": "Loona PDFをトリミング オンライン無料",
   "short_name": "PDFをトリミング オンライン無料",
   "description": "PDFページを無料でオンライントリミング：すべてのページまたは一つの範囲で、ポイントまたはパーセント単位で白い余白を切り取るか、端をカットします。ページのトリミングボックスはブラウザで正確に設定されます。アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/crop-pdf/",
+  "id": "/ja/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

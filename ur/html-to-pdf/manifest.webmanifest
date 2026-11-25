@@ -2,7 +2,7 @@
   "name": "Loona HTML سے PDF کنورٹر",
   "short_name": "HTML سے PDF کنورٹر",
   "description": "HTML کو PDF میں آن لائن، مفت، اپنے براؤزر&#x27; کے اپنے پرنٹ-ٹو-PDF انجن کے ذریعے تبدیل کریں — مکمل CSS حمایت، نہ اپ لوڈ، نہ واٹر مارکس۔",
-  "id": "/loona-pdf-tools/ur/html-to-pdf/",
+  "id": "/ur/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

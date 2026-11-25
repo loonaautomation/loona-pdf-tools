@@ -2,7 +2,7 @@
   "name": "Loona Pangkas PDF dalam talian percuma",
   "short_name": "Pangkas PDF dalam talian percuma",
   "description": "Pangkas halaman PDF secara percuma dalam talian: pangkas margin putih atau potong tepi mengikut poin atau peratus pada setiap halaman atau satu julat. Kotak pangkas halaman ditetapkan dengan tepat dalam pelayar anda - tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/crop-pdf/",
+  "id": "/ms/crop-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

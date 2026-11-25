@@ -2,7 +2,7 @@
   "name": "Loona PDF से Excel कन्वर्टर",
   "short_name": "PDF से Excel कन्वर्टर",
   "description": "PDF तालिकाओं को अपने ब्राउज़र में मुफ़्त Excel (.xlsx) स्प्रेडशीट में बदलें। डाउनलोड करने से पहले हर सेल का पूर्वावलोकन करें और उसे ठीक करें। कोई अपलोड नहीं, कोई साइन-अप नहीं — आपकी फ़ाइल कभी आपके डिवाइस से बाहर नहीं जाती।",
-  "id": "/loona-pdf-tools/hi/pdf-to-excel/",
+  "id": "/hi/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

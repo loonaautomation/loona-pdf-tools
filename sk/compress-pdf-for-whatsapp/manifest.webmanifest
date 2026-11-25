@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať PDF pre WhatsApp online zadarmo",
   "short_name": "Komprimovať PDF pre WhatsApp online zadarmo",
   "description": "Komprimujte PDF na 16 MB alebo menej, zadarmo vo vašom prehliadači. Nástroj najprv skúsi bezstratové opätovné uloženie a potom postupne znižuje kvalitu vykreslenia, kým sa váš súbor nezmestí — a oznámi presný výsledok.",
-  "id": "/loona-pdf-tools/sk/compress-pdf-for-whatsapp/",
+  "id": "/sk/compress-pdf-for-whatsapp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwerter PDF na Markdown online za darmo",
   "short_name": "Konwerter PDF na Markdown online za darmo",
   "description": "Konwertuj PDF na Markdown online, za darmo w swojej przeglądarce. Tekst jest wyodrębniany ze strukturą nagłówków wykrywaną na podstawie rozmiarów czcionek. Bez przesyłania, bez rejestracji.",
-  "id": "/loona-pdf-tools/pl/pdf-to-markdown/",
+  "id": "/pl/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Αφαίρεση Σχολίων PDF Online Δωρεάν",
   "short_name": "Αφαίρεση Σχολίων PDF Online Δωρεάν",
   "description": "Αφαιρέστε σχόλια από ένα PDF δωρεάν online: σχόλια, επισημάνσεις, αυτοκόλλητες σημειώσεις, σφραγίδες και σήμανση αφαιρούνται ενώ το περιεχόμενο σελίδας παραμένει ανέγγιχτο. Στο πρόγραμμα περιήγησης, τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-pdf-tools/el/remove-pdf-annotations/",
+  "id": "/el/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

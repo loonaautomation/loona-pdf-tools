@@ -2,7 +2,7 @@
   "name": "Loona Tvůrce certifikátů online zdarma",
   "short_name": "Tvůrce certifikátů online zdarma",
   "description": "Bezplatný tvůrce certifikátů: navrhněte tisknutelný certifikát v živém náhledu, poté stáhněte PDF A4 připravené k tisku nebo PNG. Vytvořte jeden certifikát nebo stovky hromadně ze seznamu jmen. Bez registrace, bez vodoznaku a vše běží soukromě ve vašem prohlížeči.",
-  "id": "/loona-pdf-tools/cs/certificate-maker/",
+  "id": "/cs/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

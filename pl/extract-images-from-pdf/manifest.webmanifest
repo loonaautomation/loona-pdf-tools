@@ -2,7 +2,7 @@
   "name": "Loona Wyodrębnij obrazy z PDF online za darmo",
   "short_name": "Wyodrębnij obrazy z PDF online za darmo",
   "description": "Wyodrębniaj oryginalne obrazy osadzone w PDF-ie za darmo online: zdjęcia i grafiki są wyciągane w ich zapisanej rozdzielczości jako pliki PNG – nie zrzuty ekranu. W 100% w Twojej przeglądarce, nic nie jest przesyłane.",
-  "id": "/loona-pdf-tools/pl/extract-images-from-pdf/",
+  "id": "/pl/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

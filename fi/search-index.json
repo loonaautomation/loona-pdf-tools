@@ -1,7 +1,7 @@
 [
  {
   "n": "Yhdistä PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/merge-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/merge-pdf/",
   "s": "Loona PDF Tools",
   "d": "Yhdistä useita PDF-tiedostoja yhdeksi asiakirjaksi valitsemassasi järjestyksessä.",
   "k": "merge pdf merge pdf combine join multiple files into one together yhdista useita pdf tiedostoja yhdeksi asiakirjaksi valitsemassasi jarjestyksessa",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Jaa PDF osiin",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/split-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/split-pdf/",
   "s": "Loona PDF Tools",
   "d": "Jaa PDF yksittäisiksi sivuiksi tai mukautetuiksi sivualueiksi.",
   "k": "split pdf split pdf separate divide cutter ranges extract pages jaa pdf yksittaisiksi sivuiksi tai mukautetuiksi sivualueiksi",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Pakkaa PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/compress-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/compress-pdf/",
   "s": "Loona PDF Tools",
   "d": "Pienennä PDF sähköpostin, WhatsAppin tai latausrajojen vuoksi - kaksi rehellistä tilaa.",
   "k": "compress pdf compress pdf reduce size smaller shrink kb mb optimize email whatsapp upload pienenna pdf sahkopostin whatsappin tai latausrajojen vuoksi kaksi rehellista tilaa",
@@ -28,7 +28,7 @@
  },
  {
   "n": "JPG:stä PDF:ksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/jpg-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/jpg-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Muuta JPG-valokuvat ja skannaukset yhdeksi siistiksi PDF:ksi - A4-, Letter- tai kuvaan sovitetut sivut.",
   "k": "jpg to pdf jpg to pdf jpeg photo image picture scan convert muuta jpg valokuvat ja skannaukset yhdeksi siistiksi pdf ksi a4 letter tai kuvaan sovitetut sivut",
@@ -37,7 +37,7 @@
  },
  {
   "n": "PDF:stä JPG:ksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-to-jpg/",
+  "u": "https://pdf.loonaautomation.com/fi/pdf-to-jpg/",
   "s": "Loona PDF Tools",
   "d": "Muuta jokainen PDF-sivu korkealaatuiseksi JPG-kuvaksi, jonka voit jakaa missä tahansa.",
   "k": "pdf to jpg pdf to jpg jpeg image picture convert pages extract muuta jokainen pdf sivu korkealaatuiseksi jpg kuvaksi jonka voit jakaa missa tahansa",
@@ -46,7 +46,7 @@
  },
  {
   "n": "PNG:stä PDF:ksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/png-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/png-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Yhdistä PNG-kuvakaappaukset ja -grafiikat yhdeksi puhtaaksi PDF-asiakirjaksi.",
   "k": "png to pdf png to pdf image picture screenshot convert photo yhdista png kuvakaappaukset ja grafiikat yhdeksi puhtaaksi pdf asiakirjaksi",
@@ -55,7 +55,7 @@
  },
  {
   "n": "PDF:stä PNG:ksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-to-png/",
+  "u": "https://pdf.loonaautomation.com/fi/pdf-to-png/",
   "s": "Loona PDF Tools",
   "d": "Muunna PDF-sivut teräviksi PNG-kuviksi - aito läpinäkyvyys säilyttäen.",
   "k": "pdf to png pdf to png image transparent convert picture muunna pdf sivut teraviksi png kuviksi aito lapinakyvyys sailyttaen",
@@ -64,7 +64,7 @@
  },
  {
   "n": "PDF:stä tekstiksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-to-text/",
+  "u": "https://pdf.loonaautomation.com/fi/pdf-to-text/",
   "s": "Loona PDF Tools",
   "d": "Poimi kaikki luettava teksti PDF:stä, jotta voit kopioida, muokata ja käyttää sitä uudelleen.",
   "k": "pdf to text pdf to text extract txt words copy plain text file poimi kaikki luettava teksti pdf sta jotta voit kopioida muokata ja kayttaa sita uudelleen",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Tekstistä PDF:ksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/text-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/text-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Kirjoita tai liitä tekstiä ja lataa se siistinä, tulostettavana PDF-asiakirjana.",
   "k": "text to pdf text to pdf txt write type document make create kirjoita tai liita tekstia ja lataa se siistina tulostettavana pdf asiakirjana",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Excelistä PDF:ksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/excel-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/excel-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Muuta .xlsx-, .xls- ja CSV-laskentataulukot siisteiksi PDF-taulukoiksi - jokainen arkki, ei latausta palvelimelle.",
   "k": "excel to pdf excel to pdf xlsx xls csv spreadsheet sheet table convert muuta xlsx xls ja csv laskentataulukot siisteiksi pdf taulukoiksi jokainen arkki ei latausta palvelimelle",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Kierrä PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/rotate-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/rotate-pdf/",
   "s": "Loona PDF Tools",
   "d": "Korjaa sivuttain tai ylösalaisin olevat PDF-sivut pysyvästi, selaimessasi.",
   "k": "rotate pdf rotate pdf turn flip sideways upside down 90 180 270 degrees korjaa sivuttain tai ylosalaisin olevat pdf sivut pysyvasti selaimessasi",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Poista PDF-sivuja",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/delete-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/fi/delete-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Poista tyhjät, päällekkäiset tai ei-toivotut sivut ja säilytä kevyempi asiakirja.",
   "k": "delete pdf pages delete pdf pages remove unwanted blank duplicate pages poista tyhjat paallekkaiset tai ei toivotut sivut ja sailyta kevyempi asiakirja",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Pura PDF-sivuja",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/extract-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/fi/extract-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Pidä vain tarvitsemasi sivut - kuten sivu 3 ja 5-8 - aivan uutena PDF:nä.",
   "k": "extract pdf pages extract pdf pages keep select pages range new document pull pida vain tarvitsemasi sivut kuten sivu 3 ja 5 8 aivan uutena pdf na",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Järjestä PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/organize-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/organize-pdf/",
   "s": "Loona PDF Tools",
   "d": "Näe jokainen sivu pikkukuvana - vedä järjestääksesi uudelleen, kierrä sivuttaiset sivut, poista sivut, joita et tarvitse.",
   "k": "organize pdf organize pdf reorder rearrange sort thumbnails drag move pages nae jokainen sivu pikkukuvana veda jarjestaaksesi uudelleen kierra sivuttaiset sivut poista sivut joita et tarvitse",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Todistusten tekijä",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/certificate-maker/",
+  "u": "https://pdf.loonaautomation.com/fi/certificate-maker/",
   "s": "Loona PDF Tools",
   "d": "Suunnittele tulostettavia todistuksia reaaliaikaisella esikatselulla - yksi kerrallaan tai satoja joukkona nimiluettelosta.",
   "k": "certificate maker certificate maker award diploma design bulk names printable suunnittele tulostettavia todistuksia reaaliaikaisella esikatselulla yksi kerrallaan tai satoja joukkona nimiluettelosta",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Lisää sivunumerot",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/add-page-numbers-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/add-page-numbers-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Leimaa sivunumerot tyylilläsi ja sijainnullasi PDF:n jokaiselle sivulle.",
   "k": "add page numbers add page numbers to pdf numbering stamp folio pagination pages leimaa sivunumerot tyylillasi ja sijainnullasi pdf n jokaiselle sivulle",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Lisää vesileima",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/add-watermark-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/add-watermark-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Leimaa tekstiä, kuten LUOTTAMUKSELLINEN tai koulusi nimi, jokaisen sivun poikki.",
   "k": "add watermark add watermark to pdf stamp confidential overlay text brand pages leimaa tekstia kuten luottamuksellinen tai koulusi nimi jokaisen sivun poikki",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Allekirjoita PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/sign-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/sign-pdf/",
   "s": "Loona PDF Tools",
   "d": "Piirrä tai lataa allekirjoituksesi ja sijoita se täsmälleen sinne, minne se kuuluu.",
   "k": "sign pdf sign pdf signature draw sign document electronic signature piirra tai lataa allekirjoituksesi ja sijoita se tasmalleen sinne minne se kuuluu",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Muokkaa PDF:n tietoja",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/edit-pdf-info/",
+  "u": "https://pdf.loonaautomation.com/fi/edit-pdf-info/",
   "s": "Loona PDF Tools",
   "d": "Näe ja muuta PDF:n piilotettua otsikkoa, tekijää, aihetta ja avainsanoja.",
   "k": "edit pdf info edit pdf info metadata title author subject keywords properties info nae ja muuta pdf n piilotettua otsikkoa tekijaa aihetta ja avainsanoja",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Täytä PDF-lomake",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/fill-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/fi/fill-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Avaa täytettävä PDF-lomake, kirjoita sen kenttiin ja lataa valmis kopio - muokattavana tai litteytettynä.",
   "k": "fill pdf form fill pdf form form fields fillable complete fill type avaa taytettava pdf lomake kirjoita sen kenttiin ja lataa valmis kopio muokattavana tai litteytettyna",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Vertaa PDF-tiedostoja",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/compare-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/compare-pdf/",
   "s": "Loona PDF Tools",
   "d": "Näe tarkalleen, mikä teksti muuttui PDF:n kahden version välillä, sivu sivulta, erot korostettuna.",
   "k": "compare pdf compare pdf diff differences two versions side by side changes nae tarkalleen mika teksti muuttui pdf n kahden version valilla sivu sivulta erot korostettuna",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Allekirjoitusgeneraattori",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/signature-generator/",
+  "u": "https://pdf.loonaautomation.com/fi/signature-generator/",
   "s": "Loona PDF Tools",
   "d": "Luo läpinäkyvä PNG allekirjoituksestasi - piirrä se, kirjoita se tai poista kuvan valkoinen tausta.",
   "k": "signature generator signature generator draw signature create sign name handwritten luo lapinakyva png allekirjoituksestasi piirra se kirjoita se tai poista kuvan valkoinen tausta",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Peitä PDF-sisältö",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/redact-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/redact-pdf/",
   "s": "Loona PDF Tools",
   "d": "Mustaa arkaluonteiset alueet pysyvästi - poltettuna sivun kuvaan, ei koskaan vain peitettynä.",
   "k": "redact pdf redact pdf black out hide sensitive permanent remove text censor mustaa arkaluonteiset alueet pysyvasti poltettuna sivun kuvaan ei koskaan vain peitettyna",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Luo PDF-lomake",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/create-pdf-form/",
+  "u": "https://pdf.loonaautomation.com/fi/create-pdf-form/",
   "s": "Loona PDF Tools",
   "d": "Lisää aitoja täytettäviä tekstikenttiä ja valintaruutuja mihin tahansa litteään PDF:ään.",
   "k": "create pdf form create pdf form fillable form fields maker creator build lisaa aitoja taytettavia tekstikenttia ja valintaruutuja mihin tahansa litteaan pdf aan",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Litteytä PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/flatten-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/flatten-pdf/",
   "s": "Loona PDF Tools",
   "d": "Polta lomakevastaukset sivuille niin, ettei niitä voi enää muokata, tai rakenna sivut uudelleen kuvina.",
   "k": "flatten pdf flatten pdf flatten form annotations layers lock polta lomakevastaukset sivuille niin ettei niita voi enaa muokata tai rakenna sivut uudelleen kuvina",
@@ -226,7 +226,7 @@
  },
  {
   "n": "PDF harmaasävyksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-to-grayscale/",
+  "u": "https://pdf.loonaautomation.com/fi/pdf-to-grayscale/",
   "s": "Loona PDF Tools",
   "d": "Muunna jokainen sivu harmaan sävyiksi edullisempaa tulostusta ja puhdasta yksiväristä ulkoasua varten.",
   "k": "pdf to grayscale pdf to grayscale grayscale grey gray black and white bw convert muunna jokainen sivu harmaan savyiksi edullisempaa tulostusta ja puhdasta yksivarista ulkoasua varten",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Lisää ylä- ja alatunniste",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/add-header-footer-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/add-header-footer-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Leimaa ylä- ja alatunnisteteksti jokaiselle sivulle, Sivu X / Y -numerot sisäänrakennettuina.",
   "k": "add header footer add header footer to pdf header footer stamp text top bottom pages leimaa yla ja alatunnisteteksti jokaiselle sivulle sivu x y numerot sisaanrakennettuina",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Korjaa PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/repair-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/repair-pdf/",
   "s": "Loona PDF Tools",
   "d": "Korjaa rakenteelliset vauriot - rikkinäiset hakemistot ja lopun roska - ja tallenna puhdas kopio.",
   "k": "repair pdf repair pdf fix corrupted damaged broken recover restore korjaa rakenteelliset vauriot rikkinaiset hakemistot ja lopun roska ja tallenna puhdas kopio",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Rajaa PDF",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/crop-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/crop-pdf/",
   "s": "Loona PDF Tools",
   "d": "Leikkaa valkoisia marginaaleja tai leikkaa sivujen reunoja pisteinä, prosentteina tai millimetreinä.",
   "k": "crop pdf crop pdf trim margins cut white borders pages leikkaa valkoisia marginaaleja tai leikkaa sivujen reunoja pisteina prosentteina tai millimetreina",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Muuta PDF-sivujen kokoa",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/resize-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/fi/resize-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Muuta jokainen sivu A4-, Letter- tai Legal-kokoon skaalaamalla sisältö sopimaan.",
   "k": "resize pdf pages resize pdf pages page size a4 letter dimensions resize change muuta jokainen sivu a4 letter tai legal kokoon skaalaamalla sisalto sopimaan",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Käännä PDF-sivujen järjestys",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/reverse-pdf-pages/",
+  "u": "https://pdf.loonaautomation.com/fi/reverse-pdf-pages/",
   "s": "Loona PDF Tools",
   "d": "Käännä takaperin oleva PDF niin, että viimeisestä sivusta tulee ensimmäinen.",
   "k": "reverse pdf pages reverse pdf pages reverse order pages flip sequence back to front kaanna takaperin oleva pdf niin etta viimeisesta sivusta tulee ensimmainen",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Poista PDF-merkinnät",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/remove-pdf-annotations/",
+  "u": "https://pdf.loonaautomation.com/fi/remove-pdf-annotations/",
   "s": "Loona PDF Tools",
   "d": "Poista kommentit, korostukset, muistilaput ja leimat, kun taas sivun sisältö pysyy koskemattomana.",
   "k": "remove pdf annotations remove pdf annotations comments highlights notes markup remove annotations poista kommentit korostukset muistilaput ja leimat kun taas sivun sisalto pysyy koskemattomana",
@@ -289,7 +289,7 @@
  },
  {
   "n": "PDF-sivukoot ja tiedot",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-page-sizes/",
+  "u": "https://pdf.loonaautomation.com/fi/pdf-page-sizes/",
   "s": "Loona PDF Tools",
   "d": "Näe jokaisen sivun tarkka koko pisteinä, millimetreinä ja tuumina, sekä asiakirjan tiedot.",
   "k": "pdf page sizes info pdf page sizes page size info dimensions check a4 letter measure nae jokaisen sivun tarkka koko pisteina millimetreina ja tuumina seka asiakirjan tiedot",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Lisää kirjanmerkkejä PDF:ään",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/add-bookmarks-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/add-bookmarks-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Anna pitkälle PDF:lle napsautettava lukujen ja osioiden rakenne.",
   "k": "add bookmarks to pdf add bookmarks to pdf bookmarks outline toc chapters navigation anna pitkalle pdf lle napsautettava lukujen ja osioiden rakenne",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Pura kuvat PDF:stä",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/extract-images-from-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/extract-images-from-pdf/",
   "s": "Loona PDF Tools",
   "d": "Poimi alkuperäiset upotetut valokuvat ja grafiikat PDF:stä PNG-tiedostoina.",
   "k": "extract images from pdf extract images from pdf get pictures photos images out extract save poimi alkuperaiset upotetut valokuvat ja grafiikat pdf sta png tiedostoina",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Lisää tyhjä sivu PDF:ään",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/add-blank-page-to-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/add-blank-page-to-pdf/",
   "s": "Loona PDF Tools",
   "d": "Lisää tyhjiä sivuja alkuun, loppuun tai minkä tahansa sivun jälkeen, kokoon sovitettuina.",
   "k": "add blank page to pdf add blank page to pdf insert blank empty page add new lisaa tyhjia sivuja alkuun loppuun tai minka tahansa sivun jalkeen kokoon sovitettuina",
@@ -325,7 +325,7 @@
  },
  {
   "n": "PDF:stä WebP:ksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-to-webp/",
+  "u": "https://pdf.loonaautomation.com/fi/pdf-to-webp/",
   "s": "Loona PDF Tools",
   "d": "Muunna PDF-sivut WebP-kuviksi - pienempiä kuin JPG verkkosivustoille, valitsemallasi laadulla.",
   "k": "pdf to webp pdf to webp webp image convert picture muunna pdf sivut webp kuviksi pienempia kuin jpg verkkosivustoille valitsemallasi laadulla",
@@ -334,7 +334,7 @@
  },
  {
   "n": "PDF N-up",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/n-up-pdf/",
+  "u": "https://pdf.loonaautomation.com/fi/n-up-pdf/",
   "s": "Loona PDF Tools",
   "d": "Aseta 2, 4, 6 tai 9 sivua yhdelle arkille lukujärjestyksessä ja säästä paperia monisteissa.",
   "k": "n up pdf n up pdf n-up multiple pages per sheet impose tiles print aseta 2 4 6 tai 9 sivua yhdelle arkille lukujarjestyksessa ja saasta paperia monisteissa",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Luo PDF-vihko",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/create-pdf-booklet/",
+  "u": "https://pdf.loonaautomation.com/fi/create-pdf-booklet/",
   "s": "Loona PDF Tools",
   "d": "Asemoi sivut aitoon vihkojärjestykseen - tulosta kaksipuolisesti, taita, nido.",
   "k": "create pdf booklet create pdf booklet booklet book fold impose print saddle stitch asemoi sivut aitoon vihkojarjestykseen tulosta kaksipuolisesti taita nido",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Poista tyhjät sivut",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/remove-blank-pages/",
+  "u": "https://pdf.loonaautomation.com/fi/remove-blank-pages/",
   "s": "Loona PDF Tools",
   "d": "Havaitse lähes tyhjät sivut pikselianalyysillä ja poista ne, rehellisellä sivukohtaisella peitolla.",
   "k": "remove blank pages remove blank pages delete empty blank pages clean remove automatically havaitse lahes tyhjat sivut pikselianalyysilla ja poista ne rehellisella sivukohtaisella peitolla",
@@ -361,12 +361,12 @@
  },
  {
   "n": "PDF:stä Exceliksi",
-  "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-to-excel/",
+  "u": "https://pdf.loonaautomation.com/fi/pdf-to-excel/",
   "s": "Loona PDF Tools",
   "d": "Pura PDF-taulukot muokattaviksi Excel (.xlsx) -laskentataulukoiksi - esikatsele ja korjaa jokainen solu, ilman lähetystä palvelimelle.",
   "k": "pdf:stä exceliksi pdf to excel converter xlsx pura pdf taulukot muokattaviksi excel (.xlsx)  laskentataulukoiksi   esikatsele ja korjaa jokainen solu, ilman lähetystä palvelimelle. pdf to excel pdf-muunnin excel-muotoon",
   "p": 110,
   "c": "Tool"
  }
-,{"n": "Word to PDF", "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/word-to-pdf/", "s": "Loona PDF Tools", "d": "Muunna Word .docx -asiakirjat siisteiksi, luettaviksi PDF-tiedostoiksi - otsikot, luettelot, taulukot ja kuvat säilyvät, ei latausta palvelimelle.", "k": "word to pdf word to pdf docx doc word document microsoft convert muunna word docx asiakirjat siisteiksi luettaviksi pdf tiedostoiksi otsikot luettelot taulukot ja kuvat sailyvat ei latausta palvelimelle", "p": 140, "c": "Tool"},
-{"n": "Loona PDF Editor", "u": "https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-editor/", "s": "Loona PDF Tools", "d": "Muokkaa PDF-tiedostoa verkossa: lisää tekstiä, kuvia, muotoja ja allekirjoituksia, peitä virheet valkopeitteellä ja lataa valmis tiedosto.", "k": "pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Muokkaa PDF-tiedostoa verkossa: lisää tekstiä, kuvia, muotoja ja allekirjoituksia, peitä virheet valkopeitteellä ja lataa valmis tiedosto.", "p": 141, "c": "Tool"},{"n":"PDF:stä Wordiksi","u":"https://loonaautomation.github.io/loona-pdf-tools/fi/pdf-to-word/","s":"Loona PDF Tools","d":"Muuta tekstipohjaiset PDF:t muokattaviksi Word-asiakirjoiksi (.docx) - otsikot, luettelot ja yksinkertaiset taulukot säilyvät, ei latausta palvelimelle.","k":"pdf to word pdf to word docx word document microsoft word convert muuta tekstipohjaiset pdf t muokattaviksi word asiakirjoiksi docx otsikot luettelot ja yksinkertaiset taulukot sailyvat ei latausta palvelimelle","p":142,"c":"Tool"}]
+,{"n": "Word to PDF", "u": "https://pdf.loonaautomation.com/fi/word-to-pdf/", "s": "Loona PDF Tools", "d": "Muunna Word .docx -asiakirjat siisteiksi, luettaviksi PDF-tiedostoiksi - otsikot, luettelot, taulukot ja kuvat säilyvät, ei latausta palvelimelle.", "k": "word to pdf word to pdf docx doc word document microsoft convert muunna word docx asiakirjat siisteiksi luettaviksi pdf tiedostoiksi otsikot luettelot taulukot ja kuvat sailyvat ei latausta palvelimelle", "p": 140, "c": "Tool"},
+{"n": "Loona PDF Editor", "u": "https://pdf.loonaautomation.com/fi/pdf-editor/", "s": "Loona PDF Tools", "d": "Muokkaa PDF-tiedostoa verkossa: lisää tekstiä, kuvia, muotoja ja allekirjoituksia, peitä virheet valkopeitteellä ja lataa valmis tiedosto.", "k": "pdf editor edit pdf online pdf editor add text to pdf sign cover whiteout annotate edit a pdf online add text images shapes signatures cover mistakes whiteout download finished file Muokkaa PDF-tiedostoa verkossa: lisää tekstiä, kuvia, muotoja ja allekirjoituksia, peitä virheet valkopeitteellä ja lataa valmis tiedosto.", "p": 141, "c": "Tool"},{"n":"PDF:stä Wordiksi","u":"https://pdf.loonaautomation.com/fi/pdf-to-word/","s":"Loona PDF Tools","d":"Muuta tekstipohjaiset PDF:t muokattaviksi Word-asiakirjoiksi (.docx) - otsikot, luettelot ja yksinkertaiset taulukot säilyvät, ei latausta palvelimelle.","k":"pdf to word pdf to word docx word document microsoft word convert muuta tekstipohjaiset pdf t muokattaviksi word asiakirjoiksi docx otsikot luettelot ja yksinkertaiset taulukot sailyvat ei latausta palvelimelle","p":142,"c":"Tool"}]

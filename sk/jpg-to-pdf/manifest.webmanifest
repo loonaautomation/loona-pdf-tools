@@ -2,7 +2,7 @@
   "name": "Loona JPG do PDF online zadarmo",
   "short_name": "JPG do PDF online zadarmo",
   "description": "Preveďte obrázky JPG do PDF zadarmo online. Skombinujte fotografie do jedného PDF so stránkami A4, Letter alebo prispôsobenými, vo vašom poradí. Bez registrácie - funguje súkromne v prehliadači.",
-  "id": "/loona-pdf-tools/sk/jpg-to-pdf/",
+  "id": "/sk/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

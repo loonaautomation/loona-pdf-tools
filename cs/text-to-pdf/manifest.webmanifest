@@ -2,7 +2,7 @@
   "name": "Loona Text do PDF online zdarma",
   "short_name": "Text do PDF online zdarma",
   "description": "Převeďte text do PDF zdarma online. Vložte svůj text, zvolte velikost písma a stránky A4 nebo Letter a stáhněte čisté PDF. Bez registrace - vytvořeno soukromě v prohlížeči.",
-  "id": "/loona-pdf-tools/cs/text-to-pdf/",
+  "id": "/cs/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

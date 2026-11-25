@@ -2,7 +2,7 @@
   "name": "Loona Tanda Tangani PDF online gratis",
   "short_name": "Tanda Tangani PDF online gratis",
   "description": "Tanda tangani PDF gratis secara online. Gambar tanda tangan Anda atau unggah gambarnya, posisikan dengan pratinjau langsung, dan unduh PDF yang telah ditandatangani. Privat - tidak ada yang diunggah.",
-  "id": "/loona-pdf-tools/id/sign-pdf/",
+  "id": "/id/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

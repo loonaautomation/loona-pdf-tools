@@ -2,7 +2,7 @@
   "name": "Loona PDF-pagina's omkeren online gratis",
   "short_name": "PDF-pagina's omkeren online gratis",
   "description": "Keer gratis online de paginavolgorde van een PDF om - de laatste pagina wordt de eerste. Perfect voor het herstellen van achterstevoren scans. Direct, in je browser, niets geüpload.",
-  "id": "/loona-pdf-tools/nl/reverse-pdf-pages/",
+  "id": "/nl/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Προσθήκη Αριθμών Σελίδας σε PDF Online Δωρεάν",
   "short_name": "Προσθήκη Αριθμών Σελίδας σε PDF Online Δωρεάν",
   "description": "Προσθέστε αριθμούς σελίδας σε ένα PDF δωρεάν online. Επιλέξτε στυλ (1, Σελίδα 1, 1 από 10), θέση και αριθμό έναρξης. Χωρίς εγγραφή· η αρίθμηση γίνεται ιδιωτικά στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/add-page-numbers-to-pdf/",
+  "id": "/el/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

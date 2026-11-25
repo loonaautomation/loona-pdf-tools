@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi Markdown sang PDF trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi Markdown sang PDF trực tuyến miễn phí",
   "description": "Chuyển đổi Markdown thành một PDF được định kiểu trực tuyến, miễn phí trong trình duyệt của bạn. Heading, danh sách, mã và liên kết được hiển thị với bản xem trước trực tiếp. Không tải lên.",
-  "id": "/loona-pdf-tools/vi/markdown-to-pdf/",
+  "id": "/vi/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

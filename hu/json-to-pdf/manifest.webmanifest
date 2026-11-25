@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból PDF online ingyen",
   "short_name": "JSON-ból PDF online ingyen",
   "description": "Alakítson JSON-t olvasható, oldalszámozott PDF-fé online, ingyen, a böngészőjében. Először ellenőrzött és szépen formázott. Feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/json-to-pdf/",
+  "id": "/hu/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

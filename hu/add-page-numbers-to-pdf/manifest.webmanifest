@@ -2,7 +2,7 @@
   "name": "Loona Oldalszámok hozzáadása online ingyen",
   "short_name": "Oldalszámok hozzáadása online ingyen",
   "description": "Adjon oldalszámokat egy PDF-hez ingyen, online. Válasszon stílust (1, Page 1, 1 of 10), pozíciót és kezdőszámot. Regisztráció nélkül; a számozás privát módon, a böngészőjében történik.",
-  "id": "/loona-pdf-tools/hu/add-page-numbers-to-pdf/",
+  "id": "/hu/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF конвертори онлайн безплатно",
   "short_name": "PDF конвертори онлайн безплатно",
   "description": "Всеки PDF конвертор на едно място: изображения, CSV, JSON, HTML и Markdown към PDF — и PDF обратно към изображения, текст, HTML и Markdown. Безплатно, във вашия браузър.",
-  "id": "/loona-pdf-tools/bg/pdf-converters/",
+  "id": "/bg/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

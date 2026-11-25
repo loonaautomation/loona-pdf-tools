@@ -2,7 +2,7 @@
   "name": "Loona Konverter AVIF ke PDF online gratis",
   "short_name": "Konverter AVIF ke PDF online gratis",
   "description": "Konversi gambar AVIF ke PDF secara online, gratis, di browser Anda. Satu gambar per halaman, halaman pas-ke-gambar atau A4/Letter. Tanpa unggahan, tanpa pendaftaran.",
-  "id": "/loona-pdf-tools/id/avif-to-pdf/",
+  "id": "/id/avif-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prevodník SVG do PDF online zadarmo",
   "short_name": "Prevodník SVG do PDF online zadarmo",
   "description": "Preveďte obrázky SVG do PDF online, zadarmo, vo vašom prehliadači. Jeden obrázok na stránku, stránky podľa obrázka alebo A4/Letter. Bez nahrávania, bez registrácie.",
-  "id": "/loona-pdf-tools/sk/svg-to-pdf/",
+  "id": "/sk/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

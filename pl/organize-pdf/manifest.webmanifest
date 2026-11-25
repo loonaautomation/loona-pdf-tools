@@ -2,7 +2,7 @@
   "name": "Loona Uporządkuj PDF online za darmo",
   "short_name": "Uporządkuj PDF online za darmo",
   "description": "Porządkuj strony PDF za darmo online: przeciągaj miniatury, aby przestawiać strony, obracaj strony leżące bokiem i usuwaj strony, których nie potrzebujesz. Bez rejestracji. Pliki są przetwarzane prywatnie w Twojej przeglądarce.",
-  "id": "/loona-pdf-tools/pl/organize-pdf/",
+  "id": "/pl/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

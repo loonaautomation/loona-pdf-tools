@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Sayfalarını Sil",
   "short_name": "Çevrimiçi Ücretsiz PDF Sayfalarını Sil",
   "description": "Bir PDF'den sayfaları çevrimiçi ücretsiz silin. Kaldırılacak sayfa numaralarını yazın (2, 4-6 gibi) ve temizlenmiş dosyayı indirin. Kayıt gerekmez; her şey tarayıcınızda kalır.",
-  "id": "/loona-pdf-tools/tr/delete-pdf-pages/",
+  "id": "/tr/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

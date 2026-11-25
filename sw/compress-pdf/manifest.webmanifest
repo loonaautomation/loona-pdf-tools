@@ -2,7 +2,7 @@
   "name": "Loona Bana PDF bure mtandaoni",
   "short_name": "Bana PDF bure mtandaoni",
   "description": "Bana faili za PDF bure mtandaoni na uzipunguze kwa ajili ya barua pepe au upakiaji. Chagua ubanaji wa mkondo usiopoteza ubora au ubanaji mkali wa picha. Kwa faragha, katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/compress-pdf/",
+  "id": "/sw/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

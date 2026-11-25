@@ -2,7 +2,7 @@
   "name": "Loona Převodník PDF do HTML online zdarma",
   "short_name": "Převodník PDF do HTML online zdarma",
   "description": "Převeďte PDF do HTML online, zdarma ve vašem prohlížeči. Text se extrahuje se strukturou nadpisů zjištěnou z velikostí písma. Bez nahrávání, bez registrace.",
-  "id": "/loona-pdf-tools/cs/pdf-to-html/",
+  "id": "/cs/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

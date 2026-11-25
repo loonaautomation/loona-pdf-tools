@@ -2,7 +2,7 @@
   "name": "Loona WebP-ből PDF online ingyen",
   "short_name": "WebP-ből PDF online ingyen",
   "description": "Alakítson WebP képeket PDF-fé online, ingyen, a böngészőjében. Oldalanként egy kép, képhez igazított vagy A4/Letter oldalak. Feltöltés és regisztráció nélkül.",
-  "id": "/loona-pdf-tools/hu/webp-to-pdf/",
+  "id": "/hu/webp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

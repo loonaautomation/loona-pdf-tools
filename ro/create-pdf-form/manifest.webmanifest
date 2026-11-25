@@ -2,7 +2,7 @@
   "name": "Loona Creează un formular PDF online gratuit",
   "short_name": "Creează un formular PDF online gratuit",
   "description": "Transformă gratuit online orice PDF într-un formular completabil: adaugă câmpuri de text și casete de selectare reale exact unde le tragi, numește câmpurile și descarcă un PDF AcroForm adevărat pe care oricine îl poate completa. Fără încărcare, fără înregistrare.",
-  "id": "/loona-pdf-tools/ro/create-pdf-form/",
+  "id": "/ro/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

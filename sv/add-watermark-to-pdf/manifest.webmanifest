@@ -2,7 +2,7 @@
   "name": "Loona Lägg till vattenstämpel online gratis",
   "short_name": "Lägg till vattenstämpel online gratis",
   "description": "Lägg till en textvattenstämpel i en PDF gratis online. Ställ in text, storlek, opacitet, vinkel och färg - centrerad eller rutad. Ingen registrering; vattenstämpling körs privat i webbläsaren.",
-  "id": "/loona-pdf-tools/sv/add-watermark-to-pdf/",
+  "id": "/sv/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

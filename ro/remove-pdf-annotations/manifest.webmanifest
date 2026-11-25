@@ -2,7 +2,7 @@
   "name": "Loona Elimină adnotările din PDF online gratuit",
   "short_name": "Elimină adnotările din PDF online gratuit",
   "description": "Elimină gratuit online adnotările dintr-un PDF: comentariile, evidențierile, notele adezive, ștampilele și marcajele sunt îndepărtate, în timp ce conținutul paginii rămâne neatins. În browser, fără să se încarce nimic.",
-  "id": "/loona-pdf-tools/ro/remove-pdf-annotations/",
+  "id": "/ro/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

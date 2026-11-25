@@ -2,7 +2,7 @@
   "name": "Loona Thêm trang trống vào PDF trực tuyến miễn phí",
   "short_name": "Thêm trang trống vào PDF trực tuyến miễn phí",
   "description": "Chèn trang trống vào một PDF miễn phí trực tuyến: ở đầu, ở cuối, hoặc sau bất kỳ trang nào, khớp với kích thước trang của tài liệu, A4 hoặc Letter. Tức thì, trong trình duyệt của bạn, không tải lên gì cả.",
-  "id": "/loona-pdf-tools/vi/add-blank-page-to-pdf/",
+  "id": "/vi/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

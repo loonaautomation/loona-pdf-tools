@@ -2,7 +2,7 @@
   "name": "Loona Tambah Watermark ke PDF online gratis",
   "short_name": "Tambah Watermark ke PDF online gratis",
   "description": "Tambahkan watermark teks ke PDF gratis secara online. Atur teks, ukuran, opasitas, sudut, dan warna - di tengah atau berubin. Tanpa pendaftaran; pemberian watermark berjalan secara privat di browser.",
-  "id": "/loona-pdf-tools/id/add-watermark-to-pdf/",
+  "id": "/id/add-watermark-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

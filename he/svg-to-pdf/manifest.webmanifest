@@ -2,7 +2,7 @@
   "name": "Loona ממיר SVG ל-PDF – בחינם, ללא העלאה",
   "short_name": "ממיר SVG ל-PDF – בחינם, ללא העלאה",
   "description": "המירו תמונות SVG ל-PDF באינטרנט, בחינם, בדפדפן שלכם. תמונה אחת בכל עמוד, עמודי התאמה לתמונה או A4/Letter. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/svg-to-pdf/",
+  "id": "/he/svg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

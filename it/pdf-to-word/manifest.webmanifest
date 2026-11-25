@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da PDF a Word",
   "short_name": "Convertitore da PDF a Word",
   "description": "Converti un PDF basato su testo in un documento Word modificabile (.docx) gratis nel tuo browser. Intestazioni, paragrafi, elenchi e tabelle semplici vengono mantenuti. Nessun caricamento, nessuna registrazione — il tuo file non lascia mai il tuo dispositivo.",
-  "id": "/loona-pdf-tools/it/pdf-to-word/",
+  "id": "/it/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

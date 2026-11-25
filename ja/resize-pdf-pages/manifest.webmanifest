@@ -2,7 +2,7 @@
   "name": "Loona PDFページのサイズを変更 オンライン無料",
   "short_name": "PDFページのサイズを変更 オンライン無料",
   "description": "PDFページを無料でオンラインサイズ変更：すべてのページをA4、US Letter、Legalに変換するか、パーセントで拡大縮小し、内容はフィットするよう拡大縮小され中央に配置されます。ブラウザで実行され、アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/resize-pdf-pages/",
+  "id": "/ja/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

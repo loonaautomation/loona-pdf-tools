@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor besplatno na mreži",
   "short_name": "Loona PDF Editor",
   "description": "Uređujte PDF datoteke besplatno na mreži uz Loona PDF Editor: dodajte tekst, slike, oblike i isticanja, prekrijte pogreške izbjeljivačem, nacrtajte ili upišite potpis i preuzmite gotovu datoteku. Sve radi u vašem pregledniku - vaša datoteka nikad ne napušta vaš uređaj. Bez registracije, bez ograničenja stranica, bez vodenih žigova.",
-  "id": "/loona-pdf-tools/hr/pdf-editor/",
+  "id": "/hr/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

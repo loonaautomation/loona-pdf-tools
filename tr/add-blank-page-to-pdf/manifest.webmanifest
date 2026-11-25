@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'ye Boş Sayfa Ekle",
   "short_name": "Çevrimiçi Ücretsiz PDF'ye Boş Sayfa Ekle",
   "description": "Bir PDF'ye çevrimiçi ücretsiz boş sayfalar ekleyin: başta, sonda veya herhangi bir sayfadan sonra, belgenin sayfa boyutuyla eşleşerek, A4 veya Letter. Anında, tarayıcınızda, hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/add-blank-page-to-pdf/",
+  "id": "/tr/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

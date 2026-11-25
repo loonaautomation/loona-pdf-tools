@@ -2,7 +2,7 @@
   "name": "Loona PDF-ből PNG online ingyen",
   "short_name": "PDF-ből PNG online ingyen",
   "description": "Alakítson PDF-oldalakat PNG képekké ingyen, online, akár 3x felbontásban, az átlátszóság megőrzésével. Töltsön le minden oldalt külön. Privát módon, a böngészőjében.",
-  "id": "/loona-pdf-tools/hu/pdf-to-png/",
+  "id": "/hu/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

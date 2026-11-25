@@ -2,7 +2,7 @@
   "name": "Loona Teks ke PDF online gratis",
   "short_name": "Teks ke PDF online gratis",
   "description": "Konversi teks ke PDF gratis secara online. Tempelkan teks Anda, pilih ukuran font dan halaman A4 atau Letter, dan unduh PDF yang bersih. Tanpa pendaftaran - dibuat secara privat di browser.",
-  "id": "/loona-pdf-tools/id/text-to-pdf/",
+  "id": "/id/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

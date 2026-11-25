@@ -2,7 +2,7 @@
   "name": "Loona PDFを指定サイズに圧縮 オンライン無料",
   "short_name": "PDFを指定サイズに圧縮 オンライン無料",
   "description": "PDFを正確な目標に圧縮：20 KB、50 KB、100 KB、200 KB、500 KB、1 MB、2 MB、5 MB。メール（10 MB）とWhatsApp（16 MB）のプリセットもあります。無料、ブラウザ上で。",
-  "id": "/loona-pdf-tools/ja/compress-pdf-to-size/",
+  "id": "/ja/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

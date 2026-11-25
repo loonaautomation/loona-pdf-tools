@@ -2,7 +2,7 @@
   "name": "Loona Konverter PDF online gratis",
   "short_name": "Konverter PDF online gratis",
   "description": "Setiap konverter PDF dalam satu tempat: gambar, CSV, JSON, HTML, dan Markdown ke PDF — dan PDF kembali ke gambar, teks, HTML, dan Markdown. Gratis, di browser Anda.",
-  "id": "/loona-pdf-tools/id/pdf-converters/",
+  "id": "/id/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

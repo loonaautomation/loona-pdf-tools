@@ -2,7 +2,7 @@
   "name": "Loona Размеры страниц PDF &amp; сведения",
   "short_name": "Loona Размеры страниц PDF &amp; сведения",
   "description": "Проверьте размеры страниц PDF бесплатно онлайн: размеры каждой страницы в пунктах, миллиметрах и дюймах, её ближайший стандартный размер (A4, Letter...), поворот, а также название, автор и версия PDF. Ничего не загружается.",
-  "id": "/loona-pdf-tools/ru/pdf-page-sizes/",
+  "id": "/ru/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

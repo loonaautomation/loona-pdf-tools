@@ -2,7 +2,7 @@
   "name": "Loona Προσθήκη Κεφαλίδας & Υποσέλιδου σε PDF Online Δωρεάν",
   "short_name": "Προσθήκη Κεφαλίδας & Υποσέλιδου σε PDF Online Δωρεάν",
   "description": "Προσθέστε κεφαλίδα και υποσέλιδο σε κάθε σελίδα PDF δωρεάν online: προσαρμοσμένο κείμενο, αριθμούς σελίδας με μορφές Σελίδα X από Y, στοίχιση και μέγεθος γραμματοσειράς - όλα στο πρόγραμμα περιήγησής σας, τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-pdf-tools/el/add-header-footer-to-pdf/",
+  "id": "/el/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

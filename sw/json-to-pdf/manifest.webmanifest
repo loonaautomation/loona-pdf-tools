@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji JSON kwenda PDF bure mtandaoni",
   "short_name": "Kibadilishaji JSON kwenda PDF bure mtandaoni",
   "description": "Badilisha JSON kuwa PDF inayoweza kusomeka na yenye kurasa mtandaoni, bure katika kivinjari chako. Huthibitishwa na kuchapishwa vizuri kwanza. Hakuna upakiaji.",
-  "id": "/loona-pdf-tools/sw/json-to-pdf/",
+  "id": "/sw/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

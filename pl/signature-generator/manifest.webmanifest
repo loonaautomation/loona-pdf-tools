@@ -2,7 +2,7 @@
   "name": "Loona Generator podpisu online za darmo",
   "short_name": "Generator podpisu online za darmo",
   "description": "Utwórz obraz podpisu za darmo online: narysuj go, wpisz swoje nazwisko stylem pisma odręcznego lub zamień zdjęcie swojego podpisu na przezroczyste. Pobierz czysty przezroczysty PNG – bez przesyłania, bez rejestracji.",
-  "id": "/loona-pdf-tools/pl/signature-generator/",
+  "id": "/pl/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

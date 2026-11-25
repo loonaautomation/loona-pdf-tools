@@ -2,7 +2,7 @@
   "name": "Loona Vyplnit formulář PDF online zdarma",
   "short_name": "Vyplnit formulář PDF online zdarma",
   "description": "Vyplňte vyplnitelný formulář PDF zdarma online. Nahrajte PDF, které má pole formuláře, pište do jeho textových polí, zaškrtávacích políček, rozbalovacích seznamů a přepínacích tlačítek, poté stáhněte vyplněné PDF. Bez registrace; vše běží soukromě ve vašem prohlížeči.",
-  "id": "/loona-pdf-tools/cs/fill-pdf-form/",
+  "id": "/cs/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

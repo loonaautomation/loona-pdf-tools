@@ -2,7 +2,7 @@
   "name": "Loona ลบคำอธิบายประกอบใน PDF ออนไลน์ฟรี",
   "short_name": "ลบคำอธิบายประกอบใน PDF ออนไลน์ฟรี",
   "description": "ลบคำอธิบายประกอบออกจาก PDF ฟรีออนไลน์: ความคิดเห็น ไฮไลต์ โน้ตติดกระดาษ ตราประทับ และมาร์กอัปถูกถอดออกในขณะที่เนื้อหาหน้ายังไม่ถูกแตะต้อง ในเบราว์เซอร์ ไม่มีการอัปโหลดใด ๆ",
-  "id": "/loona-pdf-tools/th/remove-pdf-annotations/",
+  "id": "/th/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

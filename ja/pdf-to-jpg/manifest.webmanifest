@@ -2,7 +2,7 @@
   "name": "Loona PDFをJPGに変換 オンライン無料",
   "short_name": "PDFをJPGに変換 オンライン無料",
   "description": "PDFページをJPG画像に無料でオンライン変換。標準、高、印刷品質を選び、各ページをJPGとしてダウンロードできます。登録不要。変換はブラウザで実行されます。",
-  "id": "/loona-pdf-tools/ja/pdf-to-jpg/",
+  "id": "/ja/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF से Markdown कन्वर्टर",
   "short_name": "PDF से Markdown कन्वर्टर",
   "description": "PDF को ऑनलाइन, अपने ब्राउज़र में मुफ़्त, Markdown में बदलें। फ़ॉन्ट आकारों से हेडिंग संरचना का पता लगाकर टेक्स्ट निकाला जाता है। कोई अपलोड नहीं, कोई साइनअप नहीं।",
-  "id": "/loona-pdf-tools/hi/pdf-to-markdown/",
+  "id": "/hi/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF to Word Converter",
   "short_name": "PDF to Word Converter",
   "description": "Convert a text-based PDF to an editable Word document (.docx) free in your browser. Headings, paragraphs, lists and simple tables carry over. No upload, no sign-up.",
-  "id": "/loona-pdf-tools/en-gb/pdf-to-word/",
+  "id": "/en-gb/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

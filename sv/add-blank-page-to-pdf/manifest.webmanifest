@@ -2,7 +2,7 @@
   "name": "Loona Lägg till tom sida i PDF online gratis",
   "short_name": "Lägg till tom sida i PDF online gratis",
   "description": "Infoga tomma sidor i en PDF gratis online: i början, i slutet, eller efter valfri sida, i matchande storlek med dokumentets sidor, A4 eller Letter. Direkt, i din webbläsare, ingenting laddas upp.",
-  "id": "/loona-pdf-tools/sv/add-blank-page-to-pdf/",
+  "id": "/sv/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

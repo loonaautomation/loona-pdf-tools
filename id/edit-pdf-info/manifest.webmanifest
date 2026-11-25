@@ -2,7 +2,7 @@
   "name": "Loona Edit Info PDF online gratis",
   "short_name": "Edit Info PDF online gratis",
   "description": "Lihat dan edit metadata PDF gratis secara online - judul, penulis, subjek, dan kata kunci - dan lihat jumlah halaman dan ukuran file. Tanpa pendaftaran; penyuntingan metadata berjalan di browser.",
-  "id": "/loona-pdf-tools/id/edit-pdf-info/",
+  "id": "/id/edit-pdf-info/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

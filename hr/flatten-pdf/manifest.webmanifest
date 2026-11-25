@@ -2,7 +2,7 @@
   "name": "Loona Izravnaj PDF besplatno na mreži",
   "short_name": "Izravnaj PDF besplatno na mreži",
   "description": "Izravnajte PDF besplatno na mreži: ugradite polja obrasca za ispunjavanje u stranice tako da se odgovori više ne mogu uređivati, s neobaveznom potpunom ponovnom izgradnjom slike koja izravnava sve. Privatno, u pregledniku, bez registracije.",
-  "id": "/loona-pdf-tools/hr/flatten-pdf/",
+  "id": "/hr/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

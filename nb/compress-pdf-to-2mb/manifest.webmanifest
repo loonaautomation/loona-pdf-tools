@@ -2,7 +2,7 @@
   "name": "Loona Komprimer PDF til 2 MB på nett gratis",
   "short_name": "Komprimer PDF til 2 MB på nett gratis",
   "description": "Komprimer en PDF til 2 MB eller mindre, gratis i nettleseren din. Verktøyet prøver først en tapsfri lagring på nytt, og går deretter trinnvis ned i gjengivelseskvalitet til filen din passer — og rapporterer det nøyaktige resultatet.",
-  "id": "/loona-pdf-tools/nb/compress-pdf-to-2mb/",
+  "id": "/nb/compress-pdf-to-2mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF-formulier maken online gratis",
   "short_name": "PDF-formulier maken online gratis",
   "description": "Verander gratis online elke PDF in een invulbaar formulier: voeg echte tekstvelden en selectievakjes toe precies waar je ze sleept, noem de velden en download een echte AcroForm-PDF die iedereen kan invullen. Geen upload, geen registratie.",
-  "id": "/loona-pdf-tools/nl/create-pdf-form/",
+  "id": "/nl/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

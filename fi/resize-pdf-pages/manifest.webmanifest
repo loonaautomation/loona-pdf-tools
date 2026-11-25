@@ -2,7 +2,7 @@
   "name": "Loona Muuta PDF-sivujen kokoa verkossa ilmaiseksi",
   "short_name": "Muuta PDF-sivujen kokoa verkossa ilmaiseksi",
   "description": "Muuta PDF-sivujen kokoa ilmaiseksi verkossa: muunna jokainen sivu kokoon A4, US Letter tai Legal, tai skaalaa prosentteina, sisältö skaalattuna sopimaan ja keskitettyinä. Toimii selaimessasi - mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/resize-pdf-pages/",
+  "id": "/fi/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

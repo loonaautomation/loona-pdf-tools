@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Sıkıştır",
   "short_name": "Çevrimiçi Ücretsiz PDF Sıkıştır",
   "description": "PDF dosyalarını çevrimiçi ücretsiz sıkıştırın ve e-posta veya yüklemeler için küçültün. Kayıpsız akış sıkıştırmasını veya güçlü görüntü sıkıştırmasını seçin. Gizli, tarayıcınızda.",
-  "id": "/loona-pdf-tools/tr/compress-pdf/",
+  "id": "/tr/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona BMP-ből PDF online ingyen",
   "short_name": "BMP-ből PDF online ingyen",
   "description": "Alakítson BMP képeket PDF-fé online, ingyen, a böngészőjében. Oldalanként egy kép, képhez igazított vagy A4/Letter oldalak. Feltöltés és regisztráció nélkül.",
-  "id": "/loona-pdf-tools/hu/bmp-to-pdf/",
+  "id": "/hu/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

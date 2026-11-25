@@ -2,7 +2,7 @@
   "name": "Loona PDF kwenda PNG bure mtandaoni",
   "short_name": "PDF kwenda PNG bure mtandaoni",
   "description": "Badilisha kurasa za PDF kuwa picha za PNG bure mtandaoni kwa mwonekano wa hadi mara 3, uwazi ukihifadhiwa. Pakua kila ukurasa kando. Kwa faragha, katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/pdf-to-png/",
+  "id": "/sw/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

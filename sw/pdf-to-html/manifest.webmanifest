@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji PDF kwenda HTML bure mtandaoni",
   "short_name": "Kibadilishaji PDF kwenda HTML bure mtandaoni",
   "description": "Badilisha PDF kuwa HTML mtandaoni, bure katika kivinjari chako. Maandishi hutolewa muundo wa vichwa ukitambuliwa kutoka ukubwa wa fonti. Hakuna upakiaji, hakuna kujisajili.",
-  "id": "/loona-pdf-tools/sw/pdf-to-html/",
+  "id": "/sw/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

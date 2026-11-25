@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa PDF tiettyyn kokoon verkossa ilmaiseksi",
   "short_name": "Pakkaa PDF tiettyyn kokoon verkossa ilmaiseksi",
   "description": "Pakkaa PDF tarkkaan tavoitteeseen: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — sekä sähköpostin (10 MB) ja WhatsAppin (16 MB) esiasetukset. Ilmaiseksi, selaimessasi.",
-  "id": "/loona-pdf-tools/fi/compress-pdf-to-size/",
+  "id": "/fi/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona แปลง JPG เป็น PDF ออนไลน์ฟรี",
   "short_name": "แปลง JPG เป็น PDF ออนไลน์ฟรี",
   "description": "แปลงรูปภาพ JPG เป็น PDF ฟรีออนไลน์ รวมรูปถ่ายเป็น PDF หนึ่งไฟล์ด้วยหน้า A4, Letter หรือพอดีตามลำดับของคุณ ไม่ต้องสมัคร ทำงานเป็นส่วนตัวในเบราว์เซอร์",
-  "id": "/loona-pdf-tools/th/jpg-to-pdf/",
+  "id": "/th/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

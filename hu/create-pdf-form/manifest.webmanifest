@@ -2,7 +2,7 @@
   "name": "Loona PDF űrlap készítése online ingyen",
   "short_name": "PDF űrlap készítése online ingyen",
   "description": "Alakítson bármely PDF-et kitölthető űrlappá ingyen, online: adjon hozzá valódi szövegmezőket és jelölőnégyzeteket pontosan oda, ahová húzza őket, nevezze el a mezőket, és töltsön le egy valódi AcroForm PDF-et, amelyet bárki kitölthet. Feltöltés nélkül, regisztráció nélkül.",
-  "id": "/loona-pdf-tools/hu/create-pdf-form/",
+  "id": "/hu/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

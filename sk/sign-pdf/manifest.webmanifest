@@ -2,7 +2,7 @@
   "name": "Loona Podpísať PDF online zadarmo",
   "short_name": "Podpísať PDF online zadarmo",
   "description": "Podpíšte PDF zadarmo online. Nakreslite svoj podpis alebo nahrajte jeho obrázok, umiestnite ho so živým náhľadom a stiahnite si podpísané PDF. Súkromne - nič sa nenahráva.",
-  "id": "/loona-pdf-tools/sk/sign-pdf/",
+  "id": "/sk/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

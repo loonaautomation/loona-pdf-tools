@@ -2,7 +2,7 @@
   "name": "Loona Fjern PDF-annotationer online gratis",
   "short_name": "Fjern PDF-annotationer online gratis",
   "description": "Fjern gratis annotationer fra en PDF online: kommentarer, fremhævninger, klæbenoter, stempler og markering fjernes, mens sideindholdet forbliver urørt. I browseren, intet uploades.",
-  "id": "/loona-pdf-tools/da/remove-pdf-annotations/",
+  "id": "/da/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

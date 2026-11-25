@@ -2,7 +2,7 @@
   "name": "Loona Конвертер HTML в PDF",
   "short_name": "Loona Конвертер HTML в PDF",
   "description": "Преобразуйте HTML в PDF онлайн, бесплатно, используя собственный движок печати в PDF вашего браузера — полная поддержка CSS, без загрузки, без водяных знаков.",
-  "id": "/loona-pdf-tools/ru/html-to-pdf/",
+  "id": "/ru/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

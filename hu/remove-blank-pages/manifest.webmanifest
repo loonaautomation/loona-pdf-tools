@@ -2,7 +2,7 @@
   "name": "Loona Üres oldalak eltávolítása online ingyen",
   "short_name": "Üres oldalak eltávolítása online ingyen",
   "description": "Távolítsa el az üres oldalakat egy PDF-ből ingyen, online: az oldalak megjelennek és képpontonként ellenőrződnek, a közel üres oldalak őszintén, tintafedettségükkel együtt listázódnak és eltávolításra kerülnek – a tartalmi oldalak érintetlenek maradnak. Böngészőben.",
-  "id": "/loona-pdf-tools/hu/remove-blank-pages/",
+  "id": "/hu/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

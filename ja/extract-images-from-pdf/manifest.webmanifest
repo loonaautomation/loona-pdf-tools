@@ -2,7 +2,7 @@
   "name": "Loona PDFから画像を抽出 オンライン無料",
   "short_name": "PDFから画像を抽出 オンライン無料",
   "description": "PDFに埋め込まれた元の画像を無料でオンライン抽出：写真やグラフィックが、保存された解像度のままPNGファイルとして取り出されます。スクリーンショットではありません。ブラウザ上で100%、アップロードは一切ありません。",
-  "id": "/loona-pdf-tools/ja/extract-images-from-pdf/",
+  "id": "/ja/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

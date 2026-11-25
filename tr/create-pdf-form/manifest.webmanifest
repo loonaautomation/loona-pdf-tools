@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Formu Oluştur",
   "short_name": "Çevrimiçi Ücretsiz PDF Formu Oluştur",
   "description": "Herhangi bir PDF'yi çevrimiçi ücretsiz olarak doldurulabilir bir forma dönüştürün: gerçek metin alanları ve onay kutularını tam sürüklediğiniz yere ekleyin, alanları adlandırın ve herkesin doldurabileceği gerçek bir AcroForm PDF'si indirin. Yükleme yok, kayıt yok.",
-  "id": "/loona-pdf-tools/tr/create-pdf-form/",
+  "id": "/tr/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

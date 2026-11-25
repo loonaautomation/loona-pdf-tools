@@ -2,7 +2,7 @@
   "name": "Loona PDF से WebP ऑनलाइन मुफ़्त",
   "short_name": "PDF से WebP ऑनलाइन मुफ़्त",
   "description": "PDF पृष्ठों को मुफ़्त ऑनलाइन WebP चित्रों में बदलें: वेबसाइटों के लिए JPG और PNG से छोटे, आपके ब्राउज़र में आपके चुने रिज़ॉल्यूशन पर रेंडर किए गए। कुछ भी अपलोड नहीं, कोई साइन-अप नहीं।",
-  "id": "/loona-pdf-tools/hi/pdf-to-webp/",
+  "id": "/hi/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

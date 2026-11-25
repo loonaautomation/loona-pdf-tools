@@ -2,7 +2,7 @@
   "name": "Loona Prevodník PDF do Excelu",
   "short_name": "Loona Prevodník PDF do Excelu",
   "description": "Prevádzajte tabuľky PDF do tabuliek Excel (.xlsx) zadarmo vo svojom prehliadači. Pred stiahnutím si prezrite a opravte každú bunku. Bez nahrávania, bez registrácie — váš súbor nikdy neopustí vaše zariadenie.",
-  "id": "/loona-pdf-tools/sk/pdf-to-excel/",
+  "id": "/sk/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona BMP naar PDF-converter online gratis",
   "short_name": "BMP naar PDF-converter online gratis",
   "description": "Converteer BMP-afbeeldingen online naar een PDF, gratis, in je browser. Eén afbeelding per pagina, aanpassen aan afbeelding of A4/Letter-pagina's. Geen upload, geen registratie.",
-  "id": "/loona-pdf-tools/nl/bmp-to-pdf/",
+  "id": "/nl/bmp-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV naar PDF-converter online gratis",
   "short_name": "CSV naar PDF-converter online gratis",
   "description": "Converteer CSV-gegevens online naar een nette, gepagineerde PDF-tabel, gratis in je browser. Vette herhalende kopregel, passende kolommen. Geen upload.",
-  "id": "/loona-pdf-tools/nl/csv-to-pdf/",
+  "id": "/nl/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

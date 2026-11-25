@@ -2,7 +2,7 @@
   "name": "Loona Komprimovat PDF na velikost online zdarma",
   "short_name": "Komprimovat PDF na velikost online zdarma",
   "description": "Komprimujte PDF na přesný cíl: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — plus předvolby pro e-mail (10 MB) a WhatsApp (16 MB). Zdarma, ve vašem prohlížeči.",
-  "id": "/loona-pdf-tools/cs/compress-pdf-to-size/",
+  "id": "/cs/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

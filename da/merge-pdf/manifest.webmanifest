@@ -2,7 +2,7 @@
   "name": "Loona Flet PDF online gratis",
   "short_name": "Flet PDF online gratis",
   "description": "Flet gratis PDF-filer til ét dokument online. Kombinér flere PDF'er, træk for at ændre deres rækkefølge, ingen tilmelding nødvendig. Filer behandles privat i din browser.",
-  "id": "/loona-pdf-tools/da/merge-pdf/",
+  "id": "/da/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

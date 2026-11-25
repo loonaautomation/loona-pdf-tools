@@ -2,7 +2,7 @@
   "name": "Loona PDF से JPG ऑनलाइन मुफ़्त",
   "short_name": "PDF से JPG ऑनलाइन मुफ़्त",
   "description": "PDF पृष्ठों को मुफ़्त ऑनलाइन JPG चित्रों में बदलें। मानक, उच्च या प्रिंट गुणवत्ता चुनें और हर पृष्ठ को JPG के रूप में डाउनलोड करें। कोई साइन-अप नहीं; बदलाव आपके ब्राउज़र में चलता है।",
-  "id": "/loona-pdf-tools/hi/pdf-to-jpg/",
+  "id": "/hi/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

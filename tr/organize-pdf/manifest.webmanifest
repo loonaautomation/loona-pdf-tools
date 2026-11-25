@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Düzenle",
   "short_name": "Çevrimiçi Ücretsiz PDF Düzenle",
   "description": "PDF sayfalarını çevrimiçi ücretsiz düzenleyin: sayfaları yeniden sıralamak için küçük resimleri sürükleyin, yan sayfaları döndürün ve ihtiyacınız olmayan sayfaları silin. Kayıt yok. Dosyalar tarayıcınızda gizlice işlenir.",
-  "id": "/loona-pdf-tools/tr/organize-pdf/",
+  "id": "/tr/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

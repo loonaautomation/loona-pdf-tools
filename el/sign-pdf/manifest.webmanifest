@@ -2,7 +2,7 @@
   "name": "Loona Υπογραφή PDF Online Δωρεάν",
   "short_name": "Υπογραφή PDF Online Δωρεάν",
   "description": "Υπογράψτε ένα PDF δωρεάν online. Σχεδιάστε την υπογραφή σας ή μεταφορτώστε την εικόνα της, τοποθετήστε την με ζωντανή προεπισκόπηση, και κατεβάστε το υπογεγραμμένο PDF. Ιδιωτικό - τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-pdf-tools/el/sign-pdf/",
+  "id": "/el/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

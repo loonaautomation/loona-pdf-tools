@@ -2,7 +2,7 @@
   "name": "Loona Разделить PDF",
   "short_name": "Loona Разделить PDF",
   "description": "Разделите PDF на отдельные файлы бесплатно онлайн. Извлекайте каждую страницу как отдельный PDF или разделяйте по диапазонам страниц. Без регистрации, и ваш файл никогда не покидает ваш браузер.",
-  "id": "/loona-pdf-tools/ru/split-pdf/",
+  "id": "/ru/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

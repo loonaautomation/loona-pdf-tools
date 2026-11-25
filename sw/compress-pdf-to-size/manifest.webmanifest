@@ -2,7 +2,7 @@
   "name": "Loona Bana PDF hadi Ukubwa Maalum bure mtandaoni",
   "short_name": "Bana PDF hadi Ukubwa Maalum bure mtandaoni",
   "description": "Bana PDF hadi lengo kamili: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — pamoja na mipangilio ya barua pepe (10 MB) na WhatsApp (16 MB). Bure, katika kivinjari chako.",
-  "id": "/loona-pdf-tools/sw/compress-pdf-to-size/",
+  "id": "/sw/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

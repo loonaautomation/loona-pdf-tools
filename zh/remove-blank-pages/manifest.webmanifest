@@ -2,7 +2,7 @@
   "name": "Loona 删除空白页 在线免费",
   "short_name": "删除空白页 在线免费",
   "description": "在线免费从 PDF 中删除空白页：页面被渲染并逐像素检查，近乎空白的页面连同其墨迹覆盖率诚实地列出，并被删除——内容页面保持不变。在浏览器中完成。",
-  "id": "/loona-pdf-tools/zh/remove-blank-pages/",
+  "id": "/zh/remove-blank-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

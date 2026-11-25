@@ -2,7 +2,7 @@
   "name": "Loona محوّلات PDF – كل أدوات التحويل إلى PDF ومن PDF",
   "short_name": "محوّلات PDF – كل أدوات التحويل إلى PDF ومن PDF",
   "description": "كل محوّل PDF في مكان واحد: الصور وCSV وJSON وHTML وMarkdown إلى PDF — وPDF رجوعًا إلى الصور والنص وHTML وMarkdown. مجانًا، في متصفحك.",
-  "id": "/loona-pdf-tools/ar/pdf-converters/",
+  "id": "/ar/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

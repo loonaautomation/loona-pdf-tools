@@ -2,7 +2,7 @@
   "name": "Loona Flat ut PDF på nett gratis",
   "short_name": "Flat ut PDF på nett gratis",
   "description": "Flat ut en PDF gratis på nett: bak utfyllbare skjemafelt inn i sidene slik at svar ikke lenger kan redigeres, med en valgfri full bildeombygging som flater ut alt. Privat, i nettleseren, ingen registrering.",
-  "id": "/loona-pdf-tools/nb/flatten-pdf/",
+  "id": "/nb/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

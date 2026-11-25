@@ -2,7 +2,7 @@
   "name": "Loona Mampatkan PDF kepada 2 MB dalam talian percuma",
   "short_name": "Mampatkan PDF kepada 2 MB dalam talian percuma",
   "description": "Mampatkan PDF kepada 2 MB atau kurang, secara percuma dalam pelayar anda. Alat ini mencuba simpanan semula tanpa kehilangan dahulu, kemudian menurunkan kualiti paparan langkah demi langkah sehingga fail anda muat — dan melaporkan hasil yang tepat.",
-  "id": "/loona-pdf-tools/ms/compress-pdf-to-2mb/",
+  "id": "/ms/compress-pdf-to-2mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

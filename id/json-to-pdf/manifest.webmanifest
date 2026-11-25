@@ -2,7 +2,7 @@
   "name": "Loona JSON ke PDF online gratis",
   "short_name": "JSON ke PDF online gratis",
   "description": "Konversi JSON ke PDF yang dapat dibaca dan berpaginasi secara online, gratis di browser Anda. Divalidasi dan dicetak rapi terlebih dahulu. Tanpa unggahan.",
-  "id": "/loona-pdf-tools/id/json-to-pdf/",
+  "id": "/id/json-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

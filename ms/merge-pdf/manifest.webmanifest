@@ -2,7 +2,7 @@
   "name": "Loona Gabungkan PDF dalam talian percuma",
   "short_name": "Gabungkan PDF dalam talian percuma",
   "description": "Gabungkan fail PDF menjadi satu dokumen secara percuma dalam talian. Gabungkan berbilang PDF, seret untuk menyusun semula, tiada pendaftaran diperlukan. Fail diproses secara peribadi dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/merge-pdf/",
+  "id": "/ms/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

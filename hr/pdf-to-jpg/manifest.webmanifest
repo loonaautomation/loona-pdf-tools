@@ -2,7 +2,7 @@
   "name": "Loona PDF u JPG besplatno na mreži",
   "short_name": "PDF u JPG besplatno na mreži",
   "description": "Pretvorite stranice PDF-a u JPG slike besplatno na mreži. Odaberite standardnu, visoku ili kvalitetu za ispis i preuzmite svaku stranicu kao JPG. Bez registracije; pretvaranje se odvija u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/pdf-to-jpg/",
+  "id": "/hr/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

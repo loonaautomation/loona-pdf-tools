@@ -2,7 +2,7 @@
   "name": "Loona PDFフォームを作成 オンライン無料",
   "short_name": "PDFフォームを作成 オンライン無料",
   "description": "任意のPDFを、無料でオンライン入力可能なフォームに変えます：ドラッグした正確な場所に、本物のテキストフィールドとチェックボックスを追加し、フィールドに名前を付け、誰でも入力できる本物のAcroForm PDFをダウンロードできます。アップロードなし、登録なし。",
-  "id": "/loona-pdf-tools/ja/create-pdf-form/",
+  "id": "/ja/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

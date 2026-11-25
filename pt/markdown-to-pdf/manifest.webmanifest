@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Markdown para PDF",
   "short_name": "Conversor de Markdown para PDF",
   "description": "Converter Markdown num PDF com estilo online, grátis no seu navegador. Títulos, listas, código e ligações reproduzidos com pré-visualização em direto. Sem carregamentos.",
-  "id": "/loona-pdf-tools/pt/markdown-to-pdf/",
+  "id": "/pt/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Platta till PDF online gratis",
   "short_name": "Platta till PDF online gratis",
   "description": "Platta till en PDF gratis online: baka in ifyllbara formulärfält i sidorna så att svar inte längre kan redigeras, med en valfri fullständig bildombyggnad som plattar till allt. Privat, i webbläsaren, ingen registrering.",
-  "id": "/loona-pdf-tools/sv/flatten-pdf/",
+  "id": "/sv/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

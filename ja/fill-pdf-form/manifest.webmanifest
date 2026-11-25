@@ -2,7 +2,7 @@
   "name": "Loona PDFフォームに入力 オンライン無料",
   "short_name": "PDFフォームに入力 オンライン無料",
   "description": "入力可能なPDFフォームに無料でオンライン入力。フォームフィールドのあるPDFをアップロードし、テキストボックス、チェックボックス、ドロップダウン、ラジオボタンに入力して、完成したPDFをダウンロードできます。登録不要。すべてブラウザ内でプライベートに実行されます。",
-  "id": "/loona-pdf-tools/ja/fill-pdf-form/",
+  "id": "/ja/fill-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF Editor bure mtandaoni",
   "short_name": "Loona PDF Editor",
   "description": "Hariri faili za PDF bure mtandaoni kwa Loona PDF Editor: ongeza maandishi, picha, maumbo na vivutio, funika makosa kwa kifutio cheupe, chora au andika saini, kisha pakua faili yako iliyokamilika. Kila kitu huendeshwa ndani ya kivinjari chako - faili yako haiondoki kamwe kwenye kifaa chako. Hakuna kujisajili, hakuna kikomo cha kurasa, hakuna alama za maji.",
-  "id": "/loona-pdf-tools/sw/pdf-editor/",
+  "id": "/sw/pdf-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

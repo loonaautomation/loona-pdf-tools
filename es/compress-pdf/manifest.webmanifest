@@ -2,7 +2,7 @@
   "name": "Loona Comprimir PDF en línea gratis",
   "short_name": "Comprimir PDF en línea gratis",
   "description": "Comprime archivos PDF gratis en línea y redúcelos para correo electrónico o subidas. Elige compresión de flujo sin pérdida o compresión de imagen fuerte. Privado, en tu navegador.",
-  "id": "/loona-pdf-tools/es/compress-pdf/",
+  "id": "/es/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

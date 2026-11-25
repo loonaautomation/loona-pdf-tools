@@ -2,7 +2,7 @@
   "name": "Loona PDFを修復 オンライン無料",
   "short_name": "PDFを修復 オンライン無料",
   "description": "破損したPDFを無料でオンライン修復：壊れた相互参照表を再構築し、きれいなコピーを再保存します。最後の手段としてページ画像の再構築もあります。正直な制限を明示。ブラウザ上で100%。",
-  "id": "/loona-pdf-tools/ja/repair-pdf/",
+  "id": "/ja/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

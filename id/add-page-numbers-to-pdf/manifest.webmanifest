@@ -2,7 +2,7 @@
   "name": "Loona Tambah Nomor Halaman ke PDF online gratis",
   "short_name": "Tambah Nomor Halaman ke PDF online gratis",
   "description": "Tambahkan nomor halaman ke PDF gratis secara online. Pilih gaya (1, Page 1, 1 of 10), posisi, dan nomor awal. Tanpa pendaftaran; penomoran dilakukan secara privat di browser Anda.",
-  "id": "/loona-pdf-tools/id/add-page-numbers-to-pdf/",
+  "id": "/id/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

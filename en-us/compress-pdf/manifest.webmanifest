@@ -2,7 +2,7 @@
   "name": "Loona Compress PDF Online - Free",
   "short_name": "Compress PDF Online - Free",
   "description": "Compress PDF files free online and shrink them for email or uploads. Choose lossless stream compression or strong image compression. Private, in your browser.",
-  "id": "/loona-pdf-tools/en-us/compress-pdf/",
+  "id": "/en-us/compress-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

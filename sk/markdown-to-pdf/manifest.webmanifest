@@ -2,7 +2,7 @@
   "name": "Loona Prevodník Markdown do PDF online zadarmo",
   "short_name": "Prevodník Markdown do PDF online zadarmo",
   "description": "Preveďte Markdown do štylizovaného PDF online, zadarmo vo vašom prehliadači. Nadpisy, zoznamy, kód a odkazy vykreslené so živým náhľadom. Bez nahrávania.",
-  "id": "/loona-pdf-tools/sk/markdown-to-pdf/",
+  "id": "/sk/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

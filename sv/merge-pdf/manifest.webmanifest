@@ -2,7 +2,7 @@
   "name": "Loona Slå samman PDF online gratis",
   "short_name": "Slå samman PDF online gratis",
   "description": "Slå samman PDF-filer till ett dokument gratis online. Kombinera flera PDF:er, dra för att ändra deras ordning, ingen registrering behövs. Filer bearbetas privat i din webbläsare.",
-  "id": "/loona-pdf-tools/sv/merge-pdf/",
+  "id": "/sv/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

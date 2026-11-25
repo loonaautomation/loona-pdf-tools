@@ -2,7 +2,7 @@
   "name": "Loona Dodaj praznu stranicu u PDF besplatno na mreži",
   "short_name": "Dodaj praznu stranicu u PDF besplatno na mreži",
   "description": "Umetnite prazne stranice u PDF besplatno na mreži: na početak, na kraj ili nakon bilo koje stranice, u skladu s veličinom stranica dokumenta, A4 ili Letter. Odmah, u vašem pregledniku, ništa se ne prenosi.",
-  "id": "/loona-pdf-tools/hr/add-blank-page-to-pdf/",
+  "id": "/hr/add-blank-page-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

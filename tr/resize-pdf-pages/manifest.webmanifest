@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Sayfalarını",
   "short_name": "Çevrimiçi Ücretsiz PDF Sayfalarını",
   "description": "PDF sayfalarını çevrimiçi ücretsiz yeniden boyutlandırın: her sayfayı A4, US Letter veya Legal'a dönüştürün ya da yüzdeyle ölçeklendirin; içerik sığacak şekilde ölçeklendirilir ve ortalanır. Tarayıcınızda çalışır; hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/resize-pdf-pages/",
+  "id": "/tr/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF کنورٹر",
   "short_name": "PDF کنورٹر",
   "description": "ہر PDF کنورٹر ایک جگہ پر: تصاویر، CSV، JSON، HTML اور Markdown سے PDF — اور PDF سے واپس تصاویر، متن، HTML اور Markdown۔ مفت، آپ کے براؤزر میں۔",
-  "id": "/loona-pdf-tools/ur/pdf-converters/",
+  "id": "/ur/pdf-converters/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

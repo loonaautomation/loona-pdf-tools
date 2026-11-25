@@ -2,7 +2,7 @@
   "name": "Loona דחיסת PDF ל-50 KB מקוון – בחינם, יעד מובטח",
   "short_name": "דחיסת PDF ל-50 KB מקוון – בחינם, יעד מובטח",
   "description": "דחסו PDF ל-50 KB או פחות, בחינם בדפדפן שלכם. הכלי מנסה תחילה שמירה מחדש ללא אובדן, ואז מוריד את איכות העיבוד צעד אחר צעד עד שהקובץ שלכם מתאים — ומדווח על התוצאה המדויקת.",
-  "id": "/loona-pdf-tools/he/compress-pdf-to-50kb/",
+  "id": "/he/compress-pdf-to-50kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

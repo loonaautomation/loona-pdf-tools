@@ -2,7 +2,7 @@
   "name": "Loona Lägg till sidhuvud och sidfot online gratis",
   "short_name": "Lägg till sidhuvud och sidfot online gratis",
   "description": "Lägg till sidhuvud och sidfot på varje PDF-sida gratis online: anpassad text, sidnummer med formaten Sida X av Y, justering och teckenstorlek - allt i din webbläsare, ingenting laddas upp.",
-  "id": "/loona-pdf-tools/sv/add-header-footer-to-pdf/",
+  "id": "/sv/add-header-footer-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

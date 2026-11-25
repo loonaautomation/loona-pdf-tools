@@ -2,7 +2,7 @@
   "name": "Loona PDF'den Excel'e Dönüştürücü",
   "short_name": "PDF'den Excel'e Dönüştürücü",
   "description": "PDF tablolarını tarayıcınızda ücretsiz olarak Excel (.xlsx) elektronik tablolarına dönüştürün. İndirmeden önce her hücrenin önizlemesini görün ve düzeltin. Yükleme yok, kayıt yok — dosyanız cihazınızdan asla ayrılmaz.",
-  "id": "/loona-pdf-tools/tr/pdf-to-excel/",
+  "id": "/tr/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

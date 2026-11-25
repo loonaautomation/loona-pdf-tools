@@ -2,7 +2,7 @@
   "name": "Loona PDFを整理 オンライン無料",
   "short_name": "PDFを整理 オンライン無料",
   "description": "PDFページを無料でオンライン整理：サムネイルをドラッグしてページを並べ替え、横向きのページを回転し、不要なページを削除できます。登録不要。ファイルはブラウザ内でプライベートに処理されます。",
-  "id": "/loona-pdf-tools/ja/organize-pdf/",
+  "id": "/ja/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

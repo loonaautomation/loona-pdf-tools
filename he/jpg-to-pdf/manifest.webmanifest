@@ -2,7 +2,7 @@
   "name": "Loona JPG ל-PDF מקוון בחינם",
   "short_name": "JPG ל-PDF מקוון בחינם",
   "description": "המירו תמונות JPG ל-PDF בחינם באינטרנט. שלבו תמונות ל-PDF אחד עם עמודי A4, Letter או התאמה, בסדר שלכם. ללא הרשמה - עובד בפרטיות בדפדפן.",
-  "id": "/loona-pdf-tools/he/jpg-to-pdf/",
+  "id": "/he/jpg-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

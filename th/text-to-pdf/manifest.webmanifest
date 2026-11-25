@@ -2,7 +2,7 @@
   "name": "Loona แปลงข้อความเป็น PDF ออนไลน์ฟรี",
   "short_name": "แปลงข้อความเป็น PDF ออนไลน์ฟรี",
   "description": "แปลงข้อความเป็น PDF ฟรีออนไลน์ วางข้อความของคุณ เลือกขนาดฟอนต์และหน้า A4 หรือ Letter แล้วดาวน์โหลด PDF ที่สะอาด ไม่ต้องสมัคร สร้างเป็นส่วนตัวในเบราว์เซอร์",
-  "id": "/loona-pdf-tools/th/text-to-pdf/",
+  "id": "/th/text-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

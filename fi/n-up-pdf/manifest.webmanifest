@@ -2,7 +2,7 @@
   "name": "Loona PDF N-up verkossa ilmaiseksi",
   "short_name": "PDF N-up verkossa ilmaiseksi",
   "description": "Aseta useita PDF-sivuja yhdelle arkille ilmaiseksi verkossa: 2-up-, 4-up-, 6-up- tai 9-up-asettelut A4- tai Letter-koossa, lukujärjestyksessä. Säästää paperia monisteissa ja luonnoksissa. Selaimessa, mitään ei ladata palvelimelle.",
-  "id": "/loona-pdf-tools/fi/n-up-pdf/",
+  "id": "/fi/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF til WebP på nett gratis",
   "short_name": "PDF til WebP på nett gratis",
   "description": "Konverter PDF-sider til WebP-bilder gratis på nett: mindre enn JPG og PNG for nettsteder, gjengitt i oppløsningen du velger i nettleseren din. Ingenting lastes opp, ingen registrering.",
-  "id": "/loona-pdf-tools/nb/pdf-to-webp/",
+  "id": "/nb/pdf-to-webp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

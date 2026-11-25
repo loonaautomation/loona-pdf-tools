@@ -2,7 +2,7 @@
   "name": "Loona N-up PDF Online Free",
   "short_name": "N-up PDF Online Free",
   "description": "Put multiple PDF pages on one sheet free online: 2-up, 4-up, 6-up or 9-up layouts on A4 or Letter, in reading order. Saves paper for handouts and drafts. In-browser, nothing uploaded.",
-  "id": "/loona-pdf-tools/n-up-pdf/",
+  "id": "/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

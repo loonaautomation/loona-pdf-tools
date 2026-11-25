@@ -2,7 +2,7 @@
   "name": "Loona تحويل PDF إلى نص عبر الإنترنت مجانًا",
   "short_name": "تحويل PDF إلى نص عبر الإنترنت مجانًا",
   "description": "استخرج النص من PDF مجانًا عبر الإنترنت. احصل على النص الكامل لكل صفحة للنسخ أو التنزيل كملف TXT. دون تسجيل، ولا يغادر ملف PDF متصفحك أبدًا.",
-  "id": "/loona-pdf-tools/ar/pdf-to-text/",
+  "id": "/ar/pdf-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

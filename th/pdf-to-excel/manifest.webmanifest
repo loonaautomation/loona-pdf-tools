@@ -2,7 +2,7 @@
   "name": "Loona แปลง PDF เป็น Excel",
   "short_name": "แปลง PDF เป็น Excel",
   "description": "Convert PDF tables to Excel (.xlsx) spreadsheets free in your browser. Preview and fix every cell before you download. No upload, no sign-up — your file never leaves your device.",
-  "id": "/loona-pdf-tools/th/pdf-to-excel/",
+  "id": "/th/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

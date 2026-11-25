@@ -2,7 +2,7 @@
   "name": "Loona PDF do PNG online zadarmo",
   "short_name": "PDF do PNG online zadarmo",
   "description": "Preveďte stránky PDF do obrázkov PNG zadarmo online s rozlíšením až 3x, so zachovanou priehľadnosťou. Stiahnite si každú stránku osobitne. Súkromne, vo vašom prehliadači.",
-  "id": "/loona-pdf-tools/sk/pdf-to-png/",
+  "id": "/sk/pdf-to-png/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

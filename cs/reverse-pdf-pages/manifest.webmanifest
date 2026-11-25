@@ -2,7 +2,7 @@
   "name": "Loona Obrátit pořadí stránek PDF online zdarma",
   "short_name": "Obrátit pořadí stránek PDF online zdarma",
   "description": "Obraťte pořadí stránek PDF zdarma online - poslední stránka se stane první. Perfektní pro opravu skenů v obráceném pořadí. Okamžitě, ve vašem prohlížeči, nic se nenahrává.",
-  "id": "/loona-pdf-tools/cs/reverse-pdf-pages/",
+  "id": "/cs/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

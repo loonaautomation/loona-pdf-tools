@@ -2,7 +2,7 @@
   "name": "Loona Opdel PDF online gratis",
   "short_name": "Opdel PDF online gratis",
   "description": "Opdel gratis en PDF i separate filer online. Udtræk hver side som sin egen PDF, eller opdel efter sideintervaller. Ingen tilmelding, og din fil forlader aldrig din browser.",
-  "id": "/loona-pdf-tools/da/split-pdf/",
+  "id": "/da/split-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل PDF إلى Word – مجاني، دون رفع",
   "short_name": "محوّل PDF إلى Word – مجاني، دون رفع",
   "description": "حوّل ملف PDF نصيًا إلى مستند Word قابل للتحرير (.docx) مجانًا في متصفحك. تنتقل العناوين والفقرات والقوائم والجداول البسيطة. دون رفع ودون تسجيل.",
-  "id": "/loona-pdf-tools/ar/pdf-to-word/",
+  "id": "/ar/pdf-to-word/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

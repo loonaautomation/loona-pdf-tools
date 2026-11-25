@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "在线免费在您的浏览器中将 Word .docx 文档转换为干净、易读的 PDF。标题、列表、表格和图片都会保留。您的文件从不上传——转换完全在您的设备上进行。",
-  "id": "/loona-pdf-tools/zh/word-to-pdf/",
+  "id": "/zh/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Word to PDF Converter",
   "short_name": "Word to PDF Converter",
   "description": "Ubah dokumen Word .docx menjadi PDF yang bersih dan mudah dibaca secara online, gratis di browser Anda. Judul, daftar, tabel, dan gambar ikut terbawa. File Anda tidak pernah diunggah — konversi terjadi sepenuhnya di perangkat Anda.",
-  "id": "/loona-pdf-tools/id/word-to-pdf/",
+  "id": "/id/word-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

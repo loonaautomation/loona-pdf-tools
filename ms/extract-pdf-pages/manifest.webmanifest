@@ -2,7 +2,7 @@
   "name": "Loona Ekstrak Halaman PDF dalam talian percuma",
   "short_name": "Ekstrak Halaman PDF dalam talian percuma",
   "description": "Ekstrak halaman pilihan daripada PDF secara percuma dalam talian. Masukkan halaman seperti 3, 5-8 dan muat turunnya sebagai PDF baharu yang lebih kecil. Tanpa pendaftaran; pengekstrakan berjalan dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/extract-pdf-pages/",
+  "id": "/ms/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

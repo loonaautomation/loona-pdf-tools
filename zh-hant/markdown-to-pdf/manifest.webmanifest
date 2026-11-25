@@ -2,7 +2,7 @@
   "name": "Loona Markdown 轉 PDF 線上免費",
   "short_name": "Markdown 轉 PDF 線上免費",
   "description": "線上免費在您的瀏覽器中將 Markdown 轉換為帶樣式的 PDF。標題、列表、程式碼和連結帶實時預覽渲染。不上傳。",
-  "id": "/loona-pdf-tools/zh-hant/markdown-to-pdf/",
+  "id": "/zh-hant/markdown-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

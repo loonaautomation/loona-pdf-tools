@@ -2,7 +2,7 @@
   "name": "Loona PDF în Markdown online gratuit",
   "short_name": "PDF în Markdown online gratuit",
   "description": "Convertește un PDF în Markdown online, gratuit în browserul tău. Textul este extras cu structura titlurilor detectată din dimensiunile fonturilor. Fără încărcare, fără înregistrare.",
-  "id": "/loona-pdf-tools/ro/pdf-to-markdown/",
+  "id": "/ro/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

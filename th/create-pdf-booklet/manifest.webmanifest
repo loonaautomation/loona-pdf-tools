@@ -2,7 +2,7 @@
   "name": "Loona สร้างเล่ม PDF ออนไลน์ฟรี",
   "short_name": "สร้างเล่ม PDF ออนไลน์ฟรี",
   "description": "สร้าง PDF เล่มที่พิมพ์ได้ฟรีออนไลน์: หน้าถูกจัดวางในลำดับเล่มจริงบนแผ่นแนวนอน พิมพ์สองหน้า พับ เย็บ หน้าว่างเสริมให้ครบจำนวนทวีคูณของสี่โดยอัตโนมัติ",
-  "id": "/loona-pdf-tools/th/create-pdf-booklet/",
+  "id": "/th/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

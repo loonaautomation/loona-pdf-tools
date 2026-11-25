@@ -2,7 +2,7 @@
   "name": "Loona Saiz Halaman PDF & Maklumat dalam talian percuma",
   "short_name": "Saiz Halaman PDF & Maklumat dalam talian percuma",
   "description": "Semak saiz halaman PDF secara percuma dalam talian: dimensi setiap halaman dalam poin, milimeter dan inci, saiz piawai terdekatnya (A4, Letter...), putaran, ditambah tajuk, pengarang dan versi PDF. Tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/pdf-page-sizes/",
+  "id": "/ms/pdf-page-sizes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

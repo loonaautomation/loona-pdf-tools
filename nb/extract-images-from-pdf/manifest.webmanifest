@@ -2,7 +2,7 @@
   "name": "Loona Hent bilder ut av PDF på nett gratis",
   "short_name": "Hent bilder ut av PDF på nett gratis",
   "description": "Hent ut de originale bildene som er bygget inn i en PDF, gratis på nett: fotoer og grafikk trekkes ut i den lagrede oppløsningen deres som PNG-filer - ikke skjermbilder. 100% i nettleseren din, ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/extract-images-from-pdf/",
+  "id": "/nb/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

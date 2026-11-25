@@ -2,7 +2,7 @@
   "name": "Loona Skapa PDF-häfte online gratis",
   "short_name": "Skapa PDF-häfte online gratis",
   "description": "Gör en utskriftsbar häftes-PDF gratis online: sidor läggs ut i äkta häftesordning på liggande ark - skriv ut dubbelsidigt, vik, häfta. Tomma sidor fyller ut till en multipel av fyra automatiskt.",
-  "id": "/loona-pdf-tools/sv/create-pdf-booklet/",
+  "id": "/sv/create-pdf-booklet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

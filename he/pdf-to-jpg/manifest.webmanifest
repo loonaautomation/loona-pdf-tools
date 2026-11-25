@@ -2,7 +2,7 @@
   "name": "Loona PDF ל-JPG מקוון בחינם",
   "short_name": "PDF ל-JPG מקוון בחינם",
   "description": "המירו עמודי PDF לתמונות JPG בחינם באינטרנט. בחרו איכות סטנדרטית, גבוהה או הדפסה והורידו כל עמוד כ-JPG. ללא הרשמה; ההמרה פועלת בדפדפן שלכם.",
-  "id": "/loona-pdf-tools/he/pdf-to-jpg/",
+  "id": "/he/pdf-to-jpg/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

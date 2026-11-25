@@ -2,7 +2,7 @@
   "name": "Loona Combinar PDF en línea gratis",
   "short_name": "Combinar PDF en línea gratis",
   "description": "Combina archivos PDF en un documento gratis en línea. Combina varios PDF, arrastra para reordenarlos, sin necesidad de registro. Los archivos se procesan de forma privada en tu navegador.",
-  "id": "/loona-pdf-tools/es/merge-pdf/",
+  "id": "/es/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

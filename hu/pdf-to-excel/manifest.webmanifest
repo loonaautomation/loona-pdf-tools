@@ -2,7 +2,7 @@
   "name": "Loona PDF-ből Excel konvertáló",
   "short_name": "Loona PDF-ből Excel konvertáló",
   "description": "Alakítsa a PDF-táblázatokat Excel (.xlsx) táblázatokká ingyen a böngészőjében. Nézze meg és javítsa ki minden cellát letöltés előtt. Feltöltés nélkül, regisztráció nélkül — a fájlja soha nem hagyja el az eszközét.",
-  "id": "/loona-pdf-tools/hu/pdf-to-excel/",
+  "id": "/hu/pdf-to-excel/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

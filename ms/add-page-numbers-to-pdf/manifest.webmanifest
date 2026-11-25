@@ -2,7 +2,7 @@
   "name": "Loona Tambah Nombor Halaman pada PDF dalam talian percuma",
   "short_name": "Tambah Nombor Halaman pada PDF dalam talian percuma",
   "description": "Tambah nombor halaman pada PDF secara percuma dalam talian. Pilih gaya (1, Page 1, 1 of 10), kedudukan dan nombor permulaan. Tanpa pendaftaran; penomboran dilakukan secara peribadi dalam pelayar anda.",
-  "id": "/loona-pdf-tools/ms/add-page-numbers-to-pdf/",
+  "id": "/ms/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

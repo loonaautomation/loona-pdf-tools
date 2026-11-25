@@ -2,7 +2,7 @@
   "name": "Loona PDF-megjegyzések eltávolítása online ingyen",
   "short_name": "PDF-megjegyzések eltávolítása online ingyen",
   "description": "Távolítsa el a megjegyzéseket egy PDF-ből ingyen, online: a hozzászólások, kiemelések, öntapadós jegyzetek, bélyegzők és jelölések eltávolításra kerülnek, miközben az oldaltartalom érintetlen marad. Böngészőben, feltöltés nélkül.",
-  "id": "/loona-pdf-tools/hu/remove-pdf-annotations/",
+  "id": "/hu/remove-pdf-annotations/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

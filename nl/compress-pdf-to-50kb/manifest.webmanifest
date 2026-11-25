@@ -2,7 +2,7 @@
   "name": "Loona PDF comprimeren tot 50 KB online gratis",
   "short_name": "PDF comprimeren tot 50 KB online gratis",
   "description": "Comprimeer een PDF tot 50 KB of kleiner, gratis in je browser. De tool probeert eerst verliesvrij opnieuw op te slaan en verlaagt daarna stapsgewijs de renderkwaliteit tot je bestand past — en rapporteert het exacte resultaat.",
-  "id": "/loona-pdf-tools/nl/compress-pdf-to-50kb/",
+  "id": "/nl/compress-pdf-to-50kb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

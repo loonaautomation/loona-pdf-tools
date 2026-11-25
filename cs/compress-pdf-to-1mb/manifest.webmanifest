@@ -2,7 +2,7 @@
   "name": "Loona Komprimovat PDF na 1 MB online zdarma",
   "short_name": "Komprimovat PDF na 1 MB online zdarma",
   "description": "Komprimujte PDF na 1 MB nebo méně, zdarma ve vašem prohlížeči. Nástroj nejprve zkusí bezztrátové opětovné uložení, poté postupně snižuje kvalitu vykreslení, dokud se váš soubor nevejde — a oznámí přesný výsledek.",
-  "id": "/loona-pdf-tools/cs/compress-pdf-to-1mb/",
+  "id": "/cs/compress-pdf-to-1mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

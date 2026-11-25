@@ -2,7 +2,7 @@
   "name": "Loona محوّل PDF إلى Markdown – مجاني، دون رفع",
   "short_name": "محوّل PDF إلى Markdown – مجاني، دون رفع",
   "description": "حوّل ملف PDF إلى Markdown عبر الإنترنت، مجانًا في متصفحك. يُستخرج النص مع اكتشاف بنية العناوين من أحجام الخطوط. دون رفع، دون تسجيل.",
-  "id": "/loona-pdf-tools/ar/pdf-to-markdown/",
+  "id": "/ar/pdf-to-markdown/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hent ut PDF-sider på nett gratis",
   "short_name": "Hent ut PDF-sider på nett gratis",
   "description": "Hent ut valgte sider fra en PDF gratis på nett. Skriv sider som 3, 5-8 og last dem ned som en ny, mindre PDF. Ingen registrering; uttrekket kjører i nettleseren din.",
-  "id": "/loona-pdf-tools/nb/extract-pdf-pages/",
+  "id": "/nb/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

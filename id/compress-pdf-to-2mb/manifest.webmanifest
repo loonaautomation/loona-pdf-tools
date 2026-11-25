@@ -2,7 +2,7 @@
   "name": "Loona Kompres PDF ke 2 MB online gratis",
   "short_name": "Kompres PDF ke 2 MB online gratis",
   "description": "Kompres PDF menjadi 2 MB atau kurang, gratis di browser Anda. Alat ini pertama mencoba penyimpanan ulang lossless, lalu menurunkan kualitas render langkah demi langkah hingga file Anda muat — dan melaporkan hasil persisnya.",
-  "id": "/loona-pdf-tools/id/compress-pdf-to-2mb/",
+  "id": "/id/compress-pdf-to-2mb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lisää sivunumerot PDF:ään verkossa ilmaiseksi",
   "short_name": "Lisää sivunumerot PDF:ään verkossa ilmaiseksi",
   "description": "Lisää sivunumerot PDF:ään ilmaiseksi verkossa. Valitse tyyli (1, Page 1, 1 of 10), sijainti ja aloitusnumero. Ei rekisteröitymistä; numerointi tehdään yksityisesti selaimessasi.",
-  "id": "/loona-pdf-tools/fi/add-page-numbers-to-pdf/",
+  "id": "/fi/add-page-numbers-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

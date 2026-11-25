@@ -2,7 +2,7 @@
   "name": "Loona HTML kepada PDF dalam talian percuma",
   "short_name": "HTML kepada PDF dalam talian percuma",
   "description": "Tukar HTML kepada PDF dalam talian, secara percuma, menggunakan enjin cetak kepada PDF pelayar&#x27; anda sendiri — sokongan CSS penuh, tiada muat naik, tiada tera air.",
-  "id": "/loona-pdf-tools/ms/html-to-pdf/",
+  "id": "/ms/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

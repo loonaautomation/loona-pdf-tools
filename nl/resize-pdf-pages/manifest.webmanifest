@@ -2,7 +2,7 @@
   "name": "Loona Formaat van PDF-pagina's wijzigen online gratis",
   "short_name": "Formaat van PDF-pagina's wijzigen online gratis",
   "description": "Wijzig gratis online het formaat van PDF-pagina's: converteer elke pagina naar A4, US Letter of Legal, of schaal met een percentage, met inhoud passend geschaald en gecentreerd. Werkt in je browser - niets geüpload.",
-  "id": "/loona-pdf-tools/nl/resize-pdf-pages/",
+  "id": "/nl/resize-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

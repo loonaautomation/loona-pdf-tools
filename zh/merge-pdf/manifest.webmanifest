@@ -2,7 +2,7 @@
   "name": "Loona 合并 PDF 在线免费",
   "short_name": "合并 PDF 在线免费",
   "description": "在线免费将 PDF 文件合并为一份文档。合并多个 PDF，拖动重新排列，无需注册。文件在您的浏览器中私密处理。",
-  "id": "/loona-pdf-tools/zh/merge-pdf/",
+  "id": "/zh/merge-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

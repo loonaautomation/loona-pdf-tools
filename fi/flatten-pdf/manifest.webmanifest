@@ -2,7 +2,7 @@
   "name": "Loona Litteytä PDF verkossa ilmaiseksi",
   "short_name": "Litteytä PDF verkossa ilmaiseksi",
   "description": "Litteytä PDF ilmaiseksi verkossa: polta täytettävät lomakekentät sivuille niin, ettei vastauksia voi enää muokata, valinnaisella täydellä kuvaksi rakentamisella, joka litteyttää kaiken. Yksityisesti, selaimessa, ei rekisteröitymistä.",
-  "id": "/loona-pdf-tools/fi/flatten-pdf/",
+  "id": "/fi/flatten-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

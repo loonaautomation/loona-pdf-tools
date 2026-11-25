@@ -2,7 +2,7 @@
   "name": "Loona Oscurare PDF online gratuito",
   "short_name": "Oscurare PDF online gratuito",
   "description": "Oscura gratuitamente online un PDF: disegna riquadri neri sopra nomi, numeri o foto e imprimili in modo permanente - il contenuto nascosto viene rimosso, non solo coperto. Al 100% nel tuo browser, senza caricare nulla.",
-  "id": "/loona-pdf-tools/it/redact-pdf/",
+  "id": "/it/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

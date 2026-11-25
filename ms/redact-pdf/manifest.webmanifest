@@ -2,7 +2,7 @@
   "name": "Loona Redaksi PDF dalam talian percuma",
   "short_name": "Redaksi PDF dalam talian percuma",
   "description": "Redaksi PDF percuma dalam talian: lukis kotak hitam di atas nama, nombor atau foto dan bakarkannya masuk secara kekal - kandungan tersembunyi dibuang, bukan sekadar ditutup. 100% dalam pelayar anda, tiada apa-apa dimuat naik.",
-  "id": "/loona-pdf-tools/ms/redact-pdf/",
+  "id": "/ms/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

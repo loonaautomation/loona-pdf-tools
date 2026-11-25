@@ -2,7 +2,7 @@
   "name": "Loona ממיר PDF ל-HTML – בחינם, ללא העלאה",
   "short_name": "ממיר PDF ל-HTML – בחינם, ללא העלאה",
   "description": "המירו PDF ל-HTML באינטרנט, בחינם בדפדפן שלכם. טקסט מחולץ עם מבנה כותרות מזוהה מגדלי גופנים. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-pdf-tools/he/pdf-to-html/",
+  "id": "/he/pdf-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

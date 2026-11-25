@@ -2,7 +2,7 @@
   "name": "Loona Izradi PDF obrazac besplatno na mreži",
   "short_name": "Izradi PDF obrazac besplatno na mreži",
   "description": "Pretvorite bilo koji PDF u obrazac za ispunjavanje besplatno na mreži: dodajte prava tekstualna polja i potvrdne okvire točno tamo gdje ih povučete, imenujte polja i preuzmite pravi AcroForm PDF koji svatko može ispuniti. Bez prijenosa, bez registracije.",
-  "id": "/loona-pdf-tools/hr/create-pdf-form/",
+  "id": "/hr/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

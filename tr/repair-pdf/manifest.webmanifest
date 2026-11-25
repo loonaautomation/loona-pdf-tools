@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Onar",
   "short_name": "Çevrimiçi Ücretsiz PDF Onar",
   "description": "Hasarlı bir PDF'yi çevrimiçi ücretsiz onarın: bozuk çapraz başvuru tablolarını yeniden oluşturur ve temiz bir kopyayı yeniden kaydeder; son çare olarak sayfa görüntüsüyle yeniden oluşturma ile. Dürüst sınırlar belirtilmiştir. %100 tarayıcınızda.",
-  "id": "/loona-pdf-tools/tr/repair-pdf/",
+  "id": "/tr/repair-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

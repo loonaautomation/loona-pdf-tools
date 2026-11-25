@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/delete-pdf-pages/",
+  "id": "/en-gb/delete-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

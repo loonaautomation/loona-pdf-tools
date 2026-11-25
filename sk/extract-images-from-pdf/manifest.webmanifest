@@ -2,7 +2,7 @@
   "name": "Loona Extrahovať obrázky z PDF online zadarmo",
   "short_name": "Extrahovať obrázky z PDF online zadarmo",
   "description": "Extrahujte pôvodné obrázky vložené v PDF zadarmo online: fotografie a grafika sa vytiahnu v ich uloženom rozlíšení ako súbory PNG - nie snímky obrazovky. Na 100 % vo vašom prehliadači, nič sa nenahráva.",
-  "id": "/loona-pdf-tools/sk/extract-images-from-pdf/",
+  "id": "/sk/extract-images-from-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sladd PDF på nett gratis",
   "short_name": "Sladd PDF på nett gratis",
   "description": "Sladd en PDF gratis på nett: tegn svarte bokser over navn, numre eller fotoer og brenn dem inn permanent - det skjulte innholdet fjernes, ikke bare dekkes. 100% i nettleseren din, ingenting lastes opp.",
-  "id": "/loona-pdf-tools/nb/redact-pdf/",
+  "id": "/nb/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

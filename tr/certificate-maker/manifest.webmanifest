@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz Sertifika Oluşturucu",
   "short_name": "Çevrimiçi Ücretsiz Sertifika Oluşturucu",
   "description": "Ücretsiz sertifika oluşturucu: canlı önizlemede yazdırılabilir bir sertifika tasarlayın, ardından baskıya hazır bir A4 PDF veya PNG indirin. Tek bir sertifika veya bir ad listesinden toplu hâlde yüzlerce sertifika yapın. Kayıt yok, filigran yok ve her şey tarayıcınızda gizlice çalışır.",
-  "id": "/loona-pdf-tools/tr/certificate-maker/",
+  "id": "/tr/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

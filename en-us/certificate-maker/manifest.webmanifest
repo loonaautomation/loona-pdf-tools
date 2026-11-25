@@ -2,7 +2,7 @@
   "name": "Loona Free Certificate Maker Online - Printable Certificates",
   "short_name": "Free Certificate Maker Online - Printable Certificates",
   "description": "Free certificate maker: design a printable certificate on a live preview, then download a print-ready A4 PDF or PNG. Make one certificate or hundreds in bulk from a name list. No sign-up, no watermark, and everything runs privately in your browser.",
-  "id": "/loona-pdf-tools/en-us/certificate-maker/",
+  "id": "/en-us/certificate-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Jämför PDF online gratis",
   "short_name": "Jämför PDF online gratis",
   "description": "Jämför två PDF-filer gratis online och se exakt vilken text som ändrades, sida för sida. Borttagna och tillagda rader markeras sida vid sida. Ingen registrering; jämförelsen körs privat i din webbläsare.",
-  "id": "/loona-pdf-tools/sv/compare-pdf/",
+  "id": "/sv/compare-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

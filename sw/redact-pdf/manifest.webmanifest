@@ -2,7 +2,7 @@
   "name": "Loona Ficha PDF bure mtandaoni",
   "short_name": "Ficha PDF bure mtandaoni",
   "description": "Ficha PDF bure mtandaoni: chora visanduku vyeusi juu ya majina, nambari au picha na uvichome ndani kabisa - maudhui yaliyofichwa huondolewa, hayajafunikwa tu. 100% katika kivinjari chako, hakuna kinachopakiwa.",
-  "id": "/loona-pdf-tools/sw/redact-pdf/",
+  "id": "/sw/redact-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

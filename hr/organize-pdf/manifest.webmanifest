@@ -2,7 +2,7 @@
   "name": "Loona Organiziraj PDF besplatno na mreži",
   "short_name": "Organiziraj PDF besplatno na mreži",
   "description": "Organizirajte stranice PDF-a besplatno na mreži: vucite minijature za promjenu redoslijeda stranica, zakrenite stranice postavljene bočno i izbrišite stranice koje vam ne trebaju. Bez registracije. Datoteke se obrađuju privatno u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/organize-pdf/",
+  "id": "/hr/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PNG سے PDF آن لائن مفت",
   "short_name": "PNG سے PDF آن لائن مفت",
   "description": "PNG تصاویر کو PDF میں آن لائن مفت تبدیل کریں۔ اسکرین شاٹس، لوگو اور گرافکس ایک PDF بن جاتے ہیں A4، Letter یا فٹ صفحات کے ساتھ۔ براؤزر میں نجی تبدیلی، سائن اپ نہیں۔",
-  "id": "/loona-pdf-tools/ur/png-to-pdf/",
+  "id": "/ur/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

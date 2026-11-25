@@ -2,7 +2,7 @@
   "name": "Loona PDF N-up en línea gratis",
   "short_name": "PDF N-up en línea gratis",
   "description": "Pon varias páginas PDF en una hoja gratis en línea: diseños 2, 4, 6 o 9 por hoja en A4 o Letter, en orden de lectura. Ahorra papel para folletos y borradores. En el navegador, sin subir nada.",
-  "id": "/loona-pdf-tools/es/n-up-pdf/",
+  "id": "/es/n-up-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

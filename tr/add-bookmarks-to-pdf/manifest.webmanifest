@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF'ye Yer İmi Ekle",
   "short_name": "Çevrimiçi Ücretsiz PDF'ye Yer İmi Ekle",
   "description": "Çevrimiçi ücretsiz olarak bir PDF'ye yer imleri (tıklanabilir bir ana hat) ekleyin: bölüm başlıklarını sayfa numaralarıyla listeleyin ve gerçek bir gezinti ana hattına sahip bir PDF indirin. Tarayıcıda, hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/add-bookmarks-to-pdf/",
+  "id": "/tr/add-bookmarks-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

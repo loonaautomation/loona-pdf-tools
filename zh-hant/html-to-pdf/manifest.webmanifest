@@ -2,7 +2,7 @@
   "name": "Loona HTML 轉 PDF 線上免費",
   "short_name": "HTML 轉 PDF 線上免費",
   "description": "線上免費將 HTML 轉換為 PDF，使用您瀏覽器自己的列印為 PDF 引擎——完整 CSS 支援，不上傳，無水印。",
-  "id": "/loona-pdf-tools/zh-hant/html-to-pdf/",
+  "id": "/zh-hant/html-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

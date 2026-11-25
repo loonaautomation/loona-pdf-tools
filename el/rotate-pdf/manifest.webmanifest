@@ -2,7 +2,7 @@
   "name": "Loona Περιστροφή PDF Online Δωρεάν",
   "short_name": "Περιστροφή PDF Online Δωρεάν",
   "description": "Περιστρέψτε σελίδες PDF δωρεάν online κατά 90, 180 ή 270 μοίρες - όλες τις σελίδες ή ένα επιλεγμένο εύρος - και αποθηκεύστε το διορθωμένο αρχείο. Χωρίς εγγραφή· γίνεται στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-pdf-tools/el/rotate-pdf/",
+  "id": "/el/rotate-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

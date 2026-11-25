@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji CSV kwenda PDF bure mtandaoni",
   "short_name": "Kibadilishaji CSV kwenda PDF bure mtandaoni",
   "description": "Badilisha data za CSV kuwa jedwali safi la PDF lenye kurasa mtandaoni, bure katika kivinjari chako. Mstari wa kichwa wenye herufi nzito unaojirudia, safu wima zilizolingana. Hakuna upakiaji.",
-  "id": "/loona-pdf-tools/sw/csv-to-pdf/",
+  "id": "/sw/csv-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

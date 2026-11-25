@@ -2,7 +2,7 @@
   "name": "Loona Firmar PDF en línea gratis",
   "short_name": "Firmar PDF en línea gratis",
   "description": "Firma un PDF gratis en línea. Dibuja tu firma o sube su imagen, colócala con una vista previa en vivo y descarga el PDF firmado. Privado: no se sube nada.",
-  "id": "/loona-pdf-tools/es/sign-pdf/",
+  "id": "/es/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

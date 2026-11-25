@@ -2,7 +2,7 @@
   "name": "Loona Organize PDF Pages Online - Free",
   "short_name": "Organize PDF Pages Online - Free",
   "description": "Organize PDF pages free online: drag thumbnails to reorder pages, rotate sideways pages and delete pages you do not need. No sign-up. Files are processed privately in your browser.",
-  "id": "/loona-pdf-tools/en-us/organize-pdf/",
+  "id": "/en-us/organize-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

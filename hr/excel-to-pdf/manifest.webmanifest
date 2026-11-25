@@ -2,7 +2,7 @@
   "name": "Loona Excel u PDF besplatno na mreži",
   "short_name": "Excel u PDF besplatno na mreži",
   "description": "Pretvorite Excel proračunske tablice (.xlsx, .xls) i CSV datoteke u čistu tablicu PDF-a s brojanjem stranica na mreži, besplatno u svom pregledniku. Svaki list postaje tablica s retkom zaglavlja koji se ponavlja. Bez prijenosa.",
-  "id": "/loona-pdf-tools/hr/excel-to-pdf/",
+  "id": "/hr/excel-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

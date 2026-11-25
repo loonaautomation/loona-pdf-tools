@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-pdf-tools/en-gb/compress-pdf-to-size/",
+  "id": "/en-gb/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

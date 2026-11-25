@@ -2,7 +2,7 @@
   "name": "Loona Utwórz formularz PDF online za darmo",
   "short_name": "Utwórz formularz PDF online za darmo",
   "description": "Zamieniaj dowolny PDF w wypełnialny formularz za darmo online: dodawaj prawdziwe pola tekstowe i pola wyboru dokładnie tam, gdzie je przeciągniesz, nazywaj pola i pobieraj prawdziwy PDF AcroForm, który każdy może wypełnić. Bez przesyłania, bez rejestracji.",
-  "id": "/loona-pdf-tools/pl/create-pdf-form/",
+  "id": "/pl/create-pdf-form/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

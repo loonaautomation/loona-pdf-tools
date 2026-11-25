@@ -2,7 +2,7 @@
   "name": "Loona مولّد التوقيع عبر الإنترنت مجانًا",
   "short_name": "مولّد التوقيع عبر الإنترنت مجانًا",
   "description": "أنشئ صورة توقيع مجانًا عبر الإنترنت: ارسمها، أو اكتب اسمك بنمط خط يد، أو اجعل صورة توقيعك شفافة. نزّل ملف PNG شفافًا نظيفًا — دون رفع، دون تسجيل.",
-  "id": "/loona-pdf-tools/ar/signature-generator/",
+  "id": "/ar/signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

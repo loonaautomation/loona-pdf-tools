@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Ücretsiz PDF Sayfa Sırasını",
   "short_name": "Çevrimiçi Ücretsiz PDF Sayfa Sırasını",
   "description": "Bir PDF'nin sayfa sırasını çevrimiçi ücretsiz ters çevirin; son sayfa ilk sayfa olur. Tersten taramaları düzeltmek için kusursuz. Anında, tarayıcınızda, hiçbir şey yüklenmez.",
-  "id": "/loona-pdf-tools/tr/reverse-pdf-pages/",
+  "id": "/tr/reverse-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

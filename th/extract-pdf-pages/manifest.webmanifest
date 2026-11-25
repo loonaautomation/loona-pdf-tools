@@ -2,7 +2,7 @@
   "name": "Loona แยกหน้า PDF ออนไลน์ฟรี",
   "short_name": "แยกหน้า PDF ออนไลน์ฟรี",
   "description": "แยกหน้าที่เลือกจาก PDF ฟรีออนไลน์ ใส่หน้าเช่น 3, 5-8 แล้วดาวน์โหลดเป็น PDF ใหม่ที่เล็กกว่า ไม่ต้องสมัคร การแยกทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-pdf-tools/th/extract-pdf-pages/",
+  "id": "/th/extract-pdf-pages/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

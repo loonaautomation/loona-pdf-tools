@@ -2,7 +2,7 @@
   "name": "Loona Sažmi PDF na veličinu besplatno na mreži",
   "short_name": "Sažmi PDF na veličinu besplatno na mreži",
   "description": "Sažmite PDF na točan cilj: 20 KB, 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, 2 MB, 5 MB — uz unaprijed postavljene vrijednosti za e-poštu (10 MB) i WhatsApp (16 MB). Besplatno, u vašem pregledniku.",
-  "id": "/loona-pdf-tools/hr/compress-pdf-to-size/",
+  "id": "/hr/compress-pdf-to-size/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

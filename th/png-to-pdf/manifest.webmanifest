@@ -2,7 +2,7 @@
   "name": "Loona แปลง PNG เป็น PDF ออนไลน์ฟรี",
   "short_name": "แปลง PNG เป็น PDF ออนไลน์ฟรี",
   "description": "แปลงรูปภาพ PNG เป็น PDF ฟรีออนไลน์ ภาพหน้าจอ โลโก้ และกราฟิกกลายเป็น PDF หนึ่งไฟล์ด้วยหน้า A4, Letter หรือพอดี การแปลงเป็นส่วนตัวในเบราว์เซอร์ ไม่ต้องสมัคร",
-  "id": "/loona-pdf-tools/th/png-to-pdf/",
+  "id": "/th/png-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

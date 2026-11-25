@@ -2,7 +2,7 @@
   "name": "Loona Sign PDF Online Free",
   "short_name": "Sign PDF Online Free",
   "description": "Sign a PDF free online. Draw your signature or upload its image, position it with a live preview, and download the signed PDF. Private - nothing is uploaded.",
-  "id": "/loona-pdf-tools/sign-pdf/",
+  "id": "/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

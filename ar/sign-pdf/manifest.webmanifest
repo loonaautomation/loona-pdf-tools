@@ -2,7 +2,7 @@
   "name": "Loona توقيع PDF عبر الإنترنت مجانًا",
   "short_name": "توقيع PDF عبر الإنترنت مجانًا",
   "description": "وقّع ملف PDF مجانًا عبر الإنترنت. ارسم توقيعك أو ارفع صورته، وضعه بمعاينة حية، ونزّل ملف PDF الموقّع. خاص — لا يُرفع أي شيء.",
-  "id": "/loona-pdf-tools/ar/sign-pdf/",
+  "id": "/ar/sign-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
